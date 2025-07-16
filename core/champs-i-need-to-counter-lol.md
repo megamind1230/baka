@@ -1,0 +1,9 @@
+sion
+nasus
+teemo
+cho
+gwen
+sett
+jax
+gnar
+vlad

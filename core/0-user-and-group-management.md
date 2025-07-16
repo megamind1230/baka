@@ -1,0 +1,41 @@
+#1
+- `sudo` SuperUser do
+- `whoami`
+	- gives the username
+- `id`
+	- ![[Pasted-image-20221213122144.png]]
+
+- 7 cols ==username : password : userId : primary group id : description : name of the home directory : login shell==
+	- ![[Pasted-image-20221213122211.png]] `/etc/passwd`
+	- types of users
+		- ***root*** / superuser 0
+		- ***service*** 1:999
+			- 0:100 system services
+			- 100:1000 software services
+		- ***normal*** user accounts 1000+
+	- password is `x` and saved in another file `{shadow}` {only read by root}
+		- `/etc/shadow`
+# user
+- sudo useradd
+   -u `someId` 
+   -g `someGroup` 
+   -c `"description/comment"` 
+   -md `/home/directory-for-user`
+   -s `someShell` `theUserName` 
+- `sudo passwd UserName` password
+- `sudo usermod` modify user data
+	- same options as in useradd
+	- `sudo usermod -l newName UserName` name
+		- check using `tail -1 /etc/passwd`
+	- `sudo usermod -aG groupName userName` .. `-a` for append user into the secondary group
+- some types of shells ![[Pasted-image-20221213122457.png|400]]
+- `sudo su WhoToSwitchTo` switch user
+- `sudo userdel -r UsreName` delete user + its home dir.. meanwhile.. without `-r` leaves its home dir undeleted
+# group
+- groups `/etc/group`
+- `sudo groupadd GroupName`  without password
+	- `sudo groupadd -g ID -p PW GroupName` with id {argument} and password {option}
+- `sudo groupmod -n newName oldName`
+- `sudo goupdel GroupName`  delete 
+- better make the group naming {lowercase letters .. better no caps}
+- cmd `groups` .. lists all groups the user is in {first one is the primary}

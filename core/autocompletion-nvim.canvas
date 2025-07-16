@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"facc6ef77b6797f5","type":"group","x":-190,"y":-460,"width":1530,"height":320,"label":"core"},
+		{"id":"9b345c6d849cf68f","type":"text","text":"1. nvim-cmp","x":-170,"y":-360,"width":260,"height":70},
+		{"id":"ad4341e70132d415","type":"text","text":"2. luasnip","x":10,"y":-230,"width":260,"height":70},
+		{"id":"cf0092ca34e6dae8","type":"text","text":"3. cmp.luasnip","x":230,"y":-360,"width":260,"height":70},
+		{"id":"15b0e7cd03b95e40","type":"text","text":"4. friendly-snippets","x":510,"y":-290,"width":390,"height":95},
+		{"id":"624a79a15adcd854","type":"text","text":"the completion engine for nvim","x":-760,"y":-235,"width":350,"height":151},
+		{"id":"d5510da90cfd3722","x":-460,"y":-58,"width":690,"height":258,"type":"text","text":"- snippet engine for nvim in lua\n- source of snippets for `nvim-cmp`\n- snippet expansion tool for `nvim-cmp`"},
+		{"id":"50877e80f8fbc5a8","x":-720,"y":-780,"width":760,"height":100,"type":"text","text":"the `luasnip` completion source for `nvim-cmp`"},
+		{"id":"26cdd8a99a1ded59","x":440,"y":-680,"width":503,"height":75,"type":"text","text":"- awesome snippets"},
+		{"id":"924e482aefa4f757","x":943,"y":-400,"width":309,"height":112,"type":"text","text":"5. cmp.nvim.lsp"},
+		{"id":"e95275f50df29ac0","x":440,"y":-1,"width":620,"height":261,"type":"text","text":"- a completion source for `nvim-cmp` that displays the builtin lsp completions offered by whatever lsp is attached to the buffer"}
+	],
+	"edges":[
+		{"id":"a3fc40fd9637ac14","fromNode":"9b345c6d849cf68f","fromSide":"bottom","toNode":"624a79a15adcd854","toSide":"top"},
+		{"id":"16d653b87505a138","fromNode":"ad4341e70132d415","fromSide":"bottom","toNode":"d5510da90cfd3722","toSide":"top"},
+		{"id":"92d4e18e39595209","fromNode":"cf0092ca34e6dae8","fromSide":"top","toNode":"50877e80f8fbc5a8","toSide":"bottom"},
+		{"id":"3597f5c54d4b9034","fromNode":"15b0e7cd03b95e40","fromSide":"top","toNode":"26cdd8a99a1ded59","toSide":"bottom"},
+		{"id":"b2472d46a56a7478","fromNode":"924e482aefa4f757","fromSide":"bottom","toNode":"e95275f50df29ac0","toSide":"top"}
+	]
+}

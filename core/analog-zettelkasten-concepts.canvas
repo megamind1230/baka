@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"a4061430b6792ed7","type":"group","x":-2260,"y":-1520,"width":6500,"height":1280,"color":"3","label":"1"},
+		{"id":"612c0454270ab43d","type":"group","x":-1840,"y":20,"width":3874,"height":2040,"color":"3","label":"2"},
+		{"id":"ce07521bbcf253cd","type":"group","x":2400,"y":560,"width":2147,"height":960,"color":"3","label":"3"},
+		{"id":"566c5a33beb760d4","type":"group","x":-2180,"y":-1180,"width":1768,"height":780,"label":"temp notes"},
+		{"id":"e8c5701fa0594cc0","type":"file","file":"core/Excalidraw/analog-zettelkasten-box.md","x":2440,"y":-1409,"width":1680,"height":1042},
+		{"id":"07a55b17cf1b3f29","type":"text","text":"## مش شرط في الـنظام الـ analog\n## إنك تكتب كل نوتة مكانها فين بالتفصيل الممل\n# إنما احيانا بنكتفي بالـموضوعات الأم / رؤوس الموضوعات\n# هي دي اللي هتسهل علينا نلاقي الباقي\n# لأننا عارفين إنهم مرتبطين ببعض .. صح؟","x":1340,"y":-1157,"width":880,"height":388,"color":"1"},
+		{"id":"62152979413691ec","type":"text","text":"# 1 fleeting notes\n>  insights / صيد الخاطر\n\n- تيجيلك\n\t-  وإنت ماشي\n\t- عن النوم\n\t- حتى ممكن تصحى من نص النوم .. وفيه فكرة في دماغك حابب تكتبها\n\t- ممكن أثناء الشاور\n- most of your notes should come by writing them down by hand.. for better quality notes\n- in the digital system { not the analog }\n\t- dont make `fleeting notes` as separate notes .. {make a single repo note for them to process}\n\n\n- [ ] حاول قبل ما تضيف temp note\n\t- جرب تبحث في النظام عنها\n\t- يمكن تكون كتبت عنها أو حاجة شبهها بالضبط وإنت مخدتش بالك\n\t\t- فتقوم تضيف على القديمة دي\n\t\t\n# شروط الملحوظة اللي بنكتبها\n1. بالكتير 3 سطور .. الشيء بس اللي يفكرك بيها بعدين\n\t- لسه فيه مراحل هنعدل فيها ونكبر الملحوظة دي بعدين .. فمتكبرش الموضوع في البداية\n2. تكون بلغتك السهلة المفهومة\n3. إنك تلحق تراجعها في فترة لا تزيد عن أسبوع\n\t- علشان نلحق نفتكرها ونستفاد منها وتدخل معانا في باقي المراحل والخطوات في الطريقة دي\n\t\n- [ ] لو طبقت ورقة A4\n\t- 3 مرات\n\t\t- هيكون دا الحجم المناسب للملحوظة في نظام الـ ZK الـ analog\n\n","x":-2160,"y":-1160,"width":920,"height":720},
+		{"id":"1b150a3eba2a8a13","type":"text","text":"# 3 permanent notes\n> our goal is to make these\n\n- هي المعلومة:\n\t- الكاملة \n\t- المفهومة\n\t- المتربطة بشكل كويس\n\t- الجاهزة للاستخدام في المكان المناسب\n\n\n","x":-260,"y":-1145,"width":686,"height":325},
+		{"id":"add84f6df4f65d1c","type":"text","text":"# 2 literature notes\n> books, videos, lecture\n- أثناء ما بتقرأ / في محاضرة / او من فيديو حتى","x":-1177,"y":-1133,"width":745,"height":236},
+		{"id":"87d2abae8ffce29f","type":"text","text":"# 4 indexing notes\n> hub notes\n\n- هدفها تجمع \n\t- الملاحظات اللي في موضوع معين في مكان واحد [[0-nvim-vim-moc]]\n\t- أو على الأقل تعرفك أماكن الملاحظات الأم [[0-HOME]]\n- lexological\n\t- in `analog zk` > a good idea is to have an A-Z cards indexing all of your mocs\n\t\t- example .. if u have a ``health-care`` moc > put it on the H with its index number\n- numbering is `replaced` in the `digital zk` with back-linkng","x":507,"y":-1145,"width":640,"height":364},
+		{"id":"d687337a9875c97d","type":"text","text":"# الملاحظات أنواعها 4","x":-1240,"y":-1480,"width":540,"height":79},
+		{"id":"fa06741366118850","type":"text","text":"# Luhmann كان بيعمل إيه في كل ورقة \n\n","x":-454,"y":100,"width":684,"height":104},
+		{"id":"ce60cdccaf228414","type":"text","text":"# طيب معانا كام صندوق هنستعمله؟","x":3087,"y":600,"width":782,"height":92},
+		{"id":"c88591fdb14cb274","type":"text","text":"## 1 temp box\n### for fleeting / literature notes\n#### راعي إنك تفضيه كل أسبوع بالكتير","x":2460,"y":814,"width":667,"height":186},
+		{"id":"542877a22095fc34","type":"text","text":"## 2 indexing box\n### a small box for indexing/hub notes\n\n\nممكن نستغنى عنه\nونخصص جزء في آخر كل صندوق\nعلى إنه يكون الخاص بالـ indexing","x":3206,"y":846,"width":663,"height":229},
+		{"id":"720863a8f0b85079","type":"text","text":"## ممكن نستغنى عن كل التقسيمة دي لما تستعمل الـ digital ZK في حاجة زي Obsidian\n### لأنه كده كده بيكون فيه سيرتش على الـ notes فسهل إنك تلاقيهم","x":3152,"y":1140,"width":772,"height":220,"color":"5"},
+		{"id":"eaf9b3490563dedc","type":"text","text":"- ## ضهرها \n\t- جت منين؟ أي كتاب / فيديو / محاضرة\n\t\t- علشان لو حصل في يوم ونسيتها .. ومش فاكر معانيها\n\t- كلمات مفتاحية عن فين ممكن استعملها / امتى / في أي ظروف\n\t- IDs لـملاحظات مرتبطة بيها","x":-1303,"y":383,"width":604,"height":197},
+		{"id":"0150473d6f673ceb","type":"text","text":"- ##  وشها\n\t- الملحوظة الملخصة\n\t- الترقيم  numbering بـ ID ","x":-660,"y":413,"width":411,"height":124},
+		{"id":"649a454818b3ba07","type":"text","text":"الترقيم بيكون حاجة شبه مثلا\n\n- `vim` as a whole topic > A\n\t- `neovim` > A.1\n\t\t- `kickstart.nvim` > A.1.1\n\t\t- ...\n\t\t- `init.lua` > A.1.64\n\t- `vim motions` > A.2\n\t- ...\n\t- `.vimrc` > A.13\n```cpp\nاولا مش معنى إن\n`kickstart.nvim` > A.1.1\nبينما\n`init.lua` > A.1.64\nدا مش معناه خالص إنه \n1\nهي اقرب في الموضوع لـ neovim\nمن 64\nبل دا مجرد ترتيب كتابتي ليهم\nيعني أنا قابلت الأول في رحلة تعلمي رقم 1 فكانت رقم 1\nبعدها بشوية محترمين كتبت رقم 64\n```\n \n```cpp\nالشيء التاني هو إنه لما تلاحظ\n`init.lua` > A.1.64\n`.vimrc` > A.13\nقريبين في المعنى\nفممكن نعدل على ظهر أي منهم\nبحيث تشاور على اختها\n```\n- put new cards next to a card that has `a good-enough` relation to\n\n- if there is an overlap between ur subject areas .. dont worry .. dont overthink it\n\t- revision and interaction with the notes will lead you to more linking\n\t- again if you wouldnt review the notes that much .. then zk is probably not for you\n\n- continuation of a note is {A CHILD}\n\t- if it ends with a letter, add a number .. and vice verca\n\t\t- `b3a` > has a child `b3a1`\n\t\t- `q8` > can have a child `q8a`\n\nمتعقدش الموضوع في الترقيم ولا تبذل مجهود ذهني كبير في إنك تخليه مفهوش ولا غلطة\nالحوار مش مستاهل\nوخليك فاكر إنك كده كده لازم هترجع للنوتة تاني\nبالتالي فيه براح للتعديل قدام عادي جدا\n\nوكده كده هدف الترقيم هو تسهيل عملية البحث عن الملحوظة بس\nمش لازم بالحرف أعرف هي مكانها فين","x":-1160,"y":740,"width":781,"height":1180},
+		{"id":"363e6249b3947390","type":"file","file":"core/Excalidraw/front-back-of-analog-zettelkasten-note.excalidraw.md","x":120,"y":383,"width":1800,"height":1017},
+		{"id":"e0595c9a86398b42","type":"text","text":"## 3 perma box\n### for perma notes","x":4023,"y":829,"width":485,"height":156}
+	],
+	"edges":[
+		{"id":"dd0d8d7c72ef7d02","fromNode":"d687337a9875c97d","fromSide":"bottom","toNode":"62152979413691ec","toSide":"top"},
+		{"id":"edc2c239c4606ce4","fromNode":"d687337a9875c97d","fromSide":"bottom","toNode":"add84f6df4f65d1c","toSide":"top"},
+		{"id":"0be0a1adbcadc092","fromNode":"d687337a9875c97d","fromSide":"bottom","toNode":"1b150a3eba2a8a13","toSide":"top"},
+		{"id":"123c67e47a54b0e5","fromNode":"d687337a9875c97d","fromSide":"bottom","toNode":"87d2abae8ffce29f","toSide":"top"},
+		{"id":"8094468f0811045f","fromNode":"fa06741366118850","fromSide":"bottom","toNode":"0150473d6f673ceb","toSide":"top"},
+		{"id":"b41ca5a22a482d08","fromNode":"fa06741366118850","fromSide":"bottom","toNode":"eaf9b3490563dedc","toSide":"top"},
+		{"id":"ffac43f959451ee3","fromNode":"a4061430b6792ed7","fromSide":"bottom","toNode":"612c0454270ab43d","toSide":"top"},
+		{"id":"c4ac93f99d1818e8","fromNode":"ce60cdccaf228414","fromSide":"bottom","toNode":"c88591fdb14cb274","toSide":"top"},
+		{"id":"62cc52e76a65e03d","fromNode":"ce60cdccaf228414","fromSide":"bottom","toNode":"542877a22095fc34","toSide":"top"},
+		{"id":"d3f98dcb19d0e815","fromNode":"ce60cdccaf228414","fromSide":"bottom","toNode":"e0595c9a86398b42","toSide":"top"},
+		{"id":"4ab0bee6dc374e4c","fromNode":"87d2abae8ffce29f","fromSide":"right","toNode":"07a55b17cf1b3f29","toSide":"left"},
+		{"id":"2c6177dec00f20e8","fromNode":"07a55b17cf1b3f29","fromSide":"right","toNode":"e8c5701fa0594cc0","toSide":"left"},
+		{"id":"8a6f2d681acfbf9b","fromNode":"0150473d6f673ceb","fromSide":"bottom","toNode":"649a454818b3ba07","toSide":"top"},
+		{"id":"b1fd4cfa799c2a65","fromNode":"fa06741366118850","fromSide":"right","toNode":"363e6249b3947390","toSide":"top"},
+		{"id":"67cefdfabae9944d","fromNode":"612c0454270ab43d","fromSide":"right","toNode":"ce07521bbcf253cd","toSide":"left"}
+	]
+}

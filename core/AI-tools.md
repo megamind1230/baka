@@ -1,0 +1,12 @@
+#1
+- Descrpit
+- Otter
+- Mem
+- Textblaze
+- Vribble
+- Ask you pdf
+- Gamma
+- Typefully
+- Midjourney
+- ![[Pasted-image-20231211152528.png]]
+- [Hugging Face – The AI community building the future.](https://huggingface.co/) 

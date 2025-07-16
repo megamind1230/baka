@@ -1,0 +1,3 @@
+- bugswriter spoke a bit about them : Stop using GUI for such a simple thing _ feat. pactl
+	- `pulsemixer`
+	- `pactl`

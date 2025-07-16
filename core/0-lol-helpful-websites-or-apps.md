@@ -1,0 +1,11 @@
+#1
+- champ abilities details
+	- fandom
+- champ builds & runes
+	- op.gg
+	- u.gg
+	- lolalytics
+	- some apps u can download for importing builds & runes
+		- blitz (light)
+		- porofessor (light)
+		- mobalytics (16 ram at least)

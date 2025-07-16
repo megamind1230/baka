@@ -1,0 +1,79 @@
+#1
+- things my team needs to know something about
+	- [x] ***ticktick:*** a simple todo app
+	- [x] ***touch typing***: avg 45wpm
+	- [x] shortcuts everywhere possible
+		- [x] windows/discord/browser .. already did that
+		- frontend
+			- emmets {html, css}
+			- tailwind css {instead of pure css}
+		- optional
+			- vimium {faster browsing}
+			- vim motions
+				- vscodevim
+				- [Android Studio : Using Vim. Ok so… Here’s an intro to Vim on… | by Ahmed Rizwan | Medium](https://medium.com/@ahmedrizwan/vim-ing-on-android-studio-acb8f8078101)
+	- methods of studying/note-taking
+		- 2nd-glance
+			- just watch/read again and again
+		- paper-pencil
+			- dont write every single thing .. just
+				- main keywords
+				- relations
+				- timestamps
+				- questions
+				- your ideas
+			- search the unknown
+			- keep the paper to study from
+		- voice notes
+			- good capturing method
+			- valid if you no imgs needed
+			- bad if your tt speed is faster + has a lot of word fillers
+		- outline
+			- = unordered list
+		- mind map
+			- better than outline in visualizing the big picture of larger schemas
+		- the flow
+			- everything consists of some atomic info/ideas .. recognize them one by one .. immerse yourself to study as many of these as you can
+			- best way to test what you learned is by doing exercises / solving problems
+				- dont take so much notes .. just sometimes
+				- try-error is your best friend
+		- write-on-slide {or pdf}
+			- search the unknown
+			- sticky notes explaining parts you find unclear
+			- keep the pdf on your pc
+		- feynman technique
+			- study then explain to someone ..try to make them understand
+		- spaced repetition & active recall
+			- ex: use anki
+		- zettelkasten {a more comprehensive knowledge} {you can do any of the above}
+			- core steps
+				- capture ideas {fleeting notes, lecture/literature notes}
+				- refine .. take your time {explain/search the unclear to you .. make it understandable + write them in a nice format + draw it + add imgs}
+				- merge or split
+					- merge the note with other related notes OR just link if this note is big
+					- split the note if it is big + have big sub-topics
+				- view the graph .. link and fill in the gaps
+					- you now see the whole picture 
+						- you can link more between related notes
+						- you can create new notes that complete the topic
+			- obsidian helps with every step
+	- websites+flash courses that helps yall in your tracks
+		- all
+			- [Free Programming Books – GoalKicker.com](https://books.goalkicker.com/)
+			- [topswe ladder](https://topswe.com/)
+		- frontend
+			- [GitHub - bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS](https://github.com/bradtraversy/50projects50days?tab=readme-ov-file)
+			- [Online Tutorials - YouTube](https://www.youtube.com/@onlinetutorialsyt)
+		- flutter
+			- [Flutter Mapp - YouTube](https://www.youtube.com/@FlutterMapp/playlists)
+		- backend
+			- i have a [[0-backend-canvas.canvas|map]]
+		- wait for more in ***cool-juice***
+	- [x] ***english*** 
+		- zae(zAmericanEnglish): best free resource
+		- anki
+			- how to use?
+				- add, sync, edit, delete, undo
+				- small but daily .. slow but sure
+			- how to learn english on?
+				- shared decks

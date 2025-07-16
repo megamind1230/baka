@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"55ce7741f8b62bec","type":"text","text":"psu\npsu 300W from hp\n250","x":7,"y":561,"width":313,"height":88},
+		{"id":"7855357657aa728f","type":"text","text":"case\nanything\n150","x":2,"y":680,"width":302,"height":89},
+		{"id":"b782e921c23412a9","type":"text","text":"motherboard \nh61 from ? \n300-500","x":-18,"y":160,"width":355,"height":97},
+		{"id":"719f542ef651ec77","type":"text","text":"ram\n8G ddr3\n300-400","x":-18,"y":319,"width":355,"height":78},
+		{"id":"5cd0b20194e5f67d","type":"text","text":"hard\nhdd 320G\n150","x":2,"y":437,"width":335,"height":89},
+		{"id":"e7bbb01120aa6f76","type":"text","text":"processor\ncore i3 2nd\n200-250","x":1,"y":40,"width":305,"height":90},
+		{"id":"5526ff12bd63da4c","type":"text","text":"GPU\n","x":45,"y":800,"width":250,"height":60},
+		{"id":"208cb3d80577b42b","type":"text","text":"r5 240\n350-400","x":-165,"y":897,"width":250,"height":60},
+		{"id":"46a54c258826d2e7","type":"text","text":"r7 250\n700-800","x":241,"y":897,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0c7393f37d60612a","fromNode":"5526ff12bd63da4c","fromSide":"bottom","toNode":"208cb3d80577b42b","toSide":"top"},
+		{"id":"5c08c1efecfbc60b","fromNode":"5526ff12bd63da4c","fromSide":"bottom","toNode":"46a54c258826d2e7","toSide":"top"}
+	]
+}

@@ -1,0 +1,30 @@
+#1
+- mythic
+	- IE > huge crit
+	-  guinsoo > convert crit% into bonus ap + more aa gives AS
+		- sometimes better than IE on some champs
+	- Galeforce > active damaging dash (scales with missing health)
+	- Navori > cdr + damage scaling with crit
+	- tri > aa to get MS and ad + use abilities then aa to get bonus ad
+	- 
+- legendary
+	- BoRK > 3 aa procs ap + slow n + MS
+	- Bloodthirster BT> while on high health get bonus ad
+	- ER Essence > mana + bonus ad
+	- GA > another chance with half health
+	- LDR > deal more ad to n with more heal
+	- kraken > bonus ad on aa 
+	- Shieldbow > shield on low health + AS
+	- Muramana > the mana the more ad 
+	- reminder > antiheal
+	- Scimitar > active QSS + MS
+	- Maw > shield on low health vs ap
+	- Phantom > ghosting + AS
+	- razor > move and aa to get bonus ap + MS
+	- Statikk > move and aa to proc elec shock
+	- Serylda > slow
+	- Hurricane > aa more than one target simul 
+	- Rapid > move and aa to get ap + range
+	- Collector > execute low health n and get bonus gold
+	- 
+- Cull > heal with aa + bonus minion gold

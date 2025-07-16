@@ -1,0 +1,13 @@
+
+- `ctrl x`
+	- `left/right`  > prev/next buffer
+	- `0` > delete this window
+	- `1` > delete other windows
+	- `2` >  hori split
+	- `3` >  vert split
+- `space tab` workspaces
+	- `tab` > list them in status bar
+	- `n` > new
+	- `d` > delete
+	- `.` > switch by name
+	- `number` > switch by number

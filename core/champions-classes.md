@@ -1,0 +1,41 @@
+#1
+- mages
+	- ap
+	- high burst damage فجأة بتلاقي الهيلث بتاعتك طارت
+		- win in short fights (trades)
+		- poke
+	- squishy
+	- cc
+	- backline
+- marksmen
+	- ad 
+	- medium damage
+		- high DPS > damage per sec
+		- poke and kite
+	- ranged
+	- squishy
+	- backline
+- fighter / bruisers
+	- almost all of them ad #still/lol 
+	- high damage 
+		- they win in extended fights
+	- not squishy & not tanky
+	- frontline
+- tanks
+	- damage scales
+	- not easy to kill
+	- frontline + initiators
+- assassins
+	- high burst damage
+	- squishy
+	- have stealthes - dashes -blinks - jumps
+	- backline & flanks + follow up
+- supports
+	- either
+		- enchanters
+			- squishy
+		- engaging
+			- almost all of them tanky (not pyke)
+			- hooks , grabs , knock ups
+	- cc
+	- backline

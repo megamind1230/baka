@@ -1,0 +1,3 @@
+- eq f > beyblade
+- eq r > airblade
+- keyblade > beyblade + airblade  

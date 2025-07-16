@@ -1,0 +1,15 @@
+#1 
+- update
+	- sudo pacman -Syu
+- install
+	- sudo pacman -S foo
+- remove
+	- sudo pacman -R foo
+- remove with dependencies
+	- sudo pacman -Rs foo
+- search the repos
+	- pacman -Ss foo
+- search/query packages on your system
+	- pacman -Qs foo
+- orphan packages
+	- pacman -Qtdq

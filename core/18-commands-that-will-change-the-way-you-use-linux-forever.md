@@ -1,0 +1,29 @@
+#1
+- from learnlinuxtv
+	- `cd -` >last dir I was in
+	- `ctrl l` > more like clearing the screen (but not)
+		- `reset` > is like clear (but more into resetting your shell session)
+	- `pushd` , `popd` > stacking any set of dir
+	- `ctrl z` , `fg` > send something to the background, then to the foreground (good with vim, nano , htop .. etc)
+	- `ctrl a` , `ctrl e` > start & end of command line
+	- `ctrl u` > delete whole line
+	- `sudo !!` > do last command but with sudo 
+	- `ctrl r` > search for a command you wrote (just type some keywords)
+		- spam it to traverse
+		- `ctrl e` break out
+	- `history` > history of commands (numbered)
+		- `!number` 
+		- ! is bang is Linux
+		- you can add timestamp to it .. just conf bashrc #still/conf_bashrc 
+	- `ctrl shift +/-` > zoom in
+	- `command1 ; command2` > run both .. no dependency
+		- `command1 && command2` >  if 1 fails .. 2 fails also
+	- `tail -f file` > watch tail (updated) in real-time
+		- `ctrl c` break out
+	- `truncate -s 0 filename` > file still exists but empty
+	- `anyCommandThatResultsIn_A_JumbledText | column -t` > better way of display (columns)
+	- `cd -` ***to the previously used dir (not on Windows)***
+	- can list more than a directory ![[Pasted-image-20221213115008.png|350]] + it give a hint of what it is listing rn
+	- `cp whatever .` يعني اعمل نسخة في نفس المكان اللي انا فيه
+	- `rename 's/\.png/\.gif/' *.png`
+	- [[wget-command]]

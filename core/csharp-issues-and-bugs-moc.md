@@ -1,0 +1,1 @@
+- [x] [Installing the dotnet SDK on Ubuntu under WSL](https://baywet.github.io/installing-dotnet-sdk-wsl-ubuntu/)

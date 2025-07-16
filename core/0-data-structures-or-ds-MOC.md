@@ -1,0 +1,5 @@
+#1
+- [[ds-index-gammal-tech]]
+- [[Y2T1-ds-recap+qna.pdf]]
+- [[ms-ds-MS-Mastering-critical-SKILLS-in-Data-Structures-using-C++]]
+- [[ds-index-{small-udemy-course-by-jovan-kostic}]]

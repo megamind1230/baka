@@ -1,0 +1,148 @@
+
+#1
+# hassan darwish (backend)
+## 1 shuqairy (OLX rent version)
+في حلقة من برنامج خواطر للإعلامي أحمد الشقيري .. كانت الحلقة في بريطانيا .. أظن انجلترا بالتحديد
+عرضت الحلقة فكرة لتطبيق يستعمل في المنطقة هناك .. فكرته كالتالي
+like Amazon or OLX
+ولكن للإيجار فقط وليس للشراء
+بتعرض فيه إيه المتنجات اللي تقدر تأجرها .. لو متاحة حاليا أو غير متاحة بيظهر دا كله على التطبيق
+فإنت بتكسب مال من الحاجات المركونة عندك في البيت بإنك تعطيها لشخص محتاجها لفترة صغيرة بمقابل رمزي.. وبسبب صغر المنطقة .. فكانت عمليات التوصيل بتكون بأن الشخص اللي طلب إنه يستأجر الحاجة دي هو نفسه اللي بييجي ياخدها
+
+وهنا ممكن نزود ميزة للتطبيق زيادة
+يكون فيه فرع للتوصيل التطوعي
+بحيث بيكون ليك بروفايل زي فيس كدا بيظهر عليه هل انت اونلاين ولا لأ
+وبعدين
+لكل الناس الفاتحين اونلاين بتظهر عندهم في التايم لاين وعدد ايه التوصيلات القريبة جغرافيا منهم
+وبيقدم طلب تطوع للتوصيل
+ولما اللي طلب التطوع للتوصيل ينقبل
+بياخد 
+ID
+هو هو نفسه بيظهر لصاحب البضاعة اللي بتتأجر
+بحيث يتأكد إنه راجل بيوصل تبع التطبيق مش حرامي مثلا
+
+ولو هتسأل هل فيه ضمانات على البضاعات دي من التطبيق نفسه ؟
+لأ 
+بس ممكن التطبيق يكتسب شهرته بإننا نطبق الفكرة على منطقة/حي إلى حد ما غني
+( مدينتي / الزمالك / الرحاب / المعادي / الجونة )
+الأول بعدين نطبقه على الأحياء الشعبية .. فالناس تكتسب فيه شيء من الثقة.. لأنه كان شغال فترة في الأحياء الغنية
+## 2 availability app
+
+بدال ما تنزل الهايبر اللي في بعيد عنك نص ساعة تسأله عندك تشتري عنده جبنة رومي .. فتقوم متلاقيش عنده
+طيب إيه رأيك نعمل تطبيق يخلي التاجر لما تدخل المحل بتاعه سلعة يقوم يحطها في البروفايل بتاع المتجر بتاعه .. ويقول إنها متاحة .. ولما حد يشتريها .. يظهر إنها غير متاحة
+	ممكن نخلي الحوار دا اوتوماتيك بالـ barcode scanner
+	او على الأقل هو ممكن يدخل أهم السلع اللي عنده يدوي .. وواجهة التطبيق بتسهل الحوار دا
+وأهو توفر بنزين طالما إنت شايف اللي في المحل على التطبيق
+
+## 3 Next learn
+{it's somehow like TikTok but more useful and into teaching}
+
+التطبيق هيكون موجه لفئة الناس اللي متعرفش حاجة عن التكنولوجيا 
+سواء كانوا من كبار السن او الأطفال أو حتى ربات البيوت
+فكرة التطبيق تتمحور حول زر الـ Next
+بتسجل بحساب
+وبيتعمل ليك ID
+فكرة التطبيق قائمة على اعتقادي إنه اي مفهوم أو معلومة مجردة منفصلة .. in English Atomic Info
+يكون من الكافي جدا اختصارها وشرحها للمبتدئين في أقل من 
+1K words 
+او صورة
+او فيديو مدته 3 دقائق بحد أقصى
+
+بتبدأ التطبيق
+وتختار حابب تتعلم إيه
+ولكل شيء حزمة كبيييييرة بس من صفحات صغيرة
+بيدأ بأول صفحة وكل صفحة هتكون لمعلومة وحيدة .. ولكل صفحة رقم و
+ID معين
+المفروض إنك مع كل صفحة بتتعلم معلومة عن المجال .. سواء من قطعة مقال صغير أو صورة أو فيديو
+طيب تخيل المتسخدم مفهمش معلومة في الصفحة..
+يقدر يعمل feedback 
+وإحنا نعمل صفحات جديدة في نفس حزمة الصفحات دي بتتكلم عن المفهوم وتشرحه
+لما بتخرج من التطبيق .. هيفتكر إنت كنت عند أي صفحة
+لما بتفتح بترجع لنفس الصفحة
+	إلا لو حصل وأضفنا الصفحات الجديدة اللي طلبتها
+	فلازم هيظهروا قبل الصفحة إللى إنت كنت وقفت عليها
+
+- التطبيق بيتيح لك تتعلم حاجتين في نفس الوقت .. لا أكثر
+- التطبيق بيتيح إنك ترجع للصفحات اللي فاتت .. Previous
+	- بس حجمة أصغر بكتير من زرار Next
+	- علشان يحفزك إنك تتعلم أكتر
+
+ولما تتعلم حزمة كاملة وعايز تحفظ اللي فيها أكتر
+تقدر فقط لما تخلصها ترجع تاني للصفحات اللي إنت عايز تحفظ منها حاجات
+وهيكون فيه زر بيقول into my Flashcards
+وهنعمل من أهم المعلومات في الصفحة flashcard
+تقدر تراجعها وقت ما تحب
+
+-  عندك في البروفايل بيظهر التالي
+	- عدد الحزم اللي اتعلمتها
+	- إنت في أي حزمة حاليا
+	- heatmap streak
+	- إنت شاركت بكام حزمة ؟
+
+- وخليك فاكر إنه كل فكرة هيكون فيها حزم على حسب الصعوبة .. مثلا
+	- learn Anki lvl0
+	- learn Anki lvl1
+	- learn Anki lvl2
+
+- you can share your knowledge .. by creating A Deck
+	- before it's published for public .. it is reviewed.. approved .. published
+- التطبيق يلزمه اتصال بالإنترنت فقط في الحالات دي
+	- تحمل حزمة تذاكرها اوفلاين
+	- تشارك حزمة
+	- تبعت feedback
+	- عايز تبحث عن حزمة جديدة .. او هتتعلم من غير تحميل
+- يعني التطبيق فيه منه نسخة
+	- موبايل
+	- ويب
+	- دسكتوب
+- business model
+	- اعلانات لما تنتقل بين الصفحات فقط .. مدة كل منها لا تزيد عن 15 ثانية
+
+
+- أفكار حزم صفحات تتحط على الموقع
+	- for children
+		- letters
+		- numbers
+	- for students
+		- how to take-notes
+		- methods of note-taking
+		- how to study x
+	- for moms
+		- how to use whatsapp
+		- how to use internet
+		- how to make أم علي
+	- for anyone
+		- how to
+			- use discord
+		- learn about
+			- Malware
+		- learn
+			- VSCodeVim
+			- Obsidian
+			- Edge shortcuts
+
+وهكذا ممكن نعمل حزمة عن ألف موضوع حرفيا
+ويكون التطبيق بتاعنا متخصص في تعليم الفئة اللي بتخاف أنها تتعلم حاجة جديدة
+ويكون الموضوع اتحل فقط بزر الـ Next
+# Nada Hassan (flutter)
+- 4 [Intelligent Mobile Travel Guide Flutter App | Nevon Projects](https://nevonprojects.com/intelligent-mobile-travel-guide-flutter-app/)
+- 5 [Waste Food Management & Donation App For Restaurant & NGO](https://nevonprojects.com/waste-food-management-donation-app/)
+- 6 self: image to 3d
+- 7 blind ppl STT mobile app {double click power button to launch app}
+# Ahmad Hammouda (security)
+- 8 [Trip Planner Android Application | Advanced Android Project](https://nevonprojects.com/trip-planner-android-application/)
+- 9 [Hotel Reservation Android Project](https://nevonprojects.com/hotel-reservation-android/)
+- 10 [Teacher Tracking System Flutter | Nevon Projects](https://nevonprojects.com/teacher-tracking-system-flutter/)
+- 11 [Android Heart Disease Prediction App | Nevon Projects](https://nevonprojects.com/android-heart-disease-prediction-app/)
+- 12 شريحة في السيارة يقرأها الرادار ويحدد سجل الغرامات
+# Muhab Ali (IOT, gentleman)
+- 13 [Automated Attendance System](https://nevonprojects.com/auto-attendance-system/) {advanced}
+- 14 search with disease .. see available doctors & their locations
+- 15 dictionary for medicines
+# Nour Amin (front)
+- 16 AI marketing { with prompt engineering }
+- 17 نظام إدراة ماليات شخصية
+- 18 diagnosis and first-aids
+# Nada Shehta (security)
+- 19 ذكاء اصطناعي بيفهمنا طلاسم نتائج التحاليل مكان الدكتور
+	- وهنصنع الجهاز

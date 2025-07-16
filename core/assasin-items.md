@@ -1,0 +1,16 @@
+#1
+- mythic
+	- duskblade > more damage to n with low health + stealth on takedowns
+	- eclipse > deal damage 2 times to get bonus ad scaling with n health + MS + shield
+	- ghostblade > active ghosting + MS
+- legendary
+	- axiom > takedowns does R cdr
+	- blackcleaver > stack it to get armour pen + MS
+	- EoN > counter the 1st coming damage 
+	- chempunk > antiheal
+	- Umbral > reveal and disable vision from nearby wards
+	- shojin > AH + MS scaling with ur missing health
+	- Silvermere > active QSS + MS
+	- Serpent > highly reduce shields of n by damaging them
+	- Ravenous > bonus ad + stack ad and lose 60% on death
+	- Prowler > next damage out after stealth or dash or blink .. slows and deals bonus ad

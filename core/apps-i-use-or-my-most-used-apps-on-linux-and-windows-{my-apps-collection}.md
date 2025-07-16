@@ -1,0 +1,15 @@
+#1
+- [x] obsidian
+- [x] kdenlive
+- [x] audacity
+- [ ] gimp
+- [x] edge browser
+- [ ] notepad++ or notepadqq
+- [ ] (discord with vencord Mod) or vesktop
+- [x] vscode
+- [ ] cpp ide (geany/codeblocks)
+- [ ] nvim
+	- [ ] lazy.vim
+- [ ] ticktick todo and pomodoro app
+- [ ] OBS studio
+- [ ] oracle virual box

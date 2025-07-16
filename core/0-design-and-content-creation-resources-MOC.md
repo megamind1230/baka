@@ -1,0 +1,44 @@
+#1
+- book : the design of everyday things
+# websites for
+
+- wallpaper resource
+	- https://www.uhdpaper.com/
+- colors 
+	- [Coolors - The super fast color palettes generator!](https://coolors.co/)
+	-  [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
+	-  [Duo - Colour Pairings by Alex Pate](https://duo.alexpate.uk/)
+	-  [Paletton - The Color Scheme Designer](https://paletton.com/)
+	-  [Canva Colors | even helps with color meanings](https://www.canva.com/colors/)
+	-  [Color wheel, a color palette generator | Adobe Color](https://color.adobe.com/create/color-wheel
+- fonts 
+	- [DaFont - Download fonts](https://www.dafont.com/)
+	- [Free Fonts | 110,000+ Font Downloads | FontSpace](https://www.fontspace.com/)
+	-  [1001 Fonts ❤ Free Fonts Baby!](https://www.1001fonts.com/)
+- Arabic fonts 
+	-  [الفونت | Arabic fonts خطوط عربية (alfont.com)](https://alfont.com/)
+	- [أكبر وأفضل موقع تحميل خطوط عربية (arbfonts.com)](https://arbfonts.com/)
+- png 
+	- [PNGWing - Exclusive png design images](https://www.pngwing.com/)
+	- [CleanPNG - HD png images and illustrations. Free unlimited download. - CleanPNG / KissPNG](https://www.cleanpng.com/)
+	- https://pngreal.com/
+- icons
+	- [Come back! 👋 (zwicon.com)](https://www.zwicon.com/) abstract icons
+	- [Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS (flaticon.com)](https://www.flaticon.com/)
+	- [Shape - 36000+ Icons & Illustrations to SVG, Lottie, React.](https://shape.so/)
+- pics
+	- [Freepik | Create great designs, faster](https://www.freepik.com/)
+	-  [Free Stock Photos, Royalty Free Stock Images & Copyright Free Pictures · Pexels](https://www.pexels.com/)
+	-  [4.3 million+ Stunning Free Images to Use Anywhere - Pixabay - Pixabay](https://pixabay.com/)
+- omg websites
+	- [wordmark]([Wordmark - Helps you choose fonts!](https://wordmark.it/)) font finder
+	- [Spline - 3D Design tool in the browser with real-time collaboration](https://spline.design/)
+	- [Wasmenia](https://wasmenia.com/) Arabic logos
+	- [Behance](https://www.behance.net/) 
+	-  [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/) 
+	- [Unlimited UI Kits, Icons, Templates, Themes and More - UpLabs](https://www.uplabs.com/)
+- enhance blurry pic
+	- letsenhance , remini
+- bg remover 
+	-  [Remove Background from Image for Free – remove.bg](https://www.remove.bg/) 
+	- [Free powerful photo editing tools online | PhotoRoom](https://www.photoroom.com/tools)

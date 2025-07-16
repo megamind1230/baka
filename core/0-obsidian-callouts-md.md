@@ -1,0 +1,16 @@
+#1
+- from the command palette
+- variations are
+	- note
+		- info
+		- tip
+		- abstract
+		- quote
+	- question
+	- todo
+		- success
+		- failure
+	- warning
+		- bug
+		- danger
+	- example
