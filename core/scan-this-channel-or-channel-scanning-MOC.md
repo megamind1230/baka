@@ -1,0 +1,6 @@
+- [ ] [Vhyrro - YouTube](https://www.youtube.com/@vhyrro/videos)
+- [ ] [Average Neovim Enjoyer - YouTube](https://www.youtube.com/@AverageNeovimEnjoyer/videos)
+- [ ] [Functional Industries - Linux Productivity Videos - YouTube](https://www.youtube.com/@FunctionalIndustries/videos)
+- [ ] [How To Linux - YouTube](https://www.youtube.com/@thehowtolinux/videos)
+- [ ] [ThePragmaticAutomator - YouTube](https://www.youtube.com/@ThePragmaticAutomator/videos)
+- [ ] [Augusto - YouTube](https://www.youtube.com/@MatheusAugustoDaSilva)

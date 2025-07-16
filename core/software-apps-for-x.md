@@ -1,0 +1,93 @@
+#1 
+# pomo
+- Pomotroid
+# flowcharts
+- ms visio
+- lucidchart
+- draw.io
+- drawanywhere
+
+# split 
+- Free apps
+	- Bit defender 
+	- Bleach bit
+	- Blender specs
+	- Void tools everything
+	- Tor
+	- Foto sketcher
+	- Glary soft utilities 
+	- Dns  benchmark
+	- Green shot
+	- Google earth pro
+	- Hwinfo
+	- Image glass
+	- Inkscape  tutorials and forum
+	- Shotcut
+	- Olive editor 
+	- Krita
+	- Kodi
+	- Linux.org
+	- Media player class black edition
+	- Nomacs
+	- Onlyoffice .. libre office
+	- Plex media server
+	- Proton vpn
+	- Revo uninstaller free
+	- 7 zip
+	- Share x
+	- Vera crypt
+	- Sumatra pdf
+	- Xnview mp
+	- Thunderbird
+- apk's for mobile
+	- snap drop
+	- newpipe (for yt)
+	- apkupdater
+	- heynote
+	- infinity for reddit
+	- shortcut maker
+	- shizuku
+	- watomatic
+	- barinsta
+	- taptap
+- (infinitely galactic& tj free) open source apps
+	- mailspring
+	- signal
+	- handbrake
+	- lmms
+	- ardour
+	- freecad
+	- photogimp
+	- krita
+	- pencil project
+	- gravit disign
+	- akira
+	- natron
+	- digikam
+	- darktable (lightroom alternative)
+	- strawberry music player
+	- open toonz
+	- blender
+	- sozi
+	- pencil2d
+	- tor browser
+	- fotosketcher
+	- qbittorrent
+	- onlyoffice
+
+
+- Apps for productivity
+	- Snap drop  
+	- Newpipe  
+	- Apk updater  
+	- Heynote  
+	- Infinity for reddit  
+	- Shortcut maker  
+	- Shizuku  
+	- Watomatic  
+	- Pure writer  
+	- Blokada 5 needs a vpn  
+	- Barinsta  
+	- Skip track  
+	- Auto dark  
+	- Tap tap

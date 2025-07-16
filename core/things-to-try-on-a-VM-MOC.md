@@ -1,0 +1,58 @@
+#1
+# done
+- [x] media players video
+	- [x] [[0-mpv-media-player-and-shortcuts]]
+	- [x] [[0-vlc-media-player]]
+	- [x] celluloid
+		- my 2nd choice for music
+			- cuz allow playlists
+			- some video gliches on arch xfce at 22-05-2024
+				- not that good i guess
+			- but still works after restarting app
+- [x] qutebrowser
+	- really not that worth
+	- vimium extension on any browser is as good as qutebrowser
+- [x] aur on arch
+	- [x] [[AUR-{Arch-User-Repository}-with-yay]]
+- [x] vimrc inside obsidian
+- [ ] vscode vim
+# not done
+- [ ] [[terminal-file-manager-yazi]]
+- [ ] [Latest - CodeLite Documentation](https://docs.codelite.org/downloads/download/#ubuntu-debian)
+- [ ] dmenu
+	- [ ] rofi
+- [ ] waydroid
+	- [Install Instructions | Waydroid](https://docs.waydro.id/usage/install-on-desktops)
+- [ ] [[install-arch-without-the-archinstall-script]]
+- [ ] [[kitty-terminal-emulator]]
+- [ ] [[alacritty-terminal-emulator]]
+- [ ] kde bismuth tiling wm
+- [ ] zsh instead of bash
+- [ ] tmux 
+	- [ ] [The Only Video You Need to Get Started with Neovim - YouTube](https://www.youtube.com/watch?v=m8C0Cq9Uv9o&t=133s)
+	- [ ] [TMUX and Terminal configuration - YouTube](https://www.youtube.com/playlist?list=PLsz00TDipIfct4F3pHv6_uI9OyjphQEGZ)
+- [ ] neovim & its config
+	- [ ] [Neovim for Newbs. FREE NEOVIM COURSE - YouTube](https://www.youtube.com/playlist?list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn)
+	- [ ] [Neovim Configuration - YouTube](https://www.youtube.com/playlist?list=PLsz00TDipIffxsNXSkskknolKShdbcALR)
+	- [ ] kickstart [The Only Video You Need to Get Started with Neovim - YouTube](https://www.youtube.com/watch?v=m8C0Cq9Uv9o)
+- [ ] [[pdf-on-linux-and-add-image-to-pdf#some pdf recommendations|pdf stuff]]
+- [ ] emacs
+- [ ] krita
+- [ ] [[0-obsidian-plugins-MOC]]
+- [ ] kdenlive rendering options
+	- [ ] scripting?
+- [ ] download anki
+- [ ] configure xfce
+- [ ] i3 wm + config
+	- [ ] bspwm
+	- [ ] sway
+	- [ ] qtile
+	- [ ] awesomewm
+- [ ] polybar on any wm
+- [ ] wayland
+- [ ] pulseaudio vs pipewire
+- [ ] ffmpeg caputure/ record screen
+
+- [ ] on a vm gimphelp.org and download some effects
+
+- [ ] make a script for creating a pdf on desktop from a man page of and cmd using rofi or dmenu

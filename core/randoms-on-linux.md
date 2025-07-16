@@ -1,0 +1,28 @@
+#1
+- `mainline kernel` > thee official unmodified newest version from `kernel.org` .. opposite of `custom kernel`
+	- `stable kernel` > older offical version
+- `system managers` (system managment softwares) has 2 jobs 
+	- system initializtion (bring up the system after boot) 
+	- service management (control running services: networking, logging .. etc)
+	- examples
+		- systemd
+		- SysVinit
+		- OpenRC
+		- Upstart
+- each desktop environment has
+	- `display manager`
+		- gdm3
+		- lightDM
+		- kdm
+	- `window server`
+		- x11
+		- wayland
+- `ctrl alt f1..9` > switch to tty
+- `support` means one of 2 things
+	- ability to get technical help
+		- commertial
+		- community
+		- documentation
+	- should you still use this software? 
+		- according to the release version you have (LTS or shorter support)
+- [[distro-hopping-scripts]]

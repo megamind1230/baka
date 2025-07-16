@@ -1,0 +1,42 @@
+#1
+
+- 1
+	- double click > control pic duration time
+- 2
+	- {selected zone} can help with shorts making
+	- built-in {subtitles panel} to use
+- 3
+	-  [pixabay](https://pixabay.com/)  > free vids \ pics \ vectors ..etc
+	-  [freesound](https://freesound.org/)  > free sfx and music
+	- locking the un-used tracks (near the mute track button) .. safe editing
+- 6
+	- 3-level threshold fx> شبه تراك opps ابيو
+	- carton fx
+	- charcoal fx >  dreamy  , dizzy 
+	- alpha strobing  + grain + vignette+ oldfilm + scratchlines > old cinematic shots
+- 10 free music and video clips for projects (from kden lib)
+	- project  > online resources 
+- fx
+	- invert
+	- saturation
+	- dither
+	- grain
+	- sharpen
+	- vignette effect
+	- charcoal
+	- edge glow
+	- old film
+	- sigmoidal transfer
+	- defish
+	- distort
+- transitions
+	- cloud
+	- linear x
+	- linear y
+	- radial
+	- spiral
+	- spiral 2
+	- slide
+	- dissolve
+- rotoscoping mast on txt
+- time remapping

@@ -1,0 +1,88 @@
+After Applying
+User avatar
+Ahmad @iaebh · Nov 21, 2021 · edited: May 13, 2022
+1. غالبًا بعد ما بتعدي أول مرحلة Resume screening بيتبعت لك problem solving test، ممكن تسأل حد كان اتقبل في التدريب دا أو دخل الاختبار قبل كدا ويقيّملك مستوى صعوبته أو بيهتموا بإيه، وعمومًا لو ماشاركتش في أي تدريب تبع Al-Azhar ICPC Community مثلًا فعندك حل برضو:
+وهو إنك تعرف على الأقل topics basics وتحل على قد ما تقدر، يعني تعرف يعني إيه prefix/partial sum 1D&2D وgreedy/bruteforce approach وbinary search وSTLs وdynamic programing وgraph theory .. مش مطلوب منك تكون تنين مجنح، بس مطلوب منك تعرف تفكر، وعندك مصادر ممكن تتعلم وتحل منها زي:
+
+ 
+
+1. https://www.youtube.com/c/ArabicCompetitiveProgramming 
+
+ 
+
+2. https://interviews.school/intro
+
+3. https://leetcode.com/discuss/general-discussion/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide/
+
+4. https://discuss.codechef.com/t/data-structures-and-algorithms/6599
+
+5. https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+ 
+
+وعمومًا لو واقف قصادك مواضيع معينة، أو خلصت اللي فوق دول بس لسه تايه مش عارف تكمل فين، أو مش لاقي مسائل كافية؛ فـ Al-Azhar ICPC Community هيرحب بيك وهيساعدك :')
+
+دي كذا ليست لطيفة كبداية:
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+https://www.techinterviewhandbook.org/best-practice-questions
+
+
+ودا لينك شيت مسائل الإنترفيو لدكتور مصطفى سعد: https://goo.gl/CEwCjS شبه نظام الاختبار بس على مستوى أعلى لإنه بيشمل الخريجين وعامل حساب إنك تقدم في أي شركة مهما كانت براحتك.
+
+ودي إجابات لدكتور مصطفى سعد مهمة بخصوص أهمية problem solving skills والمتوقع مني قبل أي تدريب إيه بالظبط:
+
+https://thearchive.me/ask/mostafasaad87/-dLGMAXnYw/
+
+https://thearchive.me/ask/mostafasaad87/-e5xq6KxOx/
+
+ 
+
+ودي إجابة واحد اتقبل في تدريب مايكروسوفت بيقول إن معظم الناس اللي اتقبلت ماكنش عندها هواية مسابقات البرمجة بس عندهم أساسيات مهارات الـ problem solving ومشاريع كويسة:
+
+https://quora.com/How-do-you-get-internship-in-Microsoft-ATL-in-your-2nd-year/answer/Mohammad-Yasser-1
+
+ 
+
+* ملحوطة:
+لما اتكلمت عن المواضيع اللي فوق؛ ماجبتش سيرة الـmath، فعمومًا بتهتم تعرف كل حاجة in width وبتركز أكتر in depth باللي بتحتاجه في المكان اللي بتقدم فيه.. فيه شركات بتهتم بالجراف وشركات تانية بالماث والجيومتري وأخرى بكليهما، وربنا يعيننا جميعًا.
+
+ 
+
+2. بالنسبة للـinterview فبتكون behavioral and technical:
+الجزء الأولاني فيه كلام عنه في مصادر التعليق اللي فوقي، أما التانية فبيكون فيها coding شبه التيست اللي عملناه فوق بس ممكن أعلى في المستوى قليلًا وممكن يسألك عن المجال اللي مقدم تدريب فيه، وممكن مايبقاش فيه interview من الأساس، كل شركة ونظامها،
+
+ودي مصادر هتفيدك إن شاء الله، للاستعداد للمرحلة دي:
+
+https://github.com/jwasham/coding-interview-university
+
+https://github.com/mission-peace/interview
+
+https://github.com/sobhanbera/algorithms
+
+https://github.com/tayllan/awesome-algorithms
+
+https://github.com/AbdeltwabMF/Anthology-of-Algorithms-and-Data-structures
+
+https://github.com/ahr9n/psolving-paradigms
+
+https://github.com/Muhammad-Al-Halaby/Competitive-Programming
+
+ 
+
+ودي visualizer repositories، ممكن تشوف منها الـ popular algorithms بتشتغل إزاي:
+
+https://github.com/algorithm-visualizer/algorithm-visualizer
+
+https://github.com/dipeshpatil/algorithms-visualiser
+
+https://github.com/jhabarsingh/DSALGO-VISUALIZER
+
+https://github.com/enjalot/algovis
+
+* وبالمناسبة ممكن تـcontribute معاهم أو تعمل مشروع شبههم وهتستفيد كتير وهيكون إضافة كويسة ليك وللـresume إنك فاهم المواضيع دي وبتحاكيها :) 
+
+ 
+
+ودي بلاي ليست صغيرة بس محتواها عظيم وهتفيدك إن شاء الله:
+
+https://youtube.com/playlist?list=PLJYBTsbldfv-pu1n_qDgcAgxnC6X-q3jf

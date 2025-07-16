@@ -1,0 +1,2 @@
+- [ ] intro
+	- [ ] [Programming Paradigms – Paradigm Examples for Beginners](https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/)

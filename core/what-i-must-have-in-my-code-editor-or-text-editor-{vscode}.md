@@ -1,0 +1,24 @@
+
+#1
+- [ ] vim
+	- [ ] basics
+		- [ ] normal
+			- [ ] y
+			- [ ] p
+			- [ ] c
+			- [ ] d
+			- [ ] x
+			- [ ] s
+		- [ ] [[0-the-magical-g-char-or-button-in-vim]]
+		- [ ] text-objects
+		- [ ] fast way to select all file content instead of ggVG
+		- [ ] macros
+	- [ ] advanced
+- [ ] theme {everforest / gruvbox}
+- [ ] toggle folding
+- [ ] toggle zen mode {focus mode}
+- [ ] grow/shrink text selection
+- [ ] command palette
+- [ ] fast switching between project apps
+- [ ] html and css emmets
+- [ ] snippets

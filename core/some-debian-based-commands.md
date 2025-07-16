@@ -1,0 +1,13 @@
+#1
+- `uname -r`
+	- Kernel version
+- `apt list --installed` 
+	- what deb packages we have
+	- `| wc -l` 
+		- to count packages
+- `snap list`
+	- what snap packages we have
+- `nmcli c` or `nmcli d`
+	- what type of internet connection your device have? + gives your wifi router name
+- `ip a`
+	- under wlp3s0 > find your MAC address
