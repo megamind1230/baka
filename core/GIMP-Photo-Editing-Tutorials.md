@@ -1,0 +1,14 @@
+#1
+- [GIMP Photo Editing Tutorials](https://www.youtube.com/playlist?list=PL_7viLFyJ7sDgWo1_55FTW_IqK4iNi4np)
+	- https://youtu.be/tr-6dTQR4K8?si=bP1CUBTKeuVqbsRT
+		- remove bg using AI
+		- clipdrop by stability AI
+	- hand tool in gimp
+		- space bar ||  bird's eye at bot right
+	- ctrl shift j > full view of canvas
+	- erase to transparency > add alpha channel
+	- layer > crop to content 
+		- if u made like a white square in his own new layer over some image
+		- but when u move the square layer .. it's shows what his layer selection is so wide
+		- so u do this crop to fit selection to the square
+	- lock tab to dock

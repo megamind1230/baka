@@ -1,0 +1,18 @@
+
+#1
+- [Presentations as Code // How to use the Obsidian Advanced Slides plugin - YouTube](https://www.youtube.com/watch?v=LtBK_iNcVEQ)
+	- `---` for normal (horizontal) slides
+	- `--` for vertical slides
+	- can embed images .. control their size in obsidian as u know
+		- can make it a background > `<!-- slide bg="[[whatever_img]]" -->`
+	- comment notes (don't show in preview .. but only you can see)
+		- `note:` makes sure it's at the end of the slide
+	- when in browser preview > use `s` for more controls
+	- [Learn more — Advanced Slides Documentation (mszturc.github.io)](https://mszturc.github.io/obsidian-advanced-slides/getting-start/learnmore/)
+	- to make text pop up in the same slide
+		- text1 to appear `<!-- element class="fragment" data-fragment-index="1" -->`
+		- text2 to appear `<!-- element class="fragment" data-fragment-index="2" -->`
+	- best themes imo
+		- beige
+		- blood
+	- you can export them

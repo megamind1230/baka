@@ -1,0 +1,2 @@
+- [ ] [masasam/dotfiles: My dotfiles based on Makefile](https://github.com/masasam/dotfiles?tab=readme-ov-file)
+	- [ ] [How To Manage Your Dotfiles With Make - YouTube](https://www.youtube.com/watch?v=aP8eggU2CaU)

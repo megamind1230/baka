@@ -1,0 +1,26 @@
+#1
+- mythic
+	- Everfrost > active cone cc 
+	- Rocketbelt > active damaging dash + MS
+	- Shattered > for a tiny time .. take reduced damage (anti burst)
+	- Luden > the 3 orbs + MS + bonus ap
+	- Liandry > abilities burn scaling with n health
+	- Harvester > deal bonus ap + MS
+	- RoA > bonus hp & mp & ap + bonus lvl + regen mana on taken damage + heal a tiny bit + MS
+	- Riftmaker > stack in combat to deal true damage + vamp
+	- 
+- legendary
+	- Archangel (seraph)> bonus mana on using abilities + seraph shield on low health
+	- Banshee > counter the 1st coming damage
+	- Cosmic > deal damage to get MS
+	- Demonic > deal damage scaling with n health
+	- Horizon > slow + reveal (under certain condtions)
+	- Lich > use ability then aa .. bonus ap & ad
+	- Nashor > aa bonus ap
+	- Morello > antiheal
+	- Mejai > get kills or assists to stack ap (lose 10 on death)
+	- Rylai > slow
+	- Deathcap > so much ap
+	- Zhonya > freeze (take 0 damage then)
+	- Void Staff > counter MR
+	- Shadowflame > small counter MR

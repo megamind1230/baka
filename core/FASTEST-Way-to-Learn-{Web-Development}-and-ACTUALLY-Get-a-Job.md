@@ -1,0 +1,26 @@
+#1
+[FASTEST Way to Learn Web Development and ACTUALLY Get a Job (youtube.com)](https://www.youtube.com/watch?v=C-EHoNfkoDM&list=WL&index=5&t=393s)
+- frontend
+	- do all w3 schools problems on html , css , js
+	- you'll know that css is hell when debugging .. so better know a framework 
+		- (==bootstrap== , ==tailwindcss== {better} )
+			- [Installation - Tailwind CSS](https://tailwindcss.com/docs/installation)
+			- [Rebuilding the Instagram Stories UI with Tailwind CSS (youtube.com)](https://www.youtube.com/watch?v=v74SZBVMPa0)
+			- 
+	- js frameworks ( ==angular== {harder for beginners} ,==react== { better } )
+		- [Tutorial: Tic-Tac-Toe – React](https://react.dev/learn/tutorial-tic-tac-toe)
+		- [Hello World – React (reactjs.org)](https://legacy.reactjs.org/docs/hello-world.html)
+	- . now projects
+		- [React & Tailwind CSS Image Gallery (youtube.com)](https://www.youtube.com/watch?v=FiGmAI5e91M)
+	- learn tech like ==redux==, ==firebase== {better frontend skills}
+		- [🔴 Let's build LinkedIn with REACT.JS! (with Redux & Firebase) - YouTube](https://www.youtube.com/watch?v=QaYts9sPmcY)
+	- learn ==next.js== {improved react}
+- backend
+	- either django.py , spring.java , node.js { better, less effort }
+	- learn express & mongoDB
+		- [Node.js App From Scratch | Express, MongoDB & Google OAuth - YouTube](https://www.youtube.com/watch?v=SBvmnHTQIPY)
+		- [Express 4.x - API Reference (expressjs.com)](https://expressjs.com/en/api.html)
+- fullstack
+	- [🔴 Build a Whatsapp Clone with MERN Stack (MongoDB, Express, React, Node JS) (youtube.com)](https://www.youtube.com/watch?v=gzdQDxzW2Tw)
+- prepare for interviews
+	- [[ANYONE-can-Crack-Coding-Interviews-by-Doing-THIS]]

@@ -1,0 +1,45 @@
+#1
+- https://www.youtube.com/watch?v=B__-5sHWlB8 > خطوات تصوير فيديو احترافي بالموبايل Kareem Elsayed كريم السيد
+	- lighting
+		- day light
+		- soft box
+		- both
+		- ring light
+			- [Cheap DIY Ring Light hazem el seddiq](https://www.youtube.com/watch?v=VwNmjdCNBbQ)
+			- [DIY Ring Light - ازاي تعمل اضاءة لتصوير الفيديو Ahmad El-basiouny](https://www.youtube.com/watch?v=Hg3gukaozoU)
+		- 3 points lighting trick 
+		  ![[Pasted-image-20240205132032.png|300]]
+			- key is stronger than fill
+			- fill can be just a reflector
+			- back can be above your head, just to isolate you from bg
+	- manual mode (not auto mode)
+		- to customize some settings
+		- most important 3 ([[the-exposure-triangle]])
+	- high fps
+
+
+- https://youtu.be/Ocgl_y_CXqo?si=ZcakFjxLP98bb4v- > مهارة صناعة الفيديو باستخدام الهاتف  Ali Muhammad Ali
+	- location
+		- create some depth in footage by using 3 layers
+			- fg , mg, bg
+			- don't just make it ( one layer{if no distance} or just mg & bg )
+			- bg should be blurry & out of focus (some distance needed)
+		- avoid white bg
+			- use lights, plants , wallpapers
+	- voice and sound
+		- boya by m1
+		- middle of chest towards your mouth
+		- تطبيق مسجل الصوت ([[voice-recorder-pro-app]])
+	- recording
+		- [[open-camera-mobile-app]]
+		- back cam is better
+		- eye contact
+		- aspect ratio & orientation
+			- 16:9 > youtube
+			- 9:16 > other
+		- locked exposure
+		- never zoom
+	- editing
+		- VN video editing app (Vlognow)
+			- no water mark
+			- can work on pc using Bluestacks

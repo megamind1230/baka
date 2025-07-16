@@ -1,0 +1,17 @@
+#1
+- jg camps
+	- red & blue
+		- first @ 1:30 then every 5 min
+	- others
+		- first @ 1:30 then every 2 min
+- scuttle crap 
+	- first @ 3:15 then every almost 2 min (150 sec)
+- drakes 
+	- normal ones first @ 5 min then every 5 min .. ends on elder respawn
+	- elder @ 35 min .. then every 6 min
+- rift
+	- first @ 8 min then after 6 min
+- baron
+	- first @ 20 min then every 7 min
+- honey fruit
+	- @ 6 -> 6:30 min

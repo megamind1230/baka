@@ -1,0 +1,2 @@
+- in preview
+	- scroll with `ctrl u/d`

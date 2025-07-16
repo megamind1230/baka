@@ -1,0 +1,2 @@
+get inpired by some of ppls templates
+[14 Example Vaults from around the Web: kepano, Nick Milo, The Sweet Setup and more - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/14-example-vaults-from-around-the-web-kepano-nick-milo-the-sweet-setup-and-more/81788)

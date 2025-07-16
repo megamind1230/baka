@@ -1,0 +1,11 @@
+#1
+- ubuntu
+	- print button (select mode)
+	- alt print (active window)
+	- or a 3rd party app (flameshot best on ubuntu i think)
+		- cntr 0 (in num keys)
+- window
+	- win shift s (select mode)
+	- print (full screen i think)
+	- 3rd party app (light shot is the best on windows )
+		- same

@@ -1,0 +1,1 @@
+- [ ] [Building a USEFUL Habit Tracker in Obsidian - YouTube](https://www.youtube.com/watch?v=W_leEJHBZW4)

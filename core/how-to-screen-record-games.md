@@ -1,0 +1,17 @@
+#1
+- 2 ways 
+	- (record while playing) (if ur gear does help)
+		- apps for in-game recording (like real time recording)
+			- overwolf outplayed ( if u know a better version comment) - ram 16 for better performance
+			- the game builtin replays (trash)
+			- the xbox tool in window (if activated)
+				- so light .. so fast .. good quality.. works so fine
+			- OBS
+				- at least 16 to play the game without crashing
+			- on ubuntu i use SSR
+				- simple screen recorder
+	- record after game (if ur gear doesn't help with the above mentioned )
+		- finish playing the game
+		- download the vod
+		- play it
+		- record using the above mentioned

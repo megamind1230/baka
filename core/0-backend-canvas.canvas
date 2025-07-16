@@ -1,18 +1,18 @@
 {
 	"nodes":[
 		{"id":"45097f011036534a","type":"group","x":-420,"y":-480,"width":1420,"height":540,"label":"my core bones"},
-		{"id":"bfb31fb23c05e19e","type":"file","file":"metwally-phase2.md","x":-2760,"y":1380,"width":760,"height":1740,"color":"4"},
-		{"id":"371bfe25fa62c719","type":"file","file":"mazen-canada-fullstack-101-core-checklist.md","x":-20,"y":240,"width":740,"height":4760,"color":"1"},
-		{"id":"be7924548a74a96b","type":"file","file":"metwally-phase5.md","x":-1620,"y":1834,"width":640,"height":1746,"color":"4"},
-		{"id":"2c26d9873b4c373d","type":"file","file":"metwally-phase6.md","x":-780,"y":980,"width":500,"height":1020,"color":"4"},
-		{"id":"befe85810d0902c4","type":"file","file":"metwally-phase1.md","x":-1760,"y":-360,"width":662,"height":1670,"color":"4"},
-		{"id":"57eb4e6cee9e265b","type":"file","file":"Mazen-Canada-general-musts.md","x":120,"y":-360,"width":400,"height":400},
+		{"id":"bfb31fb23c05e19e","type":"file","file":"core/metwally-phase2.md","x":-2760,"y":1380,"width":760,"height":1740,"color":"4"},
+		{"id":"371bfe25fa62c719","type":"file","file":"core/mazen-canada-fullstack-101-core-checklist.md","x":-20,"y":240,"width":740,"height":4760,"color":"1"},
+		{"id":"be7924548a74a96b","type":"file","file":"core/metwally-phase5.md","x":-1620,"y":1834,"width":640,"height":1746,"color":"4"},
+		{"id":"2c26d9873b4c373d","type":"file","file":"core/metwally-phase6.md","x":-780,"y":980,"width":500,"height":1020,"color":"4"},
+		{"id":"befe85810d0902c4","type":"file","file":"core/metwally-phase1.md","x":-1760,"y":-360,"width":662,"height":1670,"color":"4"},
+		{"id":"57eb4e6cee9e265b","type":"file","file":"core/Mazen-Canada-general-musts.md","x":120,"y":-360,"width":400,"height":400},
 		{"id":"919c99953fa728b5","type":"file","file":"core/roadmap-sh-Backend-Developer-general-musts.md","x":580,"y":-360,"width":400,"height":400},
-		{"id":"c393ad1b22d57360","type":"file","file":"from-ziad-redah-fullstack.md","x":1180,"y":-190,"width":400,"height":290},
-		{"id":"df0df1d35776bd95","type":"file","file":"metwally-labs-general-musts.md","x":-400,"y":-360,"width":460,"height":340},
-		{"id":"da9593b2663a8b3a","type":"file","file":"metwally-phase3.md","x":-3720,"y":3386,"width":854,"height":1534,"color":"4"},
-		{"id":"bb5027c8071a0c55","type":"file","file":"metwally-phase4.md","x":-2180,"y":4220,"width":658,"height":1200,"color":"4"},
-		{"id":"fce5c6fd2bb5b33e","type":"file","file":"mazen-canada-backend-core-checklist.md","x":1380,"y":880,"width":720,"height":2540,"color":"1"}
+		{"id":"c393ad1b22d57360","type":"file","file":"core/from-ziad-redah-fullstack.md","x":1180,"y":-190,"width":400,"height":290},
+		{"id":"df0df1d35776bd95","type":"file","file":"core/metwally-labs-general-musts.md","x":-400,"y":-360,"width":460,"height":340},
+		{"id":"da9593b2663a8b3a","type":"file","file":"core/metwally-phase3.md","x":-3720,"y":3386,"width":854,"height":1534,"color":"4"},
+		{"id":"bb5027c8071a0c55","type":"file","file":"core/metwally-phase4.md","x":-2180,"y":4220,"width":658,"height":1200,"color":"4"},
+		{"id":"fce5c6fd2bb5b33e","type":"file","file":"core/mazen-canada-backend-core-checklist.md","x":1380,"y":880,"width":720,"height":2540,"color":"1"}
 	],
 	"edges":[
 		{"id":"995ed14ddbf32fad","fromNode":"df0df1d35776bd95","fromSide":"bottom","toNode":"befe85810d0902c4","toSide":"right"},

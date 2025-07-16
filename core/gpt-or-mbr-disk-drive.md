@@ -1,0 +1,2 @@
+#1
+[How can we identify whether our system hard disk is GPT or MBR in Ubuntu Linux from the terminal? - Quora](https://www.quora.com/How-can-we-identify-whether-our-system-hard-disk-is-GPT-or-MBR-in-Ubuntu-Linux-from-the-terminal)

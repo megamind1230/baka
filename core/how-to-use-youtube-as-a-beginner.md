@@ -1,0 +1,32 @@
+#1
+	- basics
+		- arrows > 5sec
+		- J K L 10sec
+			- < > 1 frame
+		- o > caption
+			- - + size
+			- u can move it manully
+		- f > toggle full
+			- esc
+		- i > toggle miniplayer
+- video navigation
+	- advanced
+		- enhancer for yt extension
+			- settings & shortcuts (i use brave here)
+				- alt 0,9,8 > quality
+				- boost sound < alt b
+				- alt shift t > cinema mode
+				- ctrl up/down > speed
+			- never forget to allow ads .. yt will detect u
+- search
+	- normal
+	- advanced
+		- filters
+		- in channel ( on pc version of yt )
+- shorts
+	- shorts navigation in pc version of yt is trash
+	- sometimes u need to replay a frame that went so fast
+	- u can convert the short vid into a normal vid.. just from the link
+		- shorts > watch > enter
+- playlist opening & saving (in browser & in yt)
+	- 

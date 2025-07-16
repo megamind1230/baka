@@ -1,0 +1,18 @@
+#1
+- micro > know ur champ 
+	- kit { passive + abilities }
+	- combos { skill rotations }
+	- tricks and bugs
+- macro > be aware of 
+	- map
+	- map animations
+	- warding
+	- wave management
+	- when to 
+		- fight 
+		- split bush
+	- respawn timer
+	- lvling timers
+	- abilities cooldown timers 
+	- spells timers
+	- tracking n jg path
