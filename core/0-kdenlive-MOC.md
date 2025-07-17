@@ -1,17 +1,17 @@
-#1
+# more ref
+[[0-kdenlive-manual-MOC]]
 # done
 - [x] [[0-template-title-clips-in-kdenlive]]
 - [x] [[0-downloaded-effect-templates-dont-show-in-kdenlive-template-section-on-windows]]
 - [x] [Tutorials - YouTube](https://www.youtube.com/playlist?list=PLwXdPdPXhszG8kzR4Ndm_ckJGWYpxqG7K)
-[[0-rotroscoping-kdenlive]]
+- [x] [[0-rotroscoping-kdenlive]] cutting / masking
+- [x] photolearningism-kdenlive .. easy videos 
 # not done
-[[0-kdenlive-manual-MOC]]
 
 [[blackberry-boy-kdenlive-MOC]]
 [[crazy-net-kdenlive]]
 [[arkengheist-kdenlive]]
 [[makinars-kdenlive]]
-photolearningism-kdenlive
 [[nuxttux-kdenlive]]
 [[video-editing-tricks-to-do,-watch,-learn]]
 [[eses-infor-learning]]

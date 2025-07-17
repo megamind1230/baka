@@ -1,5 +1,4 @@
 
-#1
 - [Presentations as Code // How to use the Obsidian Advanced Slides plugin - YouTube](https://www.youtube.com/watch?v=LtBK_iNcVEQ)
 	- `---` for normal (horizontal) slides
 	- `--` for vertical slides

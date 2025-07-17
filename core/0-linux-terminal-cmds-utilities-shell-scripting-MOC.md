@@ -1,4 +1,3 @@
-#1
 # done
 #todo
 - [x] [[0-use-groff-and-zathura-to-make-ur-minimal-plaine-clean-cv-or-resume]]
