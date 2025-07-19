@@ -1,4 +1,3 @@
-#1 
 ```
 course is about learning how to learn I think this course is essential for every person in the world wants to learn any thing, we should first learn what "learning" means, that can affect my whole life not only my career. In general, lam interested in brain, memory and learning process, and this course will help me a lot to understand that concepts in easy and right way.
 Right now, I am a medical student, in medicine we are studying massive amount of subjects which are tough and difficult to remember, and in this cours it will discuss this point and how brain works and the right technique to deal with tough information. After graduating and starting my career, medical career is built mainly on stong academic base and the speed of memorizing saved information. by understanding howto learn I will do this easily and save time in a right way. And who kpows i may specialize in neurology science

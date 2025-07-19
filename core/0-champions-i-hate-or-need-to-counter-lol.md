@@ -1,0 +1,60 @@
+[[my-champion-pool-lol]]
+> countered by: H
+
+> he counters: E
+
+# top
+- urgot
+	- H: olaf, vlad, malph, kayle, sett
+	- E: fiora, voli
+- sett
+	- H: rumble, illaoi, gwen, gp
+	- E: quinn, urgot
+- voli
+	- H: urgot, ww, jax, fiora, garen
+	- E: yasuo, yone, irelia, riven
+- mord
+	- H: ww, heimer, nasus, olaf
+	- E: rumble, illaoi
+- teemo
+	- H: kennen, olaf, sion, malph, yoric
+	- E: jayce, trynd, darius, jax
+- vayne
+	- H: akshan, smolder, akali, sett, rumble
+	- E: trynd, cho
+- malph
+	- H: mundo, mord, orrn, illaoi, shen
+	- E: trynd, quinn, jayce
+- mundo
+	- H: irelia, ww, fiora
+	- E: gp, jayce, voli, malph
+- yasuo
+	- H: kayle, vlad, vex, annie, asol, ekko, ww, trundle, darius, renek, garen
+	- E: sylas, kat, fizz, jayce
+- vlad
+	- H: yoric, irelia, mord, sion
+	- E: gnar, jax, gragas
+- sion
+	- H: singed, mord, poppy, trynd, darius, trundle
+	- E: teemo, vlad, rumble, illaoi, nasus
+- nasus
+	- H: orrn, cho, urgot, darius
+	- E: riven, quinn, yasuo, teemo, renek
+- cho
+	- H: mord, trynd, fiora, ww, trundle, kayle
+	- E: riven, jayce, renek, singed
+- gwen
+	- H: singed, garen, trynd, kayle
+	- E: mundo, yoric, ksante, illaoi, orrn
+- jax
+	- H: quinn, vlad, illaoi, teemo, mundo
+	- E: yone, yasuo, voli, trynd, trundle, ww, kayle
+- gnar
+	- H: vlad, orrn, malph, ww, camille, yoric, irelia
+	- E: garen, voli
+- darius
+	- H: quinn, teemo, heimer, kayle, olaf, yoric
+	- E: yasuo, yone, ambessa, singed, fiora, trynd, trundle , nasus
+- garen
+	- H: quinn, ww, kayle, trundle, urgot, yoric
+	- E: yasuo, gwen, ksante, riven, jax, renek

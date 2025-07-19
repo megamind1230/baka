@@ -1,0 +1,54 @@
+
+## my champion pool and countered by and {what to do vs them}
+- `nautilus` {hexfash, roam if unplayable}
+	- morgana
+	- janna
+	- alistar
+	- trundle
+	- lulu
+- `chogath` { jaksho , glacial augment }
+	- fiora
+	- vayne
+	- gwen
+	- darius
+	- olaf
+- `heimer` { turrets defensive , exhaust, zhonya }
+	- syndra
+	- xerath
+	- irelia
+	- sion
+	- ziggs
+- `leona` { hexflash, roam }
+	- same as naut
+	- tahm
+- `kaisa` { better wait for some evolve }
+	- jhin
+	- cait
+	- draven
+	- ashe
+	- xayah
+- `jhin` { 4, better have a poke supp }
+	- tristana
+	- vayne
+	- ziggs
+- `sylas` { perma roam or half roam }
+	- pantheon
+	- lissandra
+	- malzahar
+	- kassadin
+- `talon` {eclipse-cleaver vs tanks,  hit and run}
+	- pantheon
+	- malphite
+	- akali
+	- lissandra
+	- sett
+- `ornn` {sunfire vs ad, abyssal vs ap, teamfights only}
+	- fiora
+	- gwen
+	- camille
+	- darius
+	- vayne
+- `ambessa` {teamfight picks }
+	- renekton
+	- trynd
+	- irelia

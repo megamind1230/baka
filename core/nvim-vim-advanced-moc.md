@@ -156,7 +156,7 @@ motion+regex
 [[vimrc-examples]]
 [[nvim-buffers-and-windows-or-splits-and-tabs]]
 [[vim-arabic-support]]
-[[vim-nvim-folds]]
+[[0-vim-nvim-folds]]
 
 insert mode
        `ctrl n/p` or `ctrl xi` > single word complete
