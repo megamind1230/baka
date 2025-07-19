@@ -1,0 +1,23 @@
+{
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "autoConvertHtml": false,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "focusNewTab": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 74
+  },
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showInlineTitle": true,
+  "tabSize": 4,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "core",
+  "showUnsupportedFiles": true
+}

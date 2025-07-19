@@ -1,0 +1,65 @@
+{
+    // "vim.replaceWithRegister": true, // idk ?
+
+    "editor.cursorSurroundingLines": 6,
+    "vim.sneak": true, // just s,char1,char2
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "vim.leader": "<space>",
+    "editor.minimap.enabled": false, // no minimap
+    "vim.insertModeKeyBindings": [
+        { "before": [ "j", "k" ], "after": [ "<Esc>" ] },  // jk as esc
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        { "before": [ "L", ], "after": [ "g", "$" ] },
+        { "before": [ "H", ], "after": [ "g", "^" ] },
+        { "before": [ "Y", ], "after": [ "y", "$" ] }, // yank till end of line
+        { "before": [ "<leader>", "n", "t" ], "commands": [ "workbench.action.nextEditor" ], "silent": true }, // next tab
+        { "before": [ "<leader>", "p", "t" ], "commands": [ "workbench.action.previousEditor" ], "silent": true }, // prev tab
+        { "before": [ "<leader>", "n", "n" ], "commands": [ "workbench.action.files.newUntitledFile" ], "silent": true }, // new tab
+        { "before": [ "<leader>", "c", "t" ], "commands": [ "workbench.action.closeActiveEditor" ], "silent": true }, // close tab
+        { "before": [ "<leader>", "h", "a" ], "after": [ "g", "g", "V", "G" ] }, // highlight/select all
+        { "before": [ "<leader>", "y", "y" ], "after": [ "g", "g", "V", "G", "y" ] }, // yank all/file
+        { "before": [ "<leader>", "f", "f" ], "commands": [ "workbench.action.quickOpen" ], "silent": true }, // switch fiel
+        { "before": [ "<leader>", "z", "n" ], "commands": [ "workbench.action.toggleZenMode" ], "silent": true }, // zen
+        { "before": [ "<leader>", "h", "s" ], "commands": [ ":split" ], "silent": true }, // hori split
+        { "before": [ "<leader>", "v", "s" ], "commands": [ ":vsplit" ], "silent": true }, // ver split
+        { "before": [ "Z", "X" ], "after": [ "Z", "Q"], "silent": true }, //
+    ],
+    "vim.visualModeKeyBindingsNonRecursive": [
+
+        { "before": [ "L", ], "after": [ "g", "$" ] },
+        { "before": [ "H", ], "after": [ "g", "^" ] },
+    ],
+    "vim.visualModeKeyBindings": [
+        { "before": [ "<leader>", "y" ], "after": [ "\"", "+", "y" ] },
+        { "before": [ "<leader>", "p" ], "after": [ "\"", "+", "p" ] },
+        { "before": [ "<" ], "after": [ "<", "g", "v", "^" ] },
+        { "before": [ ">" ], "after": [ ">", "g", "v", "^" ] },
+    ],
+
+
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.restore": true,
+    "zenMode.centerLayout": true,
+    "gitlens.mode.active": "zen",
+
+    "vim.highlightedyank.enable": true,
+    "vim.highlightedyank.color": "rgb(252, 143, 84, 0.8)",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', 'Hack',  'monospace', monospace", // huh?
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Tokyo Night",
+    "vim.handleKeys": {
+        "<C-d>": false,
+        "<C-b>": false,
+        "<C-w>": true,
+        "s": false
+    },
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    // remember easymotion is with leader leader
+}

@@ -1,0 +1,77 @@
+# choices
+my_active_nvim="lvim"
+# alias nvim='my_active_nvim'
+alias vim='$my_active_nvim'
+alias vi='$my_active_nvim'
+terminal="alacritty"
+TERMINAL="alacritty"
+hdd="/mnt/hdd"
+note="$hdd/things-in-my-mind.txt"
+export MANPAGER='nvim +Man!'
+export MANWIDTH=999 #so important with > export MANPAGER='nvim +Man!'
+# bash prompt theming
+PS1='\e[3;33m(\@)\e[m\u:\h\e[1;36m[\w]\e[m$ '
+
+# nvim things
+alias nbp='$my_active_nvim ~/.bashrc-personal'
+alias npb=' $my_active_nvim ~/.bashrc-personal'
+alias nv='$my_active_nvim ~/.config/nvim/init.lua'
+alias nqtile='$my_active_nvim ~/.config/qtile/config.py'
+alias nxmo='$my_active_nvim ~/.xmonad/xmonad.hs'
+alias nhyper='$my_active_nvim  ~/.config/hypr/hyprland.conf'
+alias nalac='$my_active_nvim ~/.config/alacritty/alacritty.toml'
+alias nkit='$my_active_nvim ~/.config/kitty/kitty.conf'
+alias nsx='$my_active_nvim ~/.config/qtile/sxhkd/sxhkdrc'
+alias nlv='$my_active_nvim ~/.config/lvim/config.lua'
+
+
+# sourcing
+alias sb='source ~/.bashrc'
+
+# pacman & aur helpers
+alias inst='sudo pacman -S'
+alias isnt='sudo pacman -S'
+alias pinst='paru -S'
+alias yinst='yay -S'
+alias search='pacman -Ss'
+alias ysearch='yay -Ss'
+alias psearch='paru -Ss'
+
+# faster
+alias cd..='cd ..'
+alias cd.='cd ..'
+alias cd~='cd ~'
+alias cdc='cd ~/.config ;ls'
+alias cdh='cd ~'
+alias ls='ls -lah --color=auto'
+alias ter='$terminal'
+alias sk="nvim $hdd/things-in-my-mind.txt"
+alias nnote="nvim $note"
+alias file="thunar ."
+alias lv="lvim"
+alias xcopy="xclip -sel clip"
+alias ndswap="rm ~/.local/state/nvim/swap/*" # delete swap
+alias dtlog="sudo pkill -u dt"
+alias fzf='fzf --preview "bat --color=always --style=numbers --line-range=:500 {}"'
+alias removeneovim=""
+alias camfix='sudo rmmod v4l2loopback ; sudo modprobe v4l2loopback'
+alias td='termdown '
+
+# listings of important files
+alias lsalac='cd ~/.config/alacritty ; ls'
+alias nvls='cd ~/.config/nvim ; ls'
+alias lsqtile='cd ~/.config/qtile ; ls'
+alias lsxmo='cd ~/.xmonad ; ls'
+alias lshyper='cd ~/.config/hypr ; ls'
+alias lssx='nvim ~/.config/qtile/sxhkd/sxhkdrc ; ls'
+alias lslv='cd ~/.config/lvim ; ls'
+alias lskit='cd ~/.config/kitty ; ls'
+
+# for lunar vim 
+export PATH=/home/dt/.local/bin:$PATH
+# for dotnet
+export PATH=/home/dt/.dotnet:$PATH
+# for doom
+export PATH=/home/dt/.config/emacs/bin:$PATH
+# autostart with bash
+cal; date

@@ -1,0 +1,61 @@
+{
+  "settingsVersion": "2.1.2",
+  "exclusionRules": [
+    {
+      "passKeys": "w",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "a",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "s",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "d",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "1",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "2",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "3",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "4",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "5",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "6",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "7",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "8",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "9",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "0",
+      "pattern": "*"
+    }
+  ]
+}

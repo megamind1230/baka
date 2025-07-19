@@ -1,0 +1,20 @@
+{
+  "fileDirections": {
+    "core/done/00-11-التنظيم.md": "auto",
+    "core/done/00-12-النفسية.md": "ltr",
+    "core/done/00-13-المستقبل-وحاجات-مفيدة-تانية.md": "ltr",
+    "core/done/00-14-ايه-أهم-المواد-اللي-نركز-عليها-ومصادر-تأسسك-فيها.md": "ltr",
+    "core/the-ultimate-self-learning-(ultra-learning)-course-{ali-mo-ali}.md": "auto",
+    "core/0-50-most-popular-linux-terminal-cmds-{freecodecamp}-and-more.md": "auto",
+    "core/0-cpphtp-16-06-2024.md": "auto",
+    "core/0-gptm-28-06-2024.md": "auto",
+    "core/0-rap-tracks.md": "ltr",
+    "core/0-zettelkasten or ZK.md": "ltr"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "preventRTLFrontmatter": false,
+  "statusBar": true
+}

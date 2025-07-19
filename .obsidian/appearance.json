@@ -1,0 +1,13 @@
+{
+  "accentColor": "#ff8800",
+  "cssTheme": "Blue Topaz",
+  "baseFontSizeAction": true,
+  "baseFontSize": 15,
+  "textFontFamily": "JetBrainsMono Nerd Font,Noto Naskh Arabic",
+  "nativeMenus": false,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,Noto Naskh Arabic",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "theme": "obsidian",
+  "showRibbon": true,
+  "showViewHeader": true
+}

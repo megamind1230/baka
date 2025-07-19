@@ -1,0 +1,173 @@
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Media Browser]
+Allow Expansion=false
+Decoration position=2
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+View Style=DetailTree
+
+[OnlineResources]
+provider=Freesound
+zoom=7
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Downloads/,$HOME/Videos,$HOME/Documents
+KdenliveFramesFolder[$e]=$HOME/Downloads/,$HOME/Documents
+KdenliveProjectsFolder[$e]=$HOME/Downloads/000,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/000/last.kdenlive
+File2[$e]=$HOME/Downloads/000/one.kdenlive
+File3[$e]=$HOME/Downloads/000/two.kdenlive
+Name1[$e]=last.kdenlive
+Name2[$e]=one.kdenlive
+Name3[$e]=two.kdenlive
+
+[RenderWidget]
+showoptions=true
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[TitleGradients]
+Gradient 1=
+
+[TitleWidget]
+background_alpha=0
+background_color=0,0,0
+dialog_geometry=AdnQywADAAAAAACFAAAAIAAABMwAAAL1AAAAhQAAACAAAATMAAAC9QAAAAAAAAAABVYAAACFAAAAIAAABMwAAAL1
+font_color=255,85,0
+font_family=Noto Naskh Arabic SemiBold,-1,98,5,400,0,0,0,0,0,0,1,0,0,0,1
+font_italic=false
+font_outline=70
+font_outline_color=0,0,0
+font_pixel_size=98
+font_underlined=false
+font_weight=400
+rect_background_alpha=255
+rect_background_color=0,0,0
+rect_foreground_alpha=255
+rect_foreground_color=0,0,0
+rect_line_width=0
+use_grid=false
+
+[UiSettings]
+ColorSchemePath=BreezeDark.colors
+
+[bin]
+bin_zoom=2
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAABgAAACUAAAADAAAANgAAAAcAAAAwAAAAAQAAADQAAAAIAAAAZAAAAAIAAABcAAAABQAAAEsAAAAEAAAALwAAAQ8AAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAABDwAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA7AAAAAA==
+
+[capture]
+decklink_capturedevice=4294967295
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+defaultaudiocapture=Built-in Audio Analog Stereo
+detectedv4ldevices=4294967295
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+customprojectfolder=true
+defaultprojectfolder[$e]=$HOME/Downloads/000
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+kdenliverendererpath[$e]=/usr/bin/kdenlive_render
+lastCacheCheck=2024,12,5,21,27,6.149
+meltpath[$e]=/usr/bin/melt-7
+mltpath[$e]=/usr/share/mlt-7/profiles
+
+[misc]
+cleanCacheMonths=2
+color_duration=00:00:02:00
+fade_duration=00:00:02:00
+image_duration=00:00:02:00
+mix_duration=00:00:02:00
+subtitle_duration=00:00:02:00
+title_duration=00:00:02:00
+transition_duration=00:00:02:00
+
+[project]
+audiotracks=4
+enableproxy=true
+externalProxyProfile=./;;.LRV;./;;.MP4
+generateimageproxy=true
+generateproxy=true
+parallelrender=true
+transcodeFriendly=Lossy x264 I frame only
+videotracks=4
+
+[sdl]
+blackmagic_output_device=-1
+
+[settings]
+dialogSize=1024,691
+
+[shuttle]
+shuttlebuttons=button0=monitor_pause
+
+[speech]
+pythonPath=/usr/bin/python3
+whisperDevice=
+
+[timeline]
+trackheight=35
+
+[titles]
+titlerShowbg=true
+titlerVersion=400
+
+[unmanaged]
+applyEffectParamsToGroup=true
+consumerslist=avformat,sdl2,sdl2_audio,qglsl,xml,multi,null,decklink,cbrts,blipflash,jack
+default_profile=atsc_1080p_30
+defaultrescaleheight=540
+defaultrescalewidth=960
+guidesCategories=Category 1:0:#9b59b6,Category 2:1:#3daee9,Category 3:2:#1abc9c,Category 4:3:#1cdc9a,Category 5:4:#c9ce3b,Category 6:5:#fdbc4b,Category 7:6:#f39c1f,Category 8:7:#f47750,Category 9:8:#da4453
+monitor_audio=false
+previewScaling=8
+producerslist=avformat,avformat-novalidate,framebuffer,qimage,qtext,kdenlivetitle,xml,xml-string,xml-nogl,abnormal,blank,color,colour,consumer,hold,loader,loader-nogl,melt,melt_file,noise,timewarp,tone,glaxnimate,decklink,vorbis,blipflash,count,pgm,subtitle,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,pango,pixbuf
+project_fps=30
+
+[version]
+version=24.08.3
