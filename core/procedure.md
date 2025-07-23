@@ -1,1 +1,2 @@
-- [ ] Stored procedure
+- [ ] [[stored-procedure]]
+- [ ] [[procedure-vs-func]]

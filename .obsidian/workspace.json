@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5ce3d2ac175f38a7",
+        "id": "6788a1009e3592ea",
         "type": "tabs",
         "children": [
           {
-            "id": "c2e6a3f3e24e7db2",
+            "id": "0034273a590442ba",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/0-champions-i-hate-or-need-to-counter-lol.md",
+                "file": "core/0-HOME.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "0-champions-i-hate-or-need-to-counter-lol"
+              "title": "0-HOME"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"pool\"",
+                "query": "\"ctrl o\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +67,7 @@
             }
           },
           {
-            "id": "5f3e43f8e98d1a53",
+            "id": "7ead17af7a548201",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -118,8 +120,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core/0-why-TV-overall-sucks-and-why-pc-is-better.md",
-                "collapseAll": false,
+                "file": "core/0-HOME.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -128,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0-why-TV-overall-sucks-and-why-pc-is-better"
+              "title": "Backlinks for 0-HOME"
             }
           },
           {
@@ -182,41 +184,41 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "c2e6a3f3e24e7db2",
+  "active": "0034273a590442ba",
   "lastOpenFiles": [
-    "core/0-vim-nvim-folds.md",
+    "core/nvim-vim-advanced-moc.md",
+    "core/0-HOME.md",
+    "core/synergy-champs-lol.md",
+    "core/todo.md",
+    "core/mec-lec18.md",
+    "core/ps-article.md",
+    "core/dwm-Linux-Ricing-Crash-Course-minimal-simple-yet-pretty-rice-for-newbies-bugswriter.md",
+    "core/i3wm-trial.md",
     "core/0-champions-i-hate-or-need-to-counter-lol.md",
-    "core/0-why-TV-overall-sucks-and-why-pc-is-better.md",
-    "core/my-champion-pool-lol.md",
-    "core/lol-MOC.md",
+    "core/0-nvim-plugins-moc.md",
+    "core/0-nvim-plugin-netrw-builtin.md",
+    "core/0-my-champion-pool-lol.md",
     "core/drafting-lol.md",
-    "core/obsidian-plugin-{obsidian-to-anki}.md",
-    "core/0-feb-2024.md",
-    "core/vidIQ.md",
-    "core/done/0-7ekam.md",
-    "core/coursera-financial-aid.md",
-    "core/vim-arabic-support.md",
-    "core/0-kdenlive-MOC.md",
-    "core/0-emacs-shortcuts.md",
-    "core/0-linux-terminal-cmds-utilities-shell-scripting-MOC.md",
-    "core/0-emacs-moc.md",
-    "core/Untitled.md",
-    "core/0-how-to-download-effects-into-kdenlive-on-linux.md",
-    "core/0-cli-tools-for-pulseaudio.md",
-    "core/ds-index-gammal-tech.md",
-    "core/ds-linked-list-(c++).md",
-    "core/ds-free().md",
+    "0-social-info.md",
+    "core/nvim-defaults-while-on-insert-mode-tricks.md",
+    "core/0-nvim-vim-moc.md",
+    "core/0-nvim-the-magical-g-char-or-button-in-vim.md",
+    "core/quickfix-list-nvim.md",
+    "core/nvim-completion.md",
+    "core/nvim-plugin-luasnip.md",
+    "core/nvim-plugin-ultisnip.md",
+    "core/mec-roadmap.md",
+    "core/interface-vs-abstract-class.md",
+    "core/usage-of-interface.md",
+    "core/polymorphisms-operations.md",
+    "core/DTO-in-csharp.md",
     "attachments/Pasted-image-20231103175105.png",
-    "core/ds-calloc().md",
     "attachments/Pasted-image-20230725080421.png",
     "attachments/Pasted-image-20230725080802.png",
-    "core/ds-realloc().md",
     "attachments/Pasted-image-20230727064741.png",
     "attachments/Pasted-image-20230727193858.png",
-    "core/ds-malloc()-Part-2.md",
     "attachments/Pasted-image-20230725074325.png",
     "attachments/Pasted-image-20230725075007.png",
-    "core/ds-malloc()-Part-1.md",
     "attachments/Pasted-image-20230725073509.png",
     "attachments/Pasted-image-20230723164211.png",
     "attachments/Pasted-image-20230718103139.png",

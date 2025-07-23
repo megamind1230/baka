@@ -1,2 +1,1 @@
-#1
 - [VSCode with embedded Neovim - YouTube](https://www.youtube.com/watch?v=g4dXZ0RQWdw)

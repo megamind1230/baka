@@ -9,7 +9,7 @@
 			- [ ] d
 			- [ ] x
 			- [ ] s
-		- [ ] [[0-the-magical-g-char-or-button-in-vim]]
+		- [ ] [[0-nvim-the-magical-g-char-or-button-in-vim]]
 		- [ ] text-objects
 		- [ ] fast way to select all file content instead of ggVG
 		- [ ] macros

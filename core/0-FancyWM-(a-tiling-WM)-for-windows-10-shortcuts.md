@@ -1,4 +1,3 @@
-#1
 `-` means wait a bit
 - `super shift - f11` > turn on and off
 - `super shift - arrows` > move focus
@@ -15,6 +14,6 @@
 - `super shift - f2` > move focus to monitor/screen no.2
 	- `super shift - shift f2` > move window to monitor/screen no.2
 
-- remember 
-	- f keys > monitors
-	- number keys > workspaces
+> remember 
+  f keys > monitors
+  number keys > workspaces

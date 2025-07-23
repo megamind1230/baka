@@ -1,4 +1,7 @@
-#1
+#todo
+- [ ] [25 Most Used VS Code Shortcuts And More + Cheat Sheet](https://www.crio.do/blog/vs-code-shortcuts/)
+- `alt enter` after searching a word {the vscode way}
+	- puts a cursor on each occurance .. so u can do whatever
 - `ctrl shift p `> pallet of commands (your best friend)
 
 - `ctrl tilde` > terminal 

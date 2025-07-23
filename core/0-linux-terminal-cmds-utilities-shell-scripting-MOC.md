@@ -27,7 +27,7 @@
 	then backup that huge folder using git&github
 [[Working-with-file-contents]]
 [[18-commands-that-will-change-the-way-you-use-linux-forever]]
-[[nano-shortcuts]]
+[[0-nano-shortcuts]]
 [[some-debian-based-commands]]
 [[0-nvim-vim-moc]]
 [[xdotools]]

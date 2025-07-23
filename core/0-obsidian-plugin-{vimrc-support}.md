@@ -1,10 +1,12 @@
 > adding more functionalities on the built-in vim of obsidian
+>  btw i put it in `.obsidian/.obsidian.vimrc`
+
+- [ ] [[obsidian-plugin-{vimrc-support}-issues]]
 
 - [Keshav13142’s gists](https://gist.github.com/Keshav13142)
-	- the goat of my vimrc support script
-	- i love this guy
-- my simple `.obsidian.vimrc`
-	- btw i put it in `.obsidian/.obsidian.vimrc`
+	- the goat of my vimrc support script ...  i love this guy
+# my simple .obsidian.vimrc
+
 ```c
 " (make sure to remove default Obsidian shortcuts if any conflicts happen)
 " sometimes we use exmap to make aliases for long commands .. cuz of a bug in
@@ -18,7 +20,7 @@ vmap H ^
 vmap L $
 
 " Quickly remove search highlights {nohighlight}
-nmap <F9> :nohl
+nmap <F9> :nohl<CR>
 
 " Yank to system clipboard
 set clipboard=unnamed
@@ -44,46 +46,49 @@ exmap surround_highlight surround == ==
 map [[ :surround_wiki
 nunmap s
 vunmap s
-map s" :surround_double_quotes
-map s' :surround_single_quotes
-map s` :surround_backticks
-map st :surround_backticks
-map sb :surround_brackets
-map s( :surround_brackets
-map s) :surround_brackets
-map s[ :surround_square_brackets
-map s[ :surround_square_brackets
-map s{ :surround_curly_brackets
-map s} :surround_curly_brackets
-map sp :surround_powerful
-map sh :surround_highlight
-map s= :surround_highlight
+map s[ :surround_square_brackets<CR>
+map s[ :surround_square_brackets<CR>
+map s{ :surround_curly_brackets<CR>
+map s} :surround_curly_brackets<CR>
+map s" :surround_double_quotes<CR>
+map s' :surround_single_quotes<CR>
+map s` :surround_backticks<CR>
+map st :surround_backticks<CR>
+map sb :surround_brackets<CR>
+map s( :surround_brackets<CR>
+map s) :surround_brackets<CR>
+map sp :surround_powerful<CR>
+map sh :surround_highlight<CR>
+map s= :surround_highlight<CR>
 
 " pasteinto as space p {good with hyperlinks}.. i guess the function is implemented inside main.js of vimrc support plugin .. no? 
 " remember this >> never forget to unbind space
+" does this 
+" [](the_url_in_ur_clipboard)
 unmap <Space>
-map <Space>p :pasteinto
+map <Space>p :pasteinto<CR>
 
 " we all know that the built-in vim in obsidian is limited
 " so some features would not exist
 " but we can still map/link to some corresponding obsidian ones.. as follows
 	" like folds
 exmap togglefold obcommand editor:toggle-fold
-nmap zo :togglefold
-nmap zc :togglefold
-nmap za :togglefold
+nmap zo :togglefold<CR>
+nmap zc :togglefold<CR>
+nmap za :togglefold<CR>
 
 exmap unfoldall obcommand editor:unfold-all
-nmap zR :unfoldall
+nmap zR :unfoldall<CR>
 
 exmap foldall obcommand editor:fold-all
-nmap zM :foldall
+nmap zM :foldall<CR>
 
 " escape normal mode with jk AS Esc
 imap jk <Esc>
 
 
 " j AND k navigate visual lines rather than logical ones {both n&v modes}
+" useless ig
 nmap <Space>j gj
 nmap <Space>k gk
 vmap <Space>j gj
@@ -92,106 +97,82 @@ vmap <Space>k gk
 " cycle between tabs {left/right} {both n&v modes}
 exmap tableft obcommand workspace:previous-tab
 exmap tabright obcommand workspace:next-tab
-nmap gt :tabright 
-nmap gT :tableft 
-vmap gt :tabright 
-vmap gT :tableft 
+nmap gt :tabright<CR>
+nmap gT :tableft<CR>
+vmap gt :tabright<CR>
+vmap gT :tableft<CR>
 " make splits {both n&v modes}
 exmap vertsplit obcommand workspace:split-vertical
 exmap horisplit obcommand workspace:split-horizontal
-nmap <Space>v :vertsplit
-nmap <Space>V :horisplit
-vmap <Space>v :vertsplit
-vmap <Space>V :horisplit
+nmap <Space>v :vertsplit<CR>
+nmap <Space>V :horisplit<CR>
+vmap <Space>v :vertsplit<CR>
+vmap <Space>V :horisplit<CR>
 
 " integrating gx,gf,gd for vim {my way.. ok}
 exmap followBothLinksAndNotes obcommand editor:follow-link
 exmap openDefinitionSplit obcommand editor:open-link-in-new-split
 exmap openNoteInNewTab obcommand editor:open-link-in-new-leaf
-nmap gx :followBothLinksAndNotes
-nmap gf :followBothLinksAndNotes
-nmap gd :openDefinitionSplit
-nmap gn :openNoteInNewTab
+nmap gx :followBothLinksAndNotes<CR>
+nmap gf :followBothLinksAndNotes<CR>
+nmap gd :openDefinitionSplit<CR>
+nmap gn :openNoteInNewTab<CR>
 
 " zen mode {zen plugin by maximillion }
 exmap zen obcommand zen:toggle
-nmap <Space>z :zen
+nmap <Space>z :zen<CR>
 
 " command palette
 exmap cmd obcommand command-palette:open
-nmap <Space>cp :cmd
+nmap <Space>cp :cmd<CR>
 
 " filesearch
 exmap fuzzyfind obcommand switcher:open
-nmap <Space>ff :fuzzyfind
+nmap <Space>ff :fuzzyfind<CR><CR>
+nmap <Space>pv :fuzzyfind<CR><CR>
 
 " Close/restore current tab
 exmap closetab obcommand workspace:close
 exmap undoClosetab obcommand workspace:undo-close-pane
-nmap <Space>x :closetab
-nmap <Space>X :undoClosetab
+nmap <Space>x :closetab<CR>
+nmap <Space>X :undoClosetab<CR>
  
-" close obsidian itself {the whole window}
+" close obsidian itself {the whole app}
 exmap obclose obcommand workspace:close-window
-nmap <Space>`` :obclose
+nmap <Space>`` :obclose<CR>
 
 
 " Focus on global search input
 exmap globalsearch obcommand global-search:open
-nmap <Space>gs :globalsearch
+nmap <Space>gs :globalsearch<CR>
 
 " move/swap 1 line up/down {n&v&i modes}
 exmap lineUp obcommand editor:swap-line-up
 exmap lineDown obcommand editor:swap-line-down
-nmap <A-d> :lineDown
-nmap <A-f> :lineUp
-vmap <A-d> :lineDown
-vmap <A-f> :lineUp
-imap <A-d> :lineDown
-imap <A-f> :lineUp
+nmap <A-d> :lineDown<CR>
+nmap <A-f> :lineUp<CR>
+vmap <A-d> :lineDown<CR>
+vmap <A-f> :lineUp<CR>
+imap <A-d> :lineDown<CR>
+imap <A-f> :lineUp<CR>
 
 " focus/navigate splits .. not that important for me i guess
 exmap focusUp obcommand editor:focus-top
 exmap focusDown obcommand editor:focus-bottom
 exmap focusLeft obcommand editor:focus-left
 exmap focusRight obcommand editor:focus-right
-nmap <A-h> :focusLeft
-nmap <A-j> :focusDown
-nmap <A-k> :focusUp
-nmap <A-l> :focusRight
+nmap <A-h> :focusLeft<CR>
+nmap <A-j> :focusDown<CR>
+nmap <A-k> :focusUp<CR>
+nmap <A-l> :focusRight<CR>
 
 " strong select (custom)
 nmap <Space>ll $v0f<Space>l
 " ##separator~~~lol~~~all above works fine##
+map <Space>c5 i1<CR>2<CR>3<CR>4<CR>5<Esc>v4k
+map <Space>c6 i1<CR>2<CR>3<CR>4<CR>5<CR>6<Esc>v5k
+
+
 
 ```
 
-# not done
-- [ ]  ctrl n/p search
-	- [ ] [[Win/Linux]: Support Ctrl+N/P for navigating items in dropdowns - Feature requests - Obsidian Forum](https://forum.obsidian.md/t/win-linux-support-ctrl-n-p-for-navigating-items-in-dropdowns/6788/17)
-	- [ ] [Ctrl-J / Ctrl-K Hotkey for navigation within command palette and quick switcher - Feature requests - Obsidian Forum](https://forum.obsidian.md/t/ctrl-j-ctrl-k-hotkey-for-navigation-within-command-palette-and-quick-switcher/7751/13)
-	- [ ] [darlal/obsidian-switcher-plus: Enhanced Quick Switcher plugin for Obsidian.md](https://github.com/darlal/obsidian-switcher-plus)
-
- - [ ] but there are some little things that i like to add to this config
-	- [ ] how to make `gf` open files {follow up the wiki links `[[]]`}
-	- [ ] how to switch tabs with for example `gt` and `gT`
-# done
-- [x] gf
-	- [x] aka follow link
-	- [x] gx
-		- [x] open url ?
-- [x] cycle between tabs {left/right}
-- [x] start/end of line ez  {`space h/l`}
-- [x] move line up and down with {`alt d/u`} 
-- [x] zen mode > `space z`
-- [x] create splits > `space v/V`
-	- [x] focus/nav splits with alt hjkl
-- [x] pasteinto > `space p` {not alt p}
-- [x] quite close tab > `space x`
-	- [x] undo `space X`
-- [x] focus on global search input > `space gs`
-	- same as `ctrls shift f`
-- [x] is switcher:open same as `ctrl q` > ok try add also space ff {fuzzyfind}
-- [x] add command palette > `space cp`
-- [x] close all obsidian ?
-	- `space `` `

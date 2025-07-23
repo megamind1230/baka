@@ -1,7 +1,7 @@
 #todo 
 - [x] concrete class .. normal class {not abstract}
 - [x] [[0-abstract-class-vs-interface-in-csharp]]
-- [ ] [[0-var-vs-let-csharp-js-and-hoisting-and-readonly]]
+- [x] [[0-var-vs-let-csharp-js-and-hoisting-and-readonly]]
 - [x] [[0-nullable-reference-type-csharp]]
 - [x] [[0-cascading-in-sql-db]]
 - [ ] soft delete in db

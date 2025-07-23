@@ -1,35 +1,41 @@
-[[saving-custom-macros-as-or-into-keybindings]]
-
-[[vim-multi-line-editing]]
-[[0-why-better-to-just-use-line-numbers-instead-of-relative]]
-
-
-[[0-lua-for-nvim]]
-[[cool-nvim-keymaps]]
-[[0-nvim-simple-snippets-or-replacements]]
-
-`ctrl 6` > move to last recent file
-- [ ] quickfix list
-
-
-- time travel with 
+# done or verified ✅
+- [x] delete empty lines with regex > `:g/^$/d`
+- [x] `10%` > to the 10% spot of in file
+- [x] `ctrl 6` > move to last recent file
+- [x] time travel with 
 	- `:earlier whatever_time`
 	- `:later whatever_time`
+- [x] `gcc` > comment in vim
+- [x] make last line in screen view {not in whole file} centered >
+	- `ctrl d M` ***best***
+	- `L zz`
+	- `ctrl f zz` almost
+- [x] easy 1 to 10 in vim
+    - `i1<Esc>yy9pV9j g ctrl a` > 1:10
+- [x] `:sort! iu` > sort inverse case-insensitive unique
+- [x] motion+ regex search
+    - `d/someword` > deletes till that `someword` .. not included
+- [x] `viwy viwP` > replace a word with another, without losing the first one copied
+- [x] delete from start of line till current word `ev_d`
+- [x] append to a word `:%s/word/&addtion/g`
+- [x] open 2 files into splits
+	 - `vim -o f1 f2` > hori
+	 - `vim -O f1 f2` > vert
+	 - `:qa` to quit all
+- [x] open nvim with a specific config  `nvim -u path/to/config`
+	 - [x] `nvim -u none` with no config
+- [x] copy a whole func
+	 - [x] `vim.keymap.set("n","YK", "va{OVy", desc = "yank func on KnR indenting style")`
+	 - [x] `vim.keymap.set("n","YA", "va{Ojy", desc = "yank func on allman indenting style")`
+- [x] `:help index` show all cmds
+- [x] `:help pattern.txt` learn [[0-regex-or-regular-expressions-MOC|regex]] from vim
+- [x] `/the\>` will match ***the*** but not `there`
+	- [x] `\>` end of word
+	- [x] `\<` start of word
 
 
-- [x] [[0-the-magical-g-char-or-button-in-vim]]
-[[0-nvim-vim-replace-substitute]]
-
-- [x] [[vim-issues]]
-
-# practice
-- `vb_d`
-- `ev_d`
-- `viwy viwp` > replace a word with another
-- `viwy viwp` > replace a word with another
-- [ ] `gcc` > comment in vim #still/vim
-- [ ] vim custom command to copy all file text
-
+---
+# not done
 - [ ] `:set autowriteall`  save file when changing buffers
 - [ ] Multiple Buffers
 	```
@@ -102,76 +108,40 @@
 	ysaptli> surround paragraph with <li> tag
 	S{char} surround selection
 	```
-- delete empty lines with regex
-	- `:g/^$/d`
-	- :g will execute a command on lines which match a regex. The regex is 'blank line' and the command is :d (delete)
 # neovim manual
-- `:help index` show all cmds
-- `:help pattern.txt` learn [[0-regex-or-regular-expressions-MOC|regex]] from vim
-- `/the\>` will match ***the*** but not `there`
-	- `\>` end of word
-	- `\<` start of word
-- [x] 56
-nvim X vs x
-	same as backspace & delete with characters
 - [ ] [Vim Awesome](https://vimawesome.com/)
 	- cool website listing all vim plugins
-
-
-
-
-
 vim
-    `gv` > re-select last selection
-    insert mode
-        `ctrl h` > delete 1char back
-        `ctrl w` > delete 1word back
-        `ctrl u` > delete till line start
     vim fileName +number > open and go to this line number
     this better works with {non relative line numbers}
          wanna copy line 17 to the line below ur cursor {cursor on 10}
                `:17t.`
-    open 2files into splits
-         `vim -o f1 f2` > hori
-         `vim -O f1 f2` > vert
-    copy a whole func
-         `vim.keymap.set("n","YY", "va{Vy",opts)`
-    open nvim with a specific config
-         `nvim -u path/to/config`
-         `nvim -u none`
 
 
-insert mode
-       auto complete > ctrl p/n
-append more to a word
-       `:%s/word/&addtion/g`
 delete selection and replace it with the thing on the clipboard {without losing the thing in the clipboard}
        `xnoremap <leader>p "_dP`
-                 cuz u delete into the blackwhole reg "_"
-motion+regex
-    `d/someword` > deletes till that word in file
-
-`:sort! iu` > sort inverse case-insensitive unique
-
-[[vimrc-examples]]
-[[nvim-buffers-and-windows-or-splits-and-tabs]]
-[[vim-arabic-support]]
-[[0-vim-nvim-folds]]
-
-insert mode
-       `ctrl n/p` or `ctrl xi` > single word complete
-       `ctrl xl` > identical lines complete
-
-easy 1 to 10 in vim
-    `1<Esc>yy9pV9j g ctrl a` > 1:10
-
-
-make last line in screen view {not in whole file} centered >
-	`L zz`
-	`ctrl d M`
-	`ctrl f zz` almost
-
-`10%` > to the 10% spot of in file
-
-
-[[0-nvim-setup-for-programming]]
+                 cuz u delete into the blackwhole reg `"_"`
+- vim pages
+	- the undo tree
+	- using diagraphs
+	- marks
+	- tips
+	- holy grail
+# ref
+- [ ] [[saving-custom-macros-as-or-into-keybindings]]
+- [ ] [[vim-multi-line-editing]]
+- [ ] [[0-why-better-to-just-use-line-numbers-instead-of-relative]]
+- [ ] [[0-lua-for-nvim]]
+- [ ] [[cool-nvim-keymaps]]
+- [ ] [[0-nvim-simple-snippets-or-replacements]]
+- [ ] [[0-nvim-the-magical-g-char-or-button-in-vim]]
+- [ ] [[0-nvim-vim-replace-substitute]]
+- [ ] [[vim-issues]]
+- [ ] [[0-nvim-setup-for-programming]]
+- [ ] [[quickfix-list-nvim]]
+- [ ] [[nvim-completion]]
+- [ ] [[vimrc-examples]]
+- [ ] [[nvim-buffers-and-windows-or-splits-and-tabs]]
+- [ ] [[vim-arabic-support]]
+- [ ] [[0-vim-nvim-folds]]
+- [ ] [[nvim-defaults-while-on-insert-mode-tricks]]

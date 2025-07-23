@@ -1,0 +1,19 @@
+- [x] `ctrl h` > delete 1char back
+	- [x] delete forward ? - workarounds with `ctrl o`
+- [x] `ctrl w` > delete 1word back
+- [x] `ctrl u` > delete till line start
+- [x] `ctrl o` >  allows for 1 normal mode cmd
+- [x] `ctrl j/m` > enter/newline
+- [x] `ctrl t/d` > indent/un-indent
+- [x] `ctrl v <Esc>` > drops the `^[` which stands for esc
+- [x] `ctrl r reg` > paste the register
+	- [x] `ctrl r=` > do simple math
+- [x] `ctrl a` > last inserted text
+- [ ] `ctrl x` > completion, must combine with more keybindings
+	- [x] `ctrl n/p` > next/prev completion
+	- [x] `ctrl xf` > file
+	- [x] `ctrl xl` > line
+	- [ ] `ctrl xo` > neovim native lsp omni-completion
+	- [ ] `ctrl xs` > spell suggest
+	- [ ] `ctrl xk` > dict
+- [ ] `ctrl k char1 char2` > digraphs and insane characters, legatures 

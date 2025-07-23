@@ -6,15 +6,15 @@
 - [x] Joins
 - [x] Normalization
 - [x] Extension Method
-- [ ] Anonymous type
+- [x] [[anonymous-type]]
 - [x] Filtration {select}
-- [ ] Transformation
+- [x] [[transformation-db-or-sql]]
 - [x] Ordering
 - [x] Database
 - [x] [[procedure]]
 - [x] Functions
-- [ ] Trigger
-- [ ] Index
+- [x] [[sql-trigger]]
+- [x] [[sql-index]]
 # intro
 - [x] Intro to Computer Science
 - [x] Intro to Problem Solving
@@ -31,7 +31,7 @@
 - [x] String
 - [x] Arrays
 - [x] Functions
-- [x] `ref` `out` `in` keyword
+- [x] [[out-ref-in-keywords-in-csharp]]
 - [x] enum and flags
 - [x] Exception handling
 # OOP
@@ -47,15 +47,15 @@
 - [x] boxing & unboxing & casting
 - [x] Inheritance, base, child
 - [x] Polymorphism
-- [ ] Polymorphism’sOperations
+- [x] [[polymorphisms-operations]]
 - [x] `override` keyword
 - [x] `abstract` keyword
 - [x] `virtual` keyword
 - [x] `new` keyword
 - [x] `as` keyword
 - [x] interface
-- [ ] usage of interface
-- [ ] interface vs abstract class
+- [x] [[usage-of-interface]]
+- [x]  [[interface-vs-abstract-class]]
 
 # c# advanced 
 - [x] Generics
@@ -64,7 +64,7 @@
 - [ ] List methods
 - [ ] C# Features
 # .Net
-- [ ] LINQ
+- [x] LINQ
 - [ ] Generation
 - [ ] Quantifier
 - [ ] Grouping
@@ -80,7 +80,6 @@
 - [ ] MVC
 - [ ] APIs
 # final
-- [ ] Recap
-- [ ] git & github
+- [x] git & github
 - [ ] Search for Design patterns
 - [ ] Full Project

@@ -12,7 +12,7 @@
 [[0-arco-linux-MOC]]
 [[0-kde-plasma-MOC]]
 [[0-gnome-MOC]]
-[[FancyWM-(a-tiling-WM)-for-windows-10-shortcuts]]
+[[0-FancyWM-(a-tiling-WM)-for-windows-10-shortcuts]]
 [[i3wm-trial]]
 [[0-popos-MOC]]
 [[distro-hopping-scripts]]

@@ -15,7 +15,7 @@
 - [ ]  why vscode leaves the previous selection after pasting?
 	`ctrl x` does not cut as usual ?
 - [ ] [[0-how-to-fast-view-your-html-in-the-browser]]
-- [ ] [[0-vscode-neovim-extension-or-neovim-inside-vscode-MOC]]
+- [ ] [[nvim-and-vscode-mixing]]
 - [ ] vim selection and vscode selection are separate?
 - [ ] [[how-to-terminal-popup-in-vscode]]
 - [ ]  how to set vscode to open with not terminals and welcome page on the UI?

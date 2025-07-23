@@ -1,6 +1,5 @@
-#1
-طيب معايا تشامب عايز اتعلمه اعمل ايه
-الموضوع كالتالي
+- طيب معايا تشامب عايز اتعلمه اعمل ايه
+- الموضوع كالتالي
 - للمبتدئين خااالص
 	- 3 min (اسم التشامب) guide
 		- https://www.youtube.com/playlist?list=PLHdLJeeTQbtIrtOwvmJcO6XkKK5KKp18T

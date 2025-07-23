@@ -71,7 +71,7 @@
 
 
 # counters
-[[my-champion-pool-lol]]
+[[0-my-champion-pool-lol]]
 # champ specific
 jinx, aphel, ez, mf > neutral > {engage, poke, enchanter}
 cait > pair with a poke supp > cuz most of her damage is from headshot that must be stacked safely

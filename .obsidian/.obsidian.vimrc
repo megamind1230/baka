@@ -53,6 +53,8 @@ map s= :surround_highlight<CR>
 
 " pasteinto as space p {good with hyperlinks}.. i guess the function is implemented inside main.js of vimrc support plugin .. no? 
 " remember this >> never forget to unbind space
+" does this 
+" [](the_url_in_ur_clipboard)
 unmap <Space>
 map <Space>p :pasteinto<CR>
 
@@ -76,6 +78,7 @@ imap jk <Esc>
 
 
 " j AND k navigate visual lines rather than logical ones {both n&v modes}
+" useless ig
 nmap <Space>j gj
 nmap <Space>k gk
 vmap <Space>j gj
@@ -116,6 +119,7 @@ nmap <Space>cp :cmd<CR>
 " filesearch
 exmap fuzzyfind obcommand switcher:open
 nmap <Space>ff :fuzzyfind<CR><CR>
+nmap <Space>pv :fuzzyfind<CR><CR>
 
 " Close/restore current tab
 exmap closetab obcommand workspace:close
@@ -123,7 +127,7 @@ exmap undoClosetab obcommand workspace:undo-close-pane
 nmap <Space>x :closetab<CR>
 nmap <Space>X :undoClosetab<CR>
  
-" close obsidian itself {the whole window}
+" close obsidian itself {the whole app}
 exmap obclose obcommand workspace:close-window
 nmap <Space>`` :obclose<CR>
 
@@ -157,5 +161,3 @@ nmap <Space>ll $v0f<Space>l
 " ##separator~~~lol~~~all above works fine##
 map <Space>c5 i1<CR>2<CR>3<CR>4<CR>5<Esc>v4k
 map <Space>c6 i1<CR>2<CR>3<CR>4<CR>5<CR>6<Esc>v5k
-
-

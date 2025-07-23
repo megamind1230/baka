@@ -203,6 +203,8 @@
 - varus
 - vayne
 - veigar
+	- `veigar` cage `hwei` stun
+	- `veigar` cage `viktor` burst
 - vel'koz
 - vex
 - vi

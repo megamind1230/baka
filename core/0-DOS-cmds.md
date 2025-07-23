@@ -1,6 +1,4 @@
-#1 
-commands `cmds` for windows operating systems
-> tbh .. the cmds are weird AF
+`cmds` for windows
 - `cd` 
   ![[Pasted-image-20221213112346.png|350]] somehow like pwd here
 	- `cd/` root 
@@ -38,4 +36,3 @@ commands `cmds` for windows operating systems
 - default apps for specific extensions
 	- `assoc`
 	- also can reassign `assoc .mp4=VLC.vlc`
-- [ ] pdf of coffee website about powershell ?

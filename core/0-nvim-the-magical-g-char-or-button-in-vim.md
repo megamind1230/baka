@@ -20,7 +20,7 @@
 - the opposite of `gq` {warps lines} is `J gJ` {joins lines}
 	- `J` join with {just one space} in between
 	- `gJ` join next line {keeping its same indentation}
-- `gv` > back to previously selected text
+- `gv` > re-select last selection
 - `g&` > run last {substitute command} but this time on the whole file {globally}
 
 - `gh` on any part of code 
@@ -28,7 +28,8 @@
 	- shows the hover tooltip
 		- useful to know type of variable for example
 
-
+- `gi` sends you to the last place you left Insert mode 
+- `g?` > caeser cipher
 
 # gn
 ```

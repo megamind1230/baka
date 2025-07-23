@@ -1,4 +1,3 @@
-#1
 
 [Linux Ricing Crash Course (minimal, simple yet pretty rice for newbies) - YouTube](https://www.youtube.com/watch?v=SRqVuAUP2N0)
 #linux/arch_based

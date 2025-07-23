@@ -426,7 +426,7 @@
 	- أمثلة
 		- تعلم كيف تتعلم
 			- ![[0-the-little-book-of-talent-{ali-mo-ali}]]
-			- ![[0-the-first-20-hours-اول-20-ساعة-{ali-mo-ali}]]
+			- ![[0-the-first-20-hours-{ali-mo-ali}]]
 		- معرفة اللغة الإنجليزية
 		- التفكير النقدي critical thinking
 			-  [critical thinking](https://www.goodreads.com/list/show/103982._)

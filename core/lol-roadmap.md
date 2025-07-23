@@ -22,7 +22,7 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[types-of-champs-according-to-range]]
 - [ ] [[AD---AP---true-damage]]
 - [ ] [[0-your-first-baby-steps-in-league]]
-- [ ] [[helpful-(-channels-)]]
+- [ ] [[helpful--channels-lol]]
 - [ ] [[0-lol-helpful-websites-or-apps]]
 - [ ] [[my-lol-game-settings]]
 - [ ] [[how-to-ping-and-when]]
@@ -55,7 +55,7 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[walk-or-recall]]
 - [ ] [[when-to-roam]]
 - [ ] [[when-to-group-or-team-fight]] ^iwdhpg
-- [ ] [[when-to-solo-fight]]
+- [ ] [[0-when-to-solo-fight]]
 - [ ] when to tp and how your team can cycle tp in a lane to save it
 - [ ] when to split-push ?
 - [ ] when to baron ?

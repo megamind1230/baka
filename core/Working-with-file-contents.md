@@ -18,5 +18,5 @@
 - `stat`
 	- معلومات عن الفايل
 
-[[nano-shortcuts]]
+[[0-nano-shortcuts]]
 

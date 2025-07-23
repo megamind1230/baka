@@ -1,4 +1,5 @@
 # intro
+- a great video to save for later [Neovim Config Switcher - YouTube](https://www.youtube.com/watch?v=LkHjJlSgKZY)
 - it is not about `vim` itself.. it is about `vim motions efficiency`
 - `vimtutor` in shell to learn vim inside terminal in linux
 - a buffer = a file in vim sometimes
@@ -149,11 +150,8 @@ By following this roadmap, you’ll gradually become proficient in Neovim and un
 
 ### insert mode
 - 6 ways {not all ways though} to enter insert mode `i I a A o A`
-- `esc` > back to normal mode
-- `gi` sends you to the last place you left Insert mode 
+- `esc` `ctrl c` `ctrl [` > back to normal mode
 
-- `ctrl o` in insert mode 
-	- allows for 1 normal mode cmd
 
 ### ex command mode
 - `:sort`
@@ -195,11 +193,10 @@ visual block-wise `ctrl v`
 	- `r{char}` > replace just current char with {char}
 		- `R` > replace as you go till you hit `esc` 
 	- `s` > substitute char (enters insert mode)
-		- `x` > delete char{forwards} {not entering insert mode}
+		- `x` > delete char{forwards} {not entering insert mode} , `X` > same {backwards}
 		- delete whole line while in `normal mode`
 			- `S` > same as `dd` {del whole line} but + `insert mode`
 			- `C` > del rest of line + insert mode
-			- `X` > del char {backwards} 
 - move and navigate
 	- `:20` or `20G` or `20gg` all same > go line 20
 		- `:.+50`

@@ -10,4 +10,4 @@
 - [ ] [[0-champions-i-hate-or-need-to-counter-lol]]
 - [ ] [[aphelios-lol]]
 - [ ] [[katarina-lol]]
-- [ ] [[my-champion-pool-lol]]
+- [ ] [[0-my-champion-pool-lol]]

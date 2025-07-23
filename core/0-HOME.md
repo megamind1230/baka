@@ -1,21 +1,20 @@
-#todo
+- [ ] [[Anonymous-type]]
+- [ ] [[anonymous-obj-and-func-and-dto]]
+- [ ] [[transformation-db-or-sql]]
+- [ ] [[procedure]]
+- [ ] [[sql-trigger]]
+- [ ] [[sql-index]]
+- [ ] [[IEnumerable-csharp]]
+- [ ] [[dll-in-csharp]]
+- [ ] [[linq-in-csharp]]
+- [ ] [[DTO-in-csharp]]
+- [ ] [[polymorphisms-operations]]
+- [ ] [[usage-of-interface]]
+- [ ] [[interface-vs-abstract-class]]
 
-# today
-
-- [ ] And there is a whole bunch of motions starting with `]` 
-	- or `[. ]s` will move to the next misspelled word, 
-	- `]z` moves to the next open fold, and there are many more (plugins can even add up to those)
-
-- [ ] [[scan-this-channel-or-channel-scanning-MOC]]
 
 
-https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing
-vim pages
-the undo tree
-using diagraphs
-marks
-tips
-holy grail
+[grad projects](https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing) 
 cmp-cmdline.nvim
 figma as skill
 cd
@@ -23,10 +22,6 @@ by default go to ~
 alias rm="rm -I"
 alias cp="cp -r"
 vim 
-to write esc in cmd mode
-ctrl v esc
-which gives `^[`
-veigar w hwei stun
 octo.nvim
 nvim -d file1 file2
 opens files in diff mode
@@ -661,6 +656,121 @@ livecodes.io
 
 
 
+drafting
+drafting prio
+    top mid supp jg adc
+`picks` 4,5 blueside are good to be either {top, mid} or {supp, jg}
+
+The authenticity of host 'github.com (140.82.121.3)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names.
+
+
+
+
+$ ssh-keygen -t ed25519 -C "hassan24641@gmail.com"
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/c/Users/dt/.ssh/id_ed25519):
+Enter passphrase for "/c/Users/dt/.ssh/id_ed25519" (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/dt/.ssh/id_ed25519
+Your public key has been saved in /c/Users/dt/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:xVVlCTDv/cqVU2WAYAWRLxcNBYROIf9fImtpiIntmGE hassan24641@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|        . *%BO=.+|
+|         =+.= .+ |
+|         o+. o  o|
+|         .o.+ ...|
+|        S  oo...o|
+|       o o . = o+|
+|      E + . = .oo|
+|     . =   o . o.|
+|      o .     o  |
++----[SHA256]-----+
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGiPs4X3gUDuDh7g9bKys3bL7FvwY90pJovdg0UwtbdB hassan24641@gmail.com
+
+
+app to compress videos size
+i love lualine to be on top NOT BOTTOM
+
+oil.nvim,telescope,live theme changer, treesj, mini.surround, flash.nvim, tabout, conform instead of nonels, harpoon, nvim.colorizer, 
+
+why ahk super q doesnt work on windows related apps ?
+
+what is wrong with my reddit?
+
+the primeagen config vids
+emacs as a cpp ide for fci new-comers
+kitty use vim mode shortcuts
+
+what is rss feed ?
+
+set default yazi launch apps .. also for thunar
+  yazi.toml ex from github
+
+git sync obsidian vault
+  make a gitignore {ignoring a folder that you put most of the files there}
+    then just sync these
+    and day to day grap so outside of that folder to be synced
+
+qtile mouse/touchpad support
+	set mouse double click, scrolls
+
+ctt nvim
+
+ctrl c/v doesn't work while on arabic layout .. qtile
+
+proper youtube video cli downloader / script
+
+gnu stow for dotfile management
+
+what is tmux
+
+korean/chinese/arabic fonts
+
+good ways to backup your system { config, dotfiles, scripts, aliases, installed packages } 
+
+qtile mute mic
+
+nerd fonts icons in neovim 
+	works but {somehow icons not showing}
+
+docker create VMs, emacs versions {better or just use vbox}
+
+read ppl vim keybindings , what cool tricks they have {primeagen}
+
+telda card
+
+set arabic in neovim
+
+ahk
+
+change thunar default terminal emulator
+
+
+clipboard manager 
+	copyq	https://www.youtube.com/watch?v=DhfwWH5N3IA
+	clipmenu	https://www.youtube.com/watch?v=nfPSpkqv0UM
+
+notify-send issue
+
+
+what is obsidian.nvim
+
+nvim  
+  html,css,js setup 
+  script to create them all 
+  snippets in nvim
+  c# & .NET setup nvim
+  cpp setup nvim + snippets
+
+howebrew on linux?
+
+zathura marking
 
 
 

@@ -1,2 +1,0 @@
-[The Only Video You Need to Get Started with Neovim - YouTube](https://www.youtube.com/watch?v=m8C0Cq9Uv9o&t=103s)
-- i guess better learn after ***LunarVim***

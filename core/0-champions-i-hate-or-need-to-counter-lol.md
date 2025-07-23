@@ -1,7 +1,5 @@
-[[my-champion-pool-lol]]
-> countered by: H
-
-> he counters: E
+[[0-my-champion-pool-lol]]
+> countered by: H, he counters: E
 
 # top
 - urgot
@@ -58,3 +56,4 @@
 - garen
 	- H: quinn, ww, kayle, trundle, urgot, yoric
 	- E: yasuo, gwen, ksante, riven, jax, renek
+- [ ] aatrox

@@ -1,0 +1,5 @@
+- [ ] insert mode
+	- `ctrl n/p` or `ctrl xi` > single word complete
+	- `ctrl xl` > identical lines complete
+- [ ] [[nvim-plugin-ultisnip]]
+- [ ] [[nvim-plugin-luasnip]]

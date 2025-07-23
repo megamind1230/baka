@@ -1,4 +1,3 @@
-#1
 ~ 4:40 min video
 - coursera > robert sedgwick algo course (p1 crucial, p2)
 - implement everything yourself write after

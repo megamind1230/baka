@@ -1,4 +1,3 @@
-#todo
 ## indurement
 - [x] [[fitness-and-calisthenics]]
 - [ ] [[reading-books-moc]]
