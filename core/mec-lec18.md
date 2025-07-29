@@ -1,5 +1,5 @@
 #todo 
-- [x] [[anonymous-obj-and-func-and-dto]]
+- [x] [[0-anonymous-obj-and-func-vs-dto]]
 - [ ] [[controller]]
 - [ ] [[postman-and-swagger-]]
 - [ ] [[cqrs]]

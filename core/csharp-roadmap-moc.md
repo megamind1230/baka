@@ -24,4 +24,5 @@ MVC ITI ، API ITI مهندسه كريستين
 - [x] [[0-repo-kalutu-csharp-for-everybody]]
 - [x] [[0-learn-csharp]]
 - [ ] [[tim-corey-csharp-tournament-tracker]]
+- [ ] [[csharp-training-by-ms]]
 # dirty code refining or remodeling

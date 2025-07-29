@@ -1,13 +1,8 @@
-- [ ] [[Anonymous-type]]
-- [ ] [[anonymous-obj-and-func-and-dto]]
 - [ ] [[transformation-db-or-sql]]
-- [ ] [[procedure]]
 - [ ] [[sql-trigger]]
 - [ ] [[sql-index]]
 - [ ] [[IEnumerable-csharp]]
 - [ ] [[dll-in-csharp]]
-- [ ] [[linq-in-csharp]]
-- [ ] [[DTO-in-csharp]]
 - [ ] [[polymorphisms-operations]]
 - [ ] [[usage-of-interface]]
 - [ ] [[interface-vs-abstract-class]]
@@ -16,23 +11,8 @@
 
 [grad projects](https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing) 
 cmp-cmdline.nvim
-figma as skill
-cd
-by default go to ~
-alias rm="rm -I"
-alias cp="cp -r"
-vim 
-octo.nvim
-nvim -d file1 file2
-opens files in diff mode
 
-or
-if u opened the 2 files in splits already
-:windo diffthis
-g/sum/d
-delete all lines with sum
-g!/sum/d
-delete all lines without sum
+
 delete into the black hole reg in nvim
 keybinding
 ctrl w h

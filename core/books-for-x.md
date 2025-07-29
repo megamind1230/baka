@@ -1,10 +1,8 @@
-#1
 # core
 [[books-for-prog-ps-cp-cs]]
 [[books-for-parenting]]
 [[books-for-debates]]
 [[books-for-mentality]]
-[[books-for-rd-shobohat]]
 [[books-for-chill-kids-and-arabic]]
 [[books-for-math]]
 
@@ -632,4 +630,4 @@ My Top 5 Books On Entrepreneurship 📚 ali abdal
 مجالس القرءان الشيخ فريد الانصاري  
 رياض الازهار محمد رشدي سلامة  
 شأن الدعاء للخطابي  
-الاربعون الرياضية
+- [x] الاربعون الرياضية

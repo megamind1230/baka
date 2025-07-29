@@ -1,2 +1,0 @@
-- [ ] [[stored-procedure]]
-- [ ] [[procedure-vs-func]]

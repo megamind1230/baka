@@ -1,12 +1,11 @@
-#1
 > nice hobby to do {search TIL on github}
 
 # graduation project ideas
 
 ## [[0-my-grad-proj-ideas]] 
 
-## [web or both](https://nevonprojects.com/project-ideas/software-project-ideas/)
-
+## web or both
+[ref](https://nevonprojects.com/project-ideas/software-project-ideas/)
 - Topic Detection Using Keyword Clustering
 - Fingerprint Voting System Project
 - Waste Food Management & Donation App
@@ -16,6 +15,7 @@ idk.. maybe not
 - Blockchain based Cloud File Sharing System
 - File Transfer System using Elliptic Curve Cryptography
 ## mobile
+idk
 
 
 
@@ -23,11 +23,7 @@ idk.. maybe not
 - [ ] vscodevim contribute to add more missing functionalities
 - [ ] links storage app /  extension
 	- link repo app
-
-- [ ] serious talk
-	- Omegle
-	- بس بدون سكيب ولازم الاتنين يوافقوا على ال skip علشان تحصل
-	- بتفتح التطبيق ومينفعش تقفله لمدة بتحددها من الأول وبعدين عادي تقفله
+- [ ] [[my-serious-talk-app]]
 - [ ] radio phone calls app
 - [ ] Make a website to host images of mind maps / recaps  .. u pay uploaders from the ad profit [[0-ideas#graduation project ideas|can relate to mine here]]
 - [ ] Follow me bot..
@@ -42,13 +38,7 @@ and having some discussion about them
 - [ ] مشروع جراف الأسانيد
 - [ ] a simple project to transfer gobrish english into the corresponding keystrokes in Arabic and vice versa
 
-- [ ] تطبيق عامل زي ال stop watch
-	بس لما بعمل وحدة لازم اعمل تاج ليها
-	في النهاية بيعمل جرد احصائي لمجموع الوقت اللي قضيته في الحاجة دي
-	زي مثلا هفتح واحدة اسمها  vim
-	واقعد 30 دقيقة
-	وكنت بالفعل كنت عملت 20 دقيقة قبلها
-	يبقى المجموع في  vim= 50 min
+- [ ] [[my-custom-stop-watch-app]]
 
 - [ ] a project to scrape what is the most used terms in the exams pdfs.. then highlight them inside the pdf with different colors (according to frequency).. to study the most important then next.. and so on
 - [ ] game of villages ..  {game of games}
@@ -70,25 +60,7 @@ can try provide a csv of values .. advanced i guess
 or at least tells me to either
 kite, attack while in range , run down enemy, run from enemy 
 
-- [ ] عايز اعمل فكرة تطبيق time blocking
-بحيث تدخل انت اسم المهمة والتوقيت من إلي
-وبعدين التطبيق بيجمع المهام دي بحيث مجموع توقيتاتهم ميزدش عن 24 ساعة
-لما تخلص وضع بيانات صالحة
-بتظهر ليك analog clock
-وفيه الـ sections 
-دي من المواعيد متلونة
-كل مهمة بلون معين
-```
-i wanna make a pretty small time blocking app
-that uses the time blocking method approved by MIT/ oxford/ Cambridge 
-i forgot which one
-i wanna display 2 analog clocks for AM,PM
-user inputs task either on a txt file or from the text box field
-in the format like
-"05am:08am doing warmups"
-the app then colorized this time block on the proper analog clock
-btw the clock syncs with the actual zone time
-```
+- [ ] [[time-blocking-app]]
 
 - [ ] make your generic cpp classes for trees , linked lists.. etc
 
@@ -218,7 +190,3 @@ so you share this single idea till you get some more information about that topi
 		- only txt website
 		- files are volatile .. deleted every day
 	- maybe later .. we can add dump channels ... like forums {with question in the link}
-
-
-mnk4 حلقة في ودنك
-

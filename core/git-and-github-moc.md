@@ -1,7 +1,11 @@
-#1
+
+# more ref
+[[traversy-media-git-and-github]]
+[[code-academy-git-and-github]]
+[[gitexercises]]
 [[git-and-github-issues]]
 [[0-diff-command]]
-
+[[w3schools-and-more-git-and-github-moc]]
 [[git-kraken]]
 
 
@@ -88,11 +92,4 @@ status
 log
 	commit history
 	`git log`
-showcase flow
-	![[Pasted-image-20240222123228.png|300]]
-more ref
-	[[traversy-media-git-and-github]]
-	[[code-academy-git-and-github]]
-	[[gitexercises]]
-	[[w3schools-git-and-github]]
-
+showcase flow ![[Pasted-image-20240222123228.png|300]]

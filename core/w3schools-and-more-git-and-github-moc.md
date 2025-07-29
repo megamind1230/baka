@@ -1,20 +1,19 @@
+#todo
 [ref](https://www.w3schools.com/git/default.asp?remote=github)
 
-things i figured out
 
-`git config --list` > list every change in config file
-`git push --set-upstream origin master`
-	same as `git push -u origin master`
-`git checkout sha1` switches to that commit 
+- [x] `git config --list` > list every change in config file
+- [x] `git push --set-upstream origin master`, same as `git push -u origin master`
+- [x] `git checkout sha1` switches to that commit 
 
 
 ---
 
-- `git --version` verifies that you installed git
-- let Git know who you are, each Git commit uses this information
-	- `git config --global user.name "w3schools-test"`
+- [x] `git --version` verifies that you installed git
+- [x] let Git know who you are, each Git commit uses this information
+	- [x] `git config --global user.name "w3schools-test"`
 		- notice `user.name`
-	- & `git config --global user.email "test@w3schools.com"`
+	- [x] `git config --global user.email "test@w3schools.com"`
 		- `--global` to set the username and e-mail `for every repository on your computer`.
 ---
 
@@ -41,11 +40,11 @@ things i figured out
 
 ---
 > Git Branch
-- `git branch` list available branches
-- `git switch -b B` switches to branch B 
+- [x] `git branch` list available branches
+- [x] `git switch -b B` switches to branch B 
 	- `-b` {and creates it if not created already}
 	- `switch` = `checkout`
-- to merge A into B 
+- [x] to merge A into B 
 	- switch to B {the core} `git switch B`
 	- then `git merge A` {the addition}
 	-   `git branch -d Name` delete a branch locally
@@ -60,7 +59,7 @@ things i figured out
 - making a new repo on `GitHub` does just mean that you are making a place to host your code in
 	- so if you have a local repo on your machine.. you can link it with the `GitHub` new repo .. so you can sync/push changes into it
 	- that {linking} is done like:
-		- `git remote add origin github_repo_https_URL`
+		- `git remote add origin github_repo_https_URL` https, or `git remote add origin github_repo_ssh_URL` ssh
 			- specifies that you are adding a remote repository, with the specified URL, as an origin to your local Git repo.
 				- `git remote --verbose`
 	- now to {push} `local master` to `remote origin` & make `remote origin` as the default remote branch
@@ -75,7 +74,7 @@ things i figured out
 
 > Pull from GitHub
 
-- pull from github to keep up-to-date with git
+- pull from github to keep git up-to-date
 	- `pull` = `fetch` + `merge`
 		- on local master `git fetch origin` gets the change history of the tracked branch/repo
 			- like saying: just sync ideas with remote .. but wait for my orders.. more like getting a `hidden status report` from remote
@@ -87,8 +86,8 @@ things i figured out
 - ---
 
 > Push to GitHub
-- do some local changes
-	- then `git push origin` to push from Git into GitHub to keep it up-to-date
+- [x] do some local changes
+	- then `git push origin master` to push from Git into GitHub to keep it up-to-date
 
 - ---
 
@@ -313,3 +312,52 @@ git stash apply stashIndex
 # best log cmd
 git log --graph --oneline --decorated
 ```
+
+- [x] switch from https to ssh
+```bash
+# generate ssh public-key
+ssh-keygen -t rsa -b 4096
+# copy public-key, put it on github
+cat ~/.ssh/whatever.pub
+# relink to the remote repo
+git remote set-url origin git@github.com:username/repo_name.git
+# check connection
+ssh -T git@github.com
+
+# sometimes this is needed
+eval `ssh-agen -s`
+	#the private-key
+ssh-add -K ~/.ssh/whatever 
+# again check connection
+ssh -T git@github.com
+```
+
+- [ ] [[cicd-pipeline-github]]
+> continuous integration / continuous deployment
+- [ ] how to do a PR{pull request} on github
+
+
+
+- [ ] undoing
+- `git revert <commit>` Create new commit that undoes all of the changes made in `<commit>`, then apply it to the current branch.
+- `git reset <file>` Remove `<file>` from the staging area, but leave the working directory unchanged. This unstages a file without overwriting any changes.
+-  `git clean -n` Shows which files would be removed from working directory. Use the -f flag in place of the -n flag to execute the clean.
+
+- [ ] rewriting git history
+- `git commit --amend` Replace the last commit with the staged changes and last commit combined. Use with nothing staged to edit the last commit’s message.
+- `git rebase <base>` Rebase the current branch onto `<base>`. `<base>` can be a commit ID, branch name, a tag, or a relative reference to `HEAD`.
+- `git reflog` Show a log of changes to the local repository’s `HEAD`. Add `--relative-date` flag to show date info or `--all` to show all refs.
+
+- [ ] git reset
+	- `git reset` reset staging area to match most recent commit, but leave the working directory unchanged
+	- `git reset --hard` reset staging area and working directory to match most recent commit and overwrites all changes in the working directory
+	- `git reset <commit>` move the current branch tip backward to `<commit>`, reset the staging area to match, but leave the working directory alone.
+	- `git reset --hard <commit>` same, bu resets both the staging + working to match. deletes uncommited, and all commits after `<commit>`
+- [ ]  git rebase
+	- `git rebase -i <base>` interactively rebase current branch onto `<base>`. launches editor to enter cmds for how each commit will be transferred to the new base.
+- [ ] git pull
+	- `git pull --rebase <remote>` fetch the remote's copy of current branch and rebases it into the local copy. uses git rebase instead of merge to integrate the branches
+- [ ] git push
+	- `git push <remote> --force` forces the git push even if it results in a non-fast-forward merge. do not use the `--force` nless ur sure
+	- `git push <remote> --all` push all of your local branches to the specified remote
+	- `git push <remote> --tags` tags are not auto pushed when you push a branch or use the `--all`.  `--tags` sends all local tags to remote repo

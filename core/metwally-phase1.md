@@ -5,7 +5,7 @@
 	- using the lang?
 - [Javascript Cheat Sheet | OverAPI.com](https://overapi.com/javascript)
 # code tools
-- [x] [[git-and-github]]
+- [x] [[git-and-github-moc]]
 - [ ] unit test
 - [ ] build for different OSs #still/roadmap/what_do_he_mean
 # linux server

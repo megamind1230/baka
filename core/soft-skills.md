@@ -1,4 +1,3 @@
-#1
 - Best 3 soft skills
 	- Negotiation
 	- Leadership

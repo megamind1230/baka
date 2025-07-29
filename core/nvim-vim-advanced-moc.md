@@ -19,8 +19,10 @@
 - [x] delete from start of line till current word `ev_d`
 - [x] append to a word `:%s/word/&addtion/g`
 - [x] open 2 files into splits
-	 - `vim -o f1 f2` > hori
-	 - `vim -O f1 f2` > vert
+	 - `nvim -o f1 f2` > hori
+	 - `nvim -O f1 f2` > vert
+	 - `nvim -d file1 file2` opens files in diff mode
+		- or if u opened the 2 files in splits already `:windo diffthis`
 	 - `:qa` to quit all
 - [x] open nvim with a specific config  `nvim -u path/to/config`
 	 - [x] `nvim -u none` with no config
@@ -32,6 +34,10 @@
 - [x] `/the\>` will match ***the*** but not `there`
 	- [x] `\>` end of word
 	- [x] `\<` start of word
+- [x] `g!/sum/d` delete all lines without `sum`
+
+	
+
 
 
 ---

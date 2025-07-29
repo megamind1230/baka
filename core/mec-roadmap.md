@@ -1,52 +1,52 @@
 #todo
-# DB & sql
-- [x] What is DB
-- [x] What is ERD
-- [x] Mapping
-- [x] Joins
-- [x] Normalization
-- [x] Extension Method
-- [x] [[anonymous-type]]
-- [x] Filtration {select}
+# db & sql
+- [x] what is db
+- [x] what is erd
+- [x] mapping
+- [x] joins
+- [x] normalization
+- [x] extension method
+- [x] [[0-anonymous-type]]
+- [x] filtration {select}
 - [x] [[transformation-db-or-sql]]
-- [x] Ordering
-- [x] Database
-- [x] [[procedure]]
-- [x] Functions
+- [x] ordering
+- [x] database
+- [x] [[0-stored-procedure]]
+- [x] functions
 - [x] [[sql-trigger]]
 - [x] [[sql-index]]
 # intro
-- [x] Intro to Computer Science
-- [x] Intro to Problem Solving
-- [x] What is and why programming?
-- [x] Setup Environment for C# (VS code)
-- [x] What is backend?
-- [x] C# program life cycle
-- [x] Variables, Inputs and outputs in C#
-- [x] Data Types, Type Casting
-# C# BASICS 
-- [x] (Arithmetic, compound and increment and decrement operators)
-- [x] Conditions
-- [x] Loops: for, while , do-while , foreach
-- [x] String
-- [x] Arrays
-- [x] Functions
+- [x] intro to computer science
+- [x] intro to problem solving
+- [x] what is and why programming?
+- [x] setup environment for c# (vs code)
+- [x] what is backend?
+- [x] c# program life cycle
+- [x] variables, inputs and outputs in c#
+- [x] data types, type casting
+# c# basics 
+- [x] (arithmetic, compound and increment and decrement operators)
+- [x] conditions
+- [x] loops: for, while , do-while , foreach
+- [x] string
+- [x] arrays
+- [x] functions
 - [x] [[out-ref-in-keywords-in-csharp]]
 - [x] enum and flags
-- [x] Exception handling
-# OOP
-- [x] struct vs Class
+- [x] exception handling
+# oop
+- [x] struct vs class
 - [x] ctor
 - [x] chaining ctors
-- [x] Object
-- [x] `ToString()`
-- [x] Encapsulation
-- [x] Abstraction
+- [x] object
+- [x] `tostring()`
+- [x] encapsulation
+- [x] abstraction
 - [x] get, set
 - [x] operators overloading
 - [x] boxing & unboxing & casting
-- [x] Inheritance, base, child
-- [x] Polymorphism
+- [x] inheritance, base, child
+- [x] polymorphism
 - [x] [[polymorphisms-operations]]
 - [x] `override` keyword
 - [x] `abstract` keyword
@@ -58,28 +58,28 @@
 - [x]  [[interface-vs-abstract-class]]
 
 # c# advanced 
-- [x] Generics
+- [x] generics
 - [ ] lambda expression
 - [x] [[delegates-and-events]]
-- [ ] List methods
-- [ ] C# Features
-# .Net
-- [x] LINQ
-- [ ] Generation
-- [ ] Quantifier
-- [ ] Grouping
-- [ ] Partitioning operators
-- [ ] Ef core vs dapper vs ado .net
-- [ ] Ways for mapping
-- [ ] Dbcontext
-- [ ] Migration
-- [ ] EF Core
-- [ ] Relationships
-- [ ] Loading types
-- [ ] Tracking and no tracking
-- [ ] MVC
-- [ ] APIs
+- [ ] list methods
+- [ ] c# features
+# .net
+- [x] linq-in-csharp
+- [ ] generation
+- [ ] quantifier
+- [ ] grouping
+- [ ] partitioning operators
+- [ ] ef core vs dapper vs ado .net
+- [ ] ways for mapping
+- [ ] dbcontext
+- [ ] migration
+- [ ] ef core
+- [ ] relationships
+- [ ] loading types
+- [ ] tracking and no tracking
+- [ ] mvc
+- [ ] apis
 # final
 - [x] git & github
-- [ ] Search for Design patterns
-- [ ] Full Project
+- [ ] search for design patterns
+- [ ] full project

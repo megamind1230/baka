@@ -1,5 +1,5 @@
 # intro
-- a great video to save for later [Neovim Config Switcher - YouTube](https://www.youtube.com/watch?v=LkHjJlSgKZY)
+- [x] a great video to save for later [Neovim Config Switcher - YouTube](https://www.youtube.com/watch?v=LkHjJlSgKZY)
 - it is not about `vim` itself.. it is about `vim motions efficiency`
 - `vimtutor` in shell to learn vim inside terminal in linux
 - a buffer = a file in vim sometimes

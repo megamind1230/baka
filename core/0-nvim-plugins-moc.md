@@ -18,6 +18,9 @@
 - [ ] [[nvim-plugin-zoomwin]]
 - [ ] [[nvim-plugin-vim-sparkup]]
 - [ ] [[nvim-plugin-competest]]
+- [ ] [[nvim-plugin-octo-nvim]]
+
+
 
 
 # done

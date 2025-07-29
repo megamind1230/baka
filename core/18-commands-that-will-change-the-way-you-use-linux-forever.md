@@ -1,6 +1,6 @@
-#1
-- from learnlinuxtv
+- from ***learnlinuxtv***
 	- `cd -` >last dir I was in
+	- `cd` by default go to ~
 	- `ctrl l` > more like clearing the screen (but not)
 		- `reset` > is like clear (but more into resetting your shell session)
 	- `pushd` , `popd` > stacking any set of dir
