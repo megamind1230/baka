@@ -1,6 +1,6 @@
 #todo 
 31-05-2025
-- [x] linq-in-csharp
+- [x] [[0-linq-in-csharp]]
 > lec13 in yt
 
 

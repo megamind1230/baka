@@ -1,4 +1,4 @@
-- introbird 
+- [x] introbird 
 - tobby lag-uire
 - pc clear
 - eren yoga

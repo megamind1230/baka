@@ -1,4 +1,3 @@
-#1
 q5
 ```
 int *fun(){int *x=new int(10); return x;}

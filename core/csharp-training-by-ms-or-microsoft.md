@@ -19,3 +19,14 @@
 ```
 
 > `Trim()` for leading, trailing spaces
+
+
+> `CLR = common lang runtime` {memory, garbage collector, threads}
+> `JIT = just in time compiler` IL > machine code
+
+> string vs stringBuilder
+
+|         | string                                | StringBuilder    |
+| ------- | ------------------------------------- | ---------------- |
+|         | immutable                             | mutable, dynamic |
+| changes | changing it creates a new obj on heap | no               |

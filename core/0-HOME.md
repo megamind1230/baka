@@ -6,7 +6,15 @@
 - [ ] [[polymorphisms-operations]]
 - [ ] [[usage-of-interface]]
 - [ ] [[interface-vs-abstract-class]]
-
+- [ ] [[lambda-expression]]
+- [ ] [[list-methods]]
+- [ ] [[linux-directory-structure-explained]]
+- [ ] [[algo-info]]
+- [ ] [[ds-exception]]
+- [ ] [[postman-and-swagger]]
+- [ ] [[mvc]]
+- [ ] [[object-keyword]]
+- [ ] [[cqrs]]
 
 
 [grad projects](https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing) 
@@ -137,11 +145,6 @@ lossless cut app
 قفل التطبيقات من الاعدادات 
 الرقابة الأبوية تطبيق
 
-arch wifi connect
-iwctl
-device list
-station wlan0 get-networks
-station wlan0 connect Nameofwifi
 
 
 idea

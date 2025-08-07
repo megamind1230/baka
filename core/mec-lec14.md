@@ -10,6 +10,6 @@
 - [ ] [[observer-pattern-vs-publisher-and-subsciber-pattern-and-what-is-message-broker]]
 - [ ] [[dependency-inversion]] [[solid-priciples]]
 - [ ] [[method injection]]
-- [x] linq-in-csharp
+- [x] [[0-linq-in-csharp]]
 - [ ] [[entity-framwork]]
 - [ ] [[string-vs-string-builder]]

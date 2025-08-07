@@ -1,4 +1,3 @@
-#1
 - [How To Make ANY Mic Sound PROFESSIONAL (Audacity)](https://www.youtube.com/watch?v=Q8piTf-AiZ0)
 	- use noise reduction fx then
 		- fx > filter curve > manage > factory presets
@@ -9,3 +8,4 @@
 			- if high .. make it lower and the like
 		- fx > limiter
 			- hard limit
+

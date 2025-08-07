@@ -24,7 +24,4 @@
 - [ ] dynamic keyword
 - [ ] postman application
 - [ ] IEnumerable .. and other builtin interfaces
-- [ ] async programming 
-	- [ ] threads
-	- [ ] tasks
-
+- [ ] [[task-and-thread-syntax-and-async-programming]]

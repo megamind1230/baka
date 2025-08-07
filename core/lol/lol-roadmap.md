@@ -71,7 +71,7 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] when to proxy
 - [ ] [[when-to-report]]
 - [ ] [[when-to-dodge-a-game]]
-- [ ] [[when-to-use-chat]]
+- [ ] [[0-when-to-use-chat-in-lol]]
 - [ ] [[how-to-chat-with-friends-while-in-game]]
 - [ ] [[0-smurf]]
 - [ ] [[wintrading]]

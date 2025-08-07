@@ -1,4 +1,3 @@
-#1
 # [diagrams {obsidian mermaid}](https://youtu.be/rXhUeV5Ko7g?si=JdPIGHVgnaogwtsd)
 
 [Tutorials | Mermaid](https://mermaid.js.org/ecosystem/tutorials.html)

@@ -13,7 +13,7 @@
 
 - [ ] [[thread-pool]]
 
-- [ ]  [[task-and-thread-syntax]]
+- [ ]  [[task-and-thread-syntax-and-async-programming]]
 - [ ] physical vs logical thread
 - [ ] how-it-js-single-threaded-and-csharp-is-multi-threaded
 - [ ] [[semaphore]]

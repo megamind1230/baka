@@ -1,8 +1,7 @@
 #todo 
 - [x] [[0-anonymous-obj-and-func-vs-dto]]
-- [ ] [[controller]]
-- [ ] [[postman-and-swagger-]]
-- [ ] [[cqrs]]
-- [ ] [[mvc]]
-- [ ] [[object-keyword]]
+- [x] [[postman-and-swagger]]
+- [x] [[cqrs]]
+- [x] [[mvc]]
+- [x] [[object-keyword]]
 - [ ] [[how-to-send-photos-in-the-endpoint]]

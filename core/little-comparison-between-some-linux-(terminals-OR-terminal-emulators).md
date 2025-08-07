@@ -1,4 +1,3 @@
-#1
 
 tilix > tiling & sessions .. not light-weight pretty hight ram usage
 terminator > a bit lighter

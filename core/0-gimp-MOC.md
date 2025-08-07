@@ -1,4 +1,3 @@
-#1
 # done
 - [x] how to outline text
 [[0-resizing-and-scaling]]

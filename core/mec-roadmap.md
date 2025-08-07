@@ -53,18 +53,18 @@
 - [x] `virtual` keyword
 - [x] `new` keyword
 - [x] `as` keyword
-- [x] interface
+- [x] [[interface-vs-abstract-class]]
 - [x] [[usage-of-interface]]
 - [x]  [[interface-vs-abstract-class]]
 
 # c# advanced 
 - [x] generics
-- [ ] lambda expression
+- [x] [[lambda-expression]]
 - [x] [[delegates-and-events]]
-- [ ] list methods
-- [ ] c# features
+- [x] [[list-methods]]
+- [x] [[0-as-vs-is-operators-in-csharp]]
 # .net
-- [x] linq-in-csharp
+- [x] [[0-linq-in-csharp]]
 - [ ] generation
 - [ ] quantifier
 - [ ] grouping

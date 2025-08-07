@@ -1,2 +1,1 @@
-#1
-- [ ] https://dev-random.net/linux-directory-structure-explained/
+- [x] https://dev-random.net/linux-directory-structure-explained/

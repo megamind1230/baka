@@ -190,3 +190,5 @@ so you share this single idea till you get some more information about that topi
 		- only txt website
 		- files are volatile .. deleted every day
 	- maybe later .. we can add dump channels ... like forums {with question in the link}
+
+- [ ] [[wiki-channels-project]]

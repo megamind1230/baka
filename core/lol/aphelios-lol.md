@@ -1,0 +1,8 @@
+- [ ] [The Most Important Thing for Mastering Aphelios... - Aphelios Guide - YouTube](https://www.youtube.com/watch?v=aWEBsjX2R0Q&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4)
+	- a
+- [ ] [19 Aphelios Things You Should Start Doing - YouTube](https://www.youtube.com/watch?v=zDTWe_eRqnA&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=3&t=1s)
+	- a
+- [ ] [You’re playing Aphelios WRONG, here’s why.. - Daynean Rotation Guide - YouTube](https://www.youtube.com/watch?v=jJPbFNRqqXc&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=3&t=3s)
+	- a
+- [ ] [The FULL GUIDE to Aphelios - Guns, Combos, Matchups, Laning and Tips - LoL Guide - YouTube](https://www.youtube.com/watch?v=zgN9xVo96i0&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4&t=374s)
+	- a

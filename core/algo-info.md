@@ -1,4 +1,3 @@
-#1
 
 #has_corrupt_img
 # Prime 1

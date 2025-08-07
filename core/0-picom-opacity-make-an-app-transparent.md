@@ -1,0 +1,3 @@
+- [x] in the `opacity-rule`
+	- add the group name that your app belongs to 
+		- use `xprop` .. copy the `WM_CLASS(STRING)` property

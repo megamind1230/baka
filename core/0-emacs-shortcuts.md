@@ -1,4 +1,3 @@
-
 - `ctrl x`
 	- `left/right`  > prev/next buffer
 	- `0` > delete this window

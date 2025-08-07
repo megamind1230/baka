@@ -1,4 +1,3 @@
-#1
 > WM = window managers
 > DE = desktop environments
 
@@ -17,3 +16,4 @@
 [[0-popos-MOC]]
 [[distro-hopping-scripts]]
 [[qtile-MOC]]
+[[0-picom-opacity-make-an-app-transparent]]

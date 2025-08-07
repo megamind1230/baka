@@ -1,17 +1,17 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "#rev1",
+      "query": "file: moc",
       "color": {
         "a": 1,
-        "rgb": 16776960
+        "rgb": 14701138
       }
     }
   ],
@@ -20,11 +20,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.618556701030928,
+  "repelStrength": 8.96907216494845,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 299,
   "scale": 0.11333085351503763,
   "close": true
 }
