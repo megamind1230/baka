@@ -2,6 +2,7 @@
 > remember that all of this is thoery, and what matter the most is practical skill .. tho these are still useful sometimes
 - [x] [The FULL GUIDE to Aphelios - Guns, Combos, Matchups, Laning and Tips - LoL Guide - YouTube](https://www.youtube.com/watch?v=zgN9xVo96i0&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4&t=374s)
 - [x] [19 Aphelios Things You Should Start Doing - YouTube](https://www.youtube.com/watch?v=zDTWe_eRqnA&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=3&t=1s)
+- [x] [The Most Important Thing for Mastering Aphelios... - Aphelios Guide - YouTube](https://www.youtube.com/watch?v=aWEBsjX2R0Q&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4)
 - abbreviations used
 	- `AD` > attack damage
 	- `AA` > auto attack / basic attack
@@ -24,6 +25,7 @@
 	- `proc` > activate/consume
 	- `prio` > prioritize
 
+
 # rondo da sosa
 -  best stats upgrades
 	- `AD > L > AS` general
@@ -41,7 +43,8 @@
 	- `e` spot shows what's next
 - [x] squeeze `AA` before using `q` or `R`
 	- as long as n are in range .. just prio `AA` .. only if they are about to run away use your `q` or `R`
-	
+
+
 ## green
 - range ~= cait range
 - `q`
@@ -50,6 +53,8 @@
 			- so you proc the mark faster by just `st`
 	- invis n marked with `q` are revealed 
 	- to check bushes
+	- triggers `OHW`
+
 
 ## red
 - `AA` yasuo/samria behind their wall
@@ -58,16 +63,19 @@
 	- gives `MS` .. so good for escapes
 	- locks all ur abilities
 
+
 ## purple
 - `AA` slows .. so better hold on `q` if n escapes
 - `q`
 	- can activate `q` before it actually connects
+
 
 ## blue
 - `AA` 
 	- is 2nd safest weapon to poke with
 - `q` 
 	- longer range than `AA`
+
 
 ## white
 - `AA` 
@@ -82,9 +90,11 @@
 	- [ ] best way to stack them ? #quest
 - `q`
 	- [x] triggers `OHW`
+	- prio n first
 	- good for zoning n / melee fights
 	- can be placed over wide walls
 	- un-targettable if n dont walk into it
+
 
 ## R
 - can only `f R` ✅
@@ -103,8 +113,10 @@
 				- 3 gives {`5 + 1*3 = 8`}
 
 
+
 # champs synergy
 -  see this note [[synergy-champs-lol]]
+
 
 # weapons synergy
 - ***red white*** >> best for single target, melee dps || only good in 2 situations 
@@ -120,11 +132,19 @@
 				- [x] or get `5+ chakrams` .. and `just near AA`
 - ***green purple*** >> setup and long range execute
 	- `purple q green qR AA AA`
+- ***blue white*** >> stack chakrams on minions 
+	- `blue q` minions to get 1 chakram for each .. plus it's a fast wave clear
+
+
+# weapon rotation
+> THE RULE:  finish `red` whenever possible, then the `oldest` weapon you have
+- [x] if you miss your rotation .. the best way to solve it .. it just follow THE RULE  .. that's it
 
 
 # runes, builds, spells, laning
 - runes
 	- [x] `pta` general
+	- `lethal temp` vs 3+ tanks
 - build
 	- [x] `IE > collector > AS boots > ldr > BT/shieldbow > runaan` general
 		- collector first item is ***really bad*** vs {3+ tanks / AS heavy adc}
@@ -132,6 +152,7 @@
 	- `cleanse` vs ashe braum ..  heavy cc
 	- `exhaust` vs draven, samira  .. burst
 	- [x] `barrier` general
+
 ## laning
 -  lvl 1 is ass
 - [x] aphel is way better with `enchanter supp`, than with enagage/tank supp
@@ -140,11 +161,13 @@
 
 
 # not done
-- [ ] [The Most Important Thing for Mastering Aphelios... - Aphelios Guide - YouTube](https://www.youtube.com/watch?v=aWEBsjX2R0Q&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4)
 - [ ] [You’re playing Aphelios WRONG, here’s why.. - Daynean Rotation Guide - YouTube](https://www.youtube.com/watch?v=jJPbFNRqqXc&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=3&t=3s)
 - [ ] [Aphelios Weapon Rotation + Combos Guide : r/ApheliosMains](https://www.reddit.com/r/ApheliosMains/comments/xuo3ck/aphelios_weapon_rotation_combos_guide/)
+
+
 # extras
 - [x] the 4 guns combo
 	- the idea is to have the 2 weapons only having `<=10 ammos`
 	- great dps, but still rare to happen or hard to maintain
 - [ ] [still dont get this](https://youtu.be/zDTWe_eRqnA?t=205) #quest
+

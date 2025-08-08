@@ -82,7 +82,7 @@
             }
           },
           {
-            "id": "e52bcbee6ba938dc",
+            "id": "e2ce82c11f784ae2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
