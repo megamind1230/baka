@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "b948a226507548e5",
+            "id": "b1053370bcaf34e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,7 +82,7 @@
             }
           },
           {
-            "id": "02121f97e1f8945f",
+            "id": "e52bcbee6ba938dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -168,21 +168,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core/w3schools-and-more-git-and-github-moc.md",
+                "file": "core/lol/aphelios-lol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of w3schools-and-more-git-and-github-moc"
+              "title": "Outline of aphelios-lol"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +198,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b948a226507548e5",
+  "active": "b1053370bcaf34e1",
   "lastOpenFiles": [
     "core/0-HOME.md",
     "core/lol/aphelios-lol.md",
+    "core/lol/synergy-champs-lol.md",
+    "core/zathura.md",
+    "core/0-nvim-plugin-netrw-builtin.md",
     "core/lol/0-my-champion-pool-lol.md",
     "core/lol/katarina-lol.md",
     "core/lol/0-champions-i-hate-or-need-to-counter-lol.md",
@@ -215,7 +218,6 @@
     "core/lol/lol-MOC.md",
     "core/lol",
     "core/block-fab-websites.md",
-    "core/synergy-champs-lol.md",
     "core/0-3rd-2nd-paragraphs.md",
     "core/diagrams-{obsidian-mermaid}.md",
     "core/a-year-on-youtube.md",
@@ -225,8 +227,6 @@
     "core/mec-lec18.md",
     "core/how-to-send-photos-in-the-endpoint.md",
     "core/mvc.md",
-    "core/postman-and-swagger.md",
-    "core/0-sxiv-image-viewer-not-editor.md",
     "attachments/Pasted-image-20231103175105.png",
     "attachments/Pasted-image-20230725080421.png",
     "attachments/Pasted-image-20230725080802.png",
