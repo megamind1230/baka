@@ -1,3 +1,4 @@
+# done and abbrev
 > remember that all of this is thoery, and what matter the most is practical skill .. tho these are still useful sometimes
 - [x] [The FULL GUIDE to Aphelios - Guns, Combos, Matchups, Laning and Tips - LoL Guide - YouTube](https://www.youtube.com/watch?v=zgN9xVo96i0&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4&t=374s)
 - [x] [19 Aphelios Things You Should Start Doing - YouTube](https://www.youtube.com/watch?v=zDTWe_eRqnA&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=3&t=1s)
@@ -40,7 +41,8 @@
 	- `e` spot shows what's next
 - [x] squeeze `AA` before using `q` or `R`
 	- as long as n are in range .. just prio `AA` .. only if they are about to run away use your `q` or `R`
-# green
+	
+## green
 - range ~= cait range
 - `q`
 	- best early game poke/dps with animation cancel
@@ -49,25 +51,25 @@
 	- invis n marked with `q` are revealed 
 	- to check bushes
 
-# red
+## red
 - `AA` yasuo/samria behind their wall
 - `q`
 	- prio n even if they are inside the wave .. ***careful to use it under n turret***
 	- gives `MS` .. so good for escapes
 	- locks all ur abilities
 
-# purple
+## purple
 - `AA` slows .. so better hold on `q` if n escapes
 - `q`
 	- can activate `q` before it actually connects
 
-# blue
+## blue
 - `AA` 
 	- is 2nd safest weapon to poke with
 - `q` 
 	- longer range than `AA`
 
-# white
+## white
 - `AA` 
 	- is slow from far, faster when close
 	- cannot dps until they swing back
@@ -84,7 +86,7 @@
 	- can be placed over wide walls
 	- un-targettable if n dont walk into it
 
-# R
+## R
 - can only `f R` ✅
 - `AOE` range is wider than you think
 	- so `R` the close enemy .. to mark and kill the far one
@@ -105,17 +107,20 @@
 -  see this note [[synergy-champs-lol]]
 
 # weapons synergy
-- ***red white*** >> only good in 2 situations
+- ***red white*** >> best for single target, melee dps || only good in 2 situations 
 	- [x] can solo drake {if u have `BF sword`  or more }
 	- [x] good in melee fights
 		- [x] `red q` `white AA` till stacks are gone .. repeat
-- ***green white***  >> best long range poke/ kiting / zoning
+- ***green white***  >> best long range poke/ kiting / zoning  || best for single target, wide range dps
 	- [x] wide range poke `white q AA` .. and you still switch to green for extra poke
 		- notice that AA are a bit slow/delayed .. cuz must proc the green mark
 			- way better to do these instead
 				- if you are in green AA range .. it way better to do
 					- [x] `white q green AA`  .. so switching to green would squeeze 1 more AA .. faster
 				- [x] or get `5+ chakrams` .. and `just near AA`
+- ***green purple*** >> setup and long range execute
+	- `purple q green qR AA AA`
+
 
 # runes, builds, spells, laning
 - runes
@@ -133,9 +138,6 @@
 	- cuz the first would help you sustain till late game, and focus on cs
 - [x] best first buy is `BF sword > pick axe > 2 long swords`
 
-# my opinion
-green white > best for single target, wide range dps
-red white > best for single target, melee dps
 
 # not done
 - [ ] [The Most Important Thing for Mastering Aphelios... - Aphelios Guide - YouTube](https://www.youtube.com/watch?v=aWEBsjX2R0Q&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4)
