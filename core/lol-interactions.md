@@ -1,2 +1,0 @@
-
-`alistar` w, `veigar` e

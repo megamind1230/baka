@@ -31,4 +31,4 @@ qwert red & 12345 blue
 
 ```
 
-turn off (anit-aliasing) > give a tiny overhead, fps drop
+- [x] turn off (anit-aliasing) > give a tiny overhead, fps drop

@@ -1,4 +1,3 @@
-#1
 - micro > know ur champ 
 	- kit { passive + abilities }
 	- combos { skill rotations }

@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "b1053370bcaf34e1",
+            "id": "e7d37214e19b878f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,7 +82,7 @@
             }
           },
           {
-            "id": "e2ce82c11f784ae2",
+            "id": "dbdbfb6d5c6f8c5b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -177,8 +177,7 @@
               "title": "Outline of aphelios-lol"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,11 +198,24 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b1053370bcaf34e1",
+  "active": "e7d37214e19b878f",
   "lastOpenFiles": [
     "core/0-HOME.md",
+    "core/lol/the-drr-the-daynean-rotation-rule-for-aphelios.md",
     "core/lol/aphelios-lol.md",
+    "core/lol/how-to-earn-from-lol.md",
+    "core/lol/helpful-channels-lol.md",
+    "core/lol/micro-vs-macro-lol.md",
+    "core/lol/make-ur-lol-presentation-of-skills.md",
+    "core/lol/drafting-lol.md",
+    "core/lol/lol-scripting.md",
+    "core/lol-interactions.md",
+    "core/lol/lol-roadmap.md",
     "core/lol/synergy-champs-lol.md",
+    "core/lol/my-lol-game-settings.md",
+    "core/lol/0-lol-helpful-websites-or-apps.md",
+    "core/lol/aphelios-lol-weapons-combos-or-synergy.md",
+    "core/aphelios-weapons-info-and-r-lol.md",
     "core/zathura.md",
     "core/0-nvim-plugin-netrw-builtin.md",
     "core/lol/0-my-champion-pool-lol.md",
@@ -213,21 +225,8 @@
     "core/lol/zoe-lol.md",
     "core/lol/akshan-lol.md",
     "core/lol/0-yasuo-lol.md",
-    "core/lol/lol-roadmap.md",
     "core/lol/0-akali-lol.md",
-    "core/lol/0-draven-lol.md",
-    "core/lol/lol-MOC.md",
     "core/lol",
-    "core/block-fab-websites.md",
-    "core/0-3rd-2nd-paragraphs.md",
-    "core/diagrams-{obsidian-mermaid}.md",
-    "core/a-year-on-youtube.md",
-    "core/0-adel-samir-passive-income-resources.md",
-    "core/todo.md",
-    "core/money-moc.md",
-    "core/mec-lec18.md",
-    "core/how-to-send-photos-in-the-endpoint.md",
-    "core/mvc.md",
     "attachments/Pasted-image-20231103175105.png",
     "attachments/Pasted-image-20230725080421.png",
     "attachments/Pasted-image-20230725080802.png",

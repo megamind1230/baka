@@ -5,12 +5,13 @@
 - akshan
 	- [x] `braum` passive `akshan` passive
 - alistar
+	- [ ] `alistar` w `veigar` e
 - amumu
 - anivia
 	- [x] `poppy` e `anivia` w
 - annie
 - aphelios
-	- [ ] aphelios melio
+	- [ ] aphelios milio
 - ashe
 - aurelion sol
 - azir

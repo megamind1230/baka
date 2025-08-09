@@ -22,7 +22,7 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[types-of-champs-according-to-range]]
 - [ ] [[AD---AP---true-damage]]
 - [ ] [[0-your-first-baby-steps-in-league]]
-- [ ] [[helpful--channels-lol]]
+- [ ] [[helpful-channels-lol]]
 - [ ] [[0-lol-helpful-websites-or-apps]]
 - [ ] [[my-lol-game-settings]]
 - [ ] [[how-to-ping-and-when]]
@@ -94,7 +94,6 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[when-to-gank-lanes]]
 - [ ] [[when-to-freeze-or-slow-push-lol]]
 - [ ] [[0-adc-laning-phase-guide]]
-- [ ] [[lol-interactions]]
 - [ ] [[0-good-videos-for-lol-noobs]]
 - [ ] [[lvl-up-timers]]
 

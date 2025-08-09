@@ -1,4 +1,3 @@
-#1
 - champ abilities details
 	- fandom
 - champ builds & runes
