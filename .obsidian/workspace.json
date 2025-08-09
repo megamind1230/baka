@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "e7d37214e19b878f",
+            "id": "612f7abf9db2b5d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/lol/aphelios-lol.md",
+                "file": "core/lol/0-the-drr-the-daynean-rotation-rule-for-aphelios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aphelios-lol"
+              "title": "0-the-drr-the-daynean-rotation-rule-for-aphelios"
             }
           }
         ],
@@ -58,7 +58,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -82,7 +82,7 @@
             }
           },
           {
-            "id": "dbdbfb6d5c6f8c5b",
+            "id": "a73efe32d7cb7453",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "545ab8f4bf351d2b",
@@ -198,34 +197,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e7d37214e19b878f",
+  "active": "612f7abf9db2b5d8",
   "lastOpenFiles": [
+    "core/lol/0-synergy-champs-lol.md",
+    "core/lol/0-my-lol-game-settings.md",
+    "core/lol/0-aphelios-lol-weapons-combos-or-synergy.md",
+    "core/lol/0-aphelios-lol.md",
+    "core/adc-marksman-items-lol.md",
+    "core/league-of-linux-community-on-reddit.md",
     "core/0-HOME.md",
-    "core/lol/the-drr-the-daynean-rotation-rule-for-aphelios.md",
-    "core/lol/aphelios-lol.md",
-    "core/lol/how-to-earn-from-lol.md",
-    "core/lol/helpful-channels-lol.md",
-    "core/lol/micro-vs-macro-lol.md",
-    "core/lol/make-ur-lol-presentation-of-skills.md",
-    "core/lol/drafting-lol.md",
-    "core/lol/lol-scripting.md",
+    "core/0-zathura-the-vimlike-modal-and-modular-pdf-viewer.md",
+    "core/0-what-is-crontab-or-cronjob-in-bash.md",
+    "core/lol/0-the-drr-the-daynean-rotation-rule-for-aphelios.md",
+    "core/how-to-earn-from-lol.md",
+    "core/helpful-channels-lol.md",
+    "core/micro-vs-macro-lol.md",
+    "core/make-ur-lol-presentation-of-skills.md",
+    "core/drafting-lol.md",
+    "core/lol-scripting.md",
     "core/lol-interactions.md",
-    "core/lol/lol-roadmap.md",
-    "core/lol/synergy-champs-lol.md",
-    "core/lol/my-lol-game-settings.md",
-    "core/lol/0-lol-helpful-websites-or-apps.md",
-    "core/lol/aphelios-lol-weapons-combos-or-synergy.md",
+    "core/lol-roadmap.md",
+    "core/0-lol-helpful-websites-or-apps.md",
     "core/aphelios-weapons-info-and-r-lol.md",
-    "core/zathura.md",
     "core/0-nvim-plugin-netrw-builtin.md",
     "core/lol/0-my-champion-pool-lol.md",
-    "core/lol/katarina-lol.md",
+    "core/katarina-lol.md",
     "core/lol/0-champions-i-hate-or-need-to-counter-lol.md",
-    "core/lol/nidalee-lol.md",
-    "core/lol/zoe-lol.md",
-    "core/lol/akshan-lol.md",
-    "core/lol/0-yasuo-lol.md",
-    "core/lol/0-akali-lol.md",
+    "core/nidalee-lol.md",
+    "core/zoe-lol.md",
     "core/lol",
     "attachments/Pasted-image-20231103175105.png",
     "attachments/Pasted-image-20230725080421.png",

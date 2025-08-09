@@ -17,4 +17,4 @@
 	- `blue q` minions to get 1 chakram for each .. plus it's a fast wave clear
 - ***blue red*** >> healing is still nerfed by riot
 	-  `blue q` .. triggers `OHW` .. so it heals
-- ***blue green*** >> see this note [[the-drr-the-daynean-rotation-rule-for-aphelios]]
+- ***blue green*** >> see this note [[0-the-drr-the-daynean-rotation-rule-for-aphelios]]

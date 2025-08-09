@@ -3,7 +3,7 @@
 - [x] [[0-akali-lol]]
 - [x] [[lol-roadmap]]
 # not done
-- [ ] [[aphelios-lol]]
+- [ ] [[0-aphelios-lol]]
 - [ ] [[0-yasuo-lol]]
 - [ ] [[akshan-lol]]
 - [ ] [[zoe-lol]]

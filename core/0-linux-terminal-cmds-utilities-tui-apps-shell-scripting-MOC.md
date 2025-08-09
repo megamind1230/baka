@@ -48,4 +48,4 @@
 [[visudo-command]]
 [[chroot-command]]
 [[how-to-force-terminal-to-swallow]]
-[[zathura]]
+[[0-zathura-the-vimlike-modal-and-modular-pdf-viewer]]

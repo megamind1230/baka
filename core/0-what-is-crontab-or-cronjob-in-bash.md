@@ -1,5 +1,3 @@
-#1
-
 ```bash
 crontab -e # edit the cron file 
 	# or select an editor if 1st time
@@ -20,3 +18,14 @@ tail -f /var/long/syslog # what crons u have
 
 
 ```
+
+
+- install `cronie` on archlinux
+- `crontab -e` > edit the periodic file
+	- another file for root `sudo crontab -e`
+- syntax
+	- `min hour dayOfMonth month dayOfWeek cmd`
+		- 0 > sunday
+		- hour > 24 format
+		- `*/15 * * * 1-5 cmd` > repeat every 15min {from mon-fri}
+		- `5 */2 * * * /usr/bin/updatedb` > update database for `locate` cmd {5min after every 2h}

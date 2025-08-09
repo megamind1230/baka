@@ -11,7 +11,7 @@
 	- [x] `poppy` e `anivia` w
 - annie
 - aphelios
-	- [ ] aphelios milio
+	- [x] `aphelios` all `milio` all
 - ashe
 - aurelion sol
 - azir

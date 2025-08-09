@@ -1,4 +1,3 @@
-#1
 - mythic
 	- IE > huge crit
 	-  guinsoo > convert crit% into bonus ap + more aa gives AS

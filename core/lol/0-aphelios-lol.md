@@ -52,9 +52,9 @@
 
 ## [[aphelios-weapons-info-and-r-lol]]
 
-# [[synergy-champs-lol|champs synergy]]
+# [[0-synergy-champs-lol|champs synergy]]
 
-## [[aphelios-lol-weapons-combos-or-synergy|weapons synergy]]
+## [[0-aphelios-lol-weapons-combos-or-synergy|weapons synergy]]
 
 # weapons rotations
 - the idea behind `weapons rotations` is to have an idea what are the next weapons so you change your playstyle accordingly .. nothing else
@@ -65,7 +65,7 @@
 > 	- then the `oldest` weapon you have
 
 > THE `DRR` :
-- [x] [[the-drr-the-daynean-rotation-rule-for-aphelios]]
+- [x] [[0-the-drr-the-daynean-rotation-rule-for-aphelios]]
 
 
 # runes, builds, spells, laning

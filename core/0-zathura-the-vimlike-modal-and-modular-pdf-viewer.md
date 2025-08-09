@@ -1,0 +1,11 @@
+- config path > `~/.config/zathura/zathurarc`
+- `:print` to print
+- `f` open link
+- has darktheme mode
+- mouse dragging = copy text area
+- can read from stdin {if piped with the right format}
+  - meaning that it can read as pdf the files that are temporarily existing 
+    - like converting a groff file into a temp pdf preview with zathura
+      - `groff -ms example.ms -Tpdf | zathura -`
+
+- [x] [[0-use-groff-and-zathura-to-make-ur-minimal-plaine-clean-cv-or-resume]]

@@ -79,7 +79,7 @@ draven, samira > engage support {better be hooks} > passive, faster R proc
 vayne> into 4 melee {2 tanks}
 thresh > really good with immobile adc with no dashes  > lantern
 
-# [[synergy-champs-lol]]
+# [[0-synergy-champs-lol]]
 
 
 

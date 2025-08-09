@@ -24,6 +24,11 @@ return
 Run, C:\Users\dt\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Obsidian.lnk
 return
 
+; vscode
+#c::
+Run, C:\Users\dt\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code\Visual Studio Code.lnk
+return
+
 ; anki
 #a::
 Run, C:\Users\dt\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anki.lnk
