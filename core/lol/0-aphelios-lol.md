@@ -50,11 +50,11 @@
 - [x] squeeze `AA` before using `q` or `R`
 	- as long as n are in range .. just prio `AA` .. only if they are about to run away use your `q` or `R`
 
-## [[aphelios-weapons-info-and-r-lol]]
+# [[aphelios-weapons-info-and-r-lol]]
 
 # [[0-synergy-champs-lol|champs synergy]]
 
-## [[0-aphelios-lol-weapons-combos-or-synergy|weapons synergy]]
+# [[0-aphelios-lol-weapons-combos-or-synergy|weapons synergy]]
 
 # weapons rotations
 - the idea behind `weapons rotations` is to have an idea what are the next weapons so you change your playstyle accordingly .. nothing else
@@ -80,7 +80,7 @@
 	- `exhaust` vs draven, samira  .. burst
 	- [x] `barrier` general
 
-## laning
+# laning
 -  lvl 1 is ass
 - [x] aphel is way better with `enchanter supp`, than with enagage/tank supp
 	- cuz the first would help you sustain till late game, and focus on cs

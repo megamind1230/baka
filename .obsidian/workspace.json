@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/lol/0-the-drr-the-daynean-rotation-rule-for-aphelios.md",
+                "file": "core/lol/0-aphelios-lol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-the-drr-the-daynean-rotation-rule-for-aphelios"
+              "title": "0-aphelios-lol"
             }
           }
         ],
@@ -199,6 +199,7 @@
   },
   "active": "612f7abf9db2b5d8",
   "lastOpenFiles": [
+    "core/lol/0-the-drr-the-daynean-rotation-rule-for-aphelios.md",
     "core/lol/0-synergy-champs-lol.md",
     "core/lol/0-my-lol-game-settings.md",
     "core/lol/0-aphelios-lol-weapons-combos-or-synergy.md",
@@ -208,7 +209,6 @@
     "core/0-HOME.md",
     "core/0-zathura-the-vimlike-modal-and-modular-pdf-viewer.md",
     "core/0-what-is-crontab-or-cronjob-in-bash.md",
-    "core/lol/0-the-drr-the-daynean-rotation-rule-for-aphelios.md",
     "core/how-to-earn-from-lol.md",
     "core/helpful-channels-lol.md",
     "core/micro-vs-macro-lol.md",
