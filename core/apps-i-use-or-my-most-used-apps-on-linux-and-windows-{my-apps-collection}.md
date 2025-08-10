@@ -1,4 +1,3 @@
-#1
 - [x] obsidian
 - [x] kdenlive
 - [x] audacity
@@ -13,3 +12,4 @@
 - [ ] ticktick todo and pomodoro app
 - [ ] OBS studio
 - [ ] oracle virual box
+- [x] [[0-vencord-the-best-discord-mod-on-windows]]

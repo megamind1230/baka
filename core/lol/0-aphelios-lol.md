@@ -1,12 +1,18 @@
-# done and abbrev
 > remember that all of this is thoery, and what matter the most is practical skill .. tho these are still useful sometimes
 
-> daynean is the best youtuber for aphelios imo
+[[0-league-streamers]]
+
+# done
+
 
 - [x] [The FULL GUIDE to Aphelios - Guns, Combos, Matchups, Laning and Tips - LoL Guide - YouTube](https://www.youtube.com/watch?v=zgN9xVo96i0&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4&t=374s)
 - [x] [19 Aphelios Things You Should Start Doing - YouTube](https://www.youtube.com/watch?v=zDTWe_eRqnA&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=3&t=1s)
 - [x] [The Most Important Thing for Mastering Aphelios... - Aphelios Guide - YouTube](https://www.youtube.com/watch?v=aWEBsjX2R0Q&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4)
 - [x] [You’re playing Aphelios WRONG, here’s why.. - Daynean Rotation Guide - YouTube](https://www.youtube.com/watch?v=jJPbFNRqqXc&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=3&t=3s)
+- [x] [11 Aphelios Mechanics YOU Didn't Know About - YouTube](https://www.youtube.com/watch?v=O6qQAunTLgE)
+
+
+# abbrev
 - abbreviations used
 	- `AD` > attack damage
 	- `AA` > auto attack / basic attack
@@ -37,6 +43,7 @@
 	- `AD > L > AS` general
 	- `AD > AS > L`  only vs tanky {supp + jg}
 - `q` takes `10` ammos
+- `w` can cancel your `AA` .. ***be careful***
 - ***default*** weapons rotations 
 	- `green > red` >,  `purple > blue`,  > `white`
 	- 🟩 🟥 ,  🟪 🟦 ,  ⚪
@@ -49,10 +56,14 @@
 	- `e` spot shows what's next
 - [x] squeeze `AA` before using `q` or `R`
 	- as long as n are in range .. just prio `AA` .. only if they are about to run away use your `q` or `R`
+- only `green q f` > can change the start point of the `q` projectile
+	- can do it from behind the minions into your n to do them dirty
+- [x] the 4 guns combo
+	- the idea is to have the 2 weapons only having `<=10 ammos`
+	- great dps, but still rare to happen or hard to maintain
+# [[aphelios-weapons-info-and-r-lol|each weapon]]
 
-# [[aphelios-weapons-info-and-r-lol]]
-
-# [[0-synergy-champs-lol|champs synergy]]
+# [[0-synergy-champs-lol|aphelio champs synergy]]  and [[0-my-champion-pool-lol|aphel in my champ pool]]
 
 # [[0-aphelios-lol-weapons-combos-or-synergy|weapons synergy]]
 
@@ -66,6 +77,10 @@
 
 > THE `DRR` :
 - [x] [[0-the-drr-the-daynean-rotation-rule-for-aphelios]]
+
+
+> [!WARN]  > fucked up the rotation?
+> just dont follow the `GRR` and you're good
 
 
 # runes, builds, spells, laning
@@ -85,12 +100,7 @@
 - [x] aphel is way better with `enchanter supp`, than with enagage/tank supp
 	- cuz the first would help you sustain till late game, and focus on cs
 - [x] best first buy is `BF sword > pick axe > 2 long swords`
-- [x] the 4 guns combo
-	- the idea is to have the 2 weapons only having `<=10 ammos`
-	- great dps, but still rare to happen or hard to maintain
 
 
 # not done
-- [ ] [Aphelios Weapon Rotation + Combos Guide : r/ApheliosMains](https://www.reddit.com/r/ApheliosMains/comments/xuo3ck/aphelios_weapon_rotation_combos_guide/)
-- [ ] [still dont get this](https://youtu.be/zDTWe_eRqnA?t=205) #quest
-- [ ] if you miss your rotation .. the best way to solve it .. it just follow THE RULE  .. that's it ? #quest 
+

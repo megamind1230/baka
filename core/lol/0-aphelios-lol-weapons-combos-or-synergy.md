@@ -1,5 +1,3 @@
-
-# weapons synergy
 - ***red white*** >> best for single target, melee dps || only good in 2 situations 
 	- [x] can solo drake {if u have `BF sword`  or more }
 	- [x] good in melee fights

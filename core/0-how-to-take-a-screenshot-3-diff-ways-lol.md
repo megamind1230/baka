@@ -1,9 +1,8 @@
-#1
-- ubuntu
+- ubuntu { bro .. i really miss league on linux}
 	- print button (select mode)
 	- alt print (active window)
 	- or a 3rd party app (flameshot best on ubuntu i think)
-		- cntr 0 (in num keys)
+		- ctrl 0 (in num keys)
 - window
 	- win shift s (select mode)
 	- print (full screen i think)

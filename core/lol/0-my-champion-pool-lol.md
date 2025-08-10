@@ -20,3 +20,5 @@
 	- H: fiora - gwen - camille - darius - vayne
 - `ambessa` {teamfight picks }
 	- H: renek - trynd - irelia
+- `aphel` {late game hyper carry, with utility for team and wide range}
+	- H: twich - nilah - draven - kalista - caitlyn

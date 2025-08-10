@@ -1,7 +1,6 @@
-[[0-my-champion-pool-lol]]
+- [x] [[0-my-champion-pool-lol]]
 > countered by: H, he counters: E
 
-# top
 - urgot
 	- H: olaf, vlad, malph, kayle, sett
 	- E: fiora, voli

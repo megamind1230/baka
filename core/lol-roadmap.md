@@ -16,7 +16,7 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[how-to-use-youtube-as-a-beginner]]
 - [ ] [[0-how-to-add-someone-in-league]]
 - [ ] [[how-to-invite-someone-to-lobby]]
-- [ ] [[how-to-take-a-{-screenshot-}-3-diff-ways]]
+- [ ] [[0-how-to-take-a-screenshot-3-diff-ways-lol]]
 - [ ] [[how-to-screen-record-games]]
 - [ ] [[strategy-game-&-MOBA-&-league-briefly]]
 - [ ] [[types-of-champs-according-to-range]]
