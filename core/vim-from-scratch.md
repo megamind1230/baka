@@ -1,4 +1,3 @@
-#1
 - [x] https://www.vimfromscratch.com/
 
 - how to edit a saved macro {just works on vim/neovim .. not on obsidian version of vim}

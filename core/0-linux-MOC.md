@@ -1,6 +1,6 @@
 # not done
 - [ ] [[0-linux-challenges-MOC]]
-- [ ] [[0-linux-issues-MOC]]
+- [ ] [[0-linux-issues-and-random-info-MOC]]
 - [ ] [[0-distros-TWMs-DEs-MOC]]
 - [ ] [[0-linux-terminal-cmds-utilities-tui-apps-shell-scripting-MOC]]
 - [ ] [[0-app-alternatives-or-alternative-apps-MOC]]

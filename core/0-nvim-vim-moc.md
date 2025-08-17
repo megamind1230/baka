@@ -320,13 +320,8 @@ but this is a WORD this-is-a-test
 		- `2/baby` flies to 2nd baby in file 
 
 # more ref
-- [ ] [[boost-your-coding-fu-book-or-learnVim-vscode-extension]]
-- [ ] [[vim-from-scratch]]
-- [ ] [[vim-rtorr]]
-- [ ] [[vim-issues]]
 - [ ] [cheat sheet](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet)
 - [ ] [look at available in VSCodeVim now](https://github.com/VSCodeVim/Vim/blob/master/ROADMAP.md)
-- [ ] [[vimbegood-theprimeagen]]
 - [ ] [[vscodevim-extra-key-remapping]]
 - [ ] [Learn Vim](https://learnvim.irian.to/)
 - [ ] [really cool vim tricks and challenges ](https://www.vimgolf.com/)
@@ -334,5 +329,9 @@ but this is a WORD this-is-a-test
 - [ ] [Tips - Neovim docs](https://neovim.io/doc/user/tips.html#tips)
 - [ ] [Help - Neovim docs](https://neovim.io/doc/user/index.html#bars)
 # sub mocs
-- [x] [[nvim-vim-advanced-moc]]
-- [x] [[0-nvim-plugins-moc]]
+- [ ] [[nvim-vim-advanced-moc]]
+- [ ] [[nvim-vim-issues-moc]]
+- [ ] [[0-nvim-plugins-moc]]
+- [ ] [[boost-your-coding-fu-book-or-learnVim-vscode-extension]]
+- [ ] [[vim-rtorr]]
+- [ ] [[vim-from-scratch]]

@@ -142,7 +142,7 @@ delete selection and replace it with the thing on the clipboard {without losing 
 - [ ] [[0-nvim-simple-snippets-or-replacements]]
 - [ ] [[0-nvim-the-magical-g-char-or-button-in-vim]]
 - [ ] [[0-nvim-vim-replace-substitute]]
-- [ ] [[vim-issues]]
+- [ ] [[nvim-vim-issues-moc]]
 - [ ] [[0-nvim-setup-for-programming]]
 - [ ] [[quickfix-list-nvim]]
 - [ ] [[nvim-completion]]

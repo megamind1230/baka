@@ -1,5 +1,5 @@
 # [[vim-visual-multi-plugin]]
-# [[vim-surround-plugin]]
+# [[nvim-plugin-vim-surround]]
 
 regex to non-greedy select words inside " ", replace them with just the words
       `:%s/"\(.\{-}\)"/\1` non-greedy

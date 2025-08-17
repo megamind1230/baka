@@ -6,6 +6,7 @@
 - [x] [Tutorials - YouTube](https://www.youtube.com/playlist?list=PLwXdPdPXhszG8kzR4Ndm_ckJGWYpxqG7K)
 - [x] [[0-rotroscoping-kdenlive]] cutting / masking
 - [x] photolearningism-kdenlive .. easy videos 
+- [x] [[0-video-editing-websites]]
 # not done
 
 [[blackberry-boy-kdenlive-MOC]]

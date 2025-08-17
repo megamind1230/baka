@@ -1,4 +1,3 @@
-#1
 - also called obsidian md
 	- cuz it uses markdown files/notes
 - md is a superset of html

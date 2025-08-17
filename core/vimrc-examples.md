@@ -1,4 +1,3 @@
-#1 
 [GitHub - abdalrahmanshaban0/Vim-for-CP: My vim configuration to write and run C/C++ code for competitive programming or any thing similar.](https://github.com/abdalrahmanshaban0/Vim-for-CP)
 
 
@@ -74,7 +73,7 @@ set smartcase
 # vimrc for cp-ps
 
 #quest
-```
+```lua
 autocmd BufNewFile *.cpp 0r /path/to/cpp_template
 autocmd filetype cpp nnoremap <F9> :w <bar> !clear && g++ % -o %:r.exe<CR> #quest
 autocmd filetype cpp nnoremap <F10> :!./%:r.exe<CR>

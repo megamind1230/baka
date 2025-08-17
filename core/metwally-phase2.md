@@ -1,15 +1,14 @@
-#1
 # OOP
-- [ ] oop encapsulation
-- [ ] oop inheritance
-- [ ] oop abstraction
-- [ ] oop polymorphism
+- [x] oop encapsulation
+- [x] oop inheritance
+- [x] oop abstraction
+- [x] oop polymorphism
 
 # DS01
-- [ ] array
+- [x] array
 - [ ] linked list
-- [ ] stack
-- [ ] queue
+- [x] stack
+- [x] queue
 
 # DS02
 - [ ] hash table
@@ -30,4 +29,3 @@
 - [ ] KISS (keep it simple stupid) principle
 - [ ] YAGNI (you arent gonna need it) principle
 - [ ] DRY (dont repeat yourself) principle
-- examples on each 

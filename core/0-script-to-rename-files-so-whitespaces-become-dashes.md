@@ -1,6 +1,5 @@
 >btw does not work with obsidian the way expected
 
-#1
 ```bash
 #!/bin/bash
 

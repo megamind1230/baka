@@ -1,4 +1,3 @@
-#1
 
 رسمة كروكي للكود الآخير better to watch the video
 ![[Pasted-image-20230803105909.png]]

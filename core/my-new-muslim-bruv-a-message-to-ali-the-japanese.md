@@ -1,4 +1,3 @@
-#1
 Assalamu alaykom brother👋👋🙋‍♂️😁, I've watched some of your videos published almost a year ago  
 And what caught my attention in a video.. is that you said to your viewers something like you need some help to learn more and more about Islam 🤔  
 So, this is the channel of {{{Sheikh Othman Farouq}}} an English content😃  

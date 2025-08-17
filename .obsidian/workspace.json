@@ -1,72 +1,37 @@
 {
   "main": {
-    "id": "5ab8cddcc49666ae",
+    "id": "c01e221084278696",
     "type": "split",
     "children": [
       {
-        "id": "6788a1009e3592ea",
+        "id": "321892948e1376d5",
         "type": "tabs",
         "children": [
           {
-            "id": "0034273a590442ba",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/0-HOME.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "0-HOME"
-            }
-          },
-          {
-            "id": "0772f86f473405e2",
+            "id": "de1e7faacf0948cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/lol/0-aphelios-lol.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0-aphelios-lol"
-            }
-          },
-          {
-            "id": "07a83e945b8a21a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/lol/0-champions-i-hate-or-need-to-counter-lol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0-champions-i-hate-or-need-to-counter-lol"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "701474f31723e30d",
+    "id": "f538f7a6dbc02832",
     "type": "split",
     "children": [
       {
-        "id": "fd35dee57d7fe5ee",
+        "id": "f1cdcaa14dd8eb1a",
         "type": "tabs",
         "children": [
           {
-            "id": "72cee6d2dba019fe",
+            "id": "35f655cdd0f03e81",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +44,7 @@
             }
           },
           {
-            "id": "6661abc8ef91e38f",
+            "id": "90add08fe878f578",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +61,7 @@
             }
           },
           {
-            "id": "e3722b211ed56982",
+            "id": "4da1492afa5e5908",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -111,45 +76,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "545ab8f4bf351d2b",
+    "id": "f990c8298b3fb9e6",
     "type": "split",
     "children": [
       {
-        "id": "736685fb806f1ba4",
+        "id": "9a64d4edd3df9957",
         "type": "tabs",
         "children": [
           {
-            "id": "81a6838c5970beb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f13ed7249447adc7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e62176a9a4c88952",
+            "id": "dae4a3242eee671d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core/lol/0-champions-i-hate-or-need-to-counter-lol.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -158,11 +101,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0-champions-i-hate-or-need-to-counter-lol"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ffc77a793e5db0a3",
+            "id": "198703332e106d9b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,18 +120,17 @@
             }
           },
           {
-            "id": "6594421c1396822a",
+            "id": "ada2d75be948a428",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "core/lol/aphelios-lol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aphelios-lol"
+              "title": "Outline"
             }
           }
         ]
@@ -205,55 +147,17 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "random-note:Open random note": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "07a83e945b8a21a4",
+  "active": "de1e7faacf0948cd",
   "lastOpenFiles": [
-    "core/lol/0-aphelios-lol.md",
-    "core/0-league-streamers.md",
-    "core/0-HOME.md",
-    "core/lol/0-champions-i-hate-or-need-to-counter-lol.md",
-    "core/lol/0-my-champion-pool-lol.md",
-    "core/lol/0-synergy-champs-lol.md",
-    "core/0-vencord-the-best-discord-mod-on-windows.md",
-    "core/apps-i-use-or-my-most-used-apps-on-linux-and-windows-{my-apps-collection}.md",
-    "core/0-how-to-take-a-screenshot-3-diff-ways-lol.md",
-    "core/time-blocking-app.md",
-    "core/aphelios-weapons-info-and-r-lol.md",
-    "core/lol/0-aphelios-lol-weapons-combos-or-synergy.md",
-    "core/lol/0-the-drr-the-daynean-rotation-rule-for-aphelios.md",
-    "core/lol/0-my-lol-game-settings.md",
-    "core/adc-marksman-items-lol.md",
-    "core/league-of-linux-community-on-reddit.md",
-    "core/0-zathura-the-vimlike-modal-and-modular-pdf-viewer.md",
-    "core/0-what-is-crontab-or-cronjob-in-bash.md",
-    "core/how-to-earn-from-lol.md",
-    "core/helpful-channels-lol.md",
-    "core/micro-vs-macro-lol.md",
-    "core/make-ur-lol-presentation-of-skills.md",
-    "core/drafting-lol.md",
-    "core/lol-scripting.md",
-    "core/lol-interactions.md",
-    "core/lol-roadmap.md",
-    "core/lol",
-    "attachments/Pasted-image-20231103175105.png",
-    "attachments/Pasted-image-20230725080421.png",
-    "attachments/Pasted-image-20230725080802.png",
-    "attachments/Pasted-image-20230727064741.png",
-    "attachments/Pasted-image-20230727193858.png",
-    "attachments/Pasted-image-20230725074325.png",
-    "attachments/Pasted-image-20230725075007.png",
-    "attachments/Pasted-image-20230725073509.png",
-    "attachments/Pasted-image-20230723164211.png",
-    "attachments/Pasted-image-20230718103139.png",
-    "core/0-backend-canvas.canvas",
-    "attachments",
-    "core/Y2T1-ds-recap+qna.pdf",
-    "core/analog-zettelkasten-concepts.canvas"
+    "core/0-bash-zsh-scripts-cmds-aliases-linux-MOC.md",
+    "core/a-failed-script-to-auto-upload-my-obsi-vault-to-github-using-git.md",
+    "core/wintrading.md"
   ]
 }

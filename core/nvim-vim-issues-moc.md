@@ -1,4 +1,3 @@
-#1
 # done
 
 - [x] `ctrl r anyRegister`  insert mode and cmd mode
@@ -53,3 +52,11 @@
 
 - [ ] How to close all buffers except the current one `:%bd|e#`
 - [ ] how to rename current file `:!mv old new`
+- [ ] 
+```
+:*y b
+yank previos selection into reg b
+```
+- [ ] gwip ?
+
+

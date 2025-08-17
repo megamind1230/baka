@@ -1,5 +1,6 @@
 # not done
 - [ ] [[nvim-plugin-vimspector]]
+- [ ] [[nvim-plugin-vimbegood-theprimeagen]]
 - [ ] [[nvim-plugin-lazygit]]
 - [ ] [[nvim-plugin-telescope]]
 - [ ] [[nvim-plugin-omnisharp]]
@@ -19,6 +20,7 @@
 - [ ] [[nvim-plugin-vim-sparkup]]
 - [ ] [[nvim-plugin-competest]]
 - [ ] [[nvim-plugin-octo-nvim]]
+- [ ] [[nvim-plugin-vim-surround]]
 
 
 

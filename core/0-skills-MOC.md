@@ -1,11 +1,12 @@
 ## indurement
-- [x] [[fitness-and-calisthenics]]
+- [x] [[0-fitness-and-calisthenics]]
 - [ ] [[reading-books-moc]]
 - [x] [[0-recapping-some-video-course-lecture-book]]
 - [x] [[studying-methods-moc| study and note-taking]]
 - [x] [[0-active-listening]]
 - [ ] [[time-blocking-app]]
 - [x] [[0-how-to-wake-up-properly-from-sleep-and-causes-of-face-puffiness-in-the-morning]]
+- [ ] [[prompt-engineering-moc]]
 
 ## OS
 - [x] [[0-windows-10-shortcuts|windows]]

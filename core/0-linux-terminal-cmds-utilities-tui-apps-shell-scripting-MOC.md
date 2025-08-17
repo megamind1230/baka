@@ -11,7 +11,7 @@
 - [x] [[0-user-and-group-management]]
 - [x] [[0-diff-command]]
 - [x] [[0-sort-command]]
-- [x] [[0-useful-bash-zsh-scripts-cmds-aliases-MOC]]
+- [x] [[0-bash-zsh-scripts-cmds-aliases-linux-MOC]]
 - [x] [[0-shred-instead-of-rm]]
 - [x] [[0-convert-pptx-into-pdf-and-merge-pdfs-faster-linux]]
 - [x] [[0-script-to-share-small-local-file-the-linux-way-0x0]]

@@ -1,4 +1,3 @@
-#1
 linked pages for css & html elzero + (can i make multiple css files, each for an html file)
 # 2
 better to make folder for css

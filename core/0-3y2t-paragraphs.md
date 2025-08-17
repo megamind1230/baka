@@ -1,4 +1,3 @@
-
 # 1 a bio of a person you like 
 
 	Elon Musk is a famous entrepreneur, inventor, and billionaire. He was born on June 28, 1971, in South Africa. From a young age, he loved reading and technology. He moved to the United States to study physics and business.  

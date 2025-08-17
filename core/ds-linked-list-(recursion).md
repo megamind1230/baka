@@ -1,4 +1,6 @@
-#1
+
+
+
 
 ```cpp
 struct L {int data; struct L *next;}x;

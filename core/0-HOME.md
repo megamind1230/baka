@@ -15,8 +15,14 @@
 - [ ] [[mvc]]
 - [ ] [[object-keyword]]
 - [ ] [[cqrs]]
+- [ ] [[vim-rtorr]]
+- [ ] [[copyright-strikes-on-youtube]]
 
 
+- great linux docs
+	- [ ] linux.die.net doc website
+	- [ ] the gnu manuals
+	- [ ] personal blogs
 [grad projects](https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing) 
 cmp-cmdline.nvim
 
@@ -62,6 +68,90 @@ system design primer
 public apis
 best websites a programmer should visit 
 learn anything.xyz
+
+euphoria film
+
+idea next learn خدعة تسويقية ترويجية
+تقعد قي البيت مبتعملش حاجة
+ولا تتعلم حاجة عملية 
+
+idea
+buy me a coffee
+بس الدفع بالطرق المتاحة في مصر
+فودافون كاش ، فوري ، انستا باي
+
+glass wire
+
+cam scanner .. learn
+
+vim racer
+
+
+we account
+pw sussybakalol0
+
+
+
+arc browser
+username sussybakalol0
+old gmail
+pw arcbrowser0
+
+nitro pro
+
+عبدالعظيم زاهر
+محمود حسين منصور
+
+أكاديمية حسوب ويب؟
+
+
+
+idea ..learn by example.. pl name
+
+مروحة عمك السيد ابو عزت
+
+Hope ur fine#baka
+
+time blocking template
+
+dubizzle .. old gmail
+
+
+450 Bluetooth adapter
+
+script to replace whitespace with dash in file names on pwd
+
+فيزا شراء دولية من qnb or cib
+
+عايزين 
+نكتب اهم معاملات اليوم في شيت اكسيل
+نهتم شويتين بجروبات الواتس
+المعاملة مع الناس
+نكون علاقات مع مدرسين وسناتر اوسع
+نشوف هل فيه مجال للتحسين؟ وهل فيه حاجة مش عاجبانا
+
+
+macro recorder for windows, linux
+
+arcolinux twm repos where to find them
+
+rofi as a
+clipboard history
+emoji selector
+theme selector
+
+فيديو تعرف فيه الشباب بالديدامون وفاقوس
+
+idea
+اسم تطبيق الدراجات .. byxport
+
+المسك الأبيض ، مسحوق السدر ، مسحوق/زيت الكافور
+حجم الكف قرابة 
+
+احمد يوسف مسجد الهدى 
+
+
+
 
 
 code rabbit
