@@ -18,7 +18,7 @@
 [[eses-infor-learning]]
 [[TJ-free-YT]]
 [[DistroTube-DT]]
-[[Create-a-Glitch-Transition-in-Kdenlive]]
+[[create-a-glitch-transition-in-kdenlive]]
 [[channel-outro-clip-idea]]
 [[0-how-to-download-effects-into-kdenlive-on-linux]]
 use kden glow effect 

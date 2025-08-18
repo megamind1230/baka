@@ -3,8 +3,6 @@
 [[0-league-streamers]]
 
 # done
-
-
 - [x] [The FULL GUIDE to Aphelios - Guns, Combos, Matchups, Laning and Tips - LoL Guide - YouTube](https://www.youtube.com/watch?v=zgN9xVo96i0&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4&t=374s)
 - [x] [19 Aphelios Things You Should Start Doing - YouTube](https://www.youtube.com/watch?v=zDTWe_eRqnA&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=3&t=1s)
 - [x] [The Most Important Thing for Mastering Aphelios... - Aphelios Guide - YouTube](https://www.youtube.com/watch?v=aWEBsjX2R0Q&list=PLUXkXAnt0h7dxalWR7dcou3p9d6ue10DT&index=4)
@@ -53,13 +51,13 @@
 		- 🟪 gravitum {`gravity`, slow, grounding roots}
 		- 🟦 infernum  {`infern` is flame}
 		- ⚪ crescendum {`crescent`-shaped}
-	- `e` spot shows what's next
+	- `e` shows what's next
 - [x] squeeze `AA` before using `q` or `R`
-	- as long as n are in range .. just prio `AA` .. only if they are about to run away use your `q` or `R`
-- only `green q f` > can change the start point of the `q` projectile
+	- as long as n are in range .. just prio `AA` .. only if they are about to run away out of range use your `q` or `R`
+- only `green q f` > can change ***the starting point*** of the `q` projectile
 	- can do it from behind the minions into your n to do them dirty
 - [x] the 4 guns combo
-	- the idea is to have the 2 weapons only having `<=10 ammos`
+	- the idea is to have the 2 weapons with  `<=10 ammos`
 	- great dps, but still rare to happen or hard to maintain
 # [[aphelios-weapons-info-and-r-lol|each weapon]]
 
@@ -103,4 +101,4 @@
 
 
 # not done
-
+- [ ] [Aphelios Guide/Match Ups - Google Sheets](https://docs.google.com/spreadsheets/d/10hYE_Kwwa5fNjrYqUczuzOd0eG6sFW8Npn2if5-qWw0/edit?gid=985621416#gid=985621416)

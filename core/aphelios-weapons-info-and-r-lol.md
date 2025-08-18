@@ -23,7 +23,7 @@
 
 
 ## purple
->  `good all phases`  { but has slowest AS }, roots {for team/to run}
+>  `good all phases`  { but has the slowest AS }, roots {for team/to run}
 - `AA` slows .. so better hold on `q` if n escapes
 - `q`
 	- can activate `q` before it actually connects
