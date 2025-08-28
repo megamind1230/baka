@@ -6,7 +6,7 @@
 - فرق بين الـ cmd option VS cmd argument
 	- option > has `-letter or --word`
 - man
-	- ![[0-man-pages#iti]]
+	- ![[0-linux-manpages-moc#iti]]
 - `ls -d somedir` 
 	- info about this current `somedir` directory
 - df vs du

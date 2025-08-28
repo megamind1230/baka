@@ -1,5 +1,11 @@
 > H: champions that are hard to play against / {counters}
-## my champion pool and countered by and {what to do vs them}
+# my champion pool and countered by and {what to do vs them}
+## active
+- [[0-akali-lol]]
+	-  H: sion, urgot, shen, singed
+- [ ] [[zed-lol]]
+	- 
+## frozen
 - `nautilus` {hexfash, roam if unplayable}
 	- H: morgana - janna - alistar - trundle - lulu
 - `chogath` { jaksho , glacial augment }
@@ -22,3 +28,4 @@
 	- H: renek - trynd - irelia
 - `aphel` {late game hyper carry, with utility for team and wide range}
 	- H: twich - nilah - draven - kalista - caitlyn
+

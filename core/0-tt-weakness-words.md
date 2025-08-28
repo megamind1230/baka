@@ -1,4 +1,3 @@
-#1
 ```
 the The believe thieve receive with between I'll science don't there doesn't you your $ you're ing pop form from shadow away way neither either _ other there % another others \ world word + wrong culture people the remember ) really early ^ were ( was ~ 
 because appearance ! weather @ activity # public & library family land Sri Lanka * region school century philosopher poet reau history return the palindrome species the there Indian
@@ -8,4 +7,4 @@ many remember keyboard board onboard abroad because cause eyes and tend stare si
 conclusion
 ```
 - [[0-good-touch-typing-cli-tools-for-linux]]
-- `tt -n 200 /mnt/hdd/obsi/vault_bank/"0 tt weakness words.md"`
+- `tt -n 200 /mnt/hdd/obsi/vault_bank/"0-tt-weakness-words"`

@@ -1,4 +1,3 @@
-#1
 
 # 1 SQL BASICS
 - [ ] Learn basics of SQL.

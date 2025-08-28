@@ -1,30 +1,12 @@
-- [ ] [[transformation-db-or-sql]]
-- [ ] [[sql-trigger]]
-- [ ] [[sql-index]]
-- [ ] [[IEnumerable-csharp]]
-- [ ] [[dll-in-csharp]]
-- [ ] [[polymorphisms-operations]]
-- [ ] [[usage-of-interface]]
-- [ ] [[interface-vs-abstract-class]]
-- [ ] [[lambda-expression]]
-- [ ] [[list-methods]]
-- [ ] [[linux-directory-structure-explained]]
-- [ ] [[algo-info]]
-- [ ] [[ds-exception]]
-- [ ] [[postman-and-swagger]]
-- [ ] [[mvc]]
-- [ ] [[object-keyword]]
-- [ ] [[cqrs]]
-- [ ] [[vim-rtorr]]
-- [ ] [[copyright-strikes-on-youtube]]
+[grad projects](https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing) 
+[[todo]]
 
 
+# listing
 - great linux docs
 	- [ ] linux.die.net doc website
 	- [ ] the gnu manuals
 	- [ ] personal blogs
-[grad projects](https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing) 
-cmp-cmdline.nvim
 
 
 delete into the black hole reg in nvim
@@ -71,9 +53,6 @@ learn anything.xyz
 
 euphoria film
 
-idea next learn خدعة تسويقية ترويجية
-تقعد قي البيت مبتعملش حاجة
-ولا تتعلم حاجة عملية 
 
 idea
 buy me a coffee
@@ -102,19 +81,9 @@ nitro pro
 عبدالعظيم زاهر
 محمود حسين منصور
 
-أكاديمية حسوب ويب؟
-
-
-
-idea ..learn by example.. pl name
-
-مروحة عمك السيد ابو عزت
-
-Hope ur fine#baka
 
 time blocking template
 
-dubizzle .. old gmail
 
 
 450 Bluetooth adapter
@@ -816,11 +785,8 @@ docker create VMs, emacs versions {better or just use vbox}
 
 read ppl vim keybindings , what cool tricks they have {primeagen}
 
-telda card
 
-set arabic in neovim
 
-ahk
 
 change thunar default terminal emulator
 
@@ -846,20 +812,4 @@ howebrew on linux?
 zathura marking
 
 
-
----
-# review notes
-- make all have #1
-- a query of all non-finished notes
-	- query meaning > list all notes that does start with `0` in its name
-```query
--(file: /^0/)
-```
-
-# MOC files
-```dataview
-TABLE
-WHERE contains(file.name, "MOC")
-```
-
-أ
+[[home-extension]]

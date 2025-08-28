@@ -1,13 +1,16 @@
 # not done
-- [ ] [[0-linux-challenges-MOC]]
-- [ ] [[0-linux-issues-and-random-info-MOC]]
-- [ ] [[0-distros-TWMs-DEs-MOC]]
-- [ ] [[0-linux-terminal-cmds-utilities-tui-apps-shell-scripting-MOC]]
-- [ ] [[0-app-alternatives-or-alternative-apps-MOC]]
-- [ ] [[0-linux-GUI-apps-and-utilities-MOC]]
-- [ ] [[0-linux-CLI-tools-and-utilities-MOC]]
+- [ ] [[0-linux-permissions-MOC]]
+
+
+
 # done
+- [x] [[0-linux-terminal-cmds-or-utilities-and-shell-scripting-MOC]]
+- [x] [[0-linux-cli-or-tui-apps-and-terminals-moc]]
+- [x] [[0-bash-zsh-cmds-aliases-and-shell-scirpts-linux-MOC]]
 - [x] [[0-my-linux-slander-the-linux-journey]]
-
-
-
+- [x] [[0-linux-gui-apps-moc]]
+- [x] [[0-TWMs-vs-DEs-MOC]]
+- [x] [[0-alternative-foss-or-non-foss-app-linux-moc]]
+- [x] [[0-linux-distros-moc]]
+- [x] [[0-linux-issues-and-random-info-MOC]]
+- [x] [[0-linux-journey-roadmap-MOC]]

@@ -1,19 +1,17 @@
-#1
 - [x] https://regexone.com/
 - [x] https://regexlearn.com/learn
 - [x] https://www.tutorialsteacher.com/regex/regex-syntax
 
 > btw regex work on Notepad++
 
-- why use regex?
-	- search for data of specific format
-	- replace parts of string with another
-	- validate data is in a specific format
+- [x] why use regex?
+	- search / search-and-replace
+	- validate data against a format
 	- split string
-- metacharacter = magic char
+- `metacharacter` = magic char
 	- these must be escaped with `\` be to dealt with literally
 		- `. $ ^ { [ ( | ) * + ? \`
-- anchors {dealing with starts and ends}
+- `anchors` {dealing with starts and ends}
 	- `$` > end of line
 	- `^` > start of line
 	- word boundaries
@@ -25,7 +23,7 @@
 			- `t\b` > went
 				- `t\B` > to, store, to_the_store
 				  {has t but not-ending with t}
-- quantifier
+- `quantifier`
 	- `.` > any single char
 	- `\d` > any single digit
 		- `\D` > any single non-digit
@@ -54,25 +52,26 @@
 			- `[2-4]` > 2,3,4
 	- exclusion with `^`
 		- `[^abc]` > a,b,c excluded `{negated char set}`
-- flags or modifiers
+- `flags` or modifiers
 	- `/g` global
 		- when off: it will just go for first match
 	- `/m` multiline
 		- Regex sees all text as one line. But we use the multiline flag to handle each line separately.
 		- ![[Pasted-image-20240318225325.png]]
 	- `/i` case-Insensitive
-- [capture groups](https://youtu.be/c9HbsUSWilw?si=nx8eHI1J1ukAvF6v)
+- `capture groups`
+	- [ref](https://youtu.be/c9HbsUSWilw?si=nx8eHI1J1ukAvF6v)
 	- just encapsulate the expression you want inside `()`
 	- remember: `group 0` is the whole big expression
 	- referencing a group
 		- like the `\1`, `\2` in `(ha)-\1,(haa)-\2` applied on 
 		  `ha-ha,haa-haa`
 		- and use `$1` and so on when substituting
-- Non-capturing Grouping {to disable referencing this group} using `?:` #still/regex 
+- `Non-capturing Grouping` {to disable referencing this group} using `?:` #still/regex 
 	- [23. Understand Captured and Non Captured Groups in Regular Expression - RegEx](https://www.youtube.com/watch?v=eEGUUVvrgdo)
 	- `(?:ha)-ha,(haa)-\1` on same text
 		- notice that it is `\1` but not `\2` cuz the first group is disabled
-- lookarounds #still/regex 
+- `lookarounds` #still/regex 
 	- If we want the phrase we're writing to come before or after another phrase, we need to "lookaround"
 		- positive lookahead `?=`
 			- `\d+(?=PM)` on `Date: 4 Aug 3PM` > 3
@@ -84,8 +83,7 @@
 			- `(?<!\$)\d+` on `Product Code: 1064 Price: $5` > 1064
 - substitution in regex #still/regex
 
-> globbing = translating the wild card chars like {`* ? . ^ [some chars here]`}
+> `globbing` = translating the wild card chars like {`* ? . ^ [some chars here]`}
 - remember that `* or ?` .. does not match with the (leading dot)
 	- بمعنى لو جربت تعمل مثلا `ls *something`
 		- never shows something like `.vimrc` .. it has a leading dot
-- 

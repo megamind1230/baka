@@ -1,4 +1,5 @@
 # not done
+- [ ] [[nvim-plugin-cmp-cmdline]]
 - [ ] [[nvim-plugin-vimspector]]
 - [ ] [[nvim-plugin-vimbegood-theprimeagen]]
 - [ ] [[nvim-plugin-lazygit]]

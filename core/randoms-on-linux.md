@@ -25,4 +25,4 @@
 		- documentation
 	- should you still use this software? 
 		- according to the release version you have (LTS or shorter support)
-- [[distro-hopping-scripts]]
+- [[0-distro-hopping-scripts]]

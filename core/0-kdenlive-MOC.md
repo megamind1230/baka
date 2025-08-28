@@ -8,7 +8,7 @@
 - [x] photolearningism-kdenlive .. easy videos 
 - [x] [[0-video-editing-websites]]
 # not done
-
+[[davinci-resolve]]
 [[blackberry-boy-kdenlive-MOC]]
 [[crazy-net-kdenlive]]
 [[arkengheist-kdenlive]]

@@ -14,3 +14,7 @@
 - [ ] [ad free films website](https://hdtoday.cc/home)
 - [ ] the pursuit of happiness
 - [ ] pk amer khan
+- [x] How.to.Train.Your.Dragon.2025.1080p.AMZN.WEBDL
+- [x] scott belgrim vs the world
+- [x] the pursuite of  happiness
+- [x] baby { the taxi driver}

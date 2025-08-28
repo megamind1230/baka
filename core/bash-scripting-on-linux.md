@@ -1,22 +1,20 @@
-#1
+#todo
 LearnLinuxTV
-# 2
-`sudo chmod +x myscript.sh` > executable
+- [x] `sudo chmod +x myscript.sh` > executable
 	we ignore the `.sh` if the shebang inside is correctly representing bash
-# 3 variables
-variables set are tied to that session
-"" vs ''
+- [x] variables set not in bashrc are tied to only that session
+- [x] "" vs ''
 ```bash
 echo "hello $myname_var" #prints name
-echo 'hello $myname_var' #prints as it is
+echo 'hello $myname_var' #printed as-is
 ```
 
-`file_var=$(ls)` saves content of ls inside
-`env` > environment variables
+- [x] `file_var=$(ls)` saves content of ls inside {subcmd}
+- [x] `env` > lists environment variables
 
-`touch {a,b,c}` # creates these files
+- [x] `touch {a,b,c}` >  creates a,b,c files
 
-true in bash is `0`
+- [x] true in bash is `0`
 
 
 # not done

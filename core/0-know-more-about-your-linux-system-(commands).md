@@ -14,3 +14,15 @@
 - [[fzf-or-fuzzy-finder]] approx file name searcher
 - [[zoxide-command]] remembers/helps with paths 
 
+
+# others
+- [x] `uname -r`
+	- Kernel version
+- [x] `apt list --installed | wc -l`  on debian based
+	- list installed
+		- and count them
+	- [x] `snap list`
+- [ ] `nmcli c` or `nmcli d` network manager cli
+	- what type of internet your device have + gives your wifi router name
+- [ ] `ip a`
+	- under wlp3s0 > find your MAC address

@@ -1,5 +1,3 @@
-
-#1
 # 65
 > Learn CSS In Arabic 2021 - #65 - 2D Transform - Scale
 

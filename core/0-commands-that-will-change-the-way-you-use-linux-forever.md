@@ -1,0 +1,28 @@
+#todo
+- by ***learnlinuxtv***
+	- [x] `cd` by default go to ~
+	- [x] `ctrl l` > just cleaning the screen
+		- meanwhile `reset` > resetting your shell session
+	- [ ] `pushd` , `popd` > stacking any set of dir
+	- [x] `ctrl z` , `fg` > send something to the background, then to the foreground (good with vim, nano , htop .. etc)
+	- [x] `ctrl a` , `ctrl e` > start & end of command line
+	- [x] `ctrl u` > delete whole line before cursor
+	- [x] `sudo !!` > do last command but with sudo 
+	- `ctrl r` > search for a command you wrote (just type some keywords)
+		- spam it to traverse
+		- `ctrl e` break out
+	- [x] `history` > history of commands (numbered)
+		- `!number` ... `!` is bang in linux
+	- [x] `ctrl shift +/-` > terminal zoom in/out
+	- [x] `command1 ; command2` > run both .. no dependency
+		- `command1 && command2` >  if 1 fails .. 2 fails also
+	- [x] `tail -f file` > watch tail (updated) in real-time
+		- `ctrl c` break out
+	- [x] `truncate -s 0 filename` > file still exists but empty
+	- [x] `anyCommandThatResultsIn_A_JumbledText | column -t` > better way of display cluttered text in columns
+	- [x] `cd -` ***to the previously used dir (not on Windows)***
+	- [x] can `ls` more than a directory ![[Pasted-image-20221213115008.png|350]]
+	- [x] `cp whatever .` 
+		- `.` means here
+	- [x] `rename 's/\.png/\.gif/' *.png` [[0-regex-or-regular-expressions-MOC|regex]] on rename
+	- [x] [[wget-command]]

@@ -1,7 +1,7 @@
 ## indurement
 - [x] [[0-fitness-and-calisthenics]]
-- [ ] [[reading-books-moc]]
-- [x] [[0-recapping-some-video-course-lecture-book]]
+- [ ] [[books-moc]]
+- [x] [[00-recapping-some-video-course-lecture-book]]
 - [x] [[studying-methods-moc| study and note-taking]]
 - [x] [[0-active-listening]]
 - [ ] [[time-blocking-app]]

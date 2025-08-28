@@ -1,11 +1,6 @@
-#1 
 > GNU/linux is not True Unix, it is ***Unix-like***
 
 > quick recap, not detailed
-
-[[the-linux-commands-bible-pdf]]
-# combine with
-[[0-know-more-about-your-linux-system-(commands)]]
 
 # open 
 `open .` > opens the pwd using the default file manager {sometimes is `xdg-open`}

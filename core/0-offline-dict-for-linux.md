@@ -1,4 +1,3 @@
-#1
 - goldendict
 	- [where to add offline dictionaries](https://youtu.be/6-RXlGOGyHg?si=ruiCEdsigLuNsLdB)
 	- where to find offline dictionaries

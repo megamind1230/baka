@@ -1,6 +1,3 @@
-
-#1
-#done
 ( on windows )
 ***problem was***: I download files from the download effect templates tab in Kdenlive UI
 .. restart the program .. but the effects don't show under tempaltes section (as it should)

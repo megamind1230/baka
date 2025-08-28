@@ -4,56 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "321892948e1376d5",
+        "id": "588a5f3884807d24",
         "type": "tabs",
         "children": [
           {
-            "id": "de1e7faacf0948cd",
+            "id": "d8fbd70bbc163b5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/lol/0-aphelios-lol.md",
+                "file": "0-social-info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-aphelios-lol"
-            }
-          },
-          {
-            "id": "1ff4714686e19fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/lol/1st-secondary-resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1st-secondary-resources"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e31ae422cfb113ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef22317313d4d225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/aphelios-weapons-info-and-r-lol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "aphelios-weapons-info-and-r-lol"
+              "title": "0-social-info"
             }
           }
         ]
@@ -100,7 +65,7 @@
             }
           },
           {
-            "id": "12d3f26cc150784b",
+            "id": "26725db878446cf4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -125,7 +90,7 @@
       {
         "id": "9a64d4edd3df9957",
         "type": "tabs",
-        "dimension": 52.84552845528455,
+        "dimension": 35.636856368563684,
         "children": [
           {
             "id": "dae4a3242eee671d",
@@ -133,8 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core/aphelios-weapons-info-and-r-lol.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -143,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aphelios-weapons-info-and-r-lol"
+              "title": "Backlinks"
             }
           },
           {
@@ -181,7 +145,7 @@
       {
         "id": "b6e6258e995105e7",
         "type": "tabs",
-        "dimension": 47.15447154471545,
+        "dimension": 64.36314363143632,
         "children": [
           {
             "id": "ca07bbf3e592e978",
@@ -206,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -218,17 +183,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1ff4714686e19fc7",
+  "active": "d8fbd70bbc163b5a",
   "lastOpenFiles": [
-    "core/0-some-weird-OS_s.md",
-    "core/lol/1st-secondary-resources.md",
-    "core/lol/fci-math0-resources.md",
-    "core/lol/0-aphelios-lol.md",
-    "core/aphelios-weapons-info-and-r-lol.md",
-    "core/create-a-glitch-transition-in-kdenlive.md",
+    "core/0-my-new-pc-build-specs.md",
+    "core/done/00-cloud networks.md",
+    "core/mazen-canada-backend-core-checklist.md",
+    "core/he-tried-50-programming-courses-here-are-top-5.md",
+    "core/0-linux-terminal-cmds-or-utilities-and-shell-scripting-MOC.md",
+    "core/0-bash-zsh-cmds-aliases-and-shell-scirpts-linux-MOC.md",
     "core/todo.md",
-    "core/0-bash-zsh-scripts-cmds-aliases-linux-MOC.md",
-    "core/a-failed-script-to-auto-upload-my-obsi-vault-to-github-using-git.md",
-    "core/wintrading.md"
+    "core/0-the-art-of-getting-things-done.md",
+    "core/0-HOME.md",
+    "core/0-linux-issues-and-random-info-MOC.md",
+    "core/backend-moc.md",
+    "core/csharp-issues-and-bugs-moc.md",
+    "core/Untitled.md",
+    "core/0-backend-canvas.canvas",
+    "core/0-show-keyboard-presses-on-linux.md",
+    "core/best-free-vpn-for-linux.md",
+    "core/nvim-vim-advanced-moc.md",
+    "core/lol-MOC.md",
+    "core/0-elzero-css-week7.md",
+    "core/atomic-habits.md",
+    "core/0-script-to-copy-text-or-imgs-from-linux-to-phone-using-qrcode-and-clipboard.md",
+    "0-social-info.md",
+    "core/0-ideas.md",
+    "core/0-nvim-plugins-moc.md",
+    "core/nvim-plugin-goyo.md",
+    "core/nvim-vim-issues-moc.md",
+    "core/home-extension.md"
   ]
 }

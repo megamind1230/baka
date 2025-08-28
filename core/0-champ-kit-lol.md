@@ -1,0 +1,7 @@
+- champ `kit` = abilities + passive
+- skill `rotation` = a combination of abilities in some order = combo
+- knowing the kit helps with
+	- builds
+	- runes 
+	- surviving in fights 
+	- doing max dps

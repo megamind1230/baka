@@ -1,4 +1,7 @@
 # done or verified ✅
+- [x] `:norm @w` on a selection > executes the macro on `w` for each line
+- [x] `:center/right/left` > align
+- [x] `go` = `gg`
 - [x] delete empty lines with regex > `:g/^$/d`
 - [x] `10%` > to the 10% spot of in file
 - [x] `ctrl 6` > move to last recent file
@@ -114,6 +117,7 @@
 	ysaptli> surround paragraph with <li> tag
 	S{char} surround selection
 	```
+
 # neovim manual
 - [ ] [Vim Awesome](https://vimawesome.com/)
 	- cool website listing all vim plugins
@@ -133,6 +137,7 @@ delete selection and replace it with the thing on the clipboard {without losing 
 	- marks
 	- tips
 	- holy grail
+
 # ref
 - [ ] [[saving-custom-macros-as-or-into-keybindings]]
 - [ ] [[vim-multi-line-editing]]

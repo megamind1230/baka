@@ -59,9 +59,9 @@
 - [x] the 4 guns combo
 	- the idea is to have the 2 weapons with  `<=10 ammos`
 	- great dps, but still rare to happen or hard to maintain
-# [[aphelios-weapons-info-and-r-lol|each weapon]]
+# [[0-aphelios-weapons-info-and-r-lol|each weapon]]
 
-# [[0-synergy-champs-lol|aphelio champs synergy]]  and [[0-my-champion-pool-lol|aphel in my champ pool]]
+# [[0-synergy-champs-lol|aphelio champs synergy]]  and [[0-my-champion-pool-lol|aphel in my champ pool]] #333
 
 # [[0-aphelios-lol-weapons-combos-or-synergy|weapons synergy]]
 

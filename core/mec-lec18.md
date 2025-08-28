@@ -4,4 +4,3 @@
 - [x] [[cqrs]]
 - [x] [[mvc]]
 - [x] [[object-keyword]]
-- [ ] [[how-to-send-photos-in-the-endpoint]]

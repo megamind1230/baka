@@ -1,4 +1,3 @@
-#1
 - `cat`
 	- يعرض الفايل كامل بالترتيب
 	- `cat file1 file2 > somefile`

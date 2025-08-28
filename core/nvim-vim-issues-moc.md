@@ -59,4 +59,5 @@ yank previos selection into reg b
 ```
 - [ ] gwip ?
 
+- [ ] set arabic in neovim
 

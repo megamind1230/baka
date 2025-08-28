@@ -1,8 +1,8 @@
-#1
+#todo
+> awk is a pattern-scanning-and-processing-language
 ```bash
-awk-Pattern-scanning-and-processing-language
-# NF = number of fields/columns
-# NR = number of records/rows
+# NF = number of field/column
+# NR = number of record/row
 # OFS = output field separator
 # ORS = output record separator
 
@@ -48,3 +48,15 @@ awk '{s+=$1} END {print s}' path/to/file
 awk 'NR%3==1' path/to/file
 
 ```
+
+- [x] having  a `dl-info.txt` file on the format:
+	- `movie-name dl-speed(Mb/sec) dl-time-in-mins`
+		- using awk, print how many Gigabytes did these movies take you to download
+```bash
+awk 'NR>1 {sum+=$2*60*$3} END {print sum/1024 "GB"}' dl-info.txt
+```
+
+
+
+- [ ] search for more awk tricks
+- the awk programming lang `book`

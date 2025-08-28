@@ -1,4 +1,3 @@
-#1
 - [course link](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents)
 - copy your VSCodeVim json file [[0-vscodevim-json-file|here]] #still/paste
 - [[vscode-issues|issues I saw along the way]]

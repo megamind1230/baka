@@ -6,11 +6,11 @@ return
 ; replace
 ::gpp::gcc main.cpp -o a && ./a
 return
-::idbaka::cykagoddamnthis
+::bakaid::cykagoddamnthis
 return
-::pwbaka::notsussybakalol0
+::bakapw::notsussybakalol0
 return
-::bakaeune::NotSussyBakaLOL
+::bakane::NotSussyBakaLOL
 return
 
 ::mydc::https://discord.gg/QBKyY3X5HY

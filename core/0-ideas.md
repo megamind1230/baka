@@ -191,6 +191,7 @@ so you share this single idea till you get some more information about that topi
 		- files are volatile .. deleted every day
 	- maybe later .. we can add dump channels ... like forums {with question in the link}
 
-- [ ] [[wiki-channels-project]]
+- [ ] [[my-wiki-channels-project]]
 - [ ] [[grad-proj-names-new]]
 - [ ] [[0-grad-proj-team-meetings-MOC]]
+- [ ] idea ..learn by example.. pl name

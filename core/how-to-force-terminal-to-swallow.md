@@ -1,9 +1,7 @@
-
-#1 
 1. to swallow
 	- [ ] [Force Your Terminal To Swallow - YouTube](https://www.youtube.com/watch?v=mBNLzHcUtTo&ab_channel=DistroTube)
 		- [x] https://github.com/salman-abedin/devour
-1. a guy said
+2. a guy said
 	I don't use this swallow thing, instead I just make sure my terminal does not become frozen:
 	```c
 	function n(){

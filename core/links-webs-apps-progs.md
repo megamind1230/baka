@@ -1,4 +1,4 @@
-#1
+[[links-websites-courses-links-channels]]
 # still
 [LeechBlock](https://proginosko.com/leechblock/documentation/) (as alternative) .. block websites limiter
 ztype website

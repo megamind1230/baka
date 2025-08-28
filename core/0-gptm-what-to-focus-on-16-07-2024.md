@@ -1,4 +1,3 @@
-#1
 - things my team needs to know something about
 	- [x] ***ticktick:*** a simple todo app
 	- [x] ***touch typing***: avg 45wpm

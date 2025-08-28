@@ -1,2 +1,2 @@
-- [ ] [[my-new-pc-build-specs]]
+- [ ] [[0-my-new-pc-build-specs]]
 - [ ] [[0-ideas]]
