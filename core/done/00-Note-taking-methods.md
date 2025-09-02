@@ -22,7 +22,7 @@ good as a first time
 - ![[Pasted-image-20241207154339.png]] 
 ### Spaced repetition and active recall
 - it's more of a `review` method than a studying one
-- [[0-anki-MOC|anki]]
+- [[@-anki-moc|anki]]
 ### Feynman mentality
 - study as if ur teaching this to someone else
 # --

@@ -152,7 +152,7 @@ eg:
 3. embedded link with either `!` or `html ifram tag` 
 	more on that later
 # navigate with inner links
-[[0-obsidian-plugins-MOC|just a {backlink} to some local note]] 
+[[@-obsidian-plugins-moc|just a {backlink} to some local note]] 
 - put the cursor inside the inner link text
 	- `alt enter` > open in same tab
 	- `ctrl enter` > in a new tab

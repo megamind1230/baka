@@ -51,7 +51,7 @@
 - stands for (go regular expression and print) > finds matches
 - `grep -ri "Moc" .`
 	- find matches of the word moc {case-insensitive} recursively from here down
-- mentioned here > [[0-regex-or-regular-expressions-MOC]]
+- mentioned here > [[@-regex-or-regular-expressions-moc]]
 - [[0-grep-command]]
 # du
 - disk usage
@@ -175,7 +175,7 @@
 # passwd
 - `passwd` changes your password
 - `sudo passwd someUsername` change pw of others
-# [[0-linux-permissions-MOC]]
+# [[@-linux-permissions-moc]]
 ## chown
 - [[chown-command]]
 ### permissions table

@@ -101,7 +101,7 @@
 		- (current visual text selection) `:'<,'>d` > automatically shows after selecting in visual mode then `:`
 - repeat Ex commands
 	- `@:` will repeat the last ex command, from then on you can repeat it again with `@@` #shortcuts/better 
-- search and substitute text and [[0-regex-or-regular-expressions-MOC|regex]]
+- search and substitute text and [[@-regex-or-regular-expressions-moc|regex]]
 	- `:[range]s/{pattern}/{substitute}/{flags}`
 	- In addition to the g flag we can use 
 		- `i` case {insensitive} searches

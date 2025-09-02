@@ -10,7 +10,7 @@
 - [ ] build for different OSs #still/roadmap/what_do_he_mean
 # linux server
 - [ ] linux server basics
-	- [[0-linux-journey-roadmap-MOC|is this useful]]
+	- [[@-linux-journey-roadmap-moc|is this useful]]
 	- https://www.udemy.com/course/master-linux-administration/
 	- 
 # read list

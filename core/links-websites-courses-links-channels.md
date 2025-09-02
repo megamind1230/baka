@@ -157,7 +157,7 @@ https://www.dofactory.com/html/ref
 [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)  
 #still/all
 # problem solving, ladders, competitive programming
-[[0-problem-solving-ordered-solving-roadmap-MOC]]
+[[@-problem-solving-ordered-solving-roadmap-moc]]
 [https://projecteuler.net/archives](https://projecteuler.net/archives)  
 شيت اسيوط newcomers
 	[ICPC Assiut Newcomers Training - '21 Second Term - Google Sheets](https://docs.google.com/spreadsheets/d/1KPVWM6dSTFf7KVfzhUwZslcUd_6ZIBJvcqXPGncOHdM/edit#gid=224740170)
@@ -250,7 +250,7 @@ https://neetcode.io/roadmap
 [Aditya Verma - YouTube](https://www.youtube.com/@TheAdityaVerma/playlists)
 [LeetCode To Success - YouTube](https://www.youtube.com/@CodeToSuccess7/playlists?view=1&sort=dd&shelf_id=0)
 https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
-[[0-Learn-coding-fast-video-recap-MOC]]
+[[@-learn-coding-fast-video-recap-moc]]
 git github
 	https://almdrasa.com/tracks/programming-foundations/courses/git-github/
 ## ps

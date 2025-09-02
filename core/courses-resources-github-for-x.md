@@ -1,5 +1,4 @@
-#1 
-# [[0-github-links-MOC]]
+# [[@-github-links-moc]]
 # cpp
 - [C++ Programming All-in-One Tutorial Series (10 HOURS!) - YouTube](https://www.youtube.com/watch?app=desktop&v=_bYFu9mBnr4&t=10059s&ab_channel=CalebCurry)
 # python
@@ -10,7 +9,7 @@
 - [Flutter Mapp - YouTube](https://www.youtube.com/@FlutterMapp/playlists)
 # my roadmaps
 - [[0-js-backend-roadmap]]
-- [[0-problem-solving-ordered-solving-roadmap-MOC]]
+- [[@-problem-solving-ordered-solving-roadmap-moc]]
 - [complete system design roadmap](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/)
 # ds & algo
 - [Aditya Verma - YouTube](https://www.youtube.com/@TheAdityaVerma/playlists)

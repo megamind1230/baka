@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "588a5f3884807d24",
+        "id": "61b8ba6f36edab6f",
         "type": "tabs",
         "children": [
           {
-            "id": "d8fbd70bbc163b5a",
+            "id": "7b7d3bb080464030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-social-info.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0-social-info"
+              "title": "New tab"
             }
           }
         ]
@@ -53,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "file: \"MOC\"",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "26725db878446cf4",
+            "id": "2a7cd110f7af563e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -76,7 +72,8 @@
               "title": "Zen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core/aphelios-weapons-info-and-r-lol.md",
+                "file": "core/@-HOME-moc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aphelios-weapons-info-and-r-lol"
+              "title": "Outline of @-HOME-moc"
             }
           }
         ]
@@ -183,34 +180,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d8fbd70bbc163b5a",
+  "active": "7b7d3bb080464030",
   "lastOpenFiles": [
-    "core/0-my-new-pc-build-specs.md",
-    "core/done/00-cloud networks.md",
-    "core/mazen-canada-backend-core-checklist.md",
-    "core/he-tried-50-programming-courses-here-are-top-5.md",
-    "core/0-linux-terminal-cmds-or-utilities-and-shell-scripting-MOC.md",
-    "core/0-bash-zsh-cmds-aliases-and-shell-scirpts-linux-MOC.md",
-    "core/todo.md",
-    "core/0-the-art-of-getting-things-done.md",
-    "core/0-HOME.md",
-    "core/0-linux-issues-and-random-info-MOC.md",
-    "core/backend-moc.md",
-    "core/csharp-issues-and-bugs-moc.md",
-    "core/Untitled.md",
-    "core/0-backend-canvas.canvas",
-    "core/0-show-keyboard-presses-on-linux.md",
-    "core/best-free-vpn-for-linux.md",
-    "core/nvim-vim-advanced-moc.md",
-    "core/lol-MOC.md",
-    "core/0-elzero-css-week7.md",
-    "core/atomic-habits.md",
-    "core/0-script-to-copy-text-or-imgs-from-linux-to-phone-using-qrcode-and-clipboard.md",
-    "0-social-info.md",
-    "core/0-ideas.md",
-    "core/0-nvim-plugins-moc.md",
-    "core/nvim-plugin-goyo.md",
-    "core/nvim-vim-issues-moc.md",
-    "core/home-extension.md"
+    "core/@-TWMs-vs-DEs-moc.md",
+    "core/@-qtile-moc.md",
+    "core/@-obsidian-moc.md",
+    "core/@-obsidian-issues-moc.md",
+    "core/@-linux-moc.md",
+    "core/@-linux-issues-and-random-info-moc.md",
+    "core/@-youtube-moc.md",
+    "core/@-windows-moc.md",
+    "core/@-vm-or-virtualiztion-moc.md",
+    "core/@-udemy-moc.md",
+    "core/@-ubuntu-and-kubuntu-moc.md",
+    "core/@-tracking-students-moc.md",
+    "core/@-things-to-try-on-a-vm-moc.md",
+    "core/@-statistics-and-probability-moc.md",
+    "core/@-skills-moc.md",
+    "core/@-scan-this-channel-or-channel-scanning-moc.md",
+    "core/@-roadmap-moc.md",
+    "core/@-regex-or-regular-expressions-moc.md",
+    "core/@-qemu-moc.md",
+    "core/@-problem-solving-ordered-solving-roadmap-moc.md",
+    "core/@-popos-moc.md",
+    "core/@-obsidian-plugins-moc.md",
+    "core/@-nvim-distros-moc.md",
+    "core/@-nixos-moc.md",
+    "core/@-networks-moc.md",
+    "attachments/Pasted image 20241206181817.png",
+    "attachments/Pasted-image-20231104171520.png",
+    "core/0-backend-canvas.canvas"
   ]
 }

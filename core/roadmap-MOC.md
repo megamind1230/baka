@@ -1,5 +1,0 @@
-[[csharp-roadmap-moc]]
-[[lol-roadmap]]
-[[frontend-roadmap]]
-[[0-js-backend-roadmap]]
-[[roadmap-sh-Backend-Developer-general-musts]]

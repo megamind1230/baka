@@ -4,7 +4,7 @@
 	- Communication
 	
 
-[[0-communication-skills-MOC]]
+[[@-communication-skills-moc]]
 - [ ] decision making .. under pressure
 - [ ] problem solving
 - [ ] adaptation

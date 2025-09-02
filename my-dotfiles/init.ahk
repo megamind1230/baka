@@ -80,6 +80,12 @@ return
 #!-::
 Send {Volume_Down}
 return
+#!0::
+Send {Volume_Up}
+return
+#!9::
+Send {Volume_Down}
+return
 #!m::
 Send {Volume_Mute}
 return

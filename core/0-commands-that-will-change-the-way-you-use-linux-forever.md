@@ -1,9 +1,12 @@
-#todo
 - by ***learnlinuxtv***
 	- [x] `cd` by default go to ~
 	- [x] `ctrl l` > just cleaning the screen
 		- meanwhile `reset` > resetting your shell session
-	- [ ] `pushd` , `popd` > stacking any set of dir
+	- [x] `pushd` , `popd` > stacking any set of dir
+		- `pushd whatever/path` > adds to top of directories stack + moves to it
+			- `pushd` only
+				- swaps the top 2 items on stacks
+		- `popd` > pops top + moves to 2nd
 	- [x] `ctrl z` , `fg` > send something to the background, then to the foreground (good with vim, nano , htop .. etc)
 	- [x] `ctrl a` , `ctrl e` > start & end of command line
 	- [x] `ctrl u` > delete whole line before cursor
@@ -23,6 +26,6 @@
 	- [x] `cd -` ***to the previously used dir (not on Windows)***
 	- [x] can `ls` more than a directory ![[Pasted-image-20221213115008.png|350]]
 	- [x] `cp whatever .` 
-		- `.` means here
-	- [x] `rename 's/\.png/\.gif/' *.png` [[0-regex-or-regular-expressions-MOC|regex]] on rename
+		- [x] `.` means here
+	- [x] `rename 's/\.png/\.gif/' *.png` [[@-regex-or-regular-expressions-moc|regex]] on rename
 	- [x] [[wget-command]]

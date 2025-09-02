@@ -1,12 +1,15 @@
+> `ctrl c/[ or esc` > escape
+
+- [x] `ctrl i` > insert tab {after cursor}
+	- [x] `ctrl t/d` > indent/un-indent {whole line}
 - [x] `ctrl h` > delete 1char back
 	- [x] delete forward ? - workarounds with `ctrl o`
 - [x] `ctrl w` > delete 1word back
 - [x] `ctrl u` > delete till line start
 - [x] `ctrl o` >  allows for 1 normal mode cmd
 - [x] `ctrl j/m` > enter/newline
-- [x] `ctrl t/d` > indent/un-indent
 - [x] `ctrl v <Esc>` > drops the `^[` which stands for esc
-- [x] `ctrl r reg` > paste the register
+- [x] `ctrl r regChar` > paste the register
 	- [x] `ctrl r=` > do simple math
 - [x] `ctrl a` > last inserted text
 - [ ] `ctrl x` > completion, must combine with more keybindings

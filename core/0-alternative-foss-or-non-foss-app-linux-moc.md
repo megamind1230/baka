@@ -1,7 +1,7 @@
 # done
-- [x] notion >  [[0-obsidian-MOC|obsidian]]
-- [x] photoshop > [[0-gimp-MOC|gimp]]
-- [x] premiere > [[davinci-resolve]] , [[0-kdenlive-MOC|kdenlive]]
+- [x] notion >  [[@-obsidian-moc|obsidian]]
+- [x] photoshop > [[@-gimp-moc|gimp]]
+- [x] premiere > [[davinci-resolve]] , [[@-kdenlive- moc|kdenlive]]
 - [x] notepad / notepad++ > notepadqq 
 - [x] adobe acrobat > [[drawboard-pdf-app-shortcuts|drawboard]]
 

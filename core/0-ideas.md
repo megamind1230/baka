@@ -193,5 +193,5 @@ so you share this single idea till you get some more information about that topi
 
 - [ ] [[my-wiki-channels-project]]
 - [ ] [[grad-proj-names-new]]
-- [ ] [[0-grad-proj-team-meetings-MOC]]
+- [ ] [[@-grad-proj-team-meetings-moc]]
 - [ ] idea ..learn by example.. pl name

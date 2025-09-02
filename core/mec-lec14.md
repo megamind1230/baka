@@ -3,7 +3,7 @@
 > lec 12 in yt videos
 
 
-- [ ] [[task-vs-thread-in-csharp]]
+- [x] [[task-vs-thread-in-csharp]]
 - [ ] [[async-keyword]]
 - [ ] [[await-keyword]]
 - [ ] [[delegates-and-events]]

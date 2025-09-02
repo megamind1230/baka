@@ -59,7 +59,7 @@
 
 # c# advanced 
 - [x] generics
-- [x] [[lambda-expression]]
+- [x] lambda-expression
 - [x] [[delegates-and-events]]
 - [x] [[list-methods]]
 - [x] [[0-as-vs-is-operators-in-csharp]]

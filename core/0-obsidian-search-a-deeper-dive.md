@@ -33,7 +33,7 @@ bankai
 
 ---
 # how to search and drop accents in obsidian ?
-- just use [[0-regex-or-regular-expressions-MOC|regex]] search by using `/regex/` in search bar
+- just use [[@-regex-or-regular-expressions-moc|regex]] search by using `/regex/` in search bar
 
 - [Obsidian Basics: Search & Starred Search - YouTube](https://www.youtube.com/watch?v=mbPS3GXFFA4)
 	- `"text as it is"` search as literal

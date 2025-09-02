@@ -2,14 +2,14 @@
 # done
 # note done
 - [ ] [[0-obsidian-search-a-deeper-dive]]
-- [ ] [[0-MOCs-or-maps-of-content-and-how-to-use-it]]
+- [ ] [[@-mocs-or-maps-of-content-and-how-to-use-it]]
 - [ ] [[more-md-formatting]]
-- [ ] [[0-obsidian-plugins-MOC]]
+- [ ] [[@-obsidian-plugins-moc]]
 - [ ] [[0-zettelkasten or ZK]]
-- [ ] [[0-obsidian-issues-MOC]]
+- [ ] [[@-obsidian-issues-moc]]
 - [ ] [[markdownlint]]
 - [ ] [[obsidian-data-visualiztion]]
-- [ ] [[MOCs-and-MOCeptions-liking-between-MOCs]]
+- [ ] [[@-mocs-and-moceptions-liking-between-mocs]]
 - [ ] maximize active pane plugin  better focus
 - [ ] cycle through panes .. for better nav
 - [ ] obsidian tabs plugin

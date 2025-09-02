@@ -1,7 +1,7 @@
-#1 
-#to-merge-later
+#todo
+> merge this
 # know more about your system
-- `uptime` > how much the machine been opened (hours don't represent session hours i think)
+- [ ] `uptime` > how much the machine been opened (hours don't represent session hours i think)
 - `free` > free space available in RAM
 - [[fdisk-command|sudo fdisk -l]]
 - `lsblk` > shows the tree of partitions
@@ -22,7 +22,7 @@
 	- list installed
 		- and count them
 	- [x] `snap list`
-- [ ] `nmcli c` or `nmcli d` network manager cli
+- [x] `nmcli c` or `nmcli d` network manager cli
 	- what type of internet your device have + gives your wifi router name
-- [ ] `ip a`
+- [x] `ip a`
 	- under wlp3s0 > find your MAC address

@@ -134,7 +134,7 @@ where condition
 ## v5:v9
 - `where x between 1 and 4` === 1<=x<=4
 - `where x in (a,b)` === x=a OR x=b
-- `where x like 'regex'` [[0-regex-or-regular-expressions-MOC|more on regex]]
+- `where x like 'regex'` [[@-regex-or-regular-expressions-moc|more on regex]]
 - expr `as` aliasName
 - concat with `+`
 - order by prio => `order by colName asc/desc`

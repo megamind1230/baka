@@ -50,7 +50,7 @@
 - [ ] [CH06\_VID06\_Sticky Bits - YouTube](https://www.youtube.com/watch?v=KFqdNckg3tM&ab_channel=MaharaTech-ITIMOOCA)
 - [ ] [CH06\_VID07\_The Default Permissions - YouTube](https://www.youtube.com/watch?v=vyyxQh1-4WI&ab_channel=MaharaTech-ITIMOOCA)
 ## ch7
-- [[0-linux-permissions-MOC]]
+- [[@-linux-permissions-moc]]
 - [ ] [CH07\_VID01\_The Default PermissionsVirtual Consoles - YouTube](https://www.youtube.com/watch?v=vSHFku-mDCw&ab_channel=MaharaTech-ITIMOOCA)
 - [ ] [CH07\_VID02\_The Default PermissionsSystem Shutdown and Reboot - YouTube](https://www.youtube.com/watch?v=_mnylokmOFA&ab_channel=MaharaTech-ITIMOOCA)
 # 05-07-2024

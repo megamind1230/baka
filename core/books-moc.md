@@ -9,9 +9,8 @@
 
 # low prio
 
-- [ ] [[cpp-how-to-program-paul-deitel-tenth-edition-cpphtp-MOC]]
+- [ ] [[@-cpp-how-to-program-paul-deitel-tenth-edition-cpphtp-moc]]
 - [ ] [[kitab-tayseer-3ilm-al-fara'id]]
-- [ ] [[kitab-al-tamtheel-wal-mu7adarah]]
 - [ ] [[Esam-Halim-Houssein-Abd-El-Halim-4-Data-Structure-Using-Cpp-Malik]]
 
 [[building-a-second-brain-tiago-forte]]
