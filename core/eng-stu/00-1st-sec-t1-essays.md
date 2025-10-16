@@ -1,0 +1,1153 @@
+# "why learning english is important today"
+### **Essay 1: Simple Language (150 words)**
+
+Learning English is important today because it is a global language. When you
+travel to a different country, people often understand English. It helps you
+talk to others, ask for directions, and make new friends.
+
+In work and business, English is very useful. Many big companies use English to
+communicate. If you know English, you can get better job opportunities anywhere
+in the world. It opens many doors for your career.
+
+Also, most of the information on the internet is in English. This includes news,
+science, and entertainment. By learning English, you can access more knowledge
+and understand different cultures easily. It helps you learn new things and see
+the world from a wider perspective. In short, English is a key skill for a
+connected world.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+In our interconnected world, the importance of learning English cannot be
+overstated. As the primary language of international communication, it bridges
+cultural and geographical divides. Proficiency in English facilitates travel,
+enabling meaningful interactions and fostering global citizenship.
+
+From a professional standpoint, English is indispensable. It is the dominant
+language in fields such as business, technology, and academia. Mastering it
+significantly enhances career prospects, allowing individuals to compete in the
+global job market and collaborate with international partners.
+
+Furthermore, English is the gateway to a vast repository of knowledge. A
+significant portion of the world’s scientific research, digital content, and
+literary works are produced in English. Command of the language empowers
+individuals to access information firsthand, engage with diverse perspectives,
+and participate fully in the global exchange of ideas. Ultimately, English
+proficiency is a vital tool for personal and professional advancement in the
+21st century.
+
+```c
+### **القصة الأولى: لغة بسيطة (150 كلمة)**
+
+يُعدّ تعلم اللغة الإنجليزية مهمًا اليوم لأنها لغة عالمية. عند السفر إلى بلد آخر،
+يفهم الناس عادةً اللغة الإنجليزية. فهي تُساعد على التواصل مع الآخرين، وطلب
+الإرشادات، وإقامة صداقات جديدة.
+
+وفي مجال العمل والتجارة، تُعدّ اللغة الإنجليزية مفيدة للغاية. تستخدم العديد من
+الشركات الكبرى اللغة الإنجليزية للتواصل. إذا كنتَ تتحدث الإنجليزية، فستحصل على
+فرص عمل أفضل في أي مكان في العالم. فهي تفتح لك أبوابًا واسعة في مسيرتك المهنية.
+
+بالإضافة إلى ذلك، معظم المعلومات على الإنترنت باللغة الإنجليزية، بما في ذلك
+الأخبار والعلوم والترفيه. بتعلم اللغة الإنجليزية، يمكنك الوصول إلى المزيد من
+المعرفة وفهم الثقافات المختلفة بسهولة. فهي تُساعدك على اكتساب معلومات جديدة
+وتوسيع آفاقك. باختصار، تُعدّ اللغة الإنجليزية مهارة أساسية في عالم اليوم
+المترابط.
+
+
+### **القصة الثانية: لغة متوسطة (150 كلمة)**
+
+في عالمنا المترابط، لا يمكن المبالغة في أهمية تعلم اللغة الإنجليزية. فهي لغة
+الاتصال الدولية الأساسية، وتُعدّ جسرًا بين الثقافات والجغرافيا. إتقان اللغة
+الإنجليزية يُسهّل السفر، ويُتيح التواصل الفعال، ويُساهم في بناء المواطنة
+العالمية.
+
+من الناحية المهنية، تُعدّ اللغة الإنجليزية ضرورية. فهي اللغة المهيمنة في مجالات
+مثل الأعمال والتكنولوجيا والبحث العلمي. إتقانها يُعزز فرص العمل بشكل كبير،
+ويُمكّن الأفراد من المنافسة في سوق العمل العالمي والتعاون مع الشركاء الدوليين.
+
+علاوة على ذلك، تُعدّ اللغة الإنجليزية بوابة للمعرفة. جزء كبير من الأبحاث العلمية
+والمحتوى الرقمي والأعمال الأدبية في العالم مكتوب باللغة الإنجليزية. إتقان اللغة
+يُمكن الأفراد من الوصول إلى المعلومات مباشرةً، والتفاعل مع وجهات نظر متنوعة،
+والمشاركة الفعالة في تبادل الأفكار عالميًا. باختصار، يُعدّ إتقان اللغة
+الإنجليزية أداة أساسية للتقدم الشخصي والمهني في القرن الحادي والعشرين.
+```
+
+# a strange day you had in your life
+### **Essay 1: Simple Language (150 words)**
+
+One of the strangest days of my life started normally. I went to the bus stop to
+go to work. But when the bus arrived, the driver was wearing a clown nose and
+giggling. Everyone on the bus was silent, just reading newspapers. It was very
+odd.
+
+I got off at my usual stop, but nothing looked familiar. The buildings were
+different colours. I asked a woman for directions, and she spoke in a language I
+didn’t understand. My phone had no signal. I felt completely lost and a little
+scared. I just walked around for what felt like hours.
+
+Suddenly, I turned a corner and everything was normal again. My office building
+was right there. I looked back, and the street was ordinary. I never figured out
+what happened that morning. It was a truly strange and confusing day.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+I experienced a day of surreal disorientation that remains inexplicable. It
+began routinely, but the normality shattered upon boarding the bus. The driver,
+cheerful yet incongruous in a formal uniform, addressed every passenger by a
+different, elaborate name. The atmosphere was thick with a silent, collective
+bewilderment.
+
+Alighting at my destination, I was met with a profound dissonance. The cityscape
+was eerily familiar yet subtly altered; street names were slightly wrong, and
+the usual café was a florist. My digital maps failed, presenting a glitched,
+nonsensical grid. Time seemed to stretch and warp, heightening my anxiety as I
+navigated this uncanny version of my reality.
+
+The resolution was as abrupt as the onset. Upon finally locating my office, the
+world snapped back into its correct alignment. The episode vanished, leaving no
+evidence but a lingering sense of unease. It was a jarring reminder of reality’s
+fragile veneer.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+بدأ أحد أغرب الأيام في حياتي بشكل عادي. ذهبت إلى محطة الحافلات للذهاب إلى العمل.
+لكن عندما وصلت الحافلة، كان السائق يرتدي أنف كلّود المزركش ويضحك. كان كل ركاب
+الحافلة صامتين، يقرؤون الصحف فقط. كان الأمر غريبًا للغاية.
+
+نزلت عند محطتي المعتادة، لكن لم يبدو أي شيء مألوفًا. كانت ألوان المباني مختلفة.
+سألت امرأة عن الطريق، لكنها تحدثت بلغة لم أفهمها. لم يكن لديّ إشارة على هاتفي.
+شعرتُ بفقدان الاتجاه التام وبعض الخوف. كنت أمشي في الشارع لساعات، كما بدا لي.
+
+فجأة، استدارتُ عند زاوية، وعاد كل شيء إلى طبيعته. كان مبنى مكتبي أمامي. نظرتُ
+إلى الوراء، وكان الشارع عاديًا. لم أفهم أبدًا ما حدث في ذلك الصباح. كان يومًا
+غريبًا ومربكًا حقًا.
+
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+مررتُ بيوم غريب وغير مألوف، لا يمكن تفسيره. بدأ اليوم بشكل عادي، لكن الأمور
+تغيرت تمامًا عند صعودي إلى الحافلة. كان السائق مرحًا، لكنه كان يرتدي زيًا رسميًا
+غير مناسب، وكان ينادي كل راكب باسم مختلف. كان الجو مشحونًا بالارتباك والذهول.
+
+عند وصولي إلى وجهتي، شعرتُ باختلاف كبير. بدا المشهد مألوفًا، لكنه كان مختلفًا
+قليلاً؛ أسماء الشوارع كانت خاطئة، وكان مقهى المعتاد متجر زهور. فشلت تطبيقات
+الخرائط، وأظهرت شبكة غريبة. بدا أن الزمن يتمدد ويتشوه، مما زاد من قلقي.
+
+كان الحل مفاجئًا كما بدأت المشكلة. عندما وجدتُ مكتبي، عاد كل شيء إلى طبيعته.
+اختفت تلك اللحظات الغريبة، تاركةً شعورًا بالاضطراب. كان بمثابة تذكير مفاجئ بضعف
+الواقع.
+```
+# the responsibilities of a good citizen
+### **Essay 1: Simple Language (150 words)**
+
+A good citizen has important responsibilities to their community and country.
+First, they should follow the rules and laws. This includes simple things like
+throwing trash in bins and respecting traffic signals. It helps keep everyone
+safe and orderly.
+
+Another key duty is to be kind and helpful to others. This means helping a
+neighbour, being honest, and respecting people from all backgrounds. A good
+citizen also contributes to society. They can do this by working hard at their
+job or by volunteering their time for a good cause.
+
+Finally, a good citizen should stay informed about what is happening in their
+community and country. While voting is a major right, even understanding local
+issues is a big part of being responsible. When everyone does their small part,
+it makes the whole nation stronger and happier.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+The responsibilities of a good citizen extend beyond mere law-abidance; they
+form the foundation of a functional and progressive society. Primarily, this
+involves civic engagement, which includes staying informed about current issues,
+voting conscientiously in elections, and participating in public discourse. This
+active participation ensures that governance remains accountable and responsive.
+
+Furthermore, a good citizen upholds social responsibility by promoting harmony
+and justice. This entails demonstrating respect for the rights and opinions of
+others, practicing tolerance, and contributing to the community through
+volunteerism or taxes. They recognize that their individual actions collectively
+shape the social fabric.
+
+Environmental stewardship is another critical duty, involving the sustainable
+use of resources and protection of public spaces. Ultimately, good citizenship
+is an active commitment to the collective well-being, requiring both rights and
+responsibilities to be exercised with diligence and ethical consideration for
+the greater good.
+
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+يتحمل المواطن الصالح مسؤوليات مهمة تجاه مجتمعه ووطنه. أولاً، يجب عليه الالتزام
+بالقوانين والأنظمة، بدءاً من الأمور البسيطة كوضع القمامة في حاويتها واحترام
+إشارات المرور، مما يسهم في الحفاظ على الأمن والنظام.
+
+ومن واجباته أيضاً التآزر مع الآخرين والتعاون معهم، أي مساعدة الجيران والصدق مع
+الجميع واحترامهم بغض النظر عن خلفياتهم. كما يجب على المواطن الصالح المساهمة في
+بناء مجتمعه، إما من خلال بذل جهده في عمله أو من خلال العمل التطوعي.
+
+وأخيراً، يجب على المواطن الصالح أن يكون على دراية بالأحداث الجارية في مجتمعه
+وبلاده. فالتصويت حق أساسي، لكن فهم القضايا المحلية جزء مهم من المسؤولية. عندما
+يساهم كل فرد في بناء مجتمعه، يصبح المجتمع أقوى وأكثر ازدهاراً.
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+لا يقتصر دور المواطن الصالح على مجرد احترام القانون، بل يشمل بناء مجتمع متماسك
+ومتطور. ويشمل ذلك المشاركة المجتمعية، كالبقاء على اطلاع بالأحداث الجارية،
+والتصويت بوعي، والمشاركة في الحوار العام. هذه المشاركة الفعالة تضمن مساءلة
+الحكام وتحقيق مطالب المجتمع.
+
+كما يتحمل المواطن الصالح مسؤولية اجتماعية بتعزيز التآزر والعدل، من خلال احترام
+حقوق الآخرين وآرائهم، والتعايش السلمي، والمساهمة في المجتمع عبر التطوع أو دفع
+الضرائب. فهو يدرك أن أفعاله الفردية تؤثر على المجتمع ككل.
+
+ويشمل دور المواطن الصالح أيضاً الحفاظ على البيئة، من خلال استخدام الموارد بشكل
+مستدام وحماية الأماكن العامة. باختصار، المواطنة الصالحة هي التزام فعال ببناء
+مجتمع أفضل، يتطلب ممارسة الحقوق والواجبات بمسؤولية ووفقاً للأخلاق والقيم.
+```
+# volunteering as a way of serving communities
+### **Essay 1: Simple Language (150 words)**
+
+Volunteering is a powerful way to serve your community. It means giving your
+time and skills for free to help others. This could be by cleaning a local park,
+helping at an animal shelter, or reading to children at a library. When people
+volunteer, they make their community a better and cleaner place to live.
+
+Serving others through volunteering also brings people together. You can meet
+your neighbours and make new friends while working on a common goal. It builds a
+strong sense of connection and care among people.
+
+Furthermore, volunteering is good for you, too. It feels good to help someone in
+need. You can learn new skills and gain confidence. By giving just a little
+time, you can make a big difference. Volunteering is a simple act of kindness
+that strengthens the entire community.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+Volunteering represents a fundamental act of civic service, directly
+contributing to the vitality and resilience of communities. It involves the
+altruistic contribution of time and expertise to address local needs, from
+supporting educational programs to assisting vulnerable populations. This
+service fills crucial gaps, enhancing social welfare and fostering a more
+inclusive environment.
+
+Beyond tangible outcomes, volunteering cultivates social cohesion. It unites
+individuals from diverse backgrounds around shared purposes, strengthening
+community bonds and promoting mutual understanding. This collaborative spirit is
+essential for a harmonious society.
+
+For the volunteer, the act of serving others offers profound personal rewards,
+including skill development and a deepened sense of purpose and empathy. It
+transforms passive residence into active citizenship. Ultimately, volunteering
+is a symbiotic relationship; it empowers individuals to become agents of
+positive change, enriching both their own lives and the fabric of their
+community.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+التطوع وسيلة فعّالة لخدمة المجتمع، فهو يعني إهداء وقتك ومهاراتك مجانًا لمساعدة
+الآخرين. قد يشمل ذلك تنظيف حديقة محلية، أو المساعدة في ملجأ للحيوانات، أو قراءة
+القصص للأطفال في المكتبة. عندما يتطوع الناس، فإنهم يجعلون مجتمعهم مكانًا أفضل
+وأكثر نظافة للعيش.
+
+كما أن خدمة الآخرين من خلال التطوع تجمع بين الناس، حيث يمكنك مقابلة جيرانك
+وإقامة صداقات جديدة أثناء العمل لتحقيق هدف مشترك. ويساهم ذلك في بناء روابط قوية
+وتعزيز روح التعاون بين أفراد المجتمع.
+
+بالإضافة إلى ذلك، يحقق التطوع فوائد شخصية، فهو يشعر المرء بالسعادة عند مساعدة
+المحتاجين، ويساعد على اكتساب مهارات جديدة وزيادة الثقة بالنفس. حتى لو خصصت وقتًا
+قصيرًا، يمكنك إحداث فرق كبير. التطوع هو عمل إنساني بسيط يعزز روح التلاحم في
+المجتمع.
+
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+يمثل التطوع عملًا أساسيًا في خدمة المجتمع، ويساهم بشكل مباشر في تنمية المجتمع
+وتعزيز تماسكه. ويتضمن إهداء الوقت والخبرة لمواجهة الاحتياجات المحلية، بدءًا من
+دعم البرامج التعليمية وصولًا إلى مساعدة الفئات الأكثر احتياجًا. ويساهم هذا العمل
+في سد الثغرات الحيوية، ويعزز الرفاهية الاجتماعية ويخلق بيئة أكثر شمولية.
+
+وبصرف النظر عن النتائج الملموسة، فإن التطوع يرسخ التماسك الاجتماعي، فهو يجمع بين
+أفراد من خلفيات مختلفة حول أهداف مشتركة، مما يعزز روابط المجتمع ويشجع على
+التفاهم المتبادل. وهذا التعاون ضروري لبناء مجتمع متناغم.
+
+بالنسبة للمتطوع، فإن خدمة الآخرين تجلب له مكاسب شخصية كبيرة، بما في ذلك تطوير
+المهارات وتعزيز الإحساس بالمسؤولية والتعاطف. ويحول التطوع المواطن السلبي إلى
+مواطن فاعل. باختصار، التطوع شراكة مثمرة، فهو يمكّن الأفراد من أن يصبحوا رواد
+تغيير إيجابي، مما يثري حياتهم ويساهم في بناء مجتمع أفضل.
+```
+# A review of a charity that helps the community
+### **Essay 1: Simple Language (150 words)**
+
+I want to review a wonderful charity in our town called "Neighbourhood Hands."
+This group helps people who are struggling. They have a food pantry where
+families can get free groceries. They also deliver meals to elderly people who
+cannot leave their homes.
+
+What I like most about Neighbourhood Hands is how kind and friendly all the
+volunteers are. They always welcome everyone with a smile. I volunteered with
+them last month to pack food boxes, and it felt great to help my neighbours.
+
+The charity also runs a after-school club for children, which is very popular.
+They rely on donations from the community to keep running. I think Neighbourhood
+Hands is a very important charity because it directly helps people in our own
+area. It makes our community stronger and more caring. I strongly support their
+work.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+A standout organization making a tangible impact in our community is "Community
+Bridges Initiative." This charity excels not only in providing essential
+services but also in fostering long-term empowerment. Their work spans three key
+areas: a well-managed food bank, educational support programs for youth, and
+skills-training workshops for adults seeking employment.
+
+What distinguishes Community Bridges is their strategic approach. They address
+immediate crises like food insecurity while simultaneously tackling root causes
+such as lack of education and unemployment. This creates a sustainable model for
+change rather than offering temporary relief.
+
+My personal experience volunteering in their mentorship program revealed a
+highly efficient and compassionate operation. The charity successfully mobilizes
+community resources, connecting those who wish to give with those in genuine
+need. For its holistic strategy and profound local impact, Community Bridges
+Initiative deserves the highest commendation and continued support.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+أودّ أن أتحدث عن جمعية خيرية رائعة في منطقتنا، وهي "جمعية أيدي الجيران". هذه
+الجمعية تُساعد الأسر المحتاجة، حيث توفر لهم مواد غذائية مجانية، كما تُقدم وجبات
+طعام لمن كبر في السن ولا يستطيعون الخروج من منازلهم.
+
+ما يُعجبني في "جمعية أيدي الجيران" هو كرم وودّ جميع المتطوعين فيها، فهم يُرحبون
+بالجميع دائماً بابتسامة. تطوعتُ معهم الشهر الماضي في توزيع مواد غذائية، وكان
+شعوري رائعاً عندما ساعدتُ جيراني.
+
+تُشرف الجمعية أيضاً على نادٍ للأطفال بعد ساعات الدراسة، وهو نشاط مُحبب لدى
+الأطفال. تعتمد الجمعية على تبرعات المجتمع لمواصلة أنشطتها. أعتقد أن "جمعية أيدي
+الجيران" جمعية خيرية مهمة جداً، لأنها تُساعد سكان منطقتنا مباشرةً، وتُساهم في
+بناء مجتمع أقوى وأكثر تكاتفاً. وأُؤيد عملهم بشدة.
+
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+تُعدّ "مبادرة جسور المجتمع" منظمة مميزة تُحدث تأثيراً إيجابياً في مجتمعنا. تتميز
+هذه الجمعية الخيرية ليس فقط بتوفير الخدمات الأساسية، بل أيضاً بدعمها المستمر
+للأفراد. تتضمن أنشطتها ثلاثة محاور رئيسية: بنك طعام مُنظم، وبرامج دعم تعليمي
+للشباب، وورش تدريبية للعاطلين عن العمل.
+
+ما يُميّز "مبادرة جسور المجتمع" هو نهجها الاستراتيجي، حيث تُعالج الأزمات العاجلة
+كندرة الغذاء، وتُركز في الوقت نفسه على حل جذور المشكلة كعدم توفر التعليم
+والبطالة. هذا يُشكل نموذجاً مستداماً للتغيير بدلاً من تقديم حلول مؤقتة.
+
+تجربتي الشخصية في التطوع ضمن برنامج الإرشاد في هذه الجمعية، كشفت لي عن كفاءة
+عالية وإنسانية كبيرة. تُحسّن الجمعية من موارد المجتمع، وتُربط بين الراغبين في
+العطاء والذين يحتاجون إلى المساعدة. نظراً لاستراتيجيتها الشاملة وتأثيرها الكبير
+على المجتمع، تستحق "مبادرة جسور المجتمع" التقدير والمساندة المستمرة. 
+```
+# how to reduce the number of young people who give up education at early age
+### **Essay 1: Simple Language (150 words)**
+
+To reduce the number of young people leaving education early, we need to make
+school more engaging and supportive. Many students drop out because they find
+lessons boring or too difficult. We can change this by using more hands-on
+activities and connecting lessons to real-life jobs. This makes learning more
+interesting and relevant.
+
+Strong support is also crucial. Every student should have a teacher or
+counsellor they can talk to if they are struggling with schoolwork or personal
+problems. Early help can stop a small problem from becoming a big reason to
+quit.
+
+Finally, we should show the real value of education. Bringing in people from
+different careers to talk to students can open their eyes to new opportunities.
+When young people understand how an education can help them achieve their
+dreams, they are more likely to stay and complete their studies.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+Reducing early school-leaving requires a multi-faceted approach that addresses
+both academic and socio-economic factors. A primary strategy is to enhance
+curricular relevance by integrating vocational training and real-world skills
+alongside traditional academics. This demonstrates the practical application of
+education, fostering greater student engagement and motivation.
+
+Simultaneously, robust student support systems are imperative. This includes
+access to academic tutors, mental health counsellors, and mentorship programmes.
+Early intervention for students showing signs of disengagement—such as
+absenteeism or falling grades—can provide critical support before they decide to
+leave.
+
+Furthermore, fostering stronger school-community partnerships is vital.
+Collaboration with local businesses for apprenticeship opportunities and career
+talks can illuminate tangible pathways to success, making education feel more
+purposeful. By creating an environment that is supportive, relevant, and
+aspirational, we can significantly diminish the appeal of abandoning education
+prematurely.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+لتقليل عدد الطلاب الذين يتركون الدراسة مبكراً، يجب علينا جعل العملية التعليمية
+أكثر جاذبية ودعمًا للطلاب. يترك العديد من الطلاب الدراسة لأنهم يجدون الدروس مملة
+أو صعبة للغاية. يمكننا تغيير ذلك من خلال استخدام أنشطة عملية أكثر، وترسيخ الصلة
+بين الدروس والوظائف في الحياة العملية. هذا يجعل التعلم أكثر إثارة للاهتمام وأكثر
+فائدة.
+
+الدعم القوي ضروري أيضًا. يجب أن يكون لدى كل طالب معلم أو مرشد يمكنه التحدث معه
+في حال واجه صعوبات في الدراسة أو مشاكل شخصية. المساعدة المبكرة تمنع المشاكل
+الصغيرة من التطور إلى أسباب رئيسية للترك الدراسة.
+
+وأخيراً، يجب أن نوضح قيمة التعليم الحقيقية. دعوة أشخاص من مختلف المهن للتحدث مع
+الطلاب يمكن أن يفتح آفاقاً جديدة أمامهم. عندما يفهم الشباب كيف يمكن للتعليم
+مساعدتهم في تحقيق أحلامهم، فمن المرجح أن يكملوا دراستهم.
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+يستلزم الحد من ترك الطلاب للدراسة مبكراً اتباع نهج متعدد الأوجه لمعالجة العوامل
+الأكاديمية والاجتماعية والاقتصادية. إحدى الاستراتيجيات الرئيسية هي تعزيز أهمية
+المناهج الدراسية من خلال دمج التدريب المهني والمهارات العملية مع المواد
+الأكاديمية التقليدية. هذا يوضح التطبيق العملي للتعليم، مما يعزز مشاركة الطلاب
+وحماسهم.
+
+وفي الوقت نفسه، من الضروري وجود أنظمة دعم قوية للطلاب. يشمل ذلك توفير خدمات
+الإرشاد الأكاديمي، والاستشارات النفسية، وبرامج الإرشاد. التدخل المبكر للطلاب
+الذين يظهرون علامات عدم الاهتمام بالدراسة، مثل الغياب المتكرر أو انخفاض مستواهم
+الدراسي، يوفر الدعم اللازم قبل أن يقرروا ترك الدراسة.
+
+بالإضافة إلى ذلك، من المهم تعزيز شراكات أقوى بين المدرسة والمجتمع. التعاون مع
+المؤسسات المحلية لفرص التدريب العملي والندوات المهنية يمكن أن يوضح مسارات واضحة
+نحو النجاح، مما يجعل التعليم أكثر قيمة. من خلال خلق بيئة داعمة ومناسبة وواعدة،
+يمكننا تقليل رغبة الطلاب في ترك الدراسة مبكراً.
+```
+# how to avoid fake news in Egypt
+### **Essay 1: Simple Language (150 words)**
+
+Avoiding fake news in Egypt is very important. Here are some simple steps you
+can take. First, always check the source of the news. Is it from a well-known
+and trusted newspaper or TV channel? If you see a story on social media, do not
+believe it immediately.
+
+Second, look for the same story on other news websites. If many reliable sources
+are reporting it, the story is probably true. If only one unknown website has
+the story, it might be fake.
+
+Third, think before you share. Sharing fake news can cause problems and scare
+people. Ask yourself, "Is this information helpful and true?"
+
+Finally, use fact-checking websites. Some websites are made to check if a story
+is true or false. By being careful, we can all help stop the spread of fake news
+and make sure everyone has the right information.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+In Egypt's dynamic media landscape, avoiding fake news requires proactive and
+critical engagement with information. The primary defence is source
+verification. Prioritise established, reputable news organisations known for
+journalistic integrity over unfamiliar websites or sensational social media
+accounts. Scrutinise the URL, as fake sites often mimic legitimate ones with
+slight spelling alterations.
+
+Furthermore, employ cross-referencing. Authentic news is typically reported by
+multiple credible sources. If a story appears in isolation, it warrants
+scepticism. Develop lateral reading habits—open new tabs to investigate the
+source and claims simultaneously rather than just reading the original post.
+
+Cultivating media literacy is crucial. Be aware of personal biases and emotional
+triggers that fake news often exploits. Utilise local and international
+fact-checking initiatives, such as Matsda2sh and AFP Fact Check, to verify
+dubious claims. Ultimately, a cautious, questioning approach is the most
+effective strategy to navigate the digital information ecosystem responsibly.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+يُعدّ تجنب الأخبار المزيفة في مصر أمرًا بالغ الأهمية. إليكم بعض الخطوات البسيطة
+التي يمكنكم اتباعها. أولًا، تحققوا دائمًا من مصدر الخبر. هل هو من صحيفة أو قناة
+تلفزيونية معروفة وموثوقة؟ إذا رأيتم خبرًا على مواقع التواصل الاجتماعي، فلا
+تصدقوه على الفور.
+
+ثانيًا، ابحثوا عن نفس الخبر على مواقع إخبارية أخرى. إذا تناولت العديد من المصادر
+الموثوقة الخبر، فمن المحتمل أن يكون صحيحًا. أما إذا كان الخبر متوفرًا على موقع
+واحد غير معروف، فقد يكون مزيفًا.
+
+ثالثًا، فكّروا قبل النشر. نشر الأخبار المزيفة قد يتسبب في مشاكل ويخلق حالة من
+القلق. اسألوا أنفسكم: "هل هذه المعلومات مفيدة وصحيحة؟"
+
+وأخيرًا، استخدموا مواقع التحقق من صحة الأخبار. هناك مواقع مخصصة للتحقق من صحة
+الأخبار. من خلال الحرص، يمكننا جميعًا المساهمة في وقف انتشار الأخبار المزيفة
+وضمان حصول الجميع على المعلومات الصحيحة.
+
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+في ظل المشهد الإعلامي الديناميكي في مصر، يتطلب تجنب الأخبار المزيفة التعامل مع
+المعلومات بحذر وانتقائية. أولًا، تحققوا من مصادر الأخبار. فضلوا المؤسسات
+الإعلامية الموثوقة والمعروفة بالنزاهة المهنية على المواقع غير المألوفة أو
+الحسابات المشبوهة على مواقع التواصل الاجتماعي. راجعوا عناوين المواقع بدقة،
+فالمواقع المزيفة غالبًا ما تُقلّد المواقع الأصلية بتغييرات طفيفة في الإملاء.
+
+ثانيًا، قارنوا بين مصادر متعددة. عادةً ما تنشر المصادر الموثوقة الأخبار الصحيحة.
+إذا ظهر خبر في مصدر واحد فقط، فاشككوا فيه. اعتدوا على التحقق من المصادر بدقة،
+بدلاً من الاكتفاء بقراءة الخبر فقط.
+
+يُعدّ تنمية الوعي الإعلامي أمرًا بالغ الأهمية. كونوا على دراية بالتحيزات الشخصية
+والعوامل التي تستغلها الأخبار المزيفة. استخدموا مبادرات التحقق من صحة الأخبار
+المحلية والعالمية، مثل "ماتسدا2ش" و"وكالة فرانس برس للتحقق من الحقائق"، للتحقق
+من صحة المزاعم المشكوك فيها. في النهاية، إن اتباع نهج حذر ومنطقي هو أفضل
+استراتيجية للتعامل مع المعلومات الرقمية بشكل مسؤول.
+```
+# the atmosphere of a library on a rainy day
+### **Essay 1: Simple Language (150 words)**
+
+A library on a rainy day is a special and peaceful place. The sound of rain
+hitting the windows is soft and steady. It makes the library feel like a warm,
+dry shelter from the wet world outside.
+
+Inside, the air is quiet and still. You can hear only small sounds: the gentle
+hum of the lights, the soft turning of a page, and the quiet footsteps of the
+librarian. The light is calm, often from warm lamps at each table, which makes
+the room feel cozy.
+
+People are focused on their books or work. The rainy weather outside seems to
+encourage everyone to be quiet and thoughtful. It’s a perfect place to get lost
+in a good story or to study without distractions. The atmosphere is calm, safe,
+and perfect for thinking and reading. It feels like a shared secret among
+everyone inside.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+The atmosphere within a library on a rainy day is one of profound tranquility
+and insulated concentration. The persistent patter of rain against the windows
+creates a soothing auditory backdrop, heightening the sense of the library as a
+sanctuary. This natural soundtrack muffles the outside world, fostering an
+environment of deep introspection.
+
+The lighting contributes significantly to the mood. Overcast skies diffuse a
+soft, grey glow through the windows, complemented by the warm, focused pools of
+light from reading lamps. This interplay of light eliminates harshness, casting
+the rows of bookshelves in a serene, almost hallowed, light.
+
+Patrons, seemingly subconsciously influenced by the weather, move and work with
+a hushed reverence. The ambient silence is punctuated only by the occasional
+rustle of paper or the distant chime of a computer. This collective, quiet
+immersion in knowledge creates a uniquely productive and contemplative space,
+where time appears to slow down.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+تُعد المكتبة في يوم ممطر مكانًا خاصًا وهادئًا. صوت الأمطار على النوافذ خفيف
+وهادئ، مما يجعل المكتبة ملاذًا دافئًا ومريحًا من البرودة والرطوبة في الخارج.
+
+داخل المكتبة، يكون الجو هادئًا. تسمع فقط أصواتًا خفيفة: خرير خفيف للمصابيح،
+وزغزغة خفيفة لصفحات الكتب، وأقدام خفيفة للموظفين. الإضاءة هادئة، وغالبًا ما تكون
+من مصابيح دافئة على كل طاولة، مما يجعل المكان مريحًا.
+
+يركز القراء على كتبهم أو أعمالهم. يبدو أن الطقس الممطر يشجع الجميع على الهدوء
+والتأمل. إنه المكان الأمثل للانغماس في قصة شيقة أو الدراسة دون تشتيت الانتباه.
+الجو هادئ وآمن، ويُعد مثاليًا للتفكير والقراءة. إنه شعور خاص وهادئ يشعر به كل من
+في المكتبة.
+
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+يتميز جو المكتبة في يوم ممطر بهدوء عميق وتركيز تام. صوت الأمطار على النوافذ يخلق
+أجواءً موسيقية هادئة، مما يزيد من شعور الراحة والهدوء في المكتبة. هذا الصوت
+الطبيعي يخفي أصوات العالم الخارجي، ويخلق بيئة مثالية للتأمل.
+
+يلعب الإضاءة دورًا مهمًا في خلق هذا الجو. ينفذ ضوء خافت من النوافذ، ويتكامل مع
+إضاءة المصابيح الدافئة على الطاولات. هذا التوازن في الإضاءة يخلق جوًا هادئًا
+وجميلًا.
+
+يبدو أن القراء، متأثرين بطقس الأمطار، يتحركون ويعملون بهدوء وتركيز. لا يقطعه هذا
+الهدوء إلا صوت خفيف لصفحات الكتب أو صوت الحاسوب. هذا الانغماس الهادئ في المعرفة
+يخلق بيئة مثالية للإنتاجية والتأمل، حيث يبدو أن الوقت يتوقف.
+```
+# a memorable moment of winning a competition
+### **Essay 1: Simple Language (150 words)**
+
+A memorable moment of winning a competition for me was when our school football
+team won the finals. The match was very tough, and the score was tied until the
+last minute. I felt nervous but also excited.
+
+In the final moments, I got a pass and kicked the ball towards the goal. It went
+straight in! The whistle blew, and everyone started shouting and cheering. My
+teammates ran to me, hugging and lifting me up. I felt so happy I could hardly
+believe it.
+
+We received a shiny gold trophy, and our parents were clapping and taking
+photos. That night, I kept the medal under my pillow. Winning wasn't just about
+the trophy; it was about working hard as a team and never giving up. That
+feeling of joy and pride is something I will never forget. It taught me that
+effort really pays off.
+
+### Essay 2: Intermediate Language (150 words)
+
+The most memorable moment of winning a competition remains vividly etched in my
+mind: the regional debating championship. The atmosphere in the hall was tense,
+filled with anticipation as the judges prepared to announce the result. My heart
+pounded, a mixture of exhaustion from the rigorous debate and acute anxiety.
+
+When our team’s name was called, a wave of exhilaration swept over me. The
+applause was deafening. My teammates and I exchanged looks of stunned disbelief
+before breaking into triumphant smiles. Ascending the podium to receive the
+trophy, I was overwhelmed by a profound sense of accomplishment.
+
+That victory was more than a mere title; it was the culmination of weeks of
+diligent research, collaborative practice, and conquering stage fright. The
+moment symbolized the validation of our hard work and intellectual effort. It
+was an unforgettable lesson in perseverance and teamwork, a memory that
+continues to inspire my confidence in tackling future challenges.
+```c
+### **القصة الأولى: لغة بسيطة (150 كلمة)**
+
+أذكر جيداً تلك اللحظة الرائعة عندما فاز فريق كرة القدم في مدرستنا باللقب. كانت
+المباراة صعبة للغاية، واستمر التعادل حتى الدقيقة الأخيرة. كنت أشعر بالتوتر
+والترقب في آن واحد.
+
+في اللحظات الأخيرة، وصلتني الكرة ومررتها مباشرةً نحو المرمى، وسكنت الشباك! أطلق
+الحكم صافرة النهاية، وبدأ الجميع يهتفون ويحتفلون. انقض عليّ زملائي في الفريق،
+يحتفلون بي ويحملونني على أكتافهم. شعرت بسعادة غامرة لم أصدقها.
+
+حصلنا على كأس ذهبي لامع، وكان والداي يصفقان ويصورانه. في تلك الليلة، وضعت الكأس
+تحت وسادتي. لم يكن الفوز مجرد الحصول على الكأس، بل كان ثمرة جهد جماعي وإصرار لا
+يلين. هذا الشعور بالفخر والسعادة سيبقى في ذاكرتي إلى الأبد. لقد علمني أن الجهد
+المبذول لا يضيع سدى.
+
+
+### القصة الثانية: لغة متوسطة (150 كلمة)
+
+تظل لحظة فوزنا ببطولة المناظرات الإقليمية من أروع ذكرياتي. كان الجو في القاعة
+مشحوناً بالتوتر والترقب، بينما كان الحكام يستعدون للإعلان عن النتيجة. كان قلبي
+ينبض بقوة، مزيج من الإرهاق من المناظرة الشاقة والقلق الشديد.
+
+عندما أعلنوا عن اسم فريقنا، غمرتني فرحة عارمة. كان التصفيق صاخباً. تبادلنا أنا
+وزملائي نظرات دهشة وفرح، ثم ابتسمنا ابتسامة انتصار. عند صعودي إلى المنصة لاستلام
+الكأس، شعرت بفخر كبير.
+
+لم يكن هذا الفوز مجرد لقب، بل كان ثمرة أسابيع من البحث الدؤوب والتدريب الجماعي
+والتغلب على الخوف من الجمهور. رمزت هذه اللحظة إلى نجاحنا وجهدنا المبذول. لقد
+كانت درسًا قيماً في المثابرة والعمل الجماعي، وستظل هذه الذكرى مصدر إلهام لي في
+مواجهة التحديات القادمة.
+```
+# how shy students can make friends and feel welcomed at a new school
+### Essay 1: Simple Language (150 words)
+
+Starting a new school can be scary, especially if you are shy. But you can make
+friends and feel welcome. First, remember that you are not alone. Many students
+feel nervous too.
+
+Start with small steps. Smile at someone in your class. A simple "hello" can
+start a conversation. Ask a friendly person a small question, like "What did we
+have for homework?" or "Do you like this class?" This is an easy way to talk.
+
+Join a club or a sports team. This is great because you meet people who like the
+same things you do. You will have something to talk about right away. It feels
+more comfortable.
+
+Be patient and be yourself. Making good friends takes time. Soon, you will find
+people who like you for who you are.
+
+### Essay 2: Intermediate Language (150 words)
+
+For shy students, integrating into a new school can be daunting. However, by
+employing a few strategic approaches, they can build meaningful connections. The
+key is to initiate contact through low-pressure interactions. A genuine smile or
+a simple greeting can signal approachability. Leveraging shared environments is
+also effective; asking a classmate for clarification on an assignment or
+commenting on a shared experience naturally opens a dialogue.
+
+Furthermore, participating in extracurricular activities provides a structured
+social setting with built-in common interests. Whether it’s a robotics club or
+the soccer team, collaborative pursuits foster camaraderie and reduce the
+pressure of one-on-one conversation.
+
+Ultimately, authenticity is crucial. Rather than forcing a personality, shy
+individuals should focus on being attentive listeners and showing genuine
+interest in others. Building friendships is a gradual process, but by taking
+these proactive steps, shy students can successfully navigate their new
+environment and find a sense of belonging.
+```c
+### المقال الأول: لغة بسيطة (150 كلمة)
+
+قد يكون بدء الدراسة في مدرسة جديدة أمراً مخيفاً، خاصةً إذا كنتَ خجولاً. لكن
+يمكنك تكوين صداقات والشعور بالراحة. أولاً، تذكر أنك لست وحدك، فالعديد من الطلاب
+يشعرون بنفس القلق.
+
+ابدأ بخطوات صغيرة. ابتسم لأحد زملائك في الصف. كلمة "مرحباً" بسيطة قد تبدأ
+حواراً. اسأل أحد الزملاء سؤالاً بسيطاً، مثل: "ما الواجب المنزلي؟" أو "هل تعجبك
+هذه المادة؟" فهذا أسلوب سهل للتواصل.
+
+انضم إلى نادي أو فريق رياضي. هذا رائع، لأنك ستلتقي أشخاصاً لديهم نفس اهتماماتك.
+ستحصل على موضوع للحديث عنه مباشرةً، وهذا يجعل الأمور أكثر راحة.
+
+كن صبوراً وكن على طبيعتك. تكوين صداقات جيدة يحتاج إلى وقت. قريباً، ستجد أصدقاء
+يقبلك كما أنت.
+
+
+### المقال الثاني: لغة متوسطة (150 كلمة)
+
+بالنسبة للطلاب الخجولين، قد يكون الاندماج في المدرسة الجديدة أمراً صعباً. لكن
+باتباع بعض الأساليب العملية، يمكنهم بناء علاقات قيّمة. يكمن السر في بدء التواصل
+من خلال تفاعلات بسيطة. ابتسامة حقيقية أو تحية ودودة تمنح انطباعاً إيجابياً. كما
+أن الاستفادة من الأماكن المشتركة فعّال؛ فطلب توضيح من زميل حول واجب أو التعليق
+على تجربة مشتركة يفتح باب الحوار.
+
+بالإضافة إلى ذلك، تتيح الأنشطة اللاصفية بيئة اجتماعية منظمة مع اهتمامات مشتركة.
+سواء كان نادي الروبوتات أو فريق كرة القدم، فإن الأنشطة الجماعية تعزز الروح
+الجماعية وتخفف من ضغط الحديث الفردي.
+
+أخيراً، الصدق مهم. بدلاً من محاولة تغيير شخصيتك، يجب على الطلاب الخجولين التركيز
+على الاستماع باهتمام وإظهار الاهتمام الحقيقي بالآخرين. بناء الصداقات عملية
+تدريجية، ولكن باتباع هذه الخطوات، يمكن للطلاب الخجولين النجاح في بيئتهم الجديدة
+والشعور بالانتماء.
+```
+# the importance of true friendship
+### **Essay 1: Simple Language (150 words)**
+
+True friendship is one of life's most important treasures. A true friend is
+someone you can always count on. They are there to share your happy moments and
+to support you during difficult times.
+
+When you have a true friend, you never feel alone. You have someone to talk to,
+laugh with, and trust with your secrets. They accept you for who you are and do
+not judge you. This makes you feel safe and valued.
+
+Friendship also helps us grow. Good friends give honest advice and help us see
+things differently. They encourage us to be better people. Life’s journey is
+much happier and easier when you have a true friend by your side. It is a
+special bond that makes life more meaningful.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+True friendship is a cornerstone of a fulfilling life, offering profound
+benefits that extend far beyond casual companionship. It provides an unwavering
+foundation of emotional support, creating a safe harbor where vulnerabilities
+can be shared without fear of judgment. This authentic connection fosters a
+sense of belonging and validation that is essential for our well-being.
+
+Moreover, true friends act as mirrors, offering constructive honesty that
+encourages personal growth. They challenge our perspectives, celebrate our
+successes with genuine joy, and provide steadfast encouragement during
+adversity. This dynamic promotes resilience and self-improvement.
+
+Ultimately, true friendship enriches our human experience. It transforms life's
+journey from a solitary path into a shared adventure, imbued with mutual
+understanding, trust, and profound meaning. This deep bond is not merely about
+companionship; it is a vital component of a life well-lived.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+الصداقة الحقيقية من أغلى كنوز الحياة. الصديق الحقيقي هو الشخص الذي يمكنك
+الاعتماد عليه دائمًا. فهو يشاركك أفراحك ويقف بجانبك في أصعب الأوقات.
+
+عندما يكون لديك صديق حقيقي، لا تشعر بالوحدة أبدًا. يكون لديك من تتحدث إليه، تضحك
+معه، وتتشارك معه أسرارك. يقبلك كما أنت دون أن يحكم عليك، مما يمنحك شعورًا
+بالأمان والقيمة.
+
+كما أن الصداقة تُساعدنا على النمو. فالأصدقاء الصادقون يُقدمون لك نصائح قيّمة
+ويُساعدونك على رؤية الأمور من زوايا مختلفة، ويشجعونك على أن تكون شخصًا أفضل. إن
+رحلة الحياة أمتع وأسهل بكثير عندما يكون لديك صديق حقيقي بجانبك. إنها رابطة خاصة
+تجعل الحياة أكثر معنى.
+
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+الصداقة الحقيقية ركيزة أساسية لحياة سعيدة، فهي توفر فوائد عميقة تتجاوز مجرد
+الرفقة العادية. فهي توفر دعماً عاطفياً راسخاً، وتُشكل ملاذاً آمناً يُمكن فيه
+مشاركة المشاعر دون خوف من اللوم أو الانتقاد. هذه العلاقة الحقيقية تُشجع على
+الشعور بالانتماء والتقدير، وهو أمر ضروري لرفاهيتنا.
+
+بالإضافة إلى ذلك، يُعد الصديق الحقيقي بمثابة مرآة، يُقدم لك نصائح بناءة تُشجع
+على النمو الشخصي. فهو يُساعدك على توسيع آفاقك، ويشاركك فرحتك في النجاح، ويُقدم
+لك الدعم في أصعب الظروف. هذا التفاعل يُعزز المرونة والتحسن الذاتي.
+
+في النهاية، تُغني الصداقة الحقيقية تجربتنا الإنسانية. فهي تُحول رحلة الحياة من
+مسيرة وحيدة إلى مغامرة مشتركة، غنية بالتقدير المتبادل والثقة والمعنى الحقيقي.
+إنها ليست مجرد رفيق، بل هي عنصر أساسي في حياة سعيدة وناجحة.
+```
+# the image of a good friend in stories vs real life
+### **Essay 1: Simple Language (150 words)**
+
+In stories, a good friend is often like a superhero. They are always brave and
+know exactly the right thing to say or do. They are ready for a big adventure at
+any moment and never seem to get scared or tired. Their loyalty is perfect, and
+they often make a huge sacrifice to save the main character.
+
+In real life, a good friend is different. They are not perfect, but they are
+real. They might not know the perfect words, but they will listen to you when
+you are sad. They may not go on a big adventure, but they will sit with you at
+lunch. A real friend shows they care through small, everyday actions—like
+remembering your birthday or helping you with homework. True friendship in real
+life is not about being a hero; it’s about being there, consistently and kindly.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+The portrayal of a good friend in narratives often leans on archetypes for
+dramatic effect. This friend is frequently a loyal sidekick, a witty confidant,
+or a sacrificial figure whose unwavering support and timely interventions are
+pivotal to the plot. Their purpose is clear, and their devotion is absolute,
+serving as a narrative device to aid the protagonist's journey.
+
+In contrast, real-life friendship is a more nuanced and reciprocal tapestry. It
+is built not on grand gestures, but on consistent, quiet reliability. A true
+friend is present during mundane moments as well as crises, offering not
+solutions but empathy. They are flawed individuals who choose to understand and
+accept our own flaws. While the storybook friend provides a compelling ideal,
+the real-life friend offers something more valuable: an authentic, evolving
+connection grounded in mutual respect and shared vulnerability.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+في القصص، يُصوَّر الصديق الجيد غالبًا على أنه بطل خارق. فهو دائمًا شجاع، ويعرف
+دائمًا ما يجب قوله أو فعله. وهو مستعد دائمًا للمغامرة، ولا يبدو أنه يشعر بالخوف
+أو التعب. ولائاحته مطلق، وغالبًا ما يُضحّي بنفسه لإنقاذ البطل.
+
+لكن في الواقع، يختلف الصديق الجيد. فهو ليس مثاليًا، ولكنه حقيقي. قد لا يجد
+الكلمات المناسبة، ولكنه سيستمع إليك عندما تكون حزينًا. قد لا يشاركك في مغامرات
+مثيرة، ولكنه سيجلس معك لتناول الغداء. الصديق الحقيقي يُظهر اهتمامه من خلال
+تصرفات بسيطة يومية، مثل تذكر عيد ميلادك أو مساعدتك في واجباتك المدرسية. الصداقة
+الحقيقية في الواقع ليست بالبطولة، بل هي الوجود الدائم والمخلص.
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+غالبًا ما يعتمد تصوير الصديق الجيد في القصص على نماذج نمطية لإضفاء تأثير درامي.
+فهو إما صديق مخلص، أو مستشار ذكي، أو شخص يُضحّي بنفسه، ويُقدم دعمًا لا يتزعزع
+وتدخلات في الوقت المناسب، مما يُعدّ عنصرًا أساسيًا في الحبكة. هدفه واضح، وتفانيه
+مطلق، وهو بمثابة أداة سردية لدعم مسيرة البطل.
+
+بالمقابل، الصداقة في الواقع أكثر تعقيدًا وتوازنًا. إنها قائمة على الثقة
+المتبادلة المستمرة، وليس على الأفعال الباهرة. الصديق الحقيقي حاضر في اللحظات
+العادية والحرجة، ويقدم التعاطف بدلًا من الحلول. هو إنسان له عيوبه، ولكنه يختار
+فهمنا وتقبّلنا كما نحن. بينما يُقدم لنا الصديق في القصص نموذجًا مثاليًا، يُقدم
+لنا الصديق الحقيقي قيمة أعظم: علاقة حقيقية ومتطورة، قائمة على الاحترام المتبادل
+والتقارب العاطفي.
+```
+
+# inviting them to your birthday party
+### **Essay 1: Simple Language (150 words)**
+
+Inviting a shy person to your birthday party is a wonderful way to make them
+feel included. It shows you were thinking of them and want them to be part of
+your celebration. To make them feel comfortable, it's best to invite them in a
+gentle way.
+
+Ask them privately, maybe when you two are alone. This way, they won't feel
+pressured by a group. Explain who will be there and what you'll be doing, so
+they know what to expect. Let them know it's okay if they can't come or can only
+stay for a little while.
+
+During the party, try to spend a few minutes with them. Introduce them to one or
+two friendly people. A small, kind gesture can make a big difference. Your
+invitation alone can be the start of a great friendship.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+Extending a birthday party invitation to a shy individual is a powerful gesture
+of inclusion that can significantly impact their sense of belonging. The key is
+to issue the invitation thoughtfully to minimize their anxiety. A private,
+one-on-one conversation is ideal, as it removes the social pressure of a public
+response.
+
+Provide context about the event—the size of the gathering, the activities
+planned, and the general attendee list. This transparency helps them mentally
+prepare. Most importantly, offer reassurance; emphasize that there is no
+obligation to attend for the entire duration, granting them an easy exit
+strategy if they feel overwhelmed.
+
+During the event, a warm welcome is crucial. Make a point to integrate them
+gently into a smaller conversation rather than leaving them adrift in a large
+group. This mindful approach transforms a simple invitation into a genuine act
+of kindness, fostering a potential friendship built on consideration and trust.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+دعوة شخص خجول لحضور حفل عيد ميلادك طريقة رائعة لإشراكه في الفرحة. فهذا يدل على
+اهتمامك به ورغبتك في مشاركته احتفالك. ولتجعله يشعر بالراحة، من الأفضل أن تدعوه
+بطريقة لطيفة.
+
+تحدث معه بشكل خاص، مثلاً عندما تكونان بمفردهما. بهذه الطريقة لن يشعر بالضغط أمام
+الآخرين. اشرح له من سيكون حاضرًا وما هي أنشطة الحفل، ليتمكن من التخطيط مسبقًا.
+أخبره أنه لا بأس إن لم يتمكن من الحضور أو إن بقي لفترة قصيرة فقط.
+
+خلال الحفل، حاول قضاء بعض الوقت معه. عرّفه على شخص أو اثنين من أصدقائك. حتى أبسط
+الأعمال الودودة لها تأثير كبير. دعوته وحدها قد تكون بداية صداقة رائعة.
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+دعوة شخص خجول لحضور حفل عيد الميلاد تعبر عن تقدير كبير له وتساعده على الشعور
+بالانتماء. المهم هو توجيه الدعوة بحساسية لتخفيف قلقه. الحديث معه بشكل خاص وجهاً
+لوجه هو الأفضل، لأنه يجنّبه الضغط الاجتماعي.
+
+اشرح له تفاصيل الحفل: عدد الحضور، الأنشطة المُخطط لها، وقائمة المدعوين. هذا
+سيساعده على الاستعداد نفسياً. الأهم من ذلك، طمئنّه، وأكد له أنه ليس ملزماً
+البقاء طوال الحفل، ليتمكن من المغادرة بسهولة إن شعر بعدم الراحة.
+
+خلال الحفل، استقبلّه بحرارة. حاول إشراكه في محادثة صغيرة بدلاً من تركه وحيداً في
+وسط مجموعة كبيرة. هذا النهج اللطيف يحوّل الدعوة البسيطة إلى فعل إنساني، ويؤسس
+لبداية صداقة قائمة على الاحترام والثقة.
+```
+# a review of a movie you enjoyed most
+### **Essay 1: Simple Language (150 words)**
+
+My favorite movie is **'Toy Story'**. It is an animated film about a boy’s toys
+that come to life when he is not around. The main characters are Woody, a
+cowboy, and Buzz Lightyear, a new space ranger toy.
+
+At first, Woody is jealous of Buzz and they become rivals. But after they get
+into big trouble, they have to work together to get back home. The story is very
+fun and exciting, but it also has a deep message about friendship. It shows that
+true friends stick together even when things are difficult.
+
+The animation is colorful and the characters are funny and memorable. The voice
+acting is perfect. ‘Toy Story’ is a movie that makes me laugh and feel happy. It
+is a classic film that people of all ages can enjoy again and again.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+A film that has left a lasting impression on me is **'The Shawshank
+Redemption'**. It is a powerful drama that transcends its prison setting to
+deliver a profound message about hope and friendship.
+
+The narrative follows Andy Dufresne, a banker wrongly convicted of murder, and
+his decades-long friendship with Ellis "Red" Redding. The film masterfully
+explores their bond, which becomes a lifeline amidst institutional brutality. It
+is not a story of escape alone, but one of enduring the human spirit against
+overwhelming odds.
+
+What makes the film exceptional is its nuanced character development and its
+poignant themes of redemption. The cinematography is stark yet beautiful, and
+the performances by Tim Robbins and Morgan Freeman are unforgettable.
+Ultimately, ‘The Shawshank Redemption’ is a testament to the idea that hope can
+survive in the darkest of places, making it a truly moving cinematic experience.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+فيلمي المفضل هو "قصة لعبة". إنه فيلم رسوم متحركة يتناول قصة مجموعة من ألعاب طفل
+صغير تتشخص وتتحرك عندما لا يكون الطفل موجودًا. الشخصيتان الرئيسيتان هما وودي،
+وهو دمية رعاة البقر، وباز لايتير، دمية رجل الفضاء الجديدة.
+
+في البداية، يحسد وودي باز، ويصبحان خصمين. لكن بعد أن يواجهان مشكلة كبيرة،
+يتعاونان للعودة إلى المنزل. القصة ممتعة ومثيرة، كما أنها تحمل رسالة عميقة عن
+الصداقة. فهي تُظهر أن الأصدقاء الحقيقيين يقفون مع بعضهم حتى في أصعب الظروف.
+
+الرسوم المتحركة ملونة، والشخصيات مضحكة ولا تُنسى. أداء الأصوات رائع. فيلم "قصة
+لعبة" يُضحكني ويُشعِرني بالسعادة. إنه فيلم كلاسيكي يمكن للجميع من جميع الأعمار
+الاستمتاع به مرارًا وتكرارًا.
+
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+فيلم ترك لديّ انطباعًا لا يُنسى هو "فدائية شاوغان". إنه فيلم درامي مؤثر يتجاوز
+إطار السجن ليقدم رسالة عميقة عن الأمل والصداقة.
+
+تدور أحداث الفيلم حول آندي دوفراين، البانك المظلوم الذي أدين ظلماً بالقتل،
+وصداقته التي استمرت لعقود مع إيلس ريد. يستكشف الفيلم براعة العلاقة بينهما، والتي
+تُصبح بمثابة شريان حياة في ظل القسوة التي يتعرضان لها في السجن. إنه ليس مجرد قصة
+هروب، بل قصة إرادة الإنسان في مواجهة الصعاب.
+
+ما يجعل هذا الفيلم استثنائيًا هو تطور شخصياته المتأنق وأفكاره المؤثرة عن الفداء.
+التصوير جميل وبسيط، وأداء تيم روبنز ومورغان فريمان لا يُنسى. في النهاية، يُعد
+"فدائية شاوغان" دليلاً على أن الأمل يمكن أن يبقى حتى في أصعب الظروف، مما يجعله
+تجربة سينمائية مؤثرة حقًا.
+```
+# what makes a person truly happy
+### **Essay 1: Simple Language (150 words)**
+
+True happiness doesn’t come from money or things. It comes from how we feel
+inside. One big key is connection. Having strong relationships with family and
+friends makes us feel loved and supported. We are social people, and sharing
+life with others brings deep joy.
+
+Another key is purpose. This means doing something that feels meaningful. It
+could be your job, a hobby, or helping people. When you feel useful and that you
+are making a difference, it gives a great sense of satisfaction.
+
+Finally, true happiness involves accepting yourself. It’s about being kind to
+yourself, even when you make mistakes. It means focusing on the good things in
+your life and being thankful for them. Real happiness is a quiet, warm feeling
+that you are living a life that is right for you.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+True happiness is a sustained sense of well-being rooted in internal fulfillment
+rather than external circumstances. While pleasure is temporary, genuine
+contentment arises from key pillars of a meaningful life.
+
+Foremost is deep social connection. Strong, authentic relationships provide a
+critical sense of belonging and emotional security. This network of support is a
+fundamental human need. Equally important is a sense of purpose—engaging in
+activities that align with one’s values and contribute to something larger than
+oneself. This fosters a feeling of growth and significance.
+
+Furthermore, self-acceptance and mindfulness are crucial. Happiness is bolstered
+by the ability to live in the present, practice gratitude, and show
+self-compassion. It involves appreciating what one has without constant
+comparison to others. Ultimately, true happiness is not the absence of
+challenges, but the resilience and inner peace to navigate them with a sense of
+purpose and connection.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+السعادة الحقيقية لا تأتي من المال أو الأمور المادية، بل من مشاعرنا الداخلية. أحد
+أهم عواملها هو التواصل مع الآخرين. العلاقات القوية مع الأسرة والأصدقاء تجعلنا
+نشعر بالحب والدعم. نحن كائنات اجتماعية، ومشاركة الحياة مع الآخرين تجلب لنا سعادة
+عميقة.
+
+ومن أهم عوامل السعادة أيضاً وجود هدف في الحياة، أي القيام بشيء ذي معنى. قد يكون
+هذا العمل أو هواية أو مساعدة الآخرين. عندما نشعر بأننا مفيدون وأننا نُحدث فرقاً،
+نشعر برضا داخلي كبير.
+
+وأخيراً، تتضمن السعادة الحقيقية قبول الذات. أي أن نكون رحماء مع أنفسنا حتى عند
+ارتكاب الأخطاء. يعني ذلك التركيز على الجوانب الإيجابية في حياتنا والشكر لله
+عليها. السعادة الحقيقية شعور هادئ ودافئ بأننا نعيش حياة تلائمنا.
+
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+السعادة الحقيقية هي شعور دائم بالرضا والراحة، مبني على الإشباع الداخلي وليس على
+الظروف الخارجية. فالمتعة مؤقتة، بينما الرضا الحقيقي ينبع من ركائز أساسية للحياة
+ذات معنى.
+
+أول هذه الركائز هو التواصل الاجتماعي القوي. العلاقات الحقيقية القوية توفر لنا
+شعوراً بالانتماء والأمان العاطفي، وهو حاجة أساسية للإنسان. ومن أهمها أيضاً وجود
+هدف في الحياة، أي الانخراط في أنشطة تتوافق مع قيمنا وتساهم في خدمة الآخرين. هذا
+يشجع على النمو والشعور بالمعنى.
+
+بالإضافة إلى ذلك، من المهم قبول الذات والوعي الذاتي. السعادة تتأتى من القدرة على
+العيش في اللحظة الحاضرة، والشكر لله على النعم، والتعامل مع النفس برحمة. يعني ذلك
+تقدير ما لدينا دون مقارنة مستمرة مع الآخرين. باختصار، السعادة الحقيقية ليست غياب
+المشاكل، بل هي القدرة على مواجهتها بثقة وسلام داخلي، مع الشعور بالهدف والانتماء.
+```
+# the modern technology and its effects of literature
+### **Essay 1: Simple Language (150 words)**
+
+Modern technology has changed literature in many big ways. First, how we read is
+different. Now we can carry thousands of books on one small e-reader or phone.
+This makes reading very easy and convenient. We can buy a new book anytime,
+anywhere.
+
+Technology has also created new kinds of stories. Blog posts and web novels are
+popular. Some stories are even told through social media, like a series of
+tweets. These new forms are often shorter and faster to read.
+
+However, some people worry that technology is a distraction. With phones
+buzzing, it can be hard to focus on a long book. But technology also helps
+people discover new authors and connect with other readers online. Overall,
+technology has made literature more accessible, even if it has changed the way
+we experience it.
+
+### **Essay 2: Intermediate Language (150 words)**
+
+Modern technology has profoundly reshaped the landscape of literature,
+presenting both transformative opportunities and significant challenges.
+Digitization has democratized access; e-books and audiobooks have made vast
+libraries portable and affordable, breaking down geographical and economic
+barriers to literature.
+
+Furthermore, technology has spawned new genres and narrative forms. Interactive
+fiction, hypertext novels, and stories serialized on digital platforms challenge
+traditional linear storytelling. This fosters a more participatory relationship
+between author and reader.
+
+Conversely, a primary concern is the impact on deep reading. The constant
+stimuli of digital devices can fragment attention, potentially undermining the
+sustained concentration required for complex literary works. Despite this,
+technology also creates global communities for literary discussion. Thus, while
+potentially altering our cognitive engagement with text, technology ultimately
+expands literature's reach and evolves its very definition, ensuring its
+relevance in the digital age.
+```c
+### **المقال الأول: لغة بسيطة (150 كلمة)**
+
+أحدثت التقنية الحديثة تغييرات جذرية في الأدب. فمثلاً، تغيرت طريقة قراءتنا. أصبح
+بإمكاننا حمل آلاف الكتب في جهاز قارئ إلكتروني صغير أو هاتف ذكي، مما يسهل عملية
+القراءة ويجعلها أكثر راحة. كما أصبح بإمكاننا شراء كتاب جديد في أي وقت ومن أي
+مكان.
+
+كما أنتجت التقنية أنواعًا جديدة من القصص، مثل مدونات الإنترنت والقصص القصيرة
+الإلكترونية، التي تحظى بشعبية كبيرة. بل إن بعض القصص تُروى عبر وسائل التواصل
+الاجتماعي، مثل سلسلة من التغريدات. هذه الأشكال الجديدة عادةً ما تكون أقصر وأسهل
+وأسرع في القراءة.
+
+مع ذلك، يخشى البعض أن تشكل التقنية مصدر إلهاء. فمع رنين الهواتف باستمرار، يصعب
+التركيز على قراءة كتاب مطول. لكن التقنية تتيح أيضًا اكتشاف مؤلفين جدد والتواصل
+مع القراء الآخرين عبر الإنترنت. باختصار، سهلت التقنية الوصول إلى الأدب، حتى لو
+غيرت طريقة تجربتنا له.
+
+
+### **المقال الثاني: لغة متوسطة (150 كلمة)**
+
+أحدثت التقنية الحديثة تغييرًا جذريًا في عالم الأدب، فقدمت فرصًا هائلة وتحديات
+كبيرة. فقد سهلت التحوّل الرقمي الوصول إلى الأدب، حيث جعلت المكتبات الإلكترونية
+والصوتية متاحة للجميع وبأسعار معقولة، ما كسر الحواجز الجغرافية والاقتصادية أمام
+الأدب.
+
+علاوة على ذلك، ولدت التقنية أنواعًا جديدة من الأدب وأساليب سردية مبتكرة. فقصص
+الخيال التفاعلي والرويات النصية المتشعبة والقصص المسلسلة على المنصات الرقمية
+تحدّت أساليب السرد التقليدية، مما شجع على تفاعل أكبر بين الكاتب والقارئ.
+
+لكن من جهة أخرى، يثير القلق تأثير التقنية على القراءة المتعمقة. فالتنبيهات
+المستمرة للأجهزة الرقمية قد تشتت الانتباه، مما قد يُضعف التركيز اللازم لفهم
+النصوص الأدبية المعقدة. مع ذلك، تُتيح التقنية أيضًا إنشاء مجتمعات عالمية لمناقشة
+الأدب. لذا، مع قدرتها على تغيير طريقة تفاعلنا مع النص، توسع التقنية نطاق الأدب
+وتُطور مفهومه، مؤكدة أهميته في العصر الرقمي.
+```
+# congrat your friend on a new job
+### **Essay 1: Simple Language (150 words)**
+
+I was so happy to hear your great news about the new job! A huge congratulations
+to you! This is such an exciting step, and I am really proud of all your hard
+work. You definitely deserve this amazing opportunity.
+
+I know you will be fantastic in this new role. Your talent and positive attitude
+will surely impress everyone there. I can't wait to hear all about your first
+day, your new colleagues, and what you will be doing.
+
+We should definitely celebrate this big achievement! Let me know when you are
+free so we can go out for a coffee or a meal. I want to hear all the details.
+Congratulations again, my friend! I am so excited for you and this new chapter
+in your life. Wishing you all the best as you start this journey!
+
+### **Essay 2: Intermediate Language (150 words)**
+
+I was absolutely thrilled to receive your news! Please accept my heartiest
+congratulations on your new position. This is a tremendous achievement and a
+true testament to your skills and perseverance. It’s wonderful to see your
+dedication recognized with such a promising opportunity.
+
+I have no doubt that you will excel in this new environment. Your unique blend
+of expertise and innovative thinking will make you an invaluable asset to the
+team. I am genuinely excited to see how you will grow and the impact you will
+undoubtedly make.
+
+This milestone certainly calls for a celebration. I would be delighted to take
+you out for dinner to properly toast your success at your earliest convenience.
+Once again, my sincerest congratulations. Wishing you immense success and
+fulfillment as you embark on this exciting new professional chapter.
+```c
+### **الرسالة الأولى: لغة بسيطة (150 كلمة)**
+
+سعدتُ كثيراً لسماع خبر حصولك على الوظيفة الجديدة! ألف مبروك لك! هذه خطوة رائعة،
+وأنا فخور جداً بجهودك المبذولة. أنت تستحق هذه الفرصة الرائعة بكل تأكيد.
+
+أنا متأكد من أنك ستكون بارعاً في هذا المنصب الجديد. موهبتك وروحك الإيجابية
+سيذهلان الجميع. أتطلع بشوق لسماع كل تفاصيل يومك الأول، وزملاء عملك الجدد، وما
+ستكون مهامك.
+
+يجب أن نحتفل بهذا الإنجاز الكبير! أخبرني متى تكون متفرغاً لنخرج لتناول القهوة أو
+الغداء. أريد أن أسمع كل التفاصيل. ألف مبروك مجدداً يا صديقي! أنا متحمس جداً لك
+ولبداية هذه المرحلة الجديدة في حياتك. أتمنى لك كل التوفيق في هذه البداية
+الرائعة!
+
+
+### **الرسالة الثانية: لغة متوسطة (150 كلمة)**
+
+لقد سررتُ كثيراً بهذا الخبر الرائع! أقدم لك أحر التهاني على منصبك الجديد. هذا
+إنجاز كبير ويشهد على مهاراتك وإصرارك. من الرائع أن يتم تقدير جهدك بهذه الفرصة
+الواعدة.
+
+لا شك أنك ستتميز في هذا المكان الجديد. مزيج خبرتك الفنية وأفكارك المبتكرة سيجعلك
+إضافة قيّمة للفريق. أنا متحمس لرؤية تطورك وإنجازاتك الرائعة.
+
+هذا الإنجاز يستحق الاحتفال. سيسعدني أن أقضي معك وقتًا ممتعًا في تناول العشاء
+احتفالاً بهذا النجاح. ألف مبروك مجدداً. أتمنى لك كل التوفيق والنجاح في هذه
+المرحلة الجديدة من حياتك المهنية. 
+```

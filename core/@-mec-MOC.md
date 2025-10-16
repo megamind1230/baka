@@ -1,4 +1,3 @@
-#todo 
 
 - [x] [[mec-roadmap]]
 # lec
@@ -17,9 +16,9 @@
 - [x] [[mec-lec13]]
 - [x] [[mec-lec14]]
 - [x] [[mec-lec15]]
-- [x] [[mec-lec16]]
-- [x] [[mec-lec17]]
-- [x] [[mec-lec18]]
+- [ ] [[mec-lec16]]
+- [ ] [[mec-lec17]]
+- [ ] [[mec-lec18]]
 # sec
 - [x] [[mec-sec1-nothing]]
 - [x] [[mec-sec2-11-12-2024-nothing]]

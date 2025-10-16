@@ -1,2 +1,11 @@
 
 on a selection `S{the enclosure}`
+- [ ] how to fast surround small words with `` in vim
+
+- vim surround
+	```
+	ds' to delete the surrounding 
+	cs'" to change the surrounding
+	ysaptli> surround paragraph with <li> tag
+	S{char} surround selection
+	```

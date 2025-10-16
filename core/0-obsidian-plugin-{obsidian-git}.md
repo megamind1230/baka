@@ -1,5 +1,5 @@
 
-> i think it's better to learn some [[git-and-github-moc|git]] instead .. `yes`
+> i think it's better to learn some [[@-git-and-github-moc|git]] instead .. `yes`
 
 
 >first time

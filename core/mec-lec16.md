@@ -1,0 +1,3 @@
+- [ ] 0:53:00
+- [x] `Get-Location` in package manager in visual studio
+- [ ] 

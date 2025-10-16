@@ -1,11 +1,10 @@
-#1
 - crop and scale
-- colors > shadows-highlights
-- colors > color balance
-- colors > levels (better to be after balance)
-- colors > saturation
-- colors > temperature
-- colors > curves
-- airbrush & heal tool
-- filters > enhance > sharpen / un-sharp mask
-- filters > lights and shadows > vignette (new layer)
+- colors > `shadows`-highlights
+- colors > color `balance`
+- colors > `levels` (better to be after balance)
+- colors > `sat`uration
+- colors > `temp`erature
+- colors > `curves`
+- airbrush & `heal` tool
+- filters > enhance > `sharpen` / un-sharp mask
+- filters > lights and shadows > `vignette` (new layer)

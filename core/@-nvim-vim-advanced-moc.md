@@ -1,4 +1,15 @@
 # done or verified ✅
+- [x] `vim fileName +number` > open and go to this line number , better works with {non relative line numbers}
+- [x] copy line `17` to cursor {cursor on 10 for example} >  `:17t.`
+- [x] `noremanp <Up> <NOP>` up arrow is disabled
+- [x] [[0-weird-lua-for-nvim]]
+- [x] [[0-nvim-vim-regex-replace-or-substitute]]
+- [x] [[0-why-better-to-just-use-line-numbers-instead-of-relative]]
+- [x] `; ,` vs `n N`
+	- `n N` are with `/word` search.. to find in the whole file
+	- `; ,` are with `f/F/t/T{char}` to find only in the current line
+- [x] how to empty a file in vim > `:%d`
+- [x] [[0-nvim-buffers-and-windows-or-splits-and-tabs]]
 - [x] `]p` > paste .. respecting the indentation of this line
 - [x] ***cursor on brackets*** `>% or <%`  > indents both inside + the brackets
 	- [x] `>i{` indents the inside only
@@ -69,8 +80,9 @@
 
 
 
----
 # not done
+- [ ]   `gp` - put (paste) the clipboard after cursor and leave cursor after the new text
+- [ ]   `gP` - put (paste) before cursor and leave cursor after the new text
 - [ ] `:set autowriteall`  save file when changing buffers
 - [ ] Multiple Buffers
 	```
@@ -124,34 +136,18 @@
 	:source sessionFileName
 	 (restores previous cursor and window states)
 	```
-- [ ] oni vs janus vs spacevim
 - [ ] `:help 42` for an intriguing easter egg ?
 - [ ] if you see a hilited work that's a link that you can put a cursor on and press K or ctrl ] ... ctrl T will get you back
-- [ ] `noremanp <Up> <NOP>` up arrow is disabled
 - [ ] github welle/targets.vim
 - [ ] `*p` is sys clipboard?
 	- [ ] `set clipboard^=unnamed` to use it
 - [ ] github junegunn/vim-peekaboo
-- [ ] vimplug
 [vimcasts.org/categories/](http://vimcasts.org/categories/)
 [Vim Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html)
 
-- vim surround
-	```
-	ds' to delete the surrounding 
-	cs'" to change the surrounding
-	ysaptli> surround paragraph with <li> tag
-	S{char} surround selection
-	```
 
 # neovim manual
-- [ ] [Vim Awesome](https://vimawesome.com/)
-	- cool website listing all vim plugins
 vim
-    vim fileName +number > open and go to this line number
-    this better works with {non relative line numbers}
-         wanna copy line 17 to the line below ur cursor {cursor on 10}
-               `:17t.`
 
 
 delete selection and replace it with the thing on the clipboard {without losing the thing in the clipboard}
@@ -167,18 +163,15 @@ delete selection and replace it with the thing on the clipboard {without losing 
 # ref
 - [ ] [[saving-custom-macros-as-or-into-keybindings]]
 - [ ] [[vim-multi-line-editing]]
-- [ ] [[0-why-better-to-just-use-line-numbers-instead-of-relative]]
-- [ ] [[0-lua-for-nvim]]
 - [ ] [[cool-nvim-keymaps]]
-- [ ] [[0-nvim-simple-snippets-or-replacements]]
 - [ ] [[0-nvim-the-magical-g-char-or-button-in-vim]]
-- [ ] [[0-nvim-vim-replace-substitute]]
 - [ ] [[nvim-vim-issues-moc]]
 - [ ] [[0-nvim-setup-for-programming]]
 - [ ] [[quickfix-list-nvim]]
-- [ ] [[nvim-completion]]
 - [ ] [[vimrc-examples]]
-- [ ] [[nvim-buffers-and-windows-or-splits-and-tabs]]
 - [ ] [[vim-arabic-support]]
-- [ ] [[0-vim-nvim-folds]]
+- [ ] [[0-nvim-vim-folds]]
+- [ ] [[nvim-vim-lsp]]
 - [ ] [[nvim-defaults-while-on-insert-mode-tricks]]
+- [ ] [[nvim-vim-marks-jumps-changes-quickfix-list-and-multi-file-editing]]
+- [ ] [Vim Awesome](https://vimawesome.com/) cool website listing all vim plugins

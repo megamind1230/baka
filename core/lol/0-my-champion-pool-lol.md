@@ -29,3 +29,16 @@
 - `aphel` {late game hyper carry, with utility for team and wide range}
 	- H: twich - nilah - draven - kalista - caitlyn
 
+# [itero.gg](https://www.itero.gg/personality-quiz) gave me those .. according to my personality
+- top > gnar , trynd , garen , ksante, gwen, renek , nasus, voli, TK, 
+- jg >  voli, udyr, viego , trun , wukong
+- mid > aniv , ryze, veigar , ekko, ahri
+- adc > trist, varus , xayah , lucian , cait, vayne , jinx
+- supp > leona , kar , rak ,lulu , zil , 
+- [ ] but i chose these {broze elo}
+	- [ ] top
+		- ![[Pasted image 20250912082953.png]] 
+	- [ ] jg 
+		- ![[Pasted image 20250905210236.png]]
+	- [ ] adc  #idk maybe i change them
+		- ![[Pasted image 20250905210725.png]] 

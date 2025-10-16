@@ -332,8 +332,8 @@ but this is a WORD this-is-a-test
 - [ ] [Help - Neovim docs](https://neovim.io/doc/user/index.html#bars)
 - [x] [Vim Cheat Sheet (rtorr.com)](https://vim.rtorr.com/)
 # sub mocs
-- [ ] [[@-nvim-vim-advanced-moc]]
+- [x] [[@-nvim-vim-advanced-moc]]
 - [ ] [[nvim-vim-issues-moc]]
-- [ ] [[0-nvim-plugins-moc]]
+- [ ] [[@-nvim-plugins-moc]]
 - [ ] [[boost-your-coding-fu-book-or-learnVim-vscode-extension]]
 - [ ] [[vim-from-scratch]]

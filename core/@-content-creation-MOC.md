@@ -3,3 +3,4 @@
 [[@-audacity-moc]]
 [[@-gimp-moc]]
 [[@-kdenlive- moc]]
+[[manim-python-library]]

@@ -227,6 +227,12 @@
         "Mod"
       ],
       "key": "H"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
     }
   ],
   "editor:focus-right": [
@@ -234,6 +240,12 @@
       "modifiers": [
         "Alt",
         "Mod"
+      ],
+      "key": "L"
+    },
+    {
+      "modifiers": [
+        "Alt"
       ],
       "key": "L"
     }

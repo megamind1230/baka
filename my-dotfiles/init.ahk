@@ -60,18 +60,19 @@ return
 ; edit script
 #+c::
 ;Run, C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 9.1\gVim.lnk C:\Users\dt\Desktop\init.ahk
-Run, neovide D:\my-dotfiles\init.ahk
+Run, neovide E:\st\obsi\vault_bank\my-dotfiles\init.ahk
 return
 
 ; fast notes
-#+o::
-;Run, C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 9.1\gVim.lnk D:\things-in-my-mind.txt
-Run, neovide D:\my-dotfiles\things-in-my-mind.txt
-return
-#+i::
-;Run, C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 9.1\gVim.lnk D:\things-in-my-mind.txt
-Run, neovide D:\my-dotfiles\things-in-my-mind.txt
-return
+;#+o::
+;Run, C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 9.1\gVim.lnk E:\st\obsi\vault_bank\my-dotfiles\things-in-my-mind.txt
+;Run, neovide E:\st\obsi\vault_bank\my-dotfiles\things-in-my-mind.txt
+;return
+
+;#+i::
+;;Run, C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 9.1\gVim.lnk D:\things-in-my-mind.txt
+;Run, neovide D:\my-dotfiles\things-in-my-mind.txt
+;return
 
 ;volume controls
 #!=::
@@ -130,13 +131,17 @@ Run, brave.exe https://www.youtube.com/feed/playlists
 return
 
 
+#z::
+Run, brave.exe https://www.youtube.com/playlist?list=PL82C6-O4XrHcNJd4ejg8pX5fZaIDZmXyn
+return
+
 ; Random Quote Copier
 ; Hotkey: ctrl alt q(you can change this)
 ^!q::
 ;::bbb::
     ; Path to your quotes text file
     ; Replace with your actual file path
-    quotesFile := "D:\st\obsi\vault_bank\my-dotfiles"
+    quotesFile := "E:\st\obsi\vault_bank\my-dotfiles\quotes.txt"
     
     ; Read all lines from the file
     FileRead, fileContents, %quotesFile%

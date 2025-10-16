@@ -1,5 +1,5 @@
-#todo 
 # interface 
+[[0-interface-vs-abstract-class-in-csharp]] 
 
 ```txt
 

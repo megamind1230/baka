@@ -3,3 +3,4 @@
 	- `ctrl xl` > identical lines complete
 - [ ] [[nvim-plugin-ultisnip]]
 - [ ] [[nvim-plugin-luasnip]]
+- [ ] [[nvim-plugin-vsnip]]

@@ -1,10 +1,14 @@
 # done
 - [x] how to outline text
-[[0-resizing-and-scaling]]
-[[0-how-to-retouch-a-portrait-in-gimp]]
-[[0-resources-for-copyright-free-music]]
-[[0-resizing-and-scaling]]
-[[0-how-to-start-in-graphic-design]]
+- [x] resizing-and-scaling-in-gimp
+	- linear || cubic > low specs pc
+	- nohalow > when you scale up
+	- lohalow > scale down
+- [x] [[0-how-to-retouch-a-portrait-in-gimp]]
+- [x] [[0-resources-for-copyright-free-music]]
+- [x] [[0-how-to-start-in-graphic-design]]
+- [x] how-to-sharpen-imgs-in-gimp
+	- adjust > sharpen > scale > export to `tiff`
 # not done
-[[GIMP-Photo-Editing-Tutorials]]
-[[gimp-tricks]]
+- [ ] [[GIMP-Photo-Editing-Tutorials]]
+- [ ] [[gimp-tricks]]

@@ -7,6 +7,7 @@
 	- [ ] linux.die.net doc website
 	- [ ] the gnu manuals
 	- [ ] personal blogs
+- [[cool-articles]]
 
 
 
