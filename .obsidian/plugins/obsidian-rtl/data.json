@@ -9,7 +9,9 @@
     "core/0-cpphtp-16-06-2024.md": "auto",
     "core/0-gptm-28-06-2024.md": "auto",
     "core/0-rap-tracks.md": "ltr",
-    "core/0-zettelkasten or ZK.md": "ltr"
+    "core/0-zettelkasten or ZK.md": "ltr",
+    "core/books-for-x-moc.md": "ltr",
+    "core/books-moc.md": "ltr"
   },
   "defaultDirection": "auto",
   "rememberPerFile": true,

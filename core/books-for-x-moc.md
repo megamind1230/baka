@@ -1,41 +1,69 @@
+# kids
+- [ ] [تحميل كتاب الرياضيات في حياتنا pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AD%D9%8A%D8%A7%D8%AA%D9%86%D8%A7-pdf)
+- [x] [كتاب الأربعون الرياضية: أربعون حديثًا في فضائل الرياضة - موقع محمد خير يوسف](https://mohammadkhair.com/books/b-10)
+- [ ] [10-Things-Every-Parent-Should-Know.pdf (mathinspirations.com)](https://mathinspirations.com/wp-content/uploads/2014/03/10-Things-Every-Parent-Should-Know.pdf)
+- [ ] [تاريخ القراءة - البرتو مانغويل - مكتبة شغف.pdf](https://docs.google.com/viewerng/viewer?url=http://shaqhaf.com/media/pdf/books/+%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE+%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9+-+%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%88+%D9%85%D8%A7%D9%86%D8%BA%D9%88%D9%8A%D9%84+-+%D9%85%D9%83%D8%AA%D8%A8%D8%A9+%D8%B4%D8%BA%D9%81.pdf)
+- [ ] [تحميل كتاب القراءة الراشدة لتعليم اللغة العربية والثقافة الإسلامية pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D8%A9-%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-pdf)
+- [ ] [تحميل كتاب قصص النبيين للأطفال pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%82%D8%B5%D8%B5-%D8%A7%D9%84%D9%86%D8%A8%D9%8A%D9%8A%D9%86-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-pdf)
+- [ ] [تحميل كتاب قصص من التاريخ الإسلامي للأطفال pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%82%D8%B5%D8%B5-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-pdf)
+- [ ] [تحميل كتاب غرائب وعجائب شعوب العالم pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%BA%D8%B1%D8%A7%D8%A6%D8%A8-%D9%88%D8%B9%D8%AC%D8%A7%D8%A6%D8%A8-%D8%B4%D8%B9%D9%88%D8%A8-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-pdf)
+- [ ] [تحميل كتاب حب القراءة 99 طريقة لجعل الأطفال يحبون القراءة نسخة مصورة pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AD%D8%A8-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-99-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D9%84%D8%AC%D8%B9%D9%84-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%8A%D8%AD%D8%A8%D9%88%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%86%D8%B3%D8%AE%D8%A9-%D9%85%D8%B5%D9%88%D8%B1%D8%A9-pdf)
+- [ ] [تحميل كتاب موسوعة المسابقات عشرة آلاف سؤال وجواب pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%B9%D8%B4%D8%B1%D8%A9-%D8%A2%D9%84%D8%A7%D9%81-%D8%B3%D8%A4%D8%A7%D9%84-%D9%88%D8%AC%D9%88%D8%A7%D8%A8-pdf) 
+- [ ] [تحميل كتاب تاريخ العالم في سطور pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%81%D9%8A-%D8%B3%D8%B7%D9%88%D8%B1-pdf)
+- [ ] [تحميل كتاب دليل البقاء و النجاة pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D8%A1-%D9%88-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D9%87-pdf)
+- [ ] [تحميل كتاب الموسوعة العلمية الميسرة لمحمد شفيق غربال pdf - مكتبة نور](https://www.noor-book.com/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%88%d8%b9%d9%87-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d9%87-%d8%a7%d9%84%d9%85%d9%8a%d8%b3%d8%b1%d9%87-%d9%84%d9%85%d8%ad%d9%85%d8%af-%d8%b4%d9%81%d9%8a%d9%82-%d8%ba%d8%b1%d8%a8%d8%a7%d9%84-pdf#top_page) really big btw
+- [ ] [مستودع المتون العلمية](https://www.mimham.net/section-matn-0-0)
+# chill
+- [ ] [كتاب - أساسيات التسويق لكوتلر | PDF](https://www.scribd.com/document/600924599/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D9%84%D9%83%D9%88%D8%AA%D9%84%D8%B1)
+- [ ]  [أحجار على رقعة الشطرنج](https://archive.org/details/20220624_20220624_0959/mode/2up)
+- [ ] [Legacy of ashes : the history of the CIA : Weiner, Tim : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/legacyofasheshis0000wein_a4y7)
+- [ ] [تحميل كتاب العادات الذرية PDF](https://www.norkitab.com/books/ktab-alaaadat-althry)
+- [ ] [تحميل كتاب لأ بطعم الفلامنكو](https://books.musaqaf.com/books/%D9%83%D8%AA%D8%A7%D8%A8-%D9%84%D8%A3-%D8%A8%D8%B7%D8%B9%D9%85-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D9%85%D9%86%D9%83%D9%88-pdf-%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%B7%D9%87/#book-read)
+- [ ] [تحميل كتاب ذكر شرقي منقرض PDF للكاتب الدكتور محمد طه - كتب PDF مجانا](https://books.musaqaf.com/books/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B0%D9%83%D8%B1-%D8%B4%D8%B1%D9%82%D9%8A-%D9%85%D9%86%D9%82%D8%B1%D8%B6-pdf/)
+- [ ] [تحميل كتاب فرعون موسى من قوم موسى pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%81%D8%B1%D8%B9%D9%88%D9%86-%D9%85%D9%88%D8%B3%D9%89-%D9%85%D9%86-%D9%82%D9%88%D9%85-%D9%85%D9%88%D8%B3%D9%89-pdf?next=091c8c7e96e643d20cdeaacd1eb80a1f)
+- [ ] [تحميل كتاب السامري – عاطف عزت](https://yasmeenlibrary.com/books/samaritan)
+- [ ] [تحميل كتاب مختارات من أدب العرب قسم النثر pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%A3%D8%AF%D8%A8-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D9%86%D8%AB%D8%B1-pdf)
+- [ ] [تصفح وتحميل كتاب أصول الفرق والأديان والمذاهب الفكرية Pdf - مكتبة عين الجامعة](https://ebook.univeyes.com/141990)
+- [ ] [تحميل كتاب الذكاء العاطفي pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%81%D9%8A-pdf)
+- [ ] [كتاب أشهر 50 خرافة في علم النفس](https://www.hindawi.org/books/51846050/)
+- [ ] [تحميل كتاب الماجريات pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%AC%D8%B1%D9%8A%D8%A7%D8%AA-pdf-pdf)
+- [ ] [تحميل كتاب قبعات التفكير الست pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%82%D8%A8%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%81%D9%83%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D8%AA-pdf)
+- [ ] [تحميل كتاب فن الحرب pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%81%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-pdf)
+- [ ] [تحميل كتاب حسن الظن بالله pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AD%D8%B3%D9%86-%D8%A7%D9%84%D8%B8%D9%86-%D8%A8%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%8A%D8%A7%D8%AF-%D9%82%D9%86%D9%8A%D8%A8%D9%8A-pdf)
+- [ ] [تحميل كتاب رواية مزرعة الحيوان pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D9%85%D8%B2%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86-pdf)
+- [ ] [تحميل كتاب كليلة ودمنة الفيلسوف الهندي ديبيا pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%83%D9%84%D9%8A%D9%84%D9%87-%D9%88%D8%AF%D9%85%D9%86%D9%87-%D8%A7%D9%84%D9%81%D9%8A%D9%84%D8%B3%D9%88%D9%81-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A-%D8%AF%D9%8A%D8%A8%D9%8A%D8%A7-pdf)
+- [ ] التمثيل والمحاضرة #no-easy-link
+- [ ] [شأن الدعاء - طريق الإسلام](https://ar.islamway.net/book/25354/%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%A1)
+- [ ] [تحميل كتاب المعجزة إعادة قراءة الإعجاز اللغوي في القرآن الكريم الجزء الأول أحمد بسام ساعي pdf - مكتبة نور](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B9%D8%AC%D8%B2%D9%87-%D8%A7%D8%B9%D8%A7%D8%AF%D9%87-%D9%82%D8%B1%D8%A7%D8%A1%D9%87-%D8%A7%D9%84%D8%A7%D8%B9%D8%AC%D8%A7%D8%B2-%D8%A7%D9%84%D9%84%D8%BA%D9%88%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D8%A7%D8%AD%D9%85%D8%AF-%D8%A8%D8%B3%D8%A7%D9%85-%D8%B3%D8%A7%D8%B9%D9%8A-pdf)
+- [ ] [الإيمان بالقضاء والقدر - محمد بن إبراهيم الحمد - طريق الإسلام](https://ar.islamway.net/book/31071/%D8%A7%D9%84%D8%A5%D9%8A%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D9%82%D8%AF%D8%B1)
+- [ ] [شفاء العليل في مسائل القضاء والقدر والحكمة والتعليل : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/shifaa_allel/shifaa_1/)
+- [ ] [مجالس القرآن - الشيخ فريد الأنصاري : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/majaliss-qoran/FAnsari_MjalesQuran1-min/)
+- [ ] [رياض الأزهار في صحيح الأذكار : محمد يسري سلامة : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/20240628_20240628_1944)
 # core
 [[books-for-prog-ps-cp-cs]]
-[[books-for-parenting]]
-[[books-for-debates]]
-[[books-for-mentality]]
-[[books-for-chill-kids-and-arabic]]
+[[books-for-cultral-or-religion-debates]]
 [[books-for-math]]
 
 # other
-  
-value proposition design pdf  
-the power of now  
-jab,jab,jab, right hook  
-the $100 startup  
-rich dad poor dad  
-the lean startup  
-thinking fast and slow  
-zero to one  
-
+- [ ] [(PDF) Value Proposition Design](https://www.academia.edu/33575701/Value_Proposition_Design)
+- [ ] [The Power Of Now](https://dn790003.ca.archive.org/0/items/ThePowerOfNowEckhartTolle_201806/The%20Power%20Of%20Now%20-%20Eckhart%20Tolle.pdf)
+- [ ] [Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social World](https://authorsonly.blvnp.com/wp-content/uploads/2016/09/Jab-Jab-Jab-Right-Hook.pdf)
+- [ ] [The $100 Startup](https://cdn.bookey.app/files/pdf/book/en/the--100-startup.pdf)
+- [ ] [The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://ia800509.us.archive.org/7/items/TheLeanStartupErickRies/The%20Lean%20Startup%20-%20Erick%20Ries.pdf)
+- [ ] [Thinking, fast and slow : Kahneman, Daniel, 1934- author : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/thinkingfastslow0000kahn/page/n5/mode/2up)
+- [ ] [Zero to One: Notes on Startups, or How to Build the Future](https://ia804505.us.archive.org/16/items/zero-to-one-peter-thiel-and-blake-masters/Zero%20to%20One%20-%20Peter%20Thiel%20and%20Blake%20Masters.pdf)
 ---- سامي بطاطي----  
-  
-  
-سير أعلام النبلاء  
-قراءة القراءة - فهد الحمود  
-النبأ العظيم - محمد عبدالله دراز  
-لياقات الكاتب - دوروثي براندي  
-دلائل الإعجاز - عبدالقاهر الجرجاني  
-أسرار ترتيب سور القرآن - السيوطي  
-رفع الملام عن الأئمة الأعلام - ابن تيمية  
-الفوائد - ابن القيم  
-  
-  
-  
-  
+- [ ] [سـير أعـلام النبـلاء للإمام الذهبي](https://archive.org/details/saanz/16/page/222/mode/2up)
+- [ ] [قراءة القراءة - فهد بن صالح الحمود : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/qiraa-al_qiraa/page/n181/mode/2up)
+- [ ] [كتاب النبأ العظيم - تأليف: د.محمد عبدالله دراز: : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/alnaba_alazim_draaz_549/15_MDarrz_NabaAdheem/)
+- [ ] [02004 كتاب Pdf لياقات الكاتب دوروثي براندي : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/02004-pdf)
+- [ ] [دلائل الإعجاز - أبو بكر عبد القاهر بن عبد الرحمن الجرجاني : Yedali : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/Dalail_I3jaz/page/n159/mode/2up)
+- [ ] [أسرار ترتيب القرآن السيوطي : الإمام الحافظ المحدث المؤرخ شیخ الحدیث والمفسر جلال الدين عبد الرحمن بن أبي بكر بن محمد بن سابق الدين الخضيري السيوطي الشافعي رحمة الله عليه المتوفیٰ 911ھ : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/20191231_20191231_1138)
+- [ ] [رفع الملام عن الأئمة الأعلام - ابن تيمية : ابن تيمية : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/raf3_lmalam_201912)
+- [ ] [الفوائد - ابن القيم الجوزية : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/alfawaidibnalqayyim_202101)
+-----
+
 ------ م\أيمن -----  
-  
-  
-  
 ذواقة الشاي  
 القراءة السريعة-توني بوزان  
 مقال آثار محمد علي في مصر -الإمام محمد عبده  
@@ -170,7 +198,7 @@ learn how to learn - corsera
 إظهار الحق  
 صيد الخاطر  
 
------------------------------------  
+-----------
   
 "الموافقات"للشاطبى  
 كتاب تقريب التهذيب  
@@ -618,16 +646,3 @@ My Top 5 Books On Entrepreneurship 📚 ali abdal
 ![[Pasted-image-20230807225810.png|300]]
 ![[Pasted-image-20230807225832.png|300]]
 
-# شرعي
-[المتون العلمية](https://www.mimham.net/section-matn-0-0)
-تحميل كتاب المعجزة إعادة قراءة الإعجاز اللغوي في القرآن الكريم الجزء الأول أحمد بسام ساعي PDF - مكتبة نور
-	https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B9%D8%AC%D8%B2%D9%87-%D8%A7%D8%B9%D8%A7%D8%AF%D9%87-%D9%82%D8%B1%D8%A7%D8%A1%D9%87-%D8%A7%D9%84%D8%A7%D8%B9%D8%AC%D8%A7%D8%B2-%D8%A7%D9%84%D9%84%D8%BA%D9%88%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D8%A7%D8%AD%D9%85%D8%AF-%D8%A8%D8%B3%D8%A7%D9%85-%D8%B3%D8%A7%D8%B9%D9%8A-pdf
-
-
-
-الإيمان بالقضاء والقدر للدكتور محمد بن إبراهيم الحمد ( وقد قدم الشيخ ابن باز رحمه الله تعليقات عليه)  
-شفاء العليل في مسائل القدر والحكمة لإبن القيم رحمه الله - ط دار عطاءات العلم
-مجالس القرءان الشيخ فريد الانصاري  
-رياض الازهار محمد رشدي سلامة  
-شأن الدعاء للخطابي  
-- [x] الاربعون الرياضية

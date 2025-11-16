@@ -1,8 +1,8 @@
 {
-  "accentColor": "#0062ff",
+  "accentColor": "#ff0000",
   "cssTheme": "Blue Topaz",
   "baseFontSizeAction": true,
-  "baseFontSize": 15,
+  "baseFontSize": 17,
   "textFontFamily": "JetBrainsMono Nerd Font,Noto Naskh Arabic",
   "nativeMenus": false,
   "interfaceFontFamily": "JetBrainsMono Nerd Font,Noto Naskh Arabic",

@@ -3,9 +3,9 @@
 	- = I `did go` to the park. تأكيد الخبر
 	-  I did `not` go to the park. نفي
 		- not ساندويتش بين المساعد والرئيس
-	- `Did` I go to the park.  المساعد اول الجملة
+	- `Did` I go to the park?  المساعد اول الجملة
 		- سؤال بــ هل
-	- `When did` I go to the park. 
+	- `When did` I go to the park?
 		- wh-word اول الجملة
 - التصريف الأول من الفعل = inf
 	- هو الفعل بدون أي إضافات ولا تغيير زمن
@@ -21,9 +21,9 @@
 | mnk4 | فاعل | was/were/became/got | used to | ving |
 | ---- | ---- | ------------------- | ------- | ---- |
 `اعتاد أن`
-- He `used to smoke`, but now he is doesn't
+- He `used to smoke`, but now he doesn't
 	- He didnt `use` to smoke, ... نفي
-- He got used to smoking.
+> He got used to smoking.
 
 ---
 
@@ -53,8 +53,8 @@
 - While/When playing .. , ..
 - During the session, ..
 
-| On في لحظة ما  | noun/ving |
-| -------------- | --------- |
+| On في لحظة ما | noun/ving |
+| ------------- | --------- |
 - On seeing,
 - On my way home,
 

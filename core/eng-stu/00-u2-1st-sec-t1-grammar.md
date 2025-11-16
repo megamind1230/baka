@@ -1,7 +1,6 @@
 - negataion of {to / for}
 	- `not to`
 	- for not
-
 # advice نصيحة
 ## +ve {should} VS -ve {should not}
 - you `should` study
@@ -36,20 +35,40 @@
 - I `have to` study > إجبار خارجي
 	- Do I have to study? سؤال بـ هل
 
-# Misc
+# Part 2 => Misc
 - في المضارع هتلاقي
 	- إما  inf / inf +{s/es/ies}
 	- او am/is/are
 - في الماضي هتلاقي
 	- التصريف الثاني
 - في المســتقبل هتلاقي => will + inf
+- will not = `won't`
+---
+## present
+### +ve present
+- you `have to` wear
+	- you have `got` to wear
+- you `need to` wear
+--- 
+### -ve present
+- you `don't have to` wear
+- you `don't need to` wear
+- you `needn't` wear
+---
+### -ve past
+> didn't have to + inf  == needn't have + ***pp***
+	
+-  you `didn't have to wear`
+-  you `needn't have worn`
+---
+
 
 # regret ندم
 - `should have + pp`
-	- should not have + pp نفي
+	- should ***not*** have + pp نفي
 
-- eg:
-	-  I should have studied
-		- = It was wrong not to study
+- eg (exempli gratia = for example):
+	- [ ]  I should have studied
+		- [ ] == It was wrong not to study
 	- `He` should not have smoked
-		- = It was wrong `of him` to smoke
+		- == It was wrong `of him` to smoke

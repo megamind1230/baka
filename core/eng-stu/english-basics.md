@@ -1,0 +1,224 @@
+- [ ] Homophone & Confusables
+	- [ ] Principle/Principal
+	- [ ] Stationary/Stationery
+	- [ ] Complement/Compliment
+	- [ ] Ensure/Insure
+	- [ ] Past/Passed
+	- [ ] Weather/Whether
+	- [ ] Who's/Whose
+	 - [ ] Accept/Except
+- [ ] "Neither/nor" and "either/or": the verb agrees with the closer subject.
+- [ ] مكان الفاعل والمفعول في الجملة
+- [ ] اسم الفاعل واسم المفعول
+- [ ] Who is for subjects; whom is for objects.
+- [ ] Present Perfect: I have walked. Past Perfect: I had walked.
+- [ ] Active voice is usually stronger than passive voice (The chef cooked the meal vs. The meal was cooked by the chef).
+# content
+- [ ] Conjunctions
+	- Subordinating conjunctions start dependent clauses (because, although, if, when).
+	- Correlative conjunctions come in pairs (either/or, neither/nor, not only/but also).
+- [ ] Sentence Structure
+	- A clause contains a subject and a verb.
+	- An independent clause can stand alone as a sentence.
+	- A dependent (subordinate) clause cannot stand alone.
+	- A simple sentence has one independent clause.
+	- A compound sentence has two or more independent clauses joined by a conjunction or semicolon.
+	- A complex sentence has one independent clause and at least one dependent clause.
+	- A compound-complex sentence has at least two independent clauses and one dependent clause.
+	- A fragment is an incomplete sentence.
+	- A run-on sentence incorrectly joins two independent clauses without proper punctuation.
+	- A comma splice incorrectly joins two independent clauses with only a comma.
+	- Parallel structure means using the same pattern of words for items in a list (She likes hiking, swimming, and riding).
+	- Dangling modifiers are phrases that don't logically modify any word in the sentence (Walking down the street, the trees were beautiful.).
+	- Misplaced modifiers are placed too far from the word they modify (I almost ate the whole pie vs. I ate almost the whole pie).
+- [ ] ## II. Punctuation & Mechanics (40 Details)
+	- [ ] Th Comma (,)
+	 - [ ] Use a comma before a coordinating conjunction in a compound sentence.
+	 - [ ] Use a comma after an introductory word, phrase, or clause.
+	 - [ ] Use commas to separate items in a series (Oxford comma is optional but recommended for clarity).
+	 - [ ] Use commas to set off non-essential (non-restrictive) clauses.
+	 - [ ] Do NOT use a comma with an essential (restrictive) clause.
+	 - [ ] Use commas to set off appositives (a noun phrase that renames another noun).
+	 - [ ] Use commas in dates and addresses.
+	 - [ ] Use a comma to separate a direct quotation from the speaking tag.
+	- [ ] Th Semicolon (;)
+	 - [ ] Use a semicolon to join two closely related independent clauses.
+	 - [ ] Use a semicolon to separate items in a complex list that already contains commas.
+	- [ ] Th Colon (:)
+	 - [ ] Use a colon to introduce a list, quote, or explanation.
+	 - [ ] A colon must follow a complete independent clause.
+	- [ ] Th Apostrophe (')
+	 - [ ] Use an apostrophe to show possession (the student's book).
+	 - [ ] Use an apostrophe in contractions (can't, it's).
+	 - [ ] Do NOT use an apostrophe to make plurals (The 1990s, not 1990's).
+	- [ ] Quotatio Marks (" ")
+	 - [ ] Use quotation marks for direct speech and titles of short works (poems, articles, songs).
+	 - [ ] Commas and periods go inside closing quotation marks.
+	 - [ ] Colons and semicolons go outside closing quotation marks.
+	 - [ ] Question marks and exclamation points go inside if they are part of the quote, outside if they are not.
+	- [ ] Othe Punctuation
+	 - [ ] Parentheses ( ) enclose supplemental information.
+	 - [ ] The Dash (—) can be used for emphasis or an interruption in thought.
+	 - [ ] The Hyphen (-) connects compound words (well-known) or breaks a word at the end of a line.
+	 - [ ] The Ellipsis (...) indicates omitted text or a trailing thought.
+	- [ ] Capitalization
+	 - [ ] Capitalize the first word of a sentence.
+	 - [ ] Capitalize proper nouns and adjectives.
+	 - [ ] Capitalize days, months, and holidays, but not seasons.
+	 - [ ] Capitalize titles when they precede a name (President Biden), but not when used alone (the president).
+	 - [ ] Capitalize the main words in titles (book, movie, song).
+- [ ] Commo Rules & Patterns
+	 - [ ] When adding a suffix that begins with a vowel to a word ending in a silent -e, drop the -e (baking).
+	 - [ ] Keep the -e if the suffix begins with a consonant (hopeful).
+	 - [ ] For one-syllable words ending in a single vowel + single consonant, double the final consonant before a vowel suffix (run/running).
+	 - [ ] For words with more than one syllable, double the consonant only if the stress is on the last syllable (begin/beginning, but open/opening).
+	 - [ ] Change -y to -i when adding a suffix, unless the suffix begins with -i (happier, but flying).
+- [ ] Commonl Misspelled Words
+	 - [ ] accommodate (two c's, two m's)
+	 - [ ] necessary (one c, two s's)
+	 - [ ] separate (has a "rat" in it)
+	 - [ ] definitely (from "finite")
+	 - [ ] privilege (no "d")
+	 - [ ] argument (no e after "u")
+	 - [ ] judgment (often drops the 'e')
+	 - [ ] cemetery (three e's)
+	 - [ ] embarrass (two r's, two s's)
+	 - [ ] maintenance
+	 - [ ] recommend (one c, two m's)
+	 - [ ] rhythm
+	 - [ ] schedule
+	 - [ ] tomorrow (one m, two r's)
+	 - [ ] until (one l)
+	 - [ ] Wednesday (say it: Wed-nes-day)
+- [ ] Prefixe & Suffixes
+	 - [ ] Un-, In-, Im-, Il-, Ir- mean "not."
+	 - [ ] Re- means "again."
+	 - [ ] -able/-ible means "capable of."
+	 - [ ] -ful means "full of."
+	 - [ ] -less means "without."
+- [ ] Wor Roots (Greek & Latin)
+	 - [ ] Aqua- (water): aquarium, aquatic
+	 - [ ] Aud- (hear): audience, audio
+	 - [ ] Bene- (good): benefit, benevolent
+	 - [ ] Bio- (life): biology, biography
+	 - [ ] Chron- (time): chronology, chronic
+	 - [ ] Dict- (say): predict, dictionary
+	 - [ ] Geo- (earth): geography, geology
+	 - [ ] Graph- (write): autograph, biography
+	 - [ ] Ject- (throw): reject, project
+	 - [ ] Logy- (study of): biology, psychology
+	 - [ ] Meter- (measure): thermometer, diameter
+	 - [ ] Mit-/Miss- (send): transmit, mission
+	 - [ ] Path- (feeling): empathy, pathetic
+	 - [ ] Phil- (love): philosophy, bibliophile
+	 - [ ] Phon- (sound): telephone, phonics
+	 - [ ] Photo- (light): photograph, photon
+	 - [ ] Port- (carry): transport, portable
+	 - [ ] Scope- (see): telescope, microscope
+	 - [ ] Script- (write): manuscript, prescription
+	 - [ ] Struct- (build): construct, structure
+	 - [ ] Tele- (far off): television, telephone
+	 - [ ] Therm- (heat): thermometer, thermal
+	 - [ ] Vid-/Vis- (see): video, vision
+- [ ] Precis & Powerful Verbs
+	 - [ ] Said alternatives: whispered, shouted, muttered, declared, insisted.
+	 - [ ] Walked alternatives: strolled, marched, trudged, wandered, sauntered.
+	 - [ ] Looked alternatives: gazed, glanced, peered, scrutinized, glimpsed.
+- [ ] Vivi Adjectives
+	 - [ ] Good alternatives: excellent, superb, wonderful, exceptional.
+	 - [ ] Bad alternatives: terrible, awful, dreadful, horrendous.
+	 - [ ] Nice alternatives: pleasant, delightful, charming, kind.
+	 - [ ] Very alternatives: extremely, incredibly, remarkably, exceedingly.
+- [ ] Commonl Confused Words
+	 - [ ] Farther refers to physical distance; Further refers to figurative distance or degree.
+	 - [ ] Imply (to suggest); Infer (to deduce).
+	 - [ ] Nauseous means causing nausea; Nauseated means feeling sick.
+	 - [ ] Historic (important in history); Historical (related to history).
+	 - [ ] Comprise means "to include" (The whole comprises the parts); Compose means "to make up" (The parts compose the whole).
+- [ ] Forma vs. Informal
+	 - [ ] Avoid contractions (can't, won't) in formal writing.
+	 - [ ] Avoid slang (cool, awesome, gotta).
+	 - [ ] Use "children" instead of "kids" in formal contexts.
+	 - [ ] "A lot" is two words and is informal; "many" or "much" is often better.
+- [ ] Connotatio & Denotation
+	 - [ ] Denotation is the dictionary definition.
+	 - [ ] Connotation is the emotional or cultural association (e.g., "cheap" vs. "thrifty").
+- [ ] Idiom & Common Phrases
+	 - [ ] "Bite the bullet"
+	 - [ ] "Break a leg"
+	 - [ ] "Cost an arm and a leg"
+	 - [ ] "Hit the nail on the head"
+	 - [ ] "Once in a blue moon"
+	 - [ ] "Piece of cake"
+	 - [ ] "The ball is in your court"
+	 - [ ] "Under the weather"
+- [ ] Figurative Language
+	 - [ ] Simile: A comparison using "like" or "as."
+	 - [ ] Metaphor: A direct comparison stating one thing is another.
+	 - [ ] Personification: Giving human traits to non-human things.
+	 - [ ] Hyperbole: An extreme exaggeration.
+	 - [ ] Understatement: Presenting something as less important than it is.
+	 - [ ] Alliteration: Repetition of initial consonant sounds.
+	 - [ ] Onomatopoeia: A word that imitates a sound.
+	 - [ ] Oxymoron: A combination of contradictory terms (jumbo shrimp).
+	 - [ ] Symbolism: Using an object to represent a larger idea.
+	 - [ ] Imagery: Language that appeals to the senses.
+- [ ] Soun Devices
+	 - [ ] Rhyme: The repetition of similar sounding words.
+	 - [ ] Rhythm: The pattern of stressed and unstressed syllables.
+	 - [ ] Assonance: The repetition of vowel sounds.
+	 - [ ] Consonance: The repetition of consonant sounds within words.
+- [ ] Rhetorical Devices
+	 - [ ] Allusion: A reference to a well-known person, place, event, or work of art.
+	 - [ ] Analogy: A comparison between two things to explain or clarify.
+	 - [ ] Irony: A contrast between expectation and reality.
+	 - [ ] Verbal Irony: Saying the opposite of what is meant (sarcasm).
+	 - [ ] Situational Irony: When the outcome is the opposite of what was expected.
+	 - [ ] Dramatic Irony: When the audience knows something the characters do not.
+	 - [ ] Juxtaposition: Placing two things side by side for contrast.
+	 - [ ] Paradox: A statement that seems contradictory but reveals a truth.
+	 - [ ] Anaphora: The repetition of a word or phrase at the beginning of successive clauses.
+	 - [ ] Rhetorical Question: A question asked for effect, not requiring an answer.
+- [ ] Elements  of Literature
+	 - [ ] Plot: The sequence of events in a story.
+	 - [ ] Exposition, Rising Action, Climax, Falling Action, Resolution.
+	 - [ ] Setting: The time and place of a story.
+	 - [ ] Character: Protagonist (main character), Antagonist (opposing force).
+	 - [ ] Point of View: First-person (I), Third-person limited (he/she, one character's thoughts), Third-person omniscient (he/she, all-knowing).
+	 - [ ] Theme: The central idea or message of a work.
+	 - [ ] Tone: The author's attitude toward the subject.
+	 - [ ] Mood: The feeling the reader gets from the writing.
+	 - [ ] Conflict: Man vs. Man, Man vs. Self, Man vs. Society, Man vs. Nature.
+	 - [ ] Foreshadowing: Hints about what will happen later.
+	 - [ ] Flashback: An interruption to show an event from the past.
+- [ ] The Writing Process
+	 - [ ] Prewriting: Brainstorming, outlining, and planning.
+	 - [ ] Drafting: Writing the first version.
+	 - [ ] Revising: "Re-seeing" the draft for content, structure, and clarity.
+	 - [ ] Editing: Correcting grammar, spelling, and punctuation errors.
+	 - [ ] Publishing/Presenting: Sharing the final work.
+- [ ] Essay Structure
+	 - [ ] Introduction: Hooks the reader and presents the thesis statement.
+	 - [ ] Body Paragraphs: Each should have a topic sentence, evidence, and analysis.
+	 - [ ] Conclusion: Restates the thesis and leaves the reader with a final thought.
+- [ ] Argumen & Persuasion
+	 - [ ] Claim: The main argument.
+	 - [ ] Evidence: Facts, statistics, examples, and expert opinions that support the claim.
+	 - [ ] Counterargument: Acknowledging and refuting an opposing viewpoint.
+	 - [ ] Logical Fallacy: An error in reasoning (e.g., ad hominem, straw man, false cause).
+- [ ] Research & Citations
+	 - [ ] Plagiarism is using someone else's work without credit.
+	 - [ ] A citation gives credit to the original source.
+	 - [ ] Common formats: MLA, APA, Chicago.
+	 - [ ] Paraphrasing is putting someone else's idea into your own words (still requires a citation).
+	 - [ ] Summarizing is condensing the main ideas of a source.
+- [ ] Clarity & Style
+	 - [ ] Be concise; eliminate unnecessary words.
+	 - [ ] Use active voice for stronger sentences.
+	 - [ ] Vary your sentence structure (mix long and short sentences).
+	 - [ ] Read your writing aloud to catch awkward phrasing.
+	 - [ ] Use a dictionary and thesaurus.
+	 - [ ] Know your audience and purpose.
+	 - [ ] Avoid clichés.
+	 - [ ] Use transitions to connect ideas (however, therefore, furthermore).
+	 - [ ] Proofread carefully before submitting any work.

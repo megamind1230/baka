@@ -44,7 +44,7 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[scaling-champs]]
 - [ ] [[most-fun-champs-mechanical-wise]]
 - [ ] [[micro-vs-macro-lol]]
-- [ ] [[micro-&-champ-tips-and-tricks]]
+- [ ] [[micro-or-champ-tips-and-tricks]]
 - [ ] [[game-phases]]
 - [ ] [[CSing]]
 - [ ] [[why-supp-just-kills-canon-minions]]

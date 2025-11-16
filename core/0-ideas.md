@@ -195,3 +195,4 @@ so you share this single idea till you get some more information about that topi
 - [ ] [[grad-proj-names-new]]
 - [ ] [[@-grad-proj-team-meetings-moc]]
 - [ ] idea ..learn by example.. pl name
+- [ ] idea .. simple drafting website for league and dota2 {with numbers representing how good a champ is}

@@ -1,0 +1,37 @@
+- `ctrl j/m` > new line
+- `ctrl x` {buffers/windows related}
+	- `k` > kill buffer
+	- `left/right`  > prev/next buffer
+	- [x] `0` > delete this window
+	- `1` > delete other windows
+	- `2` >  hori split
+	- `3` >  vert split
+- `space tab` workspaces
+	- `tab` > list them in status bar
+	- `n` > new
+	- `d` > delete
+	- `.` > switch by name
+	- `number` > switch by number
+- `ctrl p/n/b/f` `alt b/f` > move
+- `ctrl a/e` lines
+	- `alt a/e` sentences
+- `ctrl h k keybinding` > help me with this keybinding
+- `BS/ ctrl d` > del char
+- `alt BS/d` > del word
+- `ctrl k` > del till end of line
+	- `alt k` >  del till end of sentence
+- cut
+	- `ctrl space {move} ctrl w`
+- paste
+	- `ctrl y` cumulative btw
+	- `alt y` skim the copy history in-place
+	- emacs is so bad at this
+- `ctrl xu` or `ctrl /` or `ctrl _` > undo
+
+# org
+- `ctrl cc` > tag
+- `ctrl xc` > save file
+- `ctrl cl` > insert link
+	- `ctrl co` > open link
+- `ctrl cx b` > toggle checkbox
+- 

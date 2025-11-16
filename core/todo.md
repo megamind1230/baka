@@ -1,13 +1,5 @@
-```dataview
-TASK
-FROM #todo
-WHERE !completed 
-// GROUP BY file.link
-```
-
-
-
 # today
+- [ ] [[manage-your-dotfiles-with-gnu-stow]]
 - [ ] [[courses-resources-github-for-x]]
 - [ ] [[@-github-links-moc]]
 - [ ] And there is a whole bunch of motions starting with `]` 
@@ -38,3 +30,14 @@ WHERE !completed
 
 
 #todo
+
+# others
+```dataview
+TASK
+FROM #todo
+WHERE !completed 
+// GROUP BY file.link
+```
+
+
+

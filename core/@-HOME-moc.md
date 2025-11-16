@@ -1,6 +1,14 @@
-[grad projects](https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing) 
-[[todo]]
+[[todo]] , [grad projects](https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing) 
 
+- [x] شبكات لاسلكية
+- [ ] تطبيقات الهاتف
+- [ ] معالجة الصور
+- [x] النظم المدمجة
+- [ ] موضوعات مختارة 1
+- ![[Pasted image 20251022184608.png]]
+```
+A cinematic photo inside a metallic elevator, with the camera positioned close in front of the subjects (not too far). On the left is the 'Player=BAKA' - a young man , wearing an esports gaming black hoody for T1 esports league of legends team, with the team name "T1" as a red logo clearly visible. He stands casually and looks at the camera with a serious expression same as the Faker pose. "use the face and facial features of the reference photo don't alter". On the right is the 'Hero=Sylas' a realistic person dressed in an accurate cosplay of Sylas from Legends of Legends with his long chains dangling from his rests, . The Hero is taller than the Player, with his arm resting on the Player's shoulder, showing connection between them. Both are looking directly at the camera. Text labels float above their heads: 'Player' above the young man and 'Hero' above the cosplayer. Realistic details, immersive perspective, sharp focus, clean lighting, metall aspect ratio (9:16)."
+```
 
 # listing
 - great linux docs
@@ -8,7 +16,214 @@
 	- [ ] the gnu manuals
 	- [ ] personal blogs
 - [[cool-articles]]
+[Creating a C# application without SQL Server - Stack Overflow](https://stackoverflow.com/questions/8450863/creating-a-c-sharp-application-without-sql-server)
+https://fullstackopen.com/en/
 
+• nvim-colorizer
+
+* video picker with dmenu , mpv
+
+`ls *.mkv | dmenu -l 20 | xargs () mpv "()"`
+
+https://youtube.com/playlist?list=PLV5XWfKkFpk7MJTKv5YdSSpT9b-vLslWu&si=3tv3CTpySzsTl3_X
+
+https://github.com/keb-web/kickstart.nvim
+
+https://github.com/zazencodes/dotfiles
+
+.tmux .. config for tmux on gh
+
+https://github.com/omerxx/dotfiles
+
+
+www.programmingfonts.org
+
+
+edit nvim registers 
+:new
+:put a
+edit
+"ayy
+
+https://www.thecsharpacademy.com/
+
+https://github.com/dotnet-presentations/aspnetcore-app-workshop
+
+https://github.com/dotnet-architecture/eShopOnWeb
+
+
+
+https://dev.to/sapanapal6/top-20-full-stack-projects-for-beginners-in-c-aspnet-net-core-4g6f
+
+https://www.interviewbit.com/blog/asp-net-projects-with-source-code/?amp=1
+
+
+https://dotfyle.com/
+
+
+
+https://www.warp.dev/?utm_source=youtube&utm_medium=influencer&utm_campaign=cow&utm_content=crin
+
+
+https://github.com/radleylewis/nvim-lite/tree/youtube_demo
+
+
+https://github.com/josealvaradoo/lavyzim
+
+
+
+
+
+https://gpanders.com/ can read native lsp articles here
+
+
+netrw 
+- back
+- vim-dadbod DB plugin for nvim
+
+screensy
+share screencast on a link 
+
+tempfiles.org
+share files up to 100Mb
+
+
+كام ssd تقدر كيسة مستعملة تشغلهم 
+
+
+
+nvim-spectre.nvim
+search and replace even with regex
+
+
+:w !xargs touch
+creates files with the names inside the folder .. one line each
+
+loldodgegame.com
+
+https://github.com/ahmedwaleed3378/MEC_Authentication
+
+
+voda
+01015759780
+pw bakabaka@0A
+
+lol id fierce howl, diligent 
+
+never ward a lane.. save it for while in fights, predicting they're in bush
+
+adc must be on same page as supp
+
+before fighting .. think about numbers
+adc fight front to back
+while in fight .. think about whether to run or continue 
+
+omakub
+ Ubuntu linux setup for programming 
+ 
+yt and tt channel for kids
+toddlerscanread
+syrtoonkids
+curiousmind0808
+rvappstudios
+@officialalphablocks
+@ABCmouse
+@caillou
+@artforkidshub
+@LittleSports
+@natgeokids
+@HomeschoolPop
+@Madrasetnabreaktime
+
+
+* cmd to rename imgs with random names into jpg sorted numbers
+ls -v | cat -n | while read n f; do mv -n $f $(printf "%04d" "$n.jpg") ; done;
+* `dragon drag and drop for terminal 
+* sxiv minimal gui img view
+
+script to do man pages with dmenu and zathura
+
+``bash
+man -k . | dmenu -l 20 | awk '{printf $1}' | xargs -r man -Tpdf | zathura -
+* `sicp: Structure and Interpretation of Computer Programs` a huge intro to emacs lisp with exercises
+
+* `league of scrips` a collective github repo to dump all of my useful and practical scripts 
+
+* `nvim -p f1 f2 f3` opens all as tabs
+* btw most ppl dont use buffers thwt often.. so they remap gt, gT to moves between the buffers instead
+* `lualine` is better ui for buffers, tabs , windows
+
+
+* `twilight.nvim` simple dimming zen mode
+
+* `aria2c` ig same as `wget`
+
+* simple secure share for small files
+
+bash
+dir=$(uuidgen | cut -d'-' -f1) 
+#optional, get uniq folder name to zip
+
+mkdir /tmp/$dir # temp folder to compress
+cp $1 /tmp/$dir #copy to compress there
+zip -r /tmp/$dir.zip /tmp/$dir #compress
+zipcloak /tmp/$dir.zip #pw
+curl -F"file=@/tmp/$dir.zip" 0x0.st #upload
+`
+
+
+# c#
+
+`readonly`
+only changes inside ctor
+
+`factory method` is
+static func inside class to pass 
+paras to the `private ctor`
+
+`property` is 
+a public way to view the `private backing field`
+it has set, get
+
+```
+# korean
+* ㄱ g
+* ㅔ sl(ay)
+* ㅋ k
+* ㅁ m
+* ㄴ n
+* ㄹ L
+* ㅊ ch
+* ㄷ d
+* ㅌ t
+* ㅈ j
+* ㅅ s
+* ㅂ b
+* ㅏ a
+* ㅣ ee
+* ㅎ h
+* 요 yo
+* ㅍ p
+* ㅗ o
+* ㅜ bl(ue)
+
+* 겜 삭
+* ㅐ (A)she 
+* ㅓ(u)p
+```
+# c# projects
+https://www.sourcecodester.com/c-sharp-project
+
+https://code-projects.org/c/languages/project/c-sharp-projects/
+
+https://www.reddit.com/r/csharp/comments/rxg12m/good_c_source_code/
+
+https://www.guvi.in/blog/best-c-sharp-project-ideas/
+
+https://www.kashipara.com/project/c-net-project_3
+
+
+https://seanprashad.com/leetcode-patterns/
 
 
 delete into the black hole reg in nvim

@@ -1,3 +1,3 @@
 # done
-- [x] [[0-emacs-shortcuts]]
+- [x] [[0-emacs-default-shortcuts]]
 # not done

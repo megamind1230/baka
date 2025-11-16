@@ -1,5 +1,10 @@
 
-- [[@-github-links-moc]]
+# youtube 
+
+# github
+- [ ] [[@-github-links-moc]]
+
+# others
 github
 https://youtu.be/hrTQipWp6co?si=E1H1eQjPUrdRyHI8
 https://youtu.be/1ibmWyt8hfw?si=gomePFp4NslH3Jun

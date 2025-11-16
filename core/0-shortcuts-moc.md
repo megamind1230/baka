@@ -1,5 +1,5 @@
 # done
-- [x] [[0-emacs-shortcuts]]
+- [x] [[0-emacs-default-shortcuts]]
 - [x] [[0-nano-shortcuts]]
 - [x] [[0-discord-shortcuts]]
 - [x] [[0-my-shortcuts-on-ubuntu-(on-super-key)]]
