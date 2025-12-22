@@ -11,5 +11,7 @@ set -as terminal-overrides ',*:Tc'  # Older tmux versions may need this instead
 unbind C-Space
 set -g prefix C-Space
 bind C-Space send-prefix
-
 ```
+
+- [ ] [A simple TMUX configuration | James Lingford](https://www.jameslingford.com/blog/tmux-config/)
+- [ ] [A simple tmux config | juliu.is](https://juliu.is/a-simple-tmux/)

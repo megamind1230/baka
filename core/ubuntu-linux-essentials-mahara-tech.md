@@ -10,8 +10,8 @@
 - `ls -d somedir` 
 	- info about this current `somedir` directory
 - df vs du
-	- [[0-50-most-popular-linux-terminal-cmds-{freecodecamp}-and-more#du]]
-	- [[0-50-most-popular-linux-terminal-cmds-{freecodecamp}-and-more#df]]
+	- [[0-50-most-popular-linux-terminal-cmds-freecodecamp-and-more#du]]
+	- [[0-50-most-popular-linux-terminal-cmds-freecodecamp-and-more#df]]
 	- `df -h` used & available space in all mounted partitions {the big picture}
 		- `df -h someMountPoint` .. total used & available space of this folder as a whole
 		- `du -h` for also every sub-folder inside {only shows folders / directories} {a snapshot of the current folder state}
@@ -111,14 +111,14 @@
 
 ## ch13
 - [x] [CH13\_VID01\_File Archiving - YouTube](https://www.youtube.com/watch?v=PgEkrWhBdwE&ab_channel=MaharaTech-ITIMOOCA)
-	- [[0-50-most-popular-linux-terminal-cmds-{freecodecamp}-and-more#gzip or gunzip vs tar| tar]]
+	- [[0-50-most-popular-linux-terminal-cmds-freecodecamp-and-more#gzip or gunzip vs tar| tar]]
 - [x] [CH13\_VID02\_File Compression - YouTube](https://www.youtube.com/watch?v=WSupsfw6-Vg&ab_channel=MaharaTech-ITIMOOCA)
 	- بتختلف طرق الضغط .. فيه منها الحديث وبالتالي الـ compression ratio بتاعته أكبر
 	1. `compress -v files.tar`
 		- creates a `.Z` file
 		- `zcat file1` if file1 was a compressed txt file .. you can view its content
 		- `uncompress -v files.tar.Z`
-	2. [[0-50-most-popular-linux-terminal-cmds-{freecodecamp}-and-more#gzip or gunzip vs tar| gzip]]
+	2. [[0-50-most-popular-linux-terminal-cmds-freecodecamp-and-more#gzip or gunzip vs tar| gzip]]
 	3. `bzip2`
 		- `.bz2` file
 		- not archiving .. as in gzip

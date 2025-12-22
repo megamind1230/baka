@@ -1,2 +1,0 @@
-solve
-code

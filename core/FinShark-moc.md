@@ -1,0 +1,5 @@
+- [ ] funcs are objects?
+- [ ] what is state?
+- [ ] [React Typescript 2023 - 7. Financial Modeling Prep API - YouTube](https://www.youtube.com/watch?v=2iC04T7vohM&list=PL82C6-O4XrHcNJd4ejg8pX5fZaIDZmXyn&index=9)
+	- problems with the api querying links
+	- `isAxiosError()` unknown

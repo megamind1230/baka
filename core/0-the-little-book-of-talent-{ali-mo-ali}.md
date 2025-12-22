@@ -1,4 +1,3 @@
-#1
 - قبل البدء .. حدد نوع المهارة
 	- hard skill
 		- easier to measure in numbers .. ex

@@ -1,3 +1,5 @@
+# for meetings
+[[0-when2meet-determine-the-meeting-date-and-time-with-multiple-persons]]
 # tt for programmers
 https://www.speedtyper.dev/
 https://typing.io/

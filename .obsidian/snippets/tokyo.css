@@ -1,0 +1,205 @@
+/* Tokyo Night PDF Export - Force Colors */
+@media print {
+  /* Force dark background everywhere */
+  body, .markdown-preview-view, .markdown-rendered, .print {
+    background-color: #1a1b26 !important;
+    color: #c0caf5 !important;
+  }
+  
+  /* Force all text to Tokyo Night colors */
+  body *, .markdown-preview-view *, .markdown-rendered * {
+    color: #c0caf5 !important;
+  }
+  
+  /* Headers with exact Tokyo Night colors */
+  h1, .cm-header-1, .HyperMD-header-1 {
+    color: #db4b4b !important; /* red */
+  }
+  
+  h2, .cm-header-2, .HyperMD-header-2 {
+    color: #e0af68 !important; /* yellow */
+  }
+  
+  h3, .cm-header-3, .HyperMD-header-3 {
+    color: #9ece6a !important; /* green */
+  }
+  
+  h4, .cm-header-4, .HyperMD-header-4 {
+    color: #7dcfff !important; /* cyan */
+  }
+  
+  h5, .cm-header-5, .HyperMD-header-5 {
+    color: #7aa2f7 !important; /* blue */
+  }
+  
+  h6, .cm-header-6, .HyperMD-header-6 {
+    color: #bb9af7 !important; /* magenta */
+  }
+  
+  /* Lists and todo items */
+  ul, ol, li {
+    color: #c0caf5 !important;
+  }
+  
+
+/* Circular checkboxes in green (#9ECE6A) with BLACK checkmark */
+.task-list-item-checkbox, 
+input[type="checkbox"] {
+    border-radius: 50% !important;
+    border: 2px solid #565f89 !important;
+    background-color: #1a1b26 !important;
+    width: 18px !important;
+    height: 18px !important;
+    appearance: none !important;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    margin: 0 8px 0 0 !important;
+    vertical-align: middle !important;
+    position: relative !important;
+    cursor: pointer !important;
+    flex-shrink: 0 !important;
+}
+
+.task-list-item-checkbox:checked, 
+input[type="checkbox"]:checked {
+    background-color: #9ECE6A !important;
+    border-color: #9ECE6A !important;
+}
+
+/* Remove any default checkmark */
+.task-list-item-checkbox:checked::before,
+input[type="checkbox"]:checked::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* Black checkmark inside green circle - ONLY ::after */
+.task-list-item-checkbox:checked::after, 
+input[type="checkbox"]:checked::after {
+    content: "✓" !important;
+    display: block !important;
+    color: #000000 !important;
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    line-height: 1 !important;
+}
+
+/* For PDF export */
+@media print {
+    .task-list-item-checkbox, 
+    input[type="checkbox"] {
+        border-radius: 50% !important;
+        border: 2px solid #565f89 !important;
+        background-color: #1a1b26 !important;
+        width: 18px !important;
+        height: 18px !important;
+        appearance: none !important;
+        -webkit-appearance: none !important;
+        -moz-appearance: none !important;
+        margin: 0 8px 0 0 !important;
+        vertical-align: middle !important;
+        position: relative !important;
+        print-color-adjust: exact !important;
+        -webkit-print-color-adjust: exact !important;
+    }
+    
+    .task-list-item-checkbox:checked, 
+    input[type="checkbox"]:checked {
+        background-color: #9ECE6A !important;
+        border-color: #9ECE6A !important;
+        print-color-adjust: exact !important;
+        -webkit-print-color-adjust: exact !important;
+    }
+    
+    /* Remove default checkmark */
+    .task-list-item-checkbox:checked::before,
+    input[type="checkbox"]:checked::before {
+        content: none !important;
+        display: none !important;
+    }
+    
+    .task-list-item-checkbox:checked::after,
+    input[type="checkbox"]:checked::after {
+        content: "✓" !important;
+        display: block !important;
+        color: #000000 !important;
+        position: absolute !important;
+        top: 50% !important;
+        left: 50% !important;
+        transform: translate(-50%, -50%) !important;
+        font-size: 12px !important;
+        font-weight: bold !important;
+        line-height: 1 !important;
+        print-color-adjust: exact !important;
+        -webkit-print-color-adjust: exact !important;
+    }
+}
+  
+  /* Links */
+  a, .cm-link, .external-link {
+    color: #bb9af7 !important;
+  }
+  
+  /* Code blocks */
+  code, pre, .cm-inline-code {
+    background-color: #24283b !important;
+    color: #a9b1d6 !important;
+    border-color: #414662 !important;
+  }
+  
+  /* Blockquotes */
+  blockquote {
+    border-left-color: #7aa2f7 !important;
+    background-color: #16161e !important;
+    color: #c0caf5 !important;
+  }
+  
+  /* Tables */
+  table, th, td {
+    border-color: #414662 !important;
+  }
+  
+  th {
+    background-color: #16161e !important;
+    color: #c0caf5 !important;
+  }
+  
+  /* Horizontal rule */
+  hr {
+    border-color: #414662 !important;
+    background-color: #414662 !important;
+  }
+  
+  /* Remove any white backgrounds */
+  * {
+    background-color: transparent !important;
+  }
+  
+  /* Force print background */
+  @page {
+    margin: 0;
+  }
+  
+  body {
+    box-shadow: 0 0 0 10000px #1a1b26 !important;
+    margin: 0 !important;
+    /* padding: 20px !important; */
+  }
+}
+
+/* Also apply to print preview */
+.print, .print * {
+  background-color: #1a1b26 !important;
+  color: #c0caf5 !important;
+}
+
+.print h1 { color: #db4b4b !important; }
+.print h2 { color: #e0af68 !important; }
+.print h3 { color: #9ece6a !important; }
+.print h4 { color: #7dcfff !important; }
+.print h5 { color: #7aa2f7 !important; }
+.print h6 { color: #bb9af7 !important; }

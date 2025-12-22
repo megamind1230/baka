@@ -1,4 +1,3 @@
-#1 
 > ref
 - `less` better than `cat`
 	- it allows you to search in the vim way

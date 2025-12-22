@@ -1,9 +1,3 @@
-# not done
-- [ ] [[@-linux-permissions-moc]]
-- [ ] [[@-qemu-moc]]
-
-
-
 # done
 - [x] [[@-linux-terminal-cmds-or-utilities-moc]]
 - [x] [[0-linux-cli-or-tui-apps-and-terminals-moc]]
@@ -15,3 +9,6 @@
 - [x] [[0-linux-distros-moc]]
 - [x] [[@-linux-issues-and-random-info-moc]]
 - [x] [[@-linux-journey-roadmap-moc]]
+- [x] [[@-linux-permissions-moc]]
+- [x] [[@-qemu-moc]]
+# not done

@@ -1,13 +1,14 @@
 {
   "accentColor": "#ff0000",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Tokyo Night",
   "baseFontSizeAction": true,
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "textFontFamily": "JetBrainsMono Nerd Font,Noto Naskh Arabic",
   "nativeMenus": false,
   "interfaceFontFamily": "JetBrainsMono Nerd Font,Noto Naskh Arabic",
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
   "theme": "obsidian",
   "showRibbon": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": []
 }

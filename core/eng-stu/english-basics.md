@@ -1,72 +1,31 @@
-- [ ] Homophone & Confusables
-	- [ ] Principle/Principal
-	- [ ] Stationary/Stationery
-	- [ ] Complement/Compliment
-	- [ ] Ensure/Insure
-	- [ ] Past/Passed
-	- [ ] Weather/Whether
-	- [ ] Who's/Whose
-	 - [ ] Accept/Except
-- [ ] "Neither/nor" and "either/or": the verb agrees with the closer subject.
-- [ ] مكان الفاعل والمفعول في الجملة
-- [ ] اسم الفاعل واسم المفعول
-- [ ] Who is for subjects; whom is for objects.
-- [ ] Present Perfect: I have walked. Past Perfect: I had walked.
-- [ ] Active voice is usually stronger than passive voice (The chef cooked the meal vs. The meal was cooked by the chef).
 # content
-- [ ] Conjunctions
-	- Subordinating conjunctions start dependent clauses (because, although, if, when).
-	- Correlative conjunctions come in pairs (either/or, neither/nor, not only/but also).
-- [ ] Sentence Structure
-	- A clause contains a subject and a verb.
-	- An independent clause can stand alone as a sentence.
-	- A dependent (subordinate) clause cannot stand alone.
-	- A simple sentence has one independent clause.
-	- A compound sentence has two or more independent clauses joined by a conjunction or semicolon.
-	- A complex sentence has one independent clause and at least one dependent clause.
-	- A compound-complex sentence has at least two independent clauses and one dependent clause.
-	- A fragment is an incomplete sentence.
-	- A run-on sentence incorrectly joins two independent clauses without proper punctuation.
-	- A comma splice incorrectly joins two independent clauses with only a comma.
-	- Parallel structure means using the same pattern of words for items in a list (She likes hiking, swimming, and riding).
-	- Dangling modifiers are phrases that don't logically modify any word in the sentence (Walking down the street, the trees were beautiful.).
-	- Misplaced modifiers are placed too far from the word they modify (I almost ate the whole pie vs. I ate almost the whole pie).
 - [ ] ## II. Punctuation & Mechanics (40 Details)
-	- [ ] Th Comma (,)
-	 - [ ] Use a comma before a coordinating conjunction in a compound sentence.
-	 - [ ] Use a comma after an introductory word, phrase, or clause.
-	 - [ ] Use commas to separate items in a series (Oxford comma is optional but recommended for clarity).
-	 - [ ] Use commas to set off non-essential (non-restrictive) clauses.
-	 - [ ] Do NOT use a comma with an essential (restrictive) clause.
-	 - [ ] Use commas to set off appositives (a noun phrase that renames another noun).
-	 - [ ] Use commas in dates and addresses.
-	 - [ ] Use a comma to separate a direct quotation from the speaking tag.
 	- [ ] Th Semicolon (;)
-	 - [ ] Use a semicolon to join two closely related independent clauses.
-	 - [ ] Use a semicolon to separate items in a complex list that already contains commas.
+		 - [ ] Use a semicolon to join two closely related independent clauses.
+		 - [ ] Use a semicolon to separate items in a complex list that already contains commas.
 	- [ ] Th Colon (:)
-	 - [ ] Use a colon to introduce a list, quote, or explanation.
-	 - [ ] A colon must follow a complete independent clause.
+		 - [ ] Use a colon to introduce a list, quote, or explanation.
+		 - [ ] A colon must follow a complete independent clause.
 	- [ ] Th Apostrophe (')
-	 - [ ] Use an apostrophe to show possession (the student's book).
-	 - [ ] Use an apostrophe in contractions (can't, it's).
-	 - [ ] Do NOT use an apostrophe to make plurals (The 1990s, not 1990's).
+		 - [ ] Use an apostrophe to show possession (the student's book).
+		 - [ ] Use an apostrophe in contractions (can't, it's).
+		 - [ ] Do NOT use an apostrophe to make plurals (The 1990s, not 1990's).
 	- [ ] Quotatio Marks (" ")
-	 - [ ] Use quotation marks for direct speech and titles of short works (poems, articles, songs).
-	 - [ ] Commas and periods go inside closing quotation marks.
-	 - [ ] Colons and semicolons go outside closing quotation marks.
-	 - [ ] Question marks and exclamation points go inside if they are part of the quote, outside if they are not.
+		 - [ ] Use quotation marks for direct speech and titles of short works (poems, articles, songs).
+		 - [ ] Commas and periods go inside closing quotation marks.
+		 - [ ] Colons and semicolons go outside closing quotation marks.
+		 - [ ] Question marks and exclamation points go inside if they are part of the quote, outside if they are not.
 	- [ ] Othe Punctuation
-	 - [ ] Parentheses ( ) enclose supplemental information.
-	 - [ ] The Dash (—) can be used for emphasis or an interruption in thought.
-	 - [ ] The Hyphen (-) connects compound words (well-known) or breaks a word at the end of a line.
-	 - [ ] The Ellipsis (...) indicates omitted text or a trailing thought.
+		 - [ ] Parentheses ( ) enclose supplemental information.
+		 - [ ] The Dash (—) can be used for emphasis or an interruption in thought.
+		 - [ ] The Hyphen (-) connects compound words (well-known) or breaks a word at the end of a line.
+		 - [ ] The Ellipsis (...) indicates omitted text or a trailing thought.
 	- [ ] Capitalization
-	 - [ ] Capitalize the first word of a sentence.
-	 - [ ] Capitalize proper nouns and adjectives.
-	 - [ ] Capitalize days, months, and holidays, but not seasons.
-	 - [ ] Capitalize titles when they precede a name (President Biden), but not when used alone (the president).
-	 - [ ] Capitalize the main words in titles (book, movie, song).
+		 - [ ] Capitalize the first word of a sentence.
+		 - [ ] Capitalize proper nouns and adjectives.
+		 - [ ] Capitalize days, months, and holidays, but not seasons.
+		 - [ ] Capitalize titles when they precede a name (President Biden), but not when used alone (the president).
+		 - [ ] Capitalize the main words in titles (book, movie, song).
 - [ ] Commo Rules & Patterns
 	 - [ ] When adding a suffix that begins with a vowel to a word ending in a silent -e, drop the -e (baking).
 	 - [ ] Keep the -e if the suffix begins with a consonant (hopeful).

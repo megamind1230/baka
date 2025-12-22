@@ -1,0 +1,342 @@
+#### **المرحلة الأولى: الأساسيات (للمبتدئين)**
+**الهدف:** فهم تركيب الجملة البسيطة والكلمات الأساسية.
+1.  **أساسيات الجملة:**
+    *   الفاعل + الفعل + المفعول به (Subject + Verb + Object).
+    *   أدوات التعريف (A, An, The) وعدم وجود مقابل مباشر لها في العربية.
+    *   الضمائر (I, You, He, She, We, They).
+			1.  **زمن المضارع البسيط (Present Simple):**
+    *   للعادات والحقائق العامة.
+    *   التمييز بين الفعل "to be" (is, am, are) والأفعال العادية.
+3.  **أسلوب الترجمة:** الترجمة الحرفية أحياناً مقبولة هنا لفهم الهيكل.
+---
+#### **المرحلة الثانية: التعقيد التدريجي (للمتوسطين)**
+**الهدف:** التعامل مع تراكيب أكثر تعقيداً والأزمنة المختلفة.
+1.  **الأزمنة الأساسية:**
+    *   الماضي البسيط (Past Simple).
+    *   المستقبل البسيط (Future Simple) باستخدام "will".
+    *   المضارع المستمر (Present Continuous).
+2.  **الضمائر والملكية:**
+    *   ضمائر الملكية (My, Your, His, Her...).
+    *   ضمائر المفعول به (Me, Him, Her, Us, Them).
+3.  **حروف الجر (Prepositions):**
+    *   في، على، إلى، من، داخل، تحت (In, On, To, From, Inside, Under).
+4.  **أسلوب الترجمة:** البدء في الانتقال من الترجمة الحرفية إلى الترجمة المعنوية.
+---
+#### **المرحلة الثالثة: الإتقان (للمتقدمين)**
+**الهدف:** ترجمة جمل معقدة تحتوي على تعابير اصطلاحية وشرطية.
+1.  **الجمل الشرطية (Conditionals):**
+    *   الجملة الشرطية من النوع الأول (If + Present, Future).
+2.  **المبني للمجهول (Passive Voice):**
+    *   فهم كيفية تحويل الجملة من المبني للمعلوم إلى المبني للمجهول.
+3.  **الأزمنة المركبة:**
+    *   Present Perfect.
+4.  **التعابير الاصطلاحية (Idioms):**
+    *   ترجمة المعنى وليس الكلمات.
+5.  **أسلوب الترجمة:** التركيز على نقل المعنى بدقة وبأسلوب عربي سلس.
+---
+### **200 جملة للتدريب مصنفة حسب المستوى**
+#### **المستوى الأول: المبتدئ  - تراكيب بسيطة جداً**
+1.  The cat is on the table. 
+2.  I am a student. 
+3.  He has a book. 
+4.  She is happy. 
+5.  We are in the class. 
+6.  They are friends. 
+7.  This is a pen. 
+8.  That is a car. 
+9.  I like apples. 
+10. He reads every day. 
+11. The sun is bright. 
+12. My name is Ali. 
+13. The water is cold. 
+14. I eat bread. 
+15. She sings a song. 
+16. The dog is big. 
+17. We play football. 
+18. They live in a city. 
+19. The house is white. 
+20. I drink milk. 
+21. He writes a letter. 
+22. The bird flies. 
+23. She is tall. 
+24. We speak Arabic. 
+25. The flower is red. 
+26. I see the moon. 
+27. He is from Egypt. 
+28. The teacher is here. 
+29. She has a bag. 
+30. The boy is young. 
+31. I open the door. 
+32. He closes the window. 
+33. The food is good. 
+34. She loves her mother. 
+35. We study English. 
+36. The tree is green. 
+37. I hear a sound. 
+38. He walks to school. 
+39. The baby is sleeping. 
+40. She is my sister. 
+41. We have a test. 
+42. The sky is blue. 
+43. I help my father. 
+44. He buys a new phone. 
+45. The book is interesting. 
+46. She is a doctor. 
+47. We watch television. 
+48. The computer is fast. 
+49. I understand the lesson. 
+50. He answers the question. 
+#### **المستوى الثاني: متوسط  - أزمنة وتراكيب أكثر تعقيداً**
+51. I **went** to the park yesterday. 
+52. She **will travel** next week. 
+53. They **are playing** in the garden now. 
+54. He **is reading** a magazine. 
+55. We **visited** our grandparents. 
+56. I **will call** you later. 
+57. She **was cooking** dinner when I arrived. 
+58. The students **are studying** for the exam. 
+59. He **bought** a new car last month. 
+60. I **am learning** how to drive. 
+61. This is **my** book. 
+62. That is **her** bag. 
+63. We love **our** country. 
+64. He is with **his** friends. 
+65. I told **him** a story. 
+66. She gave **me** a gift. 
+67. They invited **us** to the party. 
+68. The cat is **under** the chair. 
+69. The keys are **on** the table. 
+70. We went **to** the market. 
+71. She comes **from** Spain. 
+72. The book is **inside** the drawer. 
+73. I put the money **in** my pocket. 
+74. He is **taller than** his brother. 
+75. This movie is **very** interesting. 
+76. She speaks English **fluently**. 
+77. He ran **quickly**. 
+78. I **usually** drink coffee in the morning. 
+79. They **never** eat meat. 
+80. **Can** you help me? 
+81. **I must** finish my homework. 
+82. **She should** see a doctor. 
+83. **Could** you open the window, please? 
+84. **There is** a mosque near my house. 
+85. **There are** many students in the hall. 
+86. **What** is your job? 
+87. **Where** do you live? 
+88. **When** did you arrive? 
+89. **Why** are you sad? 
+90. **How** old are you? 
+91. I want **to eat** something. 
+92. She likes **to swim**. 
+93. He needs **to rest**. 
+94. We decided **to leave**. 
+95. It is important **to study**. 
+96. I saw **him crossing** the street. 
+97. She enjoys **reading** novels. 
+98. He is afraid of **flying**. 
+99. Thank you for **helping** me. 
+100. I am thinking about **changing** my job. 
+101. The man **who** called you is my uncle. 
+102. This is the book **that** I bought. 
+103. The house **where** I was born is old. 
+104. I know **what** you mean. 
+105. Tell me **why** you are late. 
+106. I don't know **if** he will come. 
+107. She asked me **where** I lived. 
+108. He said **that** he was tired. 
+109. I think **it** is a good idea. 
+110. **It is** raining now. 
+111. **It is** difficult to learn Chinese. 
+112. **It seems** that he is angry. 
+113. I am **as tall as** my father. 
+114. She is **not as old as** she looks. 
+115. This box is **too heavy** to carry. 
+116. He is **strong enough** to lift it. 
+117. I have **two** brothers. 
+118. She ate **the third** apple. 
+119. **Several** people attended the meeting. 
+120. **Many** students passed the exam. 
+#### **المستوى الثالث: متقدم  - شرطية، مجهول، اصطلاحات**
+121. **If it rains, we will cancel** the trip. 
+122. **If you study hard, you will succeed.** 
+123. **If I have time, I will visit** you. 
+124. **If he doesn't hurry, he will miss** the bus. 
+125. **The cake was eaten** by the children. 
+126. **English is spoken** all over the world. 
+127. **The letter was written** by my brother. 
+128. **The window has been broken.** 
+129. **I have finished** my work. 
+130. **She has lived** here for five years. 
+131. **We have already seen** that movie. 
+132. **He has just left.** 
+133. **Break a leg** in your exam! 
+134. It's **raining cats and dogs.** 
+135. He **kicked the bucket** last year. 
+136. This cost me **an arm and a leg.** 
+137. Let's **call it a day.** 
+138. Although it was raining, we went out. 
+139. He went to work despite being sick. 
+140. In spite of the traffic, we arrived on time. 
+141. Unless you leave now, you will be late. 
+142. I will wait here until you come back. 
+143. As soon as he arrived, the meeting started. 
+144. She is so intelligent that she understands everything. 
+145. It is such a beautiful day that we should go out. 
+146. The more you read, the more you learn. 
+147. The sooner, the better. 
+148. Not only did he forget my birthday, but he also didn't apologize. 
+149. Either you apologize, or I will leave. 
+150. Neither he nor his friend was present. 
+151. I would rather stay at home than go out. 
+152. She had better see a doctor soon. 
+153. It is high time we left. 
+154. I wish I were rich. 
+155. If only I had known the truth. 
+156. He talks as if he were an expert. 
+157. The teacher suggested that we should study more. 
+158. It is essential that everyone be on time. 
+159. The report must be completed by Friday. 
+160. He might have forgotten the meeting. 
+161. She could be at home now. 
+162. You should have told me earlier. 
+163. He must have left already. 
+164. By next year, I will have graduated from university. 
+165. By the time you arrive, I will have finished cooking. 
+166. He said, "I am tired." 
+167. She asked, "Where do you live?" 
+168. He told me, "Close the door." 
+169. The man whose car was stolen is my neighbor. 
+170. I will never forget the day when we met. 
+171. That is the reason why I called you. 
+172. Hardly had I left when it started to rain. 
+173. No sooner had she arrived than the phone rang. 
+174. Under no circumstances should you open this door. 
+175. Not until he apologized did she speak to him. 
+176. So beautiful was the sunset that we took many photos. 
+177. Were I you, I would accept the offer. 
+178. Had I known, I would have helped. 
+179. The project, which took two years to complete, was a success. 
+180. My brother, who lives in London, is a doctor. 
+181. The book that is on the table is mine. 
+182. It was my father who gave me this advice. 
+183. What I need now is a cup of coffee. 
+184. All that glitters is not gold. 
+185. He is the last person I would trust. 
+186. This is by far the best solution. 
+187. She, as well as her sisters, is talented. 
+188. The committee has made its decision. 
+189. Each of the students has a book. 
+190. None of the information is correct. 
+191. A number of students were absent. 
+192. The number of students is increasing. 
+193. He is one of those people who are always late. 
+194. She is the only one of the employees who has a car. 
+195. I look forward to hearing from you. 
+196. He insisted on paying the bill. 
+197. She accused him of stealing the money. 
+198. He prevented me from entering. 
+199. I am used to waking up early. 
+200. She spent two hours finishing the report. 
+# exercises 
+
+ 1. **Despite the numerous challenges they encountered during the expedition, the team of researchers remained steadfast in their pursuit of groundbreaking discoveries.** 
+ 2. **Had the government heeded the scientists' warnings earlier, the environmental crisis could have been mitigated to a significant extent.** 
+ 3. **The novel, which intricately weaves together the narratives of three generations, offers a profound commentary on the enduring impact of war.** 
+ 4. **It is not so much his intelligence that I admire, but rather his unwavering integrity in the face of adversity.** 
+ 5. **Under no circumstances should the confidentiality of the clients' personal information be compromised.** 
+ 6. **The artist's later works, characterized by their bold use of color and abstract forms, marked a radical departure from his earlier, more conventional style.** 
+ 7. **Only by delving deep into the historical context can one truly grasp the significance of this political movement.** 
+ 8. **She speaks with such conviction that one can hardly help but be persuaded by her arguments.** 
+ 9. **The proposal was deemed not only financially viable but also socially responsible by the board of directors.** 
+10. **Were we to invest more in renewable energy sources, we would be less dependent on fossil fuels within a decade.** 
+11. **The suspect allegedly conspired with several individuals to smuggle the artifacts out of the country.** 
+12. **What ultimately led to the company's downfall was a combination of poor management and a failure to adapt to market changes.** 
+13. **I take great exception to your accusation, which is not only baseless but also deeply offensive.** 
+14. **The treaty, which had been negotiated for over five years, was finally ratified by all participating nations.** 
+15. **He is under the illusion that wealth automatically translates into happiness.** 
+16. **The more he tried to justify his actions, the more suspicious he appeared.** 
+17. **It is imperative that immediate action be taken to address the escalating humanitarian crisis.** 
+18. **The discovery of the new species has called into question long-held beliefs about evolution in this ecosystem.** 
+19. **She is one of the most, if not the most, talented musician I have ever had the pleasure of working with.** 
+20. **No sooner had the announcement been made than the stock market began to fluctuate wildly.** 
+21. **They managed to pull off the event successfully against all odds.** 
+22. **The author's narrative compels the reader to confront their own preconceived notions about justice.** 
+23. **It is a universally acknowledged truth that a single person in possession of a good fortune must be in want of a spouse.**
+24. **The project is hanging by a thread after the main investor withdrew their funding.** 
+25. **He made it abundantly clear that he would not tolerate any form of insubordination.** 
+26. **The report leaves no stone unturned in its analysis of the economic factors at play.** 
+27. **Were it not for her quick thinking, the situation could have ended in disaster.** 
+28. **The legislation was passed with a view to curbing the excessive use of plastic.** 
+29. **His testimony was riddled with inconsistencies, which cast doubt on his credibility as a witness.** 
+30. **The company prides itself on its commitment to sustainable practices and ethical sourcing.** 
+31. **Little did they know that their lives were about to change forever.** 
+32. **The theory, while controversial, has gained considerable traction within the scientific community.** 
+33. **She has a knack for making complex topics seem accessible and engaging.** 
+34. **The agreement is binding on all parties involved and cannot be unilaterally terminated.** 
+35. **It goes without saying that education is the cornerstone of a prosperous society.** 
+36. **He was acquitted of all charges due to a lack of concrete evidence.** 
+37. **The city's infrastructure is struggling to keep pace with its rapid population growth.** 
+38. **Her argument was so persuasive that it won over even the most skeptical members of the audience.** 
+39. **The artist drew inspiration from a myriad of sources, including classical mythology and modern street art.** 
+40. **They are on the verge of a major breakthrough in cancer research.** 
+41. **The judge ruled that the evidence had been obtained illegally and was therefore inadmissible in court.** 
+42. **His reluctance to commit to a long-term plan is a constant source of frustration for his colleagues.** 
+43. **The film is a poignant reminder of the sacrifices made by previous generations.** 
+44. **We must take into account a wide range of factors before reaching a final decision.** 
+45. **The economy is showing signs of recovery, albeit at a slower pace than anticipated.** 
+46. **He has a tendency to blow things out of proportion whenever he faces a minor setback.** 
+47. **The new policy is intended to streamline the application process and reduce bureaucracy.** 
+48. **Her dedication to her craft is truly commendable and serves as an inspiration to us all.** 
+49. **The contract stipulates that any disputes must be resolved through arbitration.** 
+50. **It is a common misconception that all technological advancement inevitably leads to social progress.** 
+51. **The speaker went off on a tangent and never really addressed the main issue.** 
+52. **The company's profits have skyrocketed since they launched their new product line.** 
+53. **There is a growing consensus among experts that climate change poses an existential threat to humanity.** 
+54. **He was bestowed with the highest honor for his lifelong contributions to the field of medicine.** 
+55. **The manuscript was discovered quite by chance in the attic of an old house.** 
+56. **Her resilience in the face of such personal tragedy is nothing short of remarkable.** 
+57. **The two theories are not mutually exclusive; in fact, they can be complementary.** 
+58. **We need to think outside the box if we want to find a solution to this complex problem.** 
+59. **The defendant showed no remorse for his actions throughout the trial.** 
+60. **The invention has the potential to revolutionize the way we communicate.** 
+61. **She has a way with words that captivates her audience instantly.** 
+62. **The agreement was reached after lengthy and arduous negotiations.** 
+63. **His actions are indicative of a deeper underlying issue that needs to be addressed.** 
+64. **The city is a melting pot of different cultures and traditions.** 
+65. **We must not lose sight of our ultimate goal amidst these daily challenges.** 
+66. **The research paper was met with widespread acclaim from the academic community.** 
+67. **He is walking a tightrope between pleasing his superiors and maintaining his integrity.** 
+68. **The law was enacted to safeguard the rights of the most vulnerable members of society.** 
+69. **Her explanation was concise and to the point, leaving no room for ambiguity.** 
+70. **The project was fraught with difficulties from the very beginning.** 
+71. **They are making headway in their efforts to develop a vaccine.** 
+72. **The artist's work is characterized by its attention to detail and its emotional depth.** 
+73. **It is a matter of great urgency that we find a solution to this pressing issue.** 
+74. **He has a proven track record of success in managing large-scale projects.** 
+75. **The company's decision to downsize came as a bolt from the blue for its employees.** 
+76. **The book provides a comprehensive overview of the events that led to the revolution.** 
+77. **She managed to overcome her initial reluctance and delivered a stellar performance.** 
+78. **The evidence against him is purely circumstantial and lacks any direct proof.** 
+79. **We are operating on the assumption that the funding will be approved.** 
+80. **His latest novel is a far cry from his earlier, more lighthearted work.** 
+81. **The team is working around the clock to meet the deadline.** 
+82. **Her speech resonated deeply with the audience, many of whom were moved to tears.** 
+83. **The policy has had unintended consequences that are now becoming apparent.** 
+84. **He is widely regarded as the foremost authority on the subject.** 
+85. **The deal fell through at the last minute due to a disagreement over the terms.** 
+86. **She has a gift for languages and can pick up new ones with remarkable ease.** 
+87. **The investigation is still in its preliminary stages, and no conclusions can be drawn yet.** 
+88. **His actions speak louder than his words ever could.** 
+89. **The company is at a crossroads and must decide on its future direction.** 
+90. **The report highlights the dire need for reform within the institution.** 
+91. **He made a full recovery, much to the relief of his family and friends.** 
+92. **The concept is rather abstract and may be difficult for some to grasp.** 
+93. **They have a vested interest in the outcome of the negotiations.** 
+94. **The new evidence sheds new light on the mysterious circumstances surrounding his death.** 
+95. **She handled the crisis with a level of composure that was truly admirable.** 
+96. **The agreement is contingent upon the approval of the board.** 
+97. **His version of events is at odds with the accounts of other witnesses.** 
+98. **The invention was a product of sheer ingenuity and years of painstaking research.** 
+99. **We need to separate the wheat from the chaff and focus on the most relevant information.** 
+100. **The legacy of his work will continue to influence generations to come.** 

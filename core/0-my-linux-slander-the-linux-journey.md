@@ -1,4 +1,3 @@
-#1 
 first dont start of bare metal .. just use a vm
 - [ ] learn virtual box
 	- make a vm

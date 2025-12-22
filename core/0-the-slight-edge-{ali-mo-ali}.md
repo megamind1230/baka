@@ -1,4 +1,3 @@
-#1
 - [x] [علي وكتاب - الفارق البسيط The Slight Edge (youtube.com)](https://www.youtube.com/watch?v=biCRsdst958)
 
 - المعرفة ليست هي المشكلة .. والمزيد منها ليس هو الحل

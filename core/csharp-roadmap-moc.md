@@ -1,4 +1,4 @@
-# [[csharp-issues-and-bugs-moc]]
+# [[@-csharp-dotnet-and-projects-issues-and-bugs-moc]]
 
 # ref
 ```

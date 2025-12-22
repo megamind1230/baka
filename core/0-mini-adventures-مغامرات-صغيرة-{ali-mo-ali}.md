@@ -1,5 +1,4 @@
-#1 
-[[mindmap-of-some-reading-topics]]
+![[mindmap-of-some-reading-topics]]
 
 > [!info]
 > It doesn't have to be fun .. to be fun
@@ -14,5 +13,3 @@
 - مكان جديد .. حتى لو في الحي بتاعك
 - اقرأ كتاب في مكان أخضر (حديقة عامة)
 - دار أيتام .. سري عنهم
-- 
-

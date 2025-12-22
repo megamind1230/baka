@@ -1,6 +1,6 @@
 #todo 
 - [x] [[0-anonymous-obj-and-func-vs-dto]]
-- [x] [[postman-and-swagger]]
-- [x] [[cqrs]]
+- [x] postman-and-swagger
+- [x] cqrs
 - [x] mvc
 - [x] [[object-keyword]]

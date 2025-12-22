@@ -1,4 +1,12 @@
 # done or verified ✅
+- [x] `:'<,'>!awk '{sum+=$1} END {print sum}'`
+	- [x] sum up selected lines of numbers 
+- [x] `:%s\s{2}/ | %s/\s$//`
+	- `|` pipe for continuation of more cmds
+	- replace every 2 spaces with only 1
+	- then remove every ending space
+- [x] `:!sort -k2 -nr`
+	- reverse sort by 2nd column {numerically}
 - [x] `vim fileName +number` > open and go to this line number , better works with {non relative line numbers}
 - [x] copy line `17` to cursor {cursor on 10 for example} >  `:17t.`
 - [x] `noremanp <Up> <NOP>` up arrow is disabled

@@ -7,7 +7,7 @@
 # not done
 - [ ] [[notion-shortcuts]]
 - [ ] [[vscode-default-shortcuts]]
-- [ ] [[xfce4-shortcuts]]
+- [ ] [[0-xfce4-shortcuts]]
 - [ ] [[drawboard-pdf-app-shortcuts]]
 - [ ] [[0-how-to-control-my-windows-sound-with-a-shortcut]]
 - [ ] [[0-how-to-change-or-disable-conflict-shortcuts-in-gnome]]

@@ -15,8 +15,8 @@
 - [x] [[mec-lec12]]
 - [x] [[mec-lec13]]
 - [x] [[mec-lec14]]
-- [x] [[mec-lec15]]
-- [ ] [[mec-lec16]]
+- [x] [[mec-lec15-13]]
+- [ ] [[mec-lec16-14]]
 - [ ] [[mec-lec17]]
 - [ ] [[mec-lec18]]
 # sec

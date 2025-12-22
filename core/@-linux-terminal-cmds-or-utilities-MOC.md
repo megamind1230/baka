@@ -31,14 +31,14 @@
 - [ ] `ncdu` ,  cli app for linux (disk usage/ analyzer)
 	- [ ] `dusk`
 	- [ ] `du`
-		- [ ] [[0-50-most-popular-linux-terminal-cmds-{freecodecamp}-and-more#du]]
+		- [ ] [[0-50-most-popular-linux-terminal-cmds-freecodecamp-and-more#du]]
 	- [ ] `df`
-		- [ ] [[0-50-most-popular-linux-terminal-cmds-{freecodecamp}-and-more#df]]
+		- [ ] [[0-50-most-popular-linux-terminal-cmds-freecodecamp-and-more#df]]
 
 - [ ] [[the-linux-commands-bible-pdf]]
 - [ ] [[0-know-more-about-your-linux-system-(commands)]]
-
 # done
+- [x] alternative screen `tput smcup; some cmd; sleep 3; tput rmcup`
 - [x] `xorg-xkill` package to kill process
 - [x] [[0-linux-manpages-moc]]
 - [x] [[@-nvim-vim-moc]]
@@ -49,7 +49,7 @@
 - [x] [[0-use-groff-and-zathura-to-make-ur-minimal-plaine-clean-cv-or-resume]]
 - [x] [[0-become-a-shell-wizard]]
 - [x] [[0-know-more-about-your-linux-system-(commands)]]
-- [x] [[0-50-most-popular-linux-terminal-cmds-{freecodecamp}-and-more]]
+- [x] [[0-50-most-popular-linux-terminal-cmds-freecodecamp-and-more]]
 - [x] [[0-become-a-bash-scripting-pro]]
 - [x] [[0-grep-command]]
 - [x] [[0-linux-manpages-moc]]
@@ -63,3 +63,5 @@
 - [x] [[0-tmux]]
 - [x] [[0-sxiv-image-viewer-not-editor]]
 - [x] [[0-commands-that-will-change-the-way-you-use-linux-forever]]
+- [x] how-to-cat-a-specific-file-i-chose-with-fzf
+	- `cat $(\ls | grep '.org' | fzf)`

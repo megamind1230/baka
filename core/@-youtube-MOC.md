@@ -11,7 +11,6 @@
 - [ ] [[youshare-browser-extension-for-better-youtube-recommendation]]
 - [ ] [[youtube-advices]]
 - [ ] [[Video-Speed-Controller---video-manager-extension]]
-- [ ] [[a-year-on-youtube]]
 - [ ] [[how-to-loop-using-enhancer-for-youtube-extension]]
 - [ ] [[things-I-must-know-on-youtube]]
 - [ ] [[youbtube-creators-channel]]
