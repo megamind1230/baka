@@ -7,6 +7,6 @@
 - [[2-mutahar-install-arch]]
 - [[0-pipewire-vs-pulseaudio-moc]] 
 - [[gdm-vs-sddm]]
-- [[why-arch-vm-doesnt-enable-uefi]]
-- [[AUR-{Arch-User-Repository}-with-yay]]
+- why-arch-vm-doesnt-enable-uefi
+- [[aur-arch-user-repository-with-yay-or-paru]]
 - [[AUR-with-paru]]

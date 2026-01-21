@@ -3,34 +3,27 @@
 mindmap-plugin: basic
 
 ---
-
 # how to use youtube as a beginner and become a power user
 
-## #1 simple default youtube tricks
+## simple default youtube tricks
 - UI
     - normal video page
         - basic video controls
             - navigate
                 - arrows/ arrow keys = 5 sec
-                    - j l = 10 sec
-                        - <> = 1 frame
+                    - `j l` = 10 sec
+                        - `<>` = 1 frame
             - pause
-                - space
-                - k
+                - `space`
+                - `k`
             - toggle full screen
-                - f
+                - `f`
                 - esc also breaks full screen
-            - toggle theater mode
-                - t
-            - toggle mini-player
-                - i
-            - toggle captions
-                  {cc}
-                - c
-                - change opacity with
-                    - o
-                - resize its font with
-                    - = -
+            - toggle theater mode - `t`
+            - toggle mini-player - `i`
+            - toggle captions {cc} - `c`
+                - change opacity with - `o`
+                - resize its font with  `- =`
             - picture in picture player
                 - right click on the video
                     - move your mouse a bit
@@ -39,7 +32,7 @@ mindmap-plugin: basic
                             - now you browse an other website + the video still plays normally
         - comments section
             - add a timestamp in comments
-                - just something like 0:12
+                - just something like `0:12`
                     - now click it
         - three ways to share a video at a specific timestamp
             - first: use the share button with {start at}
@@ -52,7 +45,7 @@ mindmap-plugin: basic
     - shorts page
         - how to convert a short into a normal video
             - just in link bar
-            - replace {shorts} with {watch}]]
+            - replace {`shorts`} with {`watch`}
             - btw the link tells you some useful information
                 - watch = normal video
                 - shorts = short video
@@ -126,7 +119,7 @@ mindmap-plugin: basic
             - firefox
             - edge own extension store
     - shortcuts
-        - [[0-Vimium-extension-for-browsers]]
+        - ![[0-Vimium-extension-for-browsers]]
     - how to disable the shortcuts without actually deleting or disabling the extension
         - just switch to Arabic keyboard input
 - enhancer for youtube extension

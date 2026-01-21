@@ -1,0 +1,14 @@
+- كمواطن، من الأشياء التي تجعل حياتك أسهل هي الحياة /العيش في وطن آمن يسوده الحب والتسامح
+	- As a citizen, one of the things that makes your life easier is living in a safe country where love and tolerance prevail.
+ - ومن الأشياء التي تجعل الحياة أكثر راحة في عصر التقدم والتكنولوجيا هي الموبايلات والآلات الكهربائية والسيارات الحديثة والآلات الحاسبة والتعلم عن بعد والروبوتات
+	- Among the things that make life more comfortable in the age of progress and technology are mobile phones, electrical appliances, modern cars, calculators, distance learning, and robots.
+- فمثلا الهواتف تساعدنا في التواصل مع الآخرين عبر دول العالم المختلفة بلا تعب
+	- For example, phones help us communicate with others across different countries effortlessly.
+- ثانيا الأدوات الكهربائية تساعدنا في تنظيف المنزل وتخفف العبء عن النساء وتسـمح بالاســتمــتاع بأوقاتهن
+	- Secondly, electrical appliances help us clean the house, reduce the burden on women, and allow them to enjoy their time.
+- ثالثا السيارات الحديثة تساعد في التنقل عبر الدول في اي وقت وحسب الحاجة
+	- Thirdly, modern cars help us travel across countries at any time and as needed.
+- رابعا الآلة الحاسبة تساعد في حل المسائل الرياضية الصعبة وتنجز في الوقت
+	- Fourthly, calculators help solve difficult mathematical problems quickly.
+- خامسا التعلم عبر الانترنت يساعدنا كطلاب أن نفهم الدروس بشكل اسرع لنوفر الوقت
+	- Fifthly, online learning helps us, as students, understand lessons faster, saving us time.

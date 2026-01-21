@@ -1,4 +1,5 @@
 [[todo]] , [grad projects](https://drive.google.com/drive/folders/1axtwf4X1hXZrA1S52po6SWfJVf2z_s0l?usp=sharing) 
+[[home-extension]]
 
 - [x] شبكات لاسلكية
 - [ ] تطبيقات الهاتف
@@ -11,6 +12,211 @@ A cinematic photo inside a metallic elevator, with the camera positioned close i
 ```
 
 # listing
+mkdir myproject
+cd !$
+
+the art of unix programming  
+idea a timer with profiles / pages
+الهمزات
+steno keyboar 
+
+
+https://emacs-lsp.github.io/lsp-mode/page/lsp-csharp-omnisharp/
+
+https://github.com/yt-dlp/yt-dlp
+https://github.com/iawia002/lux
+
+mf q alister dash on minion
+mf q and syndra e
+
+
+morde H fiora
+
+
+https://youtube.com/@emacselements?si=GStOVMDys4p_fTOn
+emacs
+
+chain ganking mid
+jg then supp .. or oppo
+
+insert mode
+ctrl e/y insert char below / above
+ctrl g hjkk move 1 step
+ctrl a reinsert last line ?
+
+
+:dig
+ctrl k cH .. heart
+
+secrets calculator app
+
+
+Tiktok another account my new google
+
+autocmd filetype html some remap here
+Vim
+
+autocmd bufenter .*rc colorscheme nord
+autocmd bufenter .*py colorscheme jellybeans 
+Diff colorschemes for diff file types
+
+1 to 15
+Normal mode
+15i1 .. gives 1's
+Visual select 2nd till end then
+g ctrl a
+
+ab/iab someword What it means
+
+cmap w!! w ! sudo tee %
+cmd maps to allow edit the file you didnt open with sudo in the first place
+```
+:earlier 5min
+:later 5min
+
+:.! date
+write date on cursor
+
+Chitchat - Talk to strangers
+https://www.chitchat.gg/
+
+Anarchokapitalismus – Anarchokapitalismus (Urza.cz)
+https://ankap.urza.cz/
+
+https://docs.google.com/spreadsheets/d/16lC9hutxugFT9eOFoVWKrKNpWuAhApshUSDgciphRWA/edit?usp=drivesdk
+
+https://gitlab.com/skybert/my-little-friends/-/blob/master/bash/.bashrc.aliases
+
+Project: SQL Zoo | The Odin Project
+https://www.theodinproject.com/lessons/databases-sql-zoo
+
+zoe nidalee
+
+GitHub - raysan5/raylib: A simple and easy-to-use library to enjoy videogames programming
+https://github.com/raysan5/raylib
+
+https://yiminchinese.teachable.com/l/products?sortKey=name&sortDirection=asc&page=1
+
+https://github.com/chubin/cheat.sh
+
+
+mkdir test && cd $_
+
+ctrl r in bash
+
+du -sh * | sort -h
+
+rsync -ah --progress source/ dest/
+
+`alt .`
+
+watch -n 1 echo "nigga"
+
+rename 's/ /_/g' *.mp3
+
+for i in {1..100}; do
+  printf "\rProgress: %3d%%" "$i"
+  sleep .05
+done
+echo
+
+find . -name "*.tmp" -ok rm {} \;
+
+for f in *; do base64 "$f" > "$f".b64; done
+
+mvb () { mv "$1" "$1".bak; } .. can do better
+
+grep --color=auto -n -C2 "pattern" file
+
+shopt -s autocd .. autocd
+
+mark () { echo "$PWD" > ~/.marks/"$1"; }
+jump () { cd "$(cat ~/.marks/"$1")"; } ..?
+mark proj
+jump proj
+
+notify () { notify-send "Terminal" "$*"; }
+long-task; notify "Done"
+
+alias please='sudo $(fc -ln -1)'
+
+while inotifywait -e modify main.c; do gcc main.c && ./a.out; done
+
+echo "bash magic" | rev
+
+ls | tee >(xclip -selection clipboard)
+
+printf "%s\n" *.mp3 | xargs -P4 -n1 lame
+
+echo -e "\a"
+
+jobs -l
+fg %1
+bg %1
+
+rm -rv --dry-run * .. what?
+
+<space>secret_command
+(HISTCONTROL=ignorespace)
+
+(cd /etc && ls)
+Directory unchanged after
+
+:'<,'>normal @q
+
+<gv
+>gv
+
+"_dd
+
+g;         " older change
+g,         " newer change
+
+:%s//NEW/g
+```
+
+<C-r><C-w>    " insert word under cursor
+<C-f>        " open command-line window (edit history!)
+
+:g/TODO/norm A // done
+
+vim.keymap.set("n", "Q", "@@")
+
+~/org/
+├── inbox.org      ; quick capture
+├── tasks.org      ; actionable tasks
+├── projects.org   ; multi-step stuff
+├── notes.org      ; reference / knowledge
+└── journal.org    ; daily logs
+
+(setq org-agenda-files '("~/org"))
+
+mkdir ~/org
+touch ~/org/tasks.org
+
+;; Enable Org
+(require 'org)
+;; Where my org files live
+(setq org-directory "~/org")
+;; Agenda files
+(setq org-agenda-files (list org-directory))
+;; TODO workflow
+(setq org-todo-keywords
+      '((sequence "TODO(t)" "NEXT(n)" "|" "DONE(d)")))
+;; Keybindings
+(global-set-key (kbd "C-c a") 'org-agenda)
+(global-set-key (kbd "C-c c") 'org-capture)
+
+
+vim /#sometag/ *.*
+copen
+
+q:
+
+hjkl , ctrl ud are not jumps
+
+
+
 - great linux docs
 	- [ ] linux.die.net doc website
 	- [ ] the gnu manuals
@@ -899,7 +1105,6 @@ livecodes.io
 
 
 
-```
 
 ---
 ---
@@ -988,13 +1193,11 @@ proper youtube video cli downloader / script
 
 gnu stow for dotfile management
 
-what is tmux
 
 korean/chinese/arabic fonts
 
 good ways to backup your system { config, dotfiles, scripts, aliases, installed packages } 
 
-qtile mute mic
 
 nerd fonts icons in neovim 
 	works but {somehow icons not showing}
@@ -1013,21 +1216,9 @@ clipboard manager
 	copyq	https://www.youtube.com/watch?v=DhfwWH5N3IA
 	clipmenu	https://www.youtube.com/watch?v=nfPSpkqv0UM
 
-notify-send issue
-
 
 what is obsidian.nvim
-
-nvim  
-  html,css,js setup 
-  script to create them all 
-  snippets in nvim
-  c# & .NET setup nvim
-  cpp setup nvim + snippets
-
-howebrew on linux?
-
 zathura marking
 
 
-[[home-extension]]
+https://github.com/BreadOnPenguins/dots/

@@ -1,6 +1,6 @@
 
 # 1 SQL BASICS
-- [ ] Learn basics of SQL.
+- [x] Learn basics of SQL.
 - [ ] Read about MYSQL vs Postgresql.
 # 2 pick a lang
 - [ ] nodejs

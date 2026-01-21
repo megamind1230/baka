@@ -1,1 +1,1 @@
-- [[Algos-for-interviews]]
+- [[algos-for-interviews]]

@@ -14,7 +14,7 @@
 - [x] [[0-stored-procedure]]
 - [x] functions
 - [x] [[sql-trigger]]
-- [x] [[sql-index]]
+- [x] [[0-sql-index]]
 # intro
 - [x] intro to computer science
 - [x] intro to problem solving
@@ -63,20 +63,20 @@
 - [x] [[0-as-vs-is-operators-in-csharp]]
 # .net
 - [x] [[0-linq-in-csharp]]
-- [ ] generation
-- [ ] quantifier
-- [ ] grouping
-- [ ] partitioning operators
-- [ ] ef core vs dapper vs ado .net
-- [ ] ways for mapping
-- [ ] dbcontext
-- [ ] migration
-- [ ] ef core
-- [ ] relationships
-- [ ] loading types
-- [ ] tracking and no tracking
-- [ ] mvc
-- [ ] apis
+- [x] generation
+- [x] quantifier
+- [x] grouping
+- [x] partitioning operators
+- [x] ef core vs dapper vs ado .net
+- [x] ways for mapping
+- [x] dbcontext
+- [x] migration
+- [x] ef core
+- [x] relationships
+- [x] loading types
+- [x] tracking and no tracking
+- [x] mvc
+- [x] apis
 # final
 - [x] git & github
 - [ ] search for design patterns

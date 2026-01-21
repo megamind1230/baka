@@ -1,3 +1,4 @@
+> actual ass text editor
 # edit
 - `ctrl k` > cut
 - `ctrl u` > paste

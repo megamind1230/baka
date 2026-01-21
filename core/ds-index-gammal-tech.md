@@ -1,4 +1,4 @@
-[[ds-Implementing-Vector]]
+[[ds-implementing-vector]]
 [[ds-dynamic-memory-allocation]]
 [[ds-linked-list-1]]
 [[ds-linked-list-2]]

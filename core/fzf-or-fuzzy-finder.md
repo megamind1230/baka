@@ -1,4 +1,3 @@
-#1
 approx file name searcher
 # not done
 
@@ -16,8 +15,5 @@ approx file name searcher
 	- ctrl n/p
 - can enable multi-select -m {tab/shift tab}
 - `--keep-right`
-
-
-
 # done
 - [x] [Intro to fzf - YouTube](https://www.youtube.com/watch?v=F8dgIPYjvH8)

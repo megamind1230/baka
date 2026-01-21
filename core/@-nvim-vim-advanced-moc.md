@@ -181,5 +181,5 @@ delete selection and replace it with the thing on the clipboard {without losing 
 - [ ] [[0-nvim-vim-folds]]
 - [ ] [[nvim-vim-lsp]]
 - [ ] [[nvim-defaults-while-on-insert-mode-tricks]]
-- [ ] [[nvim-vim-marks-jumps-changes-quickfix-list-and-multi-file-editing]]
+- [ ] [[0-nvim-marks-jumps-changes-quickfix-list-and-multi-file-editing]]
 - [ ] [Vim Awesome](https://vimawesome.com/) cool website listing all vim plugins

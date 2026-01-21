@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "30d5cec127d74014",
+        "id": "e13e90e6e955e4cb",
         "type": "tabs",
         "children": [
           {
-            "id": "d6792bfdc77be73d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/mec-lec16-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "mec-lec16-14"
-            }
-          },
-          {
-            "id": "21caec48ba418860",
+            "id": "897cd5cf7bfe2cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/0-the-one-thing-{ali-mo-ali}-كتاب-الشيء-الوحيد.md",
+                "file": "core/0-simple-how-to-of-pacman-cmds-arch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-the-one-thing-{ali-mo-ali}-كتاب-الشيء-الوحيد"
-            }
-          },
-          {
-            "id": "7439e94223a6d997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/@-youtube-MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@-youtube-MOC"
+              "title": "0-simple-how-to-of-pacman-cmds-arch"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +65,7 @@
             }
           },
           {
-            "id": "e50d91942ae18a77",
+            "id": "1710fa0f9e8f5c98",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -107,7 +76,8 @@
               "title": "Zen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5e029fa968ce6c60",
@@ -133,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 215.5,
     "collapsed": true
   },
   "right": {
@@ -151,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core/@-youtube-MOC.md",
+                "file": "core/0-simple-how-to-of-pacman-cmds-arch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +131,29 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for @-youtube-MOC"
+              "title": "Backlinks for 0-simple-how-to-of-pacman-cmds-arch"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1f210fc409eea953",
+        "type": "tabs",
+        "dimension": 59.759358288770045,
+        "children": [
+          {
+            "id": "f276c9aaf83a1e9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "core/0-simple-how-to-of-pacman-cmds-arch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0-simple-how-to-of-pacman-cmds-arch"
             }
           },
           {
@@ -180,32 +172,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "1f210fc409eea953",
-        "type": "tabs",
-        "dimension": 59.759358288770045,
-        "children": [
-          {
-            "id": "f276c9aaf83a1e9b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "core/@-youtube-MOC.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of @-youtube-MOC"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 224.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,42 +193,47 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7439e94223a6d997",
+  "active": "897cd5cf7bfe2cb3",
   "lastOpenFiles": [
-    "core/0-the-one-thing-{ali-mo-ali}-كتاب-الشيء-الوحيد.md",
-    "core/a-year-on-youtube.md",
-    "core/@-youtube-MOC.md",
-    "core/@-linux-permissions-MOC.md",
-    "core/0-when2meet-determine-the-meeting-date-and-time-with-multiple-persons.md",
-    "core/websites-and-ai-for-x.md",
-    "core/0@-linux-MOC.md",
-    "core/@-qemu-MOC.md",
-    "core/7ittit-7ikmah-{ali-mo-ali}-p1.md",
-    "core/mec-lec16-14.md",
-    "core/7ittit-7ikmah-{ali-mo-ali}-moc.md",
-    "core/7ittit-7ikmah-{ali-mo-ali}-p3.md",
-    "core/7ittit-7ikmah-{ali-mo-ali}-p4.md",
-    "core/7ittit-7ikmah-{ali-mo-ali}-p5.md",
-    "core/7ittit-7ikmah-{ali-mo-ali}-p2.md",
-    "core/0-the-slight-edge-{ali-mo-ali}.md",
-    "core/0-the-little-book-of-talent-{ali-mo-ali}.md",
-    "core/0-taking-critical-decisions-اتخاذ-القرارات-الصعبة-{ali-mo-ali}.md",
-    "core/0-mini-adventures-مغامرات-صغيرة-{ali-mo-ali}.md",
-    "core/mindmap-of-some-reading-topics.md",
-    "core/elzero-css-grid-read-about-auto-fit-and-ch.md",
-    "core/0-xfce4-shortcuts.md",
-    "core/0-why-linux-for-beginners.md",
-    "0-social-info.md",
-    "core/temporary.md",
-    "core/temp2.md",
+    "core/@-archlinux-MOC.md",
+    "core/AUR-with-paru.md",
+    "core/aur-arch-user-repository-with-yay-or-paru.md",
+    "core/temp.md",
+    "core/0-emacs-moc.md",
+    "core/0-emacs-default-shortcuts.md",
+    "core/csharp-dotnet-asp-rondo-dump-moc.md",
+    "core/dependency-injection.md",
+    "core/0-support-items.md",
+    "core/0-a-tiny-geometry-trick-while-cutting-in-audacity.md",
+    "core/0@-obsidian-plugins-MOC.md",
+    "core/obsidian-plugin-{outline-core}.md",
+    "core/0-best-fonts-to-distinguish-between-characters.md",
+    "core/0-nano-shortcuts.md",
+    "core/eng-stu/00-tarjama-vaccine.md",
+    "core/0@-linux-terminal-cmds-or-utilities-MOC.md",
+    "core/dd-cmd.md",
+    "core/0-types-of-plastic-containers.md",
+    "core/@-HOME-moc.md",
+    "core/nvim-vim-issues-moc.md",
+    "core/nvim-intermediate-shortcuts.md",
+    "core/cool-nvim-keymaps.md",
+    "core/pdf-on-linux-and-add-image-to-pdf.md",
+    "core/00-net-sec.md",
+    "core/windows-10-issues.md",
+    "core/0-weird-lua-for-nvim.md",
+    "attachments/Pasted Image 20250515182155_619.png",
+    "Pasted image 20260110205537.png",
+    "Pasted image 20260110205525.png",
+    "Pasted image 20260110205304.png",
+    "Pasted image 20260110205238.png",
+    "Pasted image 20260110205050.png",
+    "Pasted image 20260110205016.png",
+    "Pasted image 20260110204951.png",
+    "Pasted image 20260110204912.png",
+    "Pasted image 20260110204901.png",
     "Untitled.canvas",
-    "Pasted image 20251126102458.png",
     "00-23-11-2025-npm-start-error-and-no-local-host-link.canvas",
-    "Pasted image 20251022184608.png",
     "1st-sec-t1-essays.pdf",
-    "core/eng-stu",
-    "Pasted image 20250905210236.png",
-    "Pasted image 20250905210725.png",
-    "Pasted image 20250912082953.png"
+    "core/eng-stu"
   ]
 }

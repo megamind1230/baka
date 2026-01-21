@@ -1,6 +1,6 @@
 - [x] [[0-anonymous-obj-and-func-vs-dto]]
 > used primarily for temporary data holding
-
+> making use of  `var` keyword
 
 1. Projections in LINQ to SQL/Entity Framework
 ```csharp

@@ -1,0 +1,19 @@
+# no plugins
+```
+# vol
+volume=130
+# Scale to exactly 2x
+window-scale=2
+
+# Disable automatic aspect ratio maintenance for window
+keepaspect-window=yes
+
+# Center the window on screen
+geometry=50%:50%
+
+# speed
+speed=1.33
+
+# no window decoration
+no-border
+```

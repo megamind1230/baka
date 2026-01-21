@@ -1,4 +1,5 @@
-#1
+> most of these things only work on desktop Discord app 
+> {not the mobile version}
 # in-{text area} markdown
 ![[0-markdown-in-discord]]
 # [37 Best Discord Keyboard Shortcuts You Must Know - Guiding Tech](https://www.guidingtech.com/discord-keyboard-shortcuts/)

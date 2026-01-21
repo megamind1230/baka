@@ -194,75 +194,22 @@ sum == X/282
 
 # tables
 ## daily
-==12-12-2025==
+==26-12-2025==
 
 | TOPIC4    | seif | ahmad | kareem | haneen |
 | --------- | ---- | ----- | ------ | ------ |
-| word      | 6    | 4     | 7      | 11     |
-| sentences | 6    | 4     | 7      | 9      |
-| cards     | 14   | 4     | 6      | 11     |
-| ZAE       | 4    | 4     | 5      | 6      |
+| word      | 23   | 19    | 23     | 30     |
+| sentences | 21   | 19    | 22     | 30     |
+| cards     | 14   | 5     | 8      | 13     |
+| ZAE       | 4    | 4     | 5      | 9      |
 | talking   | 0    | 0     | 0      | 0      |
-| 3:12      | 8    | 7     | 9      | 4      |
+| 3:12      | 30   | 30    | 30     | 30     |
 ## weekly 
 
 | TOPIC4    | seif | ahmad | kareem | haneen |
 | --------- | ---- | ----- | ------ | ------ |
 | recap     | 0    | 0     | 0      | 0      |
-| 30 vocabs | 34   | 3.5   | 14     | 53.5   |
-| question  | 25   | 6     | 26     | 10     |
+| 30 vocabs | 61.5 | 9     | 29     | 53.5   |
+| question  | 35   | 53    | 46     | 217    |
 | essay     | 2    | 2     | 2      | 2      |
-| ==Σ==     | 0    | 0     | 0      | 0      |
-
-
-# template
-deadline ==> 09-12-2025
-- daily word ==> trouble
-- 3 sentences on ==>   - The Best Advice You've Received
-- 1 ZAE video
-- read this essay ==> finish the pdf
- ---
-
-- deadline ==> 10-12-2025
-- daily word ==>similar
-- 3 sentences on ==>  - The Feeling of Sand Between Your Toes
-- 1 ZAE video
-- read this essay ==> finish the pdf
- ---
-
-- deadline ==> 11-12-2025
-- daily word ==>reverse
-- 3 sentences on ==>  - A Locked Door
-- 1 ZAE video
-- read this essay ==> finish the pdf
- ---
-
-
-- deadline ==> 13-12-2025
-- daily word ==>skate
-- 3 sentences on ==>  --  **The Benefits of Learning a New Skill**
-    - Picking up a new skill, at any age, forges fresh neural pathways in the brain. It fosters humility by reminding you what it's like to be a beginner. The process itself is often more rewarding than the final outcome.
-
- 1 ZAE video
-- read this essay ==> finish the pdf
- ---
-- deadline ==> 14-12-2025
-- daily word ==>expertise
-- 3 sentences on ==>  -  **The Power of Listening**
-    - True listening is an act of generosity, requiring full presence rather than just waiting to speak. It makes others feel valued, understood, and less alone in their experiences. In a noisy world, the simple gift of your attention is incredibly rare and powerful.
-- 1 ZAE video
-- read this essay ==> finish the pdf
- ---
-- deadline ==> 15-12-2025
-- daily word ==>agency
-- 3 sentences on ==>   -  **The Joy of a Morning Routine**
-    - A consistent morning routine sets a positive tone for the entire day. It provides a sense of control and calm before the world's demands intrude. Whether it's meditation, coffee, or a quick walk, this small ritual is a powerful act of self-care.
-- 1 ZAE video
-- read this essay ==> finish the pdf
- ---
-- deadline ==> 16-12-2025
-- daily word ==>bounce
-- 3 sentences on ==>-  **A Favorite Childhood Memory**
-    - I vividly remember the scent of my grandmother's kitchen on baking days. The warmth of the oven and the sound of her humming created a sanctuary of safety and love. That memory remains a touchstone of pure, uncomplicated joy.
-- 1 ZAE video
-- read this essay ==> finish the pdf
+| ==Σ==     | 190.5    | 141     | 165      | 384.5      |

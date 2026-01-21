@@ -1,6 +1,5 @@
-- book : the design of everyday things
-# websites for
-
+- book 
+	- the design of everyday things
 - wallpaper resource
 	- https://www.uhdpaper.com/
 - colors 
@@ -39,5 +38,5 @@
 - enhance blurry pic
 	- letsenhance , remini
 - bg remover 
-	-  [Remove Background from Image for Free – remove.bg](https://www.remove.bg/) 
+	- [Remove Background from Image for Free – remove.bg](https://www.remove.bg/) 
 	- [Free powerful photo editing tools online | PhotoRoom](https://www.photoroom.com/tools)

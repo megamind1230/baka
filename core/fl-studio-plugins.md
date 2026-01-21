@@ -1,4 +1,3 @@
-#1
 # priceless help
 ## telegram captcha
 ![[Pasted-image-20230802175738.png]]

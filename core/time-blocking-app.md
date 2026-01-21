@@ -1,5 +1,6 @@
 #todo
-- [ ] make a gimp design
+- [x] make a gimp design
+	- `/mnt/hdd/gimps/time-blocking-template.png`
 
 - [ ] عايز اعمل فكرة تطبيق time blocking
 بحيث تدخل انت اسم المهمة والتوقيت من إلي

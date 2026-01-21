@@ -1,4 +1,3 @@
-#1
 [FASTEST Way to Learn Web Development and ACTUALLY Get a Job (youtube.com)](https://www.youtube.com/watch?v=C-EHoNfkoDM&list=WL&index=5&t=393s)
 - frontend
 	- do all w3 schools problems on html , css , js

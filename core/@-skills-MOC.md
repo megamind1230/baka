@@ -1,12 +1,14 @@
-## indurement
+## must have
 - [x] [[0-fitness-and-calisthenics]]
-- [ ] [[books-moc]]
-- [x] [[00-recapping-some-video-course-lecture-book]]
 - [x] [[studying-methods-moc| study and note-taking]]
+- [x] [[0-how-to-summarize-or-recap-videos-lectures-lesson-books-the-topics-you-study]]
 - [x] [[0-active-listening]]
-- [ ] [[time-blocking-app]]
+- [x] [[0-the-falocn-framework]]
 - [x] [[0-how-to-wake-up-properly-from-sleep-and-causes-of-face-puffiness-in-the-morning]]
+- [x] [[0-how-to-link-to-a-specific-part-in-a-youtube-video]]
 - [ ] [[prompt-engineering-moc]]
+- [ ] [[books-moc]]
+- [ ] [[time-blocking-app]]
 
 ## OS
 - [x] [[0-windows-10-shortcuts|windows]]
@@ -15,7 +17,7 @@
 - [x] [[0-touch-typing]]
 - [x] [[0-google-dorks]]
 - [x] [[0-autohotkey-(AHK)-windows]]
-- [x] [[@-nvim-vim-moc]]
+- [x] [[@-nvim-moc]]
 
 ## long term mentality
 - [x] [[atomic-habits]]
@@ -29,6 +31,7 @@
 ## connect
 - [x] languages
 	- english
+		- [x] [[0-offline-dict-for-linux]]
 		- [x] ZAE
 		- [x] [Mind Your Language MYL- YouTube](https://www.youtube.com/@mindyourlanguage4359/videos)
 		- [x] [[@-anki-moc]]
@@ -59,6 +62,8 @@
 - [ ] herbal knowledge
 - [ ] diet balancing
 - [ ] fasting
+- [ ] [[0-why-some-ppl-have-dry-chapped-lips]]
+- [ ] [[0-types-of-plastic-containers]]
 
 # kitchen
 - [ ] tea, coffee

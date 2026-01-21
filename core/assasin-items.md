@@ -1,4 +1,3 @@
-#1
 - mythic
 	- duskblade > more damage to n with low health + stealth on takedowns
 	- eclipse > deal damage 2 times to get bonus ad scaling with n health + MS + shield

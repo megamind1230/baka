@@ -1,4 +1,3 @@
-#1
 [A guide to Markdown on Discord. · GitHub](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
 so close to obsidian markdown
 # most used & most important

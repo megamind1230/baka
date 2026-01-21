@@ -1,4 +1,3 @@
-#1
 - `publish in subscribers feed and nofity them`
 	- bad if you make unrelated videos /a video which content slightly differs from the whole channel's theme 
 		- eg: star wars channels > uploading about spider man

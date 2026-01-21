@@ -4,4 +4,4 @@
 		- and volume with wheel or 9/0
 		- frames `./,`
 - but no playlists .. just a single video
-- [ ] [[mpv-config-and-plugins]]
+- [x] [[0-my-mpv-config-and-plugins]]

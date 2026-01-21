@@ -1,7 +1,4 @@
-
 # Solution for Assignment in C#
-
-
 ## Proj_1 
 - [x] 
 ```csharp
@@ -151,5 +148,4 @@ namespace P_two
     }
 }
 ```
-
-[[0-learn-csharp]]
+- [x] [[0-learn-csharpin-y-minutes]]

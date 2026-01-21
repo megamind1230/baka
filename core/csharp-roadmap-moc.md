@@ -22,7 +22,8 @@ MVC ITI ، API ITI مهندسه كريستين
 - [M4Shenawy1702/OnionApiTemplate: 🧅 OnionApiTemplate – Clean Architecture ASP.NET Core Web API Template](https://github.com/M4Shenawy1702/OnionApiTemplate)
 # projects
 - [x] [[0-repo-kalutu-csharp-for-everybody]]
-- [x] [[0-learn-csharp]]
+- [x] [[0-learn-csharpin-y-minutes]]
 - [ ] [[tim-corey-csharp-tournament-tracker]]
 - [ ] [[csharp-training-by-ms-or-microsoft]]
 # dirty code refining or remodeling
+# [[csharp-dotnet-asp-rondo-dump-moc]]

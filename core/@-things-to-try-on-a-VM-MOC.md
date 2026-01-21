@@ -13,7 +13,7 @@
 	- really not that worth
 	- vimium extension on any browser is as good as qutebrowser
 - [x] aur on arch
-	- [x] [[AUR-{Arch-User-Repository}-with-yay]]
+	- [x] [[aur-arch-user-repository-with-yay-or-paru]]
 - [x] vimrc inside obsidian
 - [ ] vscode vim
 # not done
@@ -38,7 +38,7 @@
 - [ ] [[pdf-on-linux-and-add-image-to-pdf#some pdf recommendations|pdf stuff]]
 - [ ] emacs
 - [ ] krita
-- [ ] [[@-obsidian-plugins-moc]]
+- [ ] [[0@-obsidian-plugins-MOC]]
 - [ ] kdenlive rendering options
 	- [ ] scripting?
 - [ ] download anki

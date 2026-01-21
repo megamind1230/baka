@@ -4,7 +4,7 @@
 - [ ] [[0-obsidian-search-a-deeper-dive]]
 - [ ] [[@-mocs-or-maps-of-content-and-how-to-use-it]]
 - [ ] [[more-md-formatting]]
-- [ ] [[@-obsidian-plugins-moc]]
+- [ ] [[0@-obsidian-plugins-MOC]]
 - [ ] [[0-zettelkasten or ZK]]
 - [ ] [[@-obsidian-issues-moc]]
 - [ ] [[markdownlint]]

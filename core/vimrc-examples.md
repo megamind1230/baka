@@ -1,7 +1,4 @@
 [GitHub - abdalrahmanshaban0/Vim-for-CP: My vim configuration to write and run C/C++ code for competitive programming or any thing similar.](https://github.com/abdalrahmanshaban0/Vim-for-CP)
-
-
-
 # .vimrc general template
 ```lua
 set mouse   =a

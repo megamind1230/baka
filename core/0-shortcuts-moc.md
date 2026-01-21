@@ -3,7 +3,7 @@
 - [x] [[0-nano-shortcuts]]
 - [x] [[0-discord-shortcuts]]
 - [x] [[0-my-shortcuts-on-ubuntu-(on-super-key)]]
-- [x] [[0-FancyWM-(a-tiling-WM)-for-windows-10-shortcuts]]
+- [x] [[0-FancyWM-a-tiling-WM-for-windows-10-shortcuts]]
 # not done
 - [ ] [[notion-shortcuts]]
 - [ ] [[vscode-default-shortcuts]]

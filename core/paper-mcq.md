@@ -1,0 +1,766 @@
+### **1. IoT & DDoS Basics**
+**1. What does IoT stand for?**
+a) Internet of Technology
+b) Internet of Things
+c) Internal Online Tools
+d) Integrated Object Transfer
+✅ **Answer: b**
+**2. Why are IoT networks attractive targets for DDoS attacks?**
+a) Strong encryption
+b) Limited devices
+c) Weak security and large scale
+d) Low connectivity
+✅ **Answer: c**
+**3. Which DDoS attack exploits TCP handshake?**
+a) UDP Flood
+b) ICMP Flood
+c) SYN Flood
+d) HTTP Flood
+✅ **Answer: c**
+**4. Which attack keeps connections open using partial HTTP requests?**
+a) TCP Flood
+b) SlowLoris
+c) PSHACK Flood
+d) ACK Flood
+✅ **Answer: b**
+**5. ICMP Flood mainly consumes:**
+a) Memory
+b) Storage
+c) Bandwidth and CPU
+d) Disk space
+✅ **Answer: c**
+---
+### **2. SDN Fundamentals**
+**6. SDN separates which two planes?**
+a) Physical & Virtual
+b) Control & Data
+c) Network & Transport
+d) User & Kernel
+✅ **Answer: b**
+**7. Main advantage of SDN in IoT networks is:**
+a) Static routing
+b) Centralized control
+c) Manual configuration
+d) Hardware dependency
+✅ **Answer: b**
+**8. The SDN controller is considered:**
+a) The muscle
+b) The memory
+c) The brain
+d) The firewall
+✅ **Answer: c**
+**9. Which SDN architecture suffers from single point of failure?**
+a) Distributed SDN
+b) Multi-controller SDN
+c) Single-controller SDN
+d) Hybrid SDN
+✅ **Answer: c**
+**10. Multi-controller SDN improves:**
+a) Cost
+b) Redundancy and fault tolerance
+c) Packet loss
+d) Latency only
+✅ **Answer: b**
+---
+### **3. OpenFlow**
+**11. OpenFlow is a protocol between:**
+a) Applications and users
+b) Switches and switches
+c) Controller and switches
+d) Routers and firewalls
+✅ **Answer: c**
+**12. When a packet does not match any rule, the switch sends:**
+a) Packet_Out
+b) Flow_Mod
+c) Packet_In
+d) Echo_Request
+✅ **Answer: c**
+**13. Which timeout removes a flow after inactivity?**
+a) Hard timeout
+b) Idle timeout
+c) Static timeout
+d) Dynamic timeout
+✅ **Answer: b**
+**14. Hard timeout means:**
+a) Depends on traffic
+b) Never expires
+c) Expires after fixed time
+d) Expires manually
+✅ **Answer: c**
+**15. Flow_Mod messages are used to:**
+a) Collect statistics
+b) Install or modify rules
+c) Encrypt traffic
+d) Reset switches
+✅ **Answer: b**
+**16. OpenFlow messages are divided into how many main groups?**
+a) 2
+b) 3
+c) 4
+d) 5
+✅ **Answer: b**
+---
+### **4. P4 Language**
+**17. P4 stands for:**
+a) Packet Processing Protocol
+b) Programming Protocol-Independent Packet Processors
+c) Parallel Packet Platform
+d) Programmable Port Protocol
+✅ **Answer: b**
+**18. P4 mainly programs which plane?**
+a) Control plane
+b) Application plane
+c) Data plane
+d) Management plane
+✅ **Answer: c**
+**19. The P4 parser is responsible for:**
+a) Dropping packets
+b) Encrypting payloads
+c) Extracting headers
+d) Sending packets
+✅ **Answer: c**
+**20. Which P4 component reconstructs packets before leaving the switch?**
+a) Parser
+b) Ingress
+c) Egress
+d) Deparser
+✅ **Answer: d**
+**21. Match-action tables are applied in:**
+a) Parser
+b) Ingress
+c) Deparser
+d) Cloud
+✅ **Answer: b**
+**22. P4 compilers translate code for:**
+a) Cloud servers
+b) User applications
+c) Specific switch hardware
+d) Operating systems
+✅ **Answer: c**
+---
+### **5. Security in SDN & IoT**
+**23. Main SDN security risk due to centralization:**
+a) Latency
+b) Packet duplication
+c) Single point of failure
+d) Congestion
+✅ **Answer: c**
+**24. Secure channel between controller and switches uses:**
+a) FTP
+b) HTTP
+c) TLS
+d) UDP
+✅ **Answer: c**
+**25. Northbound APIs allow:**
+a) Switch-to-switch communication
+b) Controller-to-switch communication
+c) Applications to interact with controller
+d) User authentication
+✅ **Answer: c**
+**26. Southbound APIs are used for:**
+a) Application development
+b) Controller-to-switch communication
+c) Data storage
+d) User access
+✅ **Answer: b**
+---
+### **6. Machine Learning & Detection**
+**27. ML is used in SD-IoT mainly to:**
+a) Increase latency
+b) Detect anomalies and attacks
+c) Encrypt packets
+d) Replace controllers
+✅ **Answer: b**
+**28. Feature selection helps ML by:**
+a) Increasing noise
+b) Reducing accuracy
+c) Improving detection accuracy
+d) Removing traffic
+✅ **Answer: c**
+**29. Which is a flow-based feature?**
+a) Payload content
+b) Packet checksum
+c) Packets per second
+d) MAC address
+✅ **Answer: c**
+**30. Why offload ML to cloud?**
+a) Increase delay
+b) Reduce controller workload
+c) Eliminate switches
+d) Replace SDN
+✅ **Answer: b**
+---
+### **7. Proposed Framework Concepts**
+**31. DPDM stands for:**
+a) Dynamic Packet Data Model
+b) Data-Plane-Based Dynamic Monitoring
+c) Distributed Packet Detection Module
+d) Dynamic Protection Data Mechanism
+✅ **Answer: b**
+**32. DTW improves detection by:**
+a) Fixed window size
+b) Static thresholds
+c) Dynamic window adjustment
+d) Manual inspection
+✅ **Answer: c**
+**33. Purpose of deception-based strategy:**
+a) Block all traffic
+b) Encrypt packets
+c) Divert attackers to decoy network
+d) Disable IoT devices
+✅ **Answer: c**
+**34. HDMC architecture mainly improves:**
+a) Cost
+b) Single controller usage
+c) Resilience and scalability
+d) Packet size
+✅ **Answer: c**
+**35. DDM module is responsible for:**
+a) Feature extraction
+b) Adaptive mitigation
+c) Packet parsing
+d) Dataset creation
+✅ **Answer: b**
+---
+### **8. Advanced Concepts**
+**36. ASDA metric measures:**
+a) Attack speed
+b) Detection delay
+c) Accuracy stability across attacks
+d) Packet loss
+✅ **Answer: c**
+**37. Static windowing drawback:**
+a) Adaptive
+b) Flexible
+c) Misses traffic changes
+d) Real-time
+✅ **Answer: c**
+**38. Dynamic windowing adapts based on:**
+a) Time only
+b) Packet payload
+c) Traffic behavior
+d) Encryption level
+✅ **Answer: c**
+**39. Which attack uses spoofed RST/FIN packets?**
+a) SYN Flood
+b) RSTFIN Flood
+c) ICMP Flood
+d) UDP Flood
+✅ **Answer: b**
+**40. PSHACK Flood mainly targets:**
+a) Storage
+b) Immediate packet processing
+c) Encryption
+d) Routing tables
+✅ **Answer: b**
+---
+### **9. OpenFlow & P4 Integration**
+**41. Packet_In is an example of:**
+a) Synchronous message
+b) Asynchronous message
+c) Control message
+d) Legacy message
+✅ **Answer: b**
+**42. Flow_Removed message indicates:**
+a) New rule installed
+b) Switch reboot
+c) Rule expiration or removal
+d) Packet dropped
+✅ **Answer: c**
+**43. Flow tables match packets based on:**
+a) Payload only
+b) Header fields
+c) User ID
+d) File size
+✅ **Answer: b**
+**44. Deparser ensures packets have:**
+a) Encrypted payload
+b) Proper headers
+c) No metadata
+d) Reduced size
+✅ **Answer: b**
+**45. P4 improves IoT efficiency by enabling:**
+a) Offline processing
+b) In-network processing
+c) Manual routing
+d) Fixed protocols
+✅ **Answer: b**
+---
+### **10. Final Mixed Questions**
+**46. Which protocol OpenFlow lacks flexibility compared to P4?**
+a) UDP
+b) IP
+c) OpenFlow itself
+d) TLS
+✅ **Answer: c**
+**47. Which feature helps detect SYN floods?**
+a) Flow entropy
+b) SYN count
+c) Device type
+d) Application name
+✅ **Answer: b**
+**48. Cloud-based ML mainly improves:**
+a) Power usage
+b) Scalability
+c) Packet loss
+d) Routing loops
+✅ **Answer: b**
+**49. In SDN, initial flow tables are:**
+a) Full
+b) Empty
+c) Random
+d) Cached
+✅ **Answer: b**
+**50. Which is NOT a DDoS attack type?**
+a) UDP Flood
+b) ICMP Flood
+c) SQL Injection
+d) SYN Flood
+✅ **Answer: c**
+---
+### **Bonus (51–60)**
+**51. Which layer extracts features in the framework?**
+a) Cloud
+b) Controller
+c) P4 Switch
+d) User device
+✅ **Answer: c**
+**52. Kafka is used for:**
+a) Packet forwarding
+b) Feature collection
+c) Encryption
+d) Routing
+✅ **Answer: b**
+**53. AMQP is used between:**
+a) Switches
+b) Cloud and controller
+c) Users and apps
+d) Routers
+✅ **Answer: b**
+**54. Which mitigation action reduces traffic rate?**
+a) Packet cloning
+b) Rate limiting
+c) Encryption
+d) Fragmentation
+✅ **Answer: b**
+**55. Which attack exploits UDP fragmentation?**
+a) SYN Flood
+b) UDP Fragmentation
+c) ICMP Flood
+d) HTTP Flood
+✅ **Answer: b**
+**56. What ensures continuous adaptation in mitigation?**
+a) Static rules
+b) Fixed thresholds
+c) Continuous monitoring
+d) Manual updates
+✅ **Answer: c**
+**57. ML ensemble models are used to:**
+a) Reduce accuracy
+b) Combine classifiers
+c) Remove features
+d) Encrypt data
+✅ **Answer: b**
+**58. CICIoT2023 dataset is:**
+a) General network dataset
+b) Cloud-only dataset
+c) IoT-specific dataset
+d) Wireless dataset
+✅ **Answer: c**
+**59. Which component sends alerts to controllers?**
+a) P4 parser
+b) DDM module
+c) Deparser
+d) Switch port
+✅ **Answer: b**
+**60. Main goal of the proposed framework:**
+a) Increase traffic
+b) Prevent routing
+c) Detect and mitigate DDoS attacks
+d) Replace IoT devices
+✅ **Answer: c**
+### **Section 3.4 – MT-EDD (Detection)**
+**1. MT-EDD mainly combines:**
+a) Single-task learning only
+b) Ensemble learning only
+c) Ensemble learning and multi-task learning
+d) Deep learning only
+✅ **Answer: c**
+**2. Which classifiers are used in the MT-EDD ensemble?**
+a) SVM, KNN, CNN
+b) Random Forest, Decision Tree, XGBoost
+c) Naive Bayes, CNN, RNN
+d) Logistic Regression only
+✅ **Answer: b**
+**3. The meta-learner used in MT-EDD is:**
+a) Decision Tree
+b) Random Forest
+c) MLP
+d) XGBoost
+✅ **Answer: c**
+**4. Role of the meta-learner is to:**
+a) Replace classifiers
+b) Combine predictions and confidence scores
+c) Extract packet headers
+d) Perform mitigation
+✅ **Answer: b**
+**5. Which dataset is used as the main historical dataset?**
+a) CICIDS2018
+b) CICDDoS2019
+c) CICIoT2023
+d) KDD99
+✅ **Answer: c**
+---
+### **Data Preprocessing**
+**6. Missing values are handled using:**
+a) Deletion
+b) Median imputation
+c) Mean imputation
+d) Random filling
+✅ **Answer: c**
+**7. Feature selection in MT-EDD uses:**
+a) PCA only
+b) Mutual information
+c) Correlation only
+d) Random selection
+✅ **Answer: b**
+**8. Sequential feature selection helps to:**
+a) Increase features
+b) Remove all features
+c) Select most relevant features
+d) Encrypt data
+✅ **Answer: c**
+**9. Feature fusion combines:**
+a) Only P4 features
+b) Only CICIoT2023 features
+c) Historical + real-time features
+d) Encrypted traffic only
+✅ **Answer: c**
+**10. Standardization ensures:**
+a) Features are binary
+b) Mean = 1, Std = 0
+c) Mean = 0, Std = 1
+d) Features are removed
+✅ **Answer: c**
+---
+### **Class Imbalance Handling**
+**11. Class imbalance mainly causes:**
+a) Faster training
+b) Bias toward frequent classes
+c) Better accuracy
+d) Lower memory usage
+✅ **Answer: b**
+**12. Which technique handles under-represented attacks?**
+a) Random under-sampling
+b) SMOTE
+c) Feature removal
+d) Thresholding
+✅ **Answer: b**
+**13. Over-represented classes are handled using:**
+a) Over-sampling
+b) Random under-sampling
+c) SMOTE
+d) Feature fusion
+✅ **Answer: b**
+**14. Why is resampling important?**
+a) To increase traffic
+b) To balance class distribution
+c) To reduce accuracy
+d) To remove attacks
+✅ **Answer: b**
+---
+### **Model Training**
+**15. Each classifier in MT-EDD:**
+a) Detects all attacks equally
+b) Is randomly trained
+c) Specializes in certain attack types
+d) Is not trained
+✅ **Answer: c**
+**16. Meta-learner is trained using:**
+a) Raw traffic only
+b) Switch rules
+c) Classifier predictions + true labels
+d) Mitigation actions
+✅ **Answer: c**
+**17. Confidence estimator is used to:**
+a) Drop packets
+b) Prioritize reliable classifiers
+c) Replace meta-learner
+d) Increase latency
+✅ **Answer: b**
+**18. Hyperparameter tuning uses:**
+a) Grid search only
+b) Manual tuning
+c) Randomized search
+d) No tuning
+✅ **Answer: c**
+---
+### **Attack Detection Phase**
+**19. Feature extraction is done by:**
+a) Cloud only
+b) Controller
+c) P4 switches
+d) Meta-learner
+✅ **Answer: c**
+**20. Ensemble prediction generates:**
+a) Only labels
+b) Only probabilities
+c) Predictions + confidence scores
+d) Mitigation actions
+✅ **Answer: c**
+**21. Final classification depends on:**
+a) Random choice
+b) Threshold comparison
+c) Packet size
+d) IP address
+✅ **Answer: b**
+**22. Advantage of weighted prediction:**
+a) Faster packet forwarding
+b) Better robustness
+c) Reduced features
+d) Static behavior
+✅ **Answer: b**
+---
+### **Model Adaptation**
+**23. Model adaptation is triggered when:**
+a) Accuracy increases
+b) Accuracy drops > 5%
+c) Traffic stops
+d) Controller fails
+✅ **Answer: b**
+**24. Performance is monitored over a:**
+a) 1-minute window
+b) 10-second window
+c) 5-second window
+d) 1-hour window
+✅ **Answer: c**
+**25. Weight adjustment complexity is:**
+a) O(n²)
+b) O(log n)
+c) O(n)
+d) O(1)
+✅ **Answer: c**
+**26. Retraining uses:**
+a) Full dataset
+b) Offline retraining
+c) Mini-batch gradient descent
+d) Manual labeling
+✅ **Answer: c**
+**27. Retraining is performed:**
+a) On switches
+b) On controller
+c) On cloud server
+d) On IoT devices
+✅ **Answer: c**
+---
+### **Section 3.5 – DDM (Mitigation)**
+**28. DDM stands for:**
+a) Distributed Detection Model
+b) Dynamic DDoS Mitigation
+c) Data-Driven Monitoring
+d) Dynamic Detection Mechanism
+✅ **Answer: b**
+**29. DDM operates as:**
+a) One-time process
+b) Batch system
+c) Continuous loop
+d) Offline module
+✅ **Answer: c**
+**30. Initialization phase sets:**
+a) Encryption keys
+b) Baseline system configuration
+c) Packet headers
+d) Dataset labels
+✅ **Answer: b**
+---
+### **Detection & Isolation**
+**31. detect_attack() identifies:**
+a) Packet size only
+b) Attack type, intensity, components
+c) User behavior
+d) Encryption method
+✅ **Answer: b**
+**32. isolate_network() aims to:**
+a) Stop all traffic
+b) Protect unaffected segments
+c) Increase latency
+d) Disable controllers
+✅ **Answer: b**
+**33. Alerts are sent using:**
+a) HTTP
+b) FTP
+c) TCC
+d) UDP
+✅ **Answer: c**
+---
+### **Adaptive Mitigation**
+**34. select_mitigation() considers:**
+a) Packet color
+b) Attack severity and prediction
+c) User location
+d) File size
+✅ **Answer: b**
+**35. distribute_mitigation() leverages:**
+a) Single controller
+b) Multi-controller setup
+c) Cloud only
+d) Switch memory
+✅ **Answer: b**
+**36. enforce_mitigation() is applied on:**
+a) Controllers
+b) Cloud
+c) P4 switches
+d) IoT sensors
+✅ **Answer: c**
+**37. Example mitigation action:**
+a) Packet encryption
+b) Rate limiting
+c) Feature extraction
+d) Parsing
+✅ **Answer: b**
+---
+### **Evaluation & Logging**
+**38. evaluate_mitigation() checks:**
+a) Dataset size
+b) Mitigation effectiveness
+c) Training accuracy
+d) Feature entropy
+✅ **Answer: b**
+**39. update_mitigation() is triggered when:**
+a) Attack persists or evolves
+b) Network is idle
+c) Traffic is normal
+d) Dataset is full
+✅ **Answer: a**
+**40. log_metrics() helps in:**
+a) Dropping packets
+b) Future system improvement
+c) Encryption
+d) Routing
+✅ **Answer: b**
+---
+### **Advantages & Integration**
+**41. DDM’s main strength is:**
+a) Static behavior
+b) Adaptive response
+c) Manual control
+d) Single controller
+✅ **Answer: b**
+**42. Distributed mitigation improves:**
+a) Single point of failure
+b) Resilience
+c) Packet size
+d) Latency only
+✅ **Answer: b**
+**43. MT-EDD acts as:**
+a) Response system
+b) Brain of detection
+c) Packet forwarder
+d) Switch manager
+✅ **Answer: b**
+**44. DDM acts as:**
+a) Dataset generator
+b) Brain
+c) Response system
+d) Feature extractor
+✅ **Answer: c**
+---
+### **Combined Understanding**
+**45. MT-EDD output feeds into:**
+a) P4 parser
+b) DDM module
+c) Feature selection
+d) Dataset cleaning
+✅ **Answer: b**
+**46. Why cloud is used for ML tasks?**
+a) Increase traffic
+b) Reduce edge workload
+c) Replace SDN
+d) Encrypt data
+✅ **Answer: b**
+**47. Multi-task learning improves:**
+a) Cost only
+b) Specialization per attack type
+c) Packet size
+d) Routing speed
+✅ **Answer: b**
+**48. Confidence scores help in:**
+a) Packet dropping
+b) Decision reliability
+c) Data collection
+d) Encryption
+✅ **Answer: b**
+---
+### **Final Questions**
+**49. Main goal of MT-EDD:**
+a) Traffic routing
+b) Accurate DDoS detection
+c) Packet parsing
+d) Encryption
+✅ **Answer: b**
+**50. Main goal of DDM:**
+a) Feature extraction
+b) Adaptive attack mitigation
+c) Dataset creation
+d) Controller replacement
+✅ **Answer: b**
+**51. Continuous monitoring ensures:**
+a) Static defense
+b) Rapid response
+c) Manual updates
+d) Offline analysis
+✅ **Answer: b**
+**52. Multi-controller architecture avoids:**
+a) Load balancing
+b) Single point of failure
+c) Feature extraction
+d) Classification
+✅ **Answer: b**
+**53. Prediction models help DDM to:**
+a) Detect past attacks only
+b) Anticipate attack trends
+c) Encrypt packets
+d) Route traffic
+✅ **Answer: b**
+**54. Which component enforces mitigation physically?**
+a) Cloud
+b) Controller
+c) P4 switch
+d) Meta-learner
+✅ **Answer: c**
+**55. MT-EDD adaptation minimizes:**
+a) Accuracy
+b) Network overhead
+c) Effectiveness
+d) Scalability
+✅ **Answer: b**
+**56. DDM decision-making is:**
+a) Random
+b) Static
+c) Data-driven
+d) Manual
+✅ **Answer: c**
+**57. Ensemble learning improves:**
+a) Single-model bias
+b) Robustness and accuracy
+c) Packet size
+d) Encryption
+✅ **Answer: b**
+**58. Logging is useful for:**
+a) Dropping packets
+b) Offline analysis and tuning
+c) Feature removal
+d) Parsing
+✅ **Answer: b**
+**59. MT-EDD + DDM together provide:**
+a) Detection only
+b) Mitigation only
+c) Full defense lifecycle
+d) Routing optimization
+✅ **Answer: c**
+**60. Overall system is best described as:**
+a) Static and manual
+b) Centralized only
+c) Intelligent, adaptive, and resilient
+d) Hardware-based only
+✅ **Answer: c**

@@ -1,4 +1,3 @@
-#1
 in c we don't have vectors .. but we have malloc & calloc & realloc
 ```cpp
 #include <bits/stdc++.h>

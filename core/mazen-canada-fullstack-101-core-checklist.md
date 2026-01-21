@@ -1,5 +1,3 @@
-#1
-
 # 1 internet
 - [x] [How does the computer work?](https://www.educative.io/blog/beginners-guide-to-computers-and-programming)
 - [x] [how does the internet works](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)

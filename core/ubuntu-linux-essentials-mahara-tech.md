@@ -80,7 +80,7 @@
 		- shows fields 1,6 from passwd file .. knowing that the delimiter is `:`
 	- [[0-grep-command]]
 - [x] [CH11\_VID03\_sort Command - YouTube](https://www.youtube.com/watch?v=li5Nc1T5upY&ab_channel=MaharaTech-ITIMOOCA)
-	- [[0-sort-command]]
+	- [[0-sort-cmd]]
 
 ## ch12
 - [x] [CH12\_VID01\_Inodes - YouTube](https://www.youtube.com/watch?v=dk6cVN8LTiE&ab_channel=MaharaTech-ITIMOOCA)

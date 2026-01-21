@@ -1,5 +1,4 @@
 - [x] [[0-anonymous-type]]
-- [x] [[DTO-in-csharp]]
 
 ## Comparison Table
 >DTO >  Data Transfer Objects

@@ -22,9 +22,11 @@ session > tab > split / window > buff
 	- [x] `:vs name` > vert split {***versus***}
 	- [x] `ctrl ww` or `ctrl w{hjkl}`
 		- [x] `ctrl w{HJKL}` > move split
+			- [x] to be full width or height
 		- [x] `ctrl w</>` > resize slowly
 			- [x] `ctrl w+/-` > resize for hori
 			- [x] `ctrl w=` > reset
+	- [x] ctrl + wx > swap with next window
 
 
 

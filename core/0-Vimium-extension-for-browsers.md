@@ -1,37 +1,32 @@
-
-
-#1
 https://github.com/philc/vimium
 # medium commands
 
-| command | meaning |
-| ---- | ---- |
-| x | close tab` |
-| X | restore closed tab` |
-| r | reload` |
-| yf | copy specific link` |
-| t | new tab` |
-| yt | yank/ duplicate tab` |
-| T | search for opened tab (if so many)` |
-| o | open link` |
-| O | open link in new page(duh)` |
-| b | open links of your bookmark` |
-| /whatever | search` |
-| L H | previous , next page` |
-| gg | top of page` |
-| G | end of page` |
+| command   | meaning                             |
+| --------- | ----------------------------------- |
+| x         | close tab`                          |
+| X         | restore closed tab`                 |
+| r         | reload`                             |
+| yf        | copy specific link`                 |
+| t         | new tab`                            |
+| yt        | yank/ duplicate tab`                |
+| T         | search for opened tab (if so many)` |
+| o         | open link`                          |
+| O         | open link in new page(duh)`         |
+| b         | open links of your bookmark`        |
+| /whatever | search`                             |
+| L H       | previous , next page`               |
+| gg        | top of page`                        |
+| G         | end of page`                        |
 >can combine with numbers ``
 # tab-related commands
 
-| command | meaning |
-| ---- | ---- |
-| J K | move between tabs` |
-| g0 | first tab` |
-| g$ | last tab` |
-| W | take this tab into a new window` |
-| alt p | pin tab` |
-|  |  |
-
+| command | meaning                          |
+| ------- | -------------------------------- |
+| J K     | move between tabs`               |
+| g0      | first tab`                       |
+| g$      | last tab`                        |
+| W       | take this tab into a new window` |
+| alt p   | pin tab`                         |
 
 # advanced commands
 

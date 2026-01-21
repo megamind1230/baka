@@ -6,7 +6,6 @@
 `open .` > opens the pwd using the default file manager {sometimes is `xdg-open`}
 # rmdir
 - `rmdir` > remove/del empty dir
-- [[how-to-delete-or-remove-into-a-recycle-bin-in-linux-terminal]]
 - `rm` > perma del with no bin backup
 	- `rm -r` > del dir + its contents
 	- `rm -i` > interactive {helps you make decisions on del}

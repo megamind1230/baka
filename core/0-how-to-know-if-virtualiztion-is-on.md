@@ -1,4 +1,3 @@
-#1 
 ```c
 egrep -c '(vmx|svm)' /proc/cpuinfo
 

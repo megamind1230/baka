@@ -1,18 +1,7 @@
 # today
-
-- [ ] sql-trigger
-- [ ] sql-index
-- [ ] IEnumerable-csharp
-- [ ] polymorphisms-operations
-- [ ] object-keyword
-- [ ] pagination in c#
-- [ ] entity-framework-in-c#
-- [ ] database-context
-- [ ] internal-vs-extenal-config-for-db
-- [ ] data-annotations
-- [ ] migration
 #todo
-
+- [ ] bash script to create new folder {named by todays date} that has a file.cpp named by problem name I give that to prompt
+- [ ] [[vimrc-examples]]
 # others
 ```dataview
 TASK
@@ -20,6 +9,3 @@ FROM #todo
 WHERE !completed 
 // GROUP BY file.link
 ```
-
-
-

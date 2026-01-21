@@ -1,9 +1,10 @@
 # done
 - [x] notion >  [[@-obsidian-moc|obsidian]]
-- [x] photoshop > [[@-gimp-moc|gimp]]
-- [x] premiere > [[davinci-resolve]] , [[@-kdenlive- moc|kdenlive]]
+- [x] photoshop > [[0@-gimp-MOC|gimp]]
+- [x] premiere > davinci-resolve , [[@-kdenlive- moc|kdenlive]]
 - [x] notepad / notepad++ > notepadqq 
 - [x] adobe acrobat > [[drawboard-pdf-app-shortcuts|drawboard]]
+- [x] opencut: the capcut foss alternative
 
 # not done
 - [ ] trello > [[focal]]
