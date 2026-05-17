@@ -1,0 +1,1091 @@
+Here are 150 answered MCQs based on the provided slides, covering LTE fundamentals, wireless networking, antenna concepts, and circuit/packet switching. Each question includes a brief explanation of key concepts.
+
+---
+
+### **1. History & Evolution of Wireless (1-10)**
+
+**1. What does LTE stand for?**
+- A. Long Term Evolution
+- B. Long Time Evolution  
+- C. Large Telecom Evolution
+- D. Local Transmission Equipment
+- **Answer: A** (LTE stands for Long Term Evolution, representing the 4G standard)
+
+**2. Which generation introduced LTE technology?**
+- A. 2G
+- B. 3G
+- C. 4G
+- D. 5G
+- **Answer: C** (LTE belongs to the 4G generation, deployed in the 2010s)
+
+**3. What was the primary service offered by 1G (1980s)?**
+- A. Digital voice
+- B. Analog voice
+- C. Broadband data
+- D. Video streaming
+- **Answer: B** (1G used AMPS technology and provided analog voice only)
+
+**4. Which technology is associated with 2G networks?**
+- A. AMPS
+- B. GSM
+- C. LTE
+- D. 5G-NR
+- **Answer: B** (2G introduced digital voice using GSM, IS-95, and IS-136 standards)
+
+**5. What is the approximate throughput of 4G LTE?**
+- A. 2 Kbps
+- B. 2 Mbps
+- C. 200 Mbps
+- D. 1 Gbps
+- **Answer: C** (4G LTE provides approximately 200 Mbps throughput, compared to 2 Mbps in 3G)
+
+**6. What throughput does 5G target?**
+- A. 2 Mbps
+- B. 200 Mbps
+- C. 1 Gbps+
+- D. 64 Kbps
+- **Answer: C** (5G targets 1 Gbps and higher throughput)
+
+**7. How is voice transmitted in LTE networks?**
+- A. Circuit switched voice
+- B. VoLTE (Voice over LTE)
+- C. AMPS
+- D. GSM
+- **Answer: B** (LTE uses Voice over LTE (VoLTE), sending voice as packets over the all-IP network)
+
+**8. What is the main advantage of LTE over 3G?**
+- A. Lower data rates
+- B. Higher latency
+- C. High data rates and reduced latency
+- D. Analog transmission
+- **Answer: C** (LTE provides high data rates, reduced latency <5ms, and improved throughput)
+
+**9. What does E-UTRAN stand for?**
+- A. Evolved Universal Terrestrial Radio Access Network
+- B. Electronic Universal Transmission Access Network
+- C. Enhanced User Terminal Radio Network
+- D. Evolved Unified Telecom Access Node
+- **Answer: A** (E-UTRAN is the Radio Access Network part of LTE)
+
+**10. Which bandwidth configurations can LTE be deployed in?**
+- A. Only 10 MHz
+- B. 1.4, 3, 5, 10, 15, 20 MHz
+- C. Only 20 MHz
+- D. 5 MHz only
+- **Answer: B** (LTE offers flexibility with scalable bandwidth: 1.4, 3, 5, 10, 15, and 20 MHz)
+
+---
+
+### **2. LTE Architecture (11-35)**
+
+**11. LTE architecture is composed of how many main parts?**
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+- **Answer: B** (Two parts: Radio Access Network E-UTRAN and Core Network EPC)
+
+**12. What is the core network in LTE called?**
+- A. RNC
+- B. EPC (Evolved Packet Core)
+- C. BSC
+- D. MSC
+- **Answer: B** (EPC = Evolved Packet Core, the flat all-IP core network)
+
+**13. Which network element connects the UE to the EPC on the radio side?**
+- A. MME
+- B. eNodeB
+- C. HSS
+- D. S-GW
+- **Answer: B** (eNodeB or Evolved NodeB is the LTE base station)
+
+**14. What is the air interface between UE and eNodeB called?**
+- A. S1
+- B. X2
+- C. Uu
+- D. S6a
+- **Answer: C** (The Uu interface is the radio link between User Equipment and eNodeB)
+
+**15. What does MME stand for?**
+- A. Mobility Management Entity
+- B. Mobile Management Equipment
+- C. Main Monitoring Element
+- D. Mobile Message Exchange
+- **Answer: A** (MME handles signaling, authentication, and mobility management)
+
+**16. Which element stores user subscription information?**
+- A. MME
+- B. S-GW
+- C. HSS (Home Subscription Server)
+- D. P-GW
+- **Answer: C** (HSS is the master database for subscriber profiles and authentication keys)
+
+**17. What is the primary function of S-GW (Serving Gateway)?**
+- A. User authentication
+- B. Local mobility anchor for inter-eNodeB handover and data buffering
+- C. IP address allocation
+- D. NAS signaling
+- **Answer: B** (S-GW routes user data, anchors handovers, and buffers data for idle users)
+
+**18. Which gateway allocates IP addresses to the UE?**
+- A. S-GW
+- B. P-GW (Packet Gateway)
+- C. MME
+- D. eNodeB
+- **Answer: B** (P-GW assigns IP addresses to users and connects to external networks)
+
+**19. Which interface connects eNodeB to MME?**
+- A. S1-U
+- B. S1-C (or S1-MME)
+- C. S5
+- D. S11
+- **Answer: B** (S1-C is the control plane interface; S1-MME carries signaling)
+
+**20. Which interface connects eNodeB to S-GW?**
+- A. S1-C
+- B. S1-U (User plane)
+- C. S6a
+- D. SGi
+- **Answer: B** (S1-U carries user data between eNodeB and Serving Gateway)
+
+**21. What is the interface between MME and HSS?**
+- A. S1
+- B. S6a
+- C. S11
+- D. S5
+- **Answer: B** (S6a uses Diameter protocol to connect MME with HSS for authentication)
+
+**22. Which interface connects S-GW to P-GW?**
+- A. S1
+- B. S5
+- C. S6a
+- D. SGi
+- **Answer: B** (S5 interface connects the Serving Gateway to the Packet Gateway)
+
+**23. What protocol is used between eNodeB and MME?**
+- A. GTP-U
+- B. SCTP (Stream Control Transmission Protocol)
+- C. TCP
+- D. UDP
+- **Answer: B** (SCTP is the tunneling protocol carrying S1-AP signaling messages)
+
+**24. What does NAS stand for?**
+- A. Network Access System
+- B. Non-Access Stratum
+- C. Node Access Signal
+- D. Network Authentication Service
+- **Answer: B** (NAS handles signaling between UE and MME, above the radio layer)
+
+**25. Which plane handles actual user data traffic?**
+- A. Control Plane
+- B. User Plane
+- C. Management Plane
+- D. Signaling Plane
+- **Answer: B** (User Plane carries the actual internet/voice data; Control Plane handles management signals)
+
+**26. What is the X2 interface used for?**
+- A. Connecting eNodeB to EPC
+- B. Connecting eNodeBs to each other
+- C. Connecting MME to HSS
+- D. Connecting UE to eNodeB
+- **Answer: B** (X2 connects base stations for handover coordination and interference management)
+
+**27. What does BBU stand for in eNodeB components?**
+- A. Base Broadcast Unit
+- B. Baseband Unit
+- C. Basic Bandwidth Unit
+- D. Broadband Unit
+- **Answer: B** (BBU processes baseband signals and handles control functions)
+
+**28. What does RRH stand for?**
+- A. Remote Radio Head
+- B. Radio Resource Handler
+- C. Remote Routing Hub
+- D. Radio Receiver Hardware
+- **Answer: A** (RRH transmits/receives radio signals, often mounted on towers)
+
+**29. What is the key difference between 3G Node B and 4G eNodeB?**
+- A. Node B is faster
+- B. Node B requires an RNC (Radio Network Controller), while eNodeB integrates control functions internally
+- C. eNodeB is only for voice
+- D. Node B handles packet switching, eNodeB does not
+- **Answer: B** (eNodeB eliminates the need for a separate RNC, creating a "flat" architecture)
+
+**30. What is gNodeB used for?**
+- A. 3G networks
+- B. 4G LTE networks
+- C. 5G New Radio networks
+- D. 2G networks
+- **Answer: C** (gNodeB or gNB is the 5G base station, successor to eNodeB)
+
+**31. In 5G gNodeB, what does CU stand for?**
+- A. Control Unit
+- B. Centralized Unit
+- C. Connection Unit
+- D. Circuit Unit
+- **Answer: B** (CU is the Centralized Unit handling control plane functions, separated from DU in 5G architecture)
+
+**32. What is the DU in 5G?**
+- A. Distributed Unit - user plane component
+- B. Data Unit - storage only
+- C. Digital Unit - encryption only
+- D. Direct Unit - connection only
+- **Answer: A** (DU = Distributed Unit, processes user data and physical layer operations)
+
+**33. What is the interface connecting DU to RU in 5G?**
+- A. Backhaul
+- B. Midhaul
+- C. Fronthaul
+- D. X2
+- **Answer: C** (Fronthaul connects the Distributed Unit to Radio Units)
+
+**34. What is the SGi interface?**
+- A. Between eNodeB and S-GW
+- B. Between P-GW and Internet
+- C. Between MME and HSS
+- D. Between S-GW and P-GW
+- **Answer: B** (SGi is the interface connecting the P-GW to external packet data networks like the Internet)
+
+**35. Which network element performs lawful intercept?**
+- A. MME only
+- B. S-GW and P-GW
+- C. HSS only
+- D. eNodeB only
+- **Answer: B** (Both Serving Gateway and Packet Gateway can perform lawful intercept functions)
+
+---
+
+### **3. Bearers and QoS (36-45)**
+
+**36. What is an EPS bearer?**
+- A. A physical cable
+- B. A logical path with specific QoS between UE and P-GW
+- C. A type of antenna
+- D. A circuit switched connection
+- **Answer: B** (EPS bearer provides end-to-end QoS guarantees through the network)
+
+**37. How many types of bearers exist in LTE QoS?**
+- A. 1
+- B. 2 (Default and Dedicated)
+- C. 3
+- D. 4
+- **Answer: B** (Default bearer is established at attach; Dedicated bearers are added for specific services)
+
+**38. What does GBR stand for?**
+- A. General Bit Rate
+- B. Guaranteed Bit Rate
+- C. Gateway Bit Rate
+- D. Global Bandwidth Resource
+- **Answer: B** (GBR bearers guarantee minimum bit rates for real-time services)
+
+**39. Which QCI is used for VoIP calls?**
+- A. QCI 1
+- B. QCI 5
+- C. QCI 9
+- D. QCI 3
+- **Answer: A** (QCI 1 is a GBR bearer with 100ms delay requirement for VoIP)
+
+**40. What is the priority level of IMS Signaling?**
+- A. Priority 2
+- B. Priority 1 (QCI 5)
+- C. Priority 5
+- D. Priority 8
+- **Answer: B** (IMS signaling uses QCI 5 with Priority 1, the highest priority level)
+
+**41. What does Non-GBR mean?**
+- A. Non-Guaranteed Bit Rate - best effort traffic
+- B. No Gigabit Rate
+- C. New Gateway Base Rate
+- D. Network Global Bandwidth Resource
+- **Answer: A** (Non-GBR is best-effort traffic like web browsing without guaranteed rates)
+
+**42. What does QCI stand for?**
+- A. Quality Control Interface
+- B. QoS Class Identifier
+- C. Quick Channel Identification
+- D. Quality Circuit Index
+- **Answer: B** (QCI defines priority, packet delay budget, and packet loss rate)
+
+**43. Which bearer is established when a UE first attaches?**
+- A. Dedicated Bearer
+- B. Default Bearer
+- C. Emergency Bearer
+- D. Virtual Bearer
+- **Answer: B** (Default Bearer is established during attach procedure; Dedicated bearers are created later)
+
+**44. What is AMBR?**
+- A. Aggregate Maximum Bit Rate
+- B. Average Minimum Bandwidth Requirement
+- C. Automatic Mobile Base Resource
+- D. Advanced Modulation Bandwidth Rate
+- **Answer: A** (AMBR limits the total bit rate for all non-GBR bearers of a user)
+
+**45. Which QCI is best for online gaming (real-time)?**
+- A. QCI 9
+- B. QCI 3 (50ms delay, GBR)
+- C. QCI 6
+- D. QCI 8
+- **Answer: B** (QCI 3 provides low latency (50ms) suitable for real-time gaming)
+
+---
+
+### **4. RAN Technologies (46-70)**
+
+**46. What access technology does LTE downlink use?**
+- A. CDMA
+- B. OFDMA
+- C. SC-FDMA
+- D. TDMA
+- **Answer: B** (Downlink uses OFDMA - Orthogonal Frequency Division Multiple Access)
+
+**47. What access technology does LTE uplink use?**
+- A. OFDMA
+- B. SC-FDMA (Single Carrier FDMA)
+- C. CDMA
+- D. FDMA
+- **Answer: B** (Uplink uses SC-FDMA to reduce battery consumption)
+
+**48. Why is SC-FDMA used in uplink instead of OFDMA?**
+- A. To increase data rates
+- B. To reduce Peak-to-Average Power Ratio (PAPR) for better battery life
+- C. To support more users
+- D. To increase interference
+- **Answer: B** (SC-FDMA has lower PAPR, allowing cheaper power amplifiers and longer battery life)
+
+**49. What does MIMO stand for?**
+- A. Multiple Input Multiple Output
+- B. Mobile Input Mobile Output
+- C. Modular Input Modular Output
+- D. Multiple Interface Multiple Operation
+- **Answer: A** (MIMO uses multiple antennas at both transmitter and receiver)
+
+**50. What is the benefit of MIMO?**
+- A. Reduced coverage
+- B. Improved network capacity and coverage
+- C. Increased latency
+- D. Lower data rates
+- **Answer: B** (MIMO improves throughput and coverage using spatial multiplexing)
+
+**51. What is the difference between FDD and TDD?**
+- A. FDD uses same frequency for UL/DL; TDD uses different
+- B. FDD uses different frequencies for UL/DL; TDD uses same frequency with time division
+- C. FDD is always faster
+- D. TDD is only for 5G
+- **Answer: B** (FDD = Frequency Division Duplex; TDD = Time Division Duplex)
+
+**52. What is a Resource Block in LTE?**
+- A. 180 kHz containing 12 subcarriers
+- B. 1 MHz containing 100 subcarriers
+- C. 20 MHz bandwidth
+- D. A physical antenna
+- **Answer: A** (One RB = 180 kHz = 12 subcarriers × 15 kHz spacing)
+
+**53. What is the subcarrier spacing in LTE?**
+- A. 5 kHz
+- B. 10 kHz
+- C. 15 kHz
+- D. 20 kHz
+- **Answer: C** (LTE uses 15 kHz subcarrier spacing)
+
+**54. What is TTI in LTE?**
+- A. Total Transmission Interval
+- B. Transmission Time Interval (1 ms)
+- C. Temporary Traffic Identifier
+- D. Time To Idle
+- **Answer: B** (TTI = 1 ms, the scheduling unit containing one subframe)
+
+**55. How long is one radio frame in LTE?**
+- A. 1 ms
+- B. 5 ms
+- C. 10 ms
+- D. 20 ms
+- **Answer: C** (One radio frame = 10 ms, containing 10 subframes)
+
+**56. How many slots are in one subframe?**
+- A. 1
+- B. 2 (each 0.5 ms)
+- C. 4
+- D. 7
+- **Answer: B** (One subframe = 1 ms = 2 slots)
+
+**57. What is the cyclic prefix used for?**
+- A. To increase data speed
+- B. To reduce interference between symbols (multipath protection)
+- C. To encrypt data
+- D. To compress headers
+- **Answer: B** (Cyclic prefix is a guard interval preventing inter-symbol interference from multipath)
+
+**58. What modulation schemes are used in LTE downlink?**
+- A. Only QPSK
+- B. QPSK, 16QAM, 64QAM
+- C. Only GMSK
+- D. BPSK only
+- **Answer: B** (LTE adapts modulation based on channel conditions from QPSK to 64QAM)
+
+**59. What is carrier aggregation?**
+- A. Using multiple antennas
+- B. Combining two or more component carriers to increase bandwidth up to 100 MHz
+- C. Reducing the carrier frequency
+- D. Separating voice and data
+- **Answer: B** (Carrier Aggregation combines carriers to increase data rates)
+
+**60. What is the maximum bandwidth LTE-Advanced can support?**
+- A. 20 MHz
+- B. 40 MHz
+- C. 100 MHz
+- D. 200 MHz
+- **Answer: C** (LTE-A can aggregate up to 100 MHz using multiple carriers)
+
+**61. What does SU-MIMO stand for?**
+- A. Single User MIMO
+- B. System Utility MIMO
+- C. Signal Unit MIMO
+- D. Single Uplink MIMO
+- **Answer: A** (SU-MIMO sends multiple data streams to one user simultaneously)
+
+**62. What is MU-MIMO?**
+- A. Multiple User MIMO - serving multiple users simultaneously using same resources
+- B. Mobile Unit MIMO
+- C. Multi-Uplink MIMO
+- D. Macro Unit MIMO
+- **Answer: A** (MU-MIMO allows the eNodeB to serve multiple UEs at the same time)
+
+**63. What is beamforming?**
+- A. A technique to focus radio signals in specific directions
+- B. A type of circuit switching
+- C. A modulation technique
+- D. A handover method
+- **Answer: A** (Beamforming focuses energy toward users to improve signal quality and reduce interference)
+
+**64. What is CoMP?**
+- A. Computer Processing
+- B. Coordinated Multi-Point operation to reduce interference
+- C. Combined Modulation Protocol
+- D. Connection Management Point
+- **Answer: B** (CoMP coordinates transmission across multiple cells to improve edge performance)
+
+**65. What is the latency requirement for LTE Control Plane?**
+- A. < 5 ms
+- B. < 100 ms
+- C. < 1 second
+- D. < 10 seconds
+- **Answer: B** (C-Plane latency must be <100 ms for connection setup)
+
+**66. What is the User Plane latency requirement for LTE?**
+- A. < 100 ms
+- B. < 5 ms
+- C. < 50 ms
+- D. < 1 ms
+- **Answer: B** (U-Plane latency requirement is <5 ms for data transmission)
+
+**67. What is the maximum mobility speed supported by LTE?**
+- A. 15 km/h
+- B. 120 km/h
+- C. 350 km/h
+- D. Up to 500 km/h
+- **Answer: D** (LTE supports high-speed mobility up to 500 km/h)
+
+**68. Which physical channel transmits system information in downlink?**
+- A. PDSCH
+- B. PBCH (Physical Broadcast Channel)
+- C. PRACH
+- D. PUCCH
+- **Answer: B** (PBCH carries broadcast and system overhead information)
+
+**69. Which channel carries uplink user data?**
+- A. PUSCH (Physical Uplink Shared Channel)
+- B. PDSCH
+- C. PBCH
+- D. PCFICH
+- **Answer: A** (PUSCH carries uplink data and control information)
+
+**70. What is the function of PDCCH?**
+- A. Transmit user data
+- B. Transmit control messages for UE (scheduling assignments, power control)
+- C. Transmit broadcast information
+- D. Transmit random access requests
+- **Answer: B** (Physical Downlink Control Channel carries control information for UEs)
+
+---
+
+### **5. UE Life Cycle (71-85)**
+
+**71. What is the first step in the UE life cycle?**
+- A. Authentication
+- B. Attach
+- C. Network Acquisition
+- D. IP Connectivity
+- **Answer: C** (Network Acquisition: UE finds and synchronizes with the cell)
+
+**72. What happens during the Attach procedure?**
+- A. UE disconnects
+- B. UE registers with the network to get services
+- C. UE changes frequency
+- D. UE sends a random access request only
+- **Answer: B** (Attach is the registration process where UE joins the network)
+
+**73. What is the purpose of Authentication?**
+- A. To allocate IP address
+- B. To verify UE identity using credentials from HSS
+- C. To establish radio bearers
+- D. To perform handover
+- **Answer: B** (Authentication validates the SIM card/user against the HSS database)
+
+**74. What is established after successful authentication?**
+- A. Handover
+- B. IP Connectivity (PDN connection through P-GW)
+- C. Release
+- D. Signaling connection only
+- **Answer: B** (UE gets an IP address and connects to the Internet)
+
+**75. What is a Service Request?**
+- A. Request to disconnect
+- B. UE request to transition from idle to connected state to send/receive data
+- C. Request to change MME
+- D. Request to reduce power
+- **Answer: B** (Service Request wakes up the connection when UE has data to send)
+
+**76. What are Radio Access Bearers?**
+- A. Physical cables
+- B. Logical channels with specific QoS between UE and EPC
+- C. Antenna arrays
+- D. Random access codes
+- **Answer: B** (Bearers are logical paths with defined QoS characteristics)
+
+**77. What happens during Scheduling Requests?**
+- A. UE requests radio resources and network grants them
+- B. UE disconnects
+- C. Network requests and UE grants
+- D. Automatic allocation
+- **Answer: A** (UE asks for resources; eNodeB scheduler grants them based on availability)
+
+**78. What is Handover?**
+- A. Changing the battery
+- B. Moving UE connection from one cell to another while maintaining connectivity
+- C. Changing IP address
+- D. Disconnecting
+- **Answer: B** (Handover maintains connectivity as users move between cells)
+
+**79. Who manages handover in LTE?**
+- A. RNC
+- B. eNodeB (without external controller)
+- C. BSC
+- D. UE only
+- **Answer: B** (eNodeB manages handovers internally, unlike 3G which used RNC)
+
+**80. What is the final step in the UE life cycle?**
+- A. Attach
+- B. Release (RRC connection release to save resources)
+- C. Handover
+- D. Authentication
+- **Answer: B** (Release frees up resources when UE is done communicating)
+
+**81. What state is the UE in when registered but not actively sending data?**
+- A. Connected state
+- B. Idle state
+- C. Detached state
+- D. Handover state
+- **Answer: B** (Idle state: UE is registered but radio connection is released; UE monitors paging)
+
+**82. What is paging used for?**
+- A. To put UE to sleep
+- B. To wake up idle UEs for incoming calls/data
+- C. To change frequency
+- D. To authenticate
+- **Answer: B** (Network pages UE when there is incoming data while UE is in idle mode)
+
+**83. What does RRC stand for?**
+- A. Radio Resource Control - manages radio resources and connections
+- B. Radio Random Connection
+- C. Remote Resource Center
+- D. Routing and Relay Control
+- **Answer: A** (RRC manages connection setup, maintenance, and release)
+
+**84. When does the UE get an IP address?**
+- A. During Attach
+- B. During IP Connectivity/PDN establishment via P-GW
+- C. During Authentication
+- D. During Network Acquisition
+- **Answer: B** (P-GW assigns IP address during bearer establishment)
+
+**85. What is the S1 interface?**
+- A. Between UE and eNodeB
+- B. Between eNodeB and EPC (core network)
+- C. Between two UEs
+- D. Between MME and HSS
+- **Answer: B** (S1 connects the radio access network to the evolved packet core)
+
+---
+
+### **6. Wireless Network Classification (86-100)**
+
+**86. What is an infrastructure-based wireless network?**
+- A. Network without central device
+- B. Network with central device like Access Point or Base Station
+- C. Direct device-to-device only
+- D. Military-only network
+- **Answer: B** (Uses central controllers like Wi-Fi APs or cellular Base Stations)
+
+**87. What is an Ad Hoc network?**
+- A. Network with central controller
+- B. Decentralized network where devices communicate directly without infrastructure
+- C. Wired network
+- D. Satellite only
+- **Answer: B** (Ad Hoc = infrastructure-less, self-configuring networks)
+
+**88. Which is an example of an Ad Hoc network?**
+- A. 4G LTE
+- B. Wi-Fi with router
+- C. Bluetooth or MANET (Mobile Ad Hoc Network)
+- D. Cable TV
+- **Answer: C** (Bluetooth and MANET are ad hoc; devices communicate directly)
+
+**89. What does BAN stand for?**
+- A. Broadband Access Network
+- B. Body Area Network (~1m range)
+- C. Base Antenna Node
+- D. Broadcast Access Network
+- **Answer: B** (BAN covers ~1m for wearable/implantable sensors)
+
+**90. What is the approximate range of a PAN?**
+- A. 1 meter
+- B. 10 meters
+- C. 100 meters
+- D. 1 kilometer
+- **Answer: B** (PAN = Personal Area Network, ~10m range, e.g., Bluetooth)
+
+**91. What range does a LAN cover?**
+- A. ~10m
+- B. ~100m
+- C. ~1km
+- D. ~10km
+- **Answer: B** (LAN = Local Area Network, ~100m, e.g., Wi-Fi)
+
+**92. What is the range of a WAN?**
+- A. ~100m
+- B. ~1km
+- C. ~10km+
+- D. ~1m
+- **Answer: C** (WAN = Wide Area Network, covers large distances like cellular networks)
+
+**93. What type of network is VANET?**
+- A. Infrastructure-based
+- B. Vehicular Ad Hoc Network (infrastructure-less)
+- C. Wired
+- D. Satellite only
+- **Answer: B** (VANET allows vehicles to communicate directly with each other)
+
+**94. What characterizes mobile wireless networks?**
+- A. Devices are stationary
+- B. Devices move while maintaining connectivity (requires handover)
+- C. No mobility management needed
+- D. Fixed installations only
+- **Answer: B** (Mobile networks support movement and roaming between cells)
+
+**95. What is roaming?**
+- A. Moving within one cell
+- B. Moving between different networks while maintaining service
+- C. Disconnecting
+- D. Reducing power
+- **Answer: B** (Roaming allows users to use services outside their home network)
+
+**96. Which classification is based on network size/coverage?**
+- A. Infrastructure vs Ad Hoc
+- B. BAN, PAN, LAN, MAN, WAN
+- C. Fixed vs Mobile
+- D. Circuit vs Packet
+- **Answer: B** (Size classification: Body, Personal, Local, Metropolitan, Wide Area Networks)
+
+**97. What is a MAN?**
+- A. Mobile Access Node
+- B. Metropolitan Area Network (~1km, city-wide)
+- C. Multiple Antenna Network
+- D. Management Area Node
+- **Answer: B** (MAN covers metropolitan areas, ~1km range)
+
+**98. Which network is suitable for disaster recovery?**
+- A. Infrastructure-based (needs towers)
+- B. Ad Hoc networks (self-configuring, no infrastructure)
+- C. Fiber optic only
+- D. Satellite only
+- **Answer: B** (Ad hoc networks can be deployed quickly without existing infrastructure)
+
+**99. What characterizes fixed wireless networks?**
+- A. Dynamic topology
+- B. Devices are stationary (stable, less complex routing)
+- C. Requires handover
+- D. Self-configuring
+- **Answer: B** (Fixed networks have stationary equipment, no mobility management needed)
+
+**100. Which requires centralized control?**
+- A. Ad Hoc networks
+- B. Infrastructure-based networks
+- C. Peer-to-peer
+- D. Mesh networks without controllers
+- **Answer: B** (Infrastructure networks have centralized control via APs or Base Stations)
+
+---
+
+### **7. Antenna and Signal Concepts (101-120)**
+
+**101. What is antenna gain?**
+- A. Ability to amplify power
+- B. Concentration of output power in a specific direction compared to input
+- C. Physical size
+- D. Weight
+- **Answer: B** (Gain focuses energy; it doesn't create power, just directs it)
+
+**102. What is an isotropic antenna?**
+- A. Real antenna used in all devices
+- B. Theoretical ideal antenna radiating equally in all directions (reference only)
+- C. Directional antenna
+- D. Dipole antenna
+- **Answer: B** (Isotropic is a theoretical sphere-shaped radiation pattern used for comparison)
+
+**103. What does dBi measure?**
+- A. Decibels relative to isotropic antenna
+- B. Decibels relative to input
+- C. Digital bandwidth index
+- D. Direct beam intensity
+- **Answer: A** (dBi = decibel isotropic, gain relative to theoretical isotropic antenna)
+
+**104. What is EIRP?**
+- A. Electronic Input Radio Power
+- B. Effective Isotropic Radiated Power (TX power + gain - losses)
+- C. Effective Input Radiation Pattern
+- D. Enhanced Interference Reduction Protocol
+- **Answer: B** (EIRP calculates total radiated power accounting for transmitter, antenna, and cable losses)
+
+**105. What is the difference between omnidirectional and directional antennas?**
+- A. Omnidirectional radiates in all directions; directional focuses energy in one direction
+- B. Omnidirectional is only for 5G
+- C. Directional radiates everywhere
+- D. No difference
+- **Answer: A** (Omnidirectional = 360° coverage; Directional = focused beam)
+
+**106. What is the 3D radiation pattern of an omnidirectional antenna?**
+- A. Sphere
+- B. Doughnut (torus) shape
+- C. Flat disk
+- D. Single line
+- **Answer: B** (Omnidirectional antennas have a doughnut pattern with nulls at top/bottom)
+
+**107. What is a dipole antenna?**
+- A. Antenna with two conductive elements (simplest practical antenna)
+- B. Antenna with one element
+- C. Satellite dish
+- D. Fiber optic cable
+- **Answer: A** (Dipole has two arms/elements, e.g., "rubber duck" antennas)
+
+**108. What is the length of a half-wave dipole?**
+- A. λ/4
+- B. λ/2 (half wavelength)
+- C. λ
+- D. 2λ
+- **Answer: B** (Half-wave dipole total length = λ/2, each arm = λ/4)
+
+**109. What is the typical gain of a dipole antenna?**
+- A. 0 dBi
+- B. 2.15 dBi
+- C. 10 dBi
+- D. 20 dBi
+- **Answer: B** (Standard dipole has ~2.15 dBi gain over isotropic)
+
+**110. What is a monopole antenna?**
+- A. Two-element antenna
+- B. Quarter-wave antenna using ground plane as second element
+- C. Satellite antenna
+- D. Directional only
+- **Answer: B** (Monopole uses one element plus ground plane, equivalent to half a dipole)
+
+**111. What does RSSI measure?**
+- A. Signal quality relative to noise
+- B. Received Signal Strength Indicator (power level in dBm)
+- C. Transmission speed
+- D. Latency
+- **Answer: B** (RSSI = received power level; -30 dBm excellent, -90 dBm very weak)
+
+**112. What is SNR?**
+- A. Signal Network Rate
+- B. Signal-to-Noise Ratio (signal power divided by noise power)
+- C. System Noise Reduction
+- D. Signal Navigation Resource
+- **Answer: B** (SNR indicates signal clarity; higher is better; 20 dB acceptable, 40 dB+ excellent)
+
+**113. What happens when SNR is 0 dB?**
+- A. Excellent signal
+- B. Signal equals noise (unusable)
+- C. No signal
+- D. Maximum speed
+- **Answer: B** (At 0 dB, signal power equals noise power; communication is difficult)
+
+**114. What is the relationship between RSSI and SNR?**
+- A. They are the same
+- B. RSSI is absolute signal strength; SNR is signal relative to noise
+- C. RSSI is noise only
+- D. SNR always higher than RSSI
+- **Answer: B** (RSSI measures total received power; SNR measures quality above the noise floor)
+
+**115. What is multipath?**
+- A. Single direct signal
+- B. When signals reflect off surfaces and arrive at receiver at different times
+- C. Multiple transmitters
+- D. Multiple users
+- **Answer: B** (Multipath causes fading when reflected signals combine out of phase)
+
+**116. What causes signal absorption?**
+- A. Signal reflection
+- B. Obstacles taking energy from wave and dissipating as heat
+- C. Signal amplification
+- D. Distance only
+- **Answer: B** (Walls, trees absorb RF energy, converting it to heat and reducing amplitude)
+
+**117. What is the Fresnel Zone?**
+- A. Type of antenna
+- B. Ellipsoidal area around line of sight that must be clear to avoid reflections
+- C. Frequency band
+- D. Modulation type
+- **Answer: B** (Fresnel Zone should be 60% clear to prevent signal degradation from obstacles)
+
+**118. What is scattering?**
+- A. Signal going in one direction
+- B. When microparticles deviate waves in multiple directions
+- C. Signal absorption only
+- D. Direct line of sight
+- **Answer: B** (Rain, dust, foliage scatter signals, affecting shorter wavelengths more)
+
+**119. What is free space path loss?**
+- A. Loss due to obstacles
+- B. Natural signal weakening as it spreads over distance
+- C. Loss due to rain
+- D. Loss due to antennas
+- **Answer: B** (As distance increases, signal energy spreads over larger area, weakening strength)
+
+**120. What is diversity in wireless?**
+- A. Using multiple antennas to choose best signal path or combine signals
+- B. Different frequencies only
+- C. Different users
+- D. Different networks
+- **Answer: A** (Diversity improves reliability by using multiple antennas to overcome fading)
+
+---
+
+### **8. Circuit Switching vs Packet Switching (121-140)**
+
+**121. What is circuit switching?**
+- A. Data sent in packets with addressing
+- B. Dedicated communication path established between sender and receiver for duration of call
+- C. Shared bandwidth with no guarantee
+- D. Wireless only
+- **Answer: B** (Circuit switching reserves a dedicated path for the entire session)
+
+**122. What is packet switching?**
+- A. Dedicated path for entire message
+- B. Data divided into packets with addresses sent independently through network
+- C. Analog only
+- D. Requires physical wire for each call
+- **Answer: B** (Packet switching breaks data into packets that travel independently and are reassembled at destination)
+
+**123. Which technology uses circuit switching?**
+- A. LTE data
+- B. Traditional telephone network (PSTN)
+- C. Internet browsing
+- D. Email
+- **Answer: B** (Traditional phone networks establish dedicated circuits for voice calls)
+
+**124. Which uses packet switching?**
+- A. Old telephone system
+- B. Internet and LTE (all-IP network)
+- C. Telegraph
+- D. Leased lines only
+- **Answer: B** (The Internet and LTE use packet switching for all communications)
+
+**125. In circuit switching, is the path dedicated?**
+- A. No, shared with others
+- B. Yes, dedicated for entire call duration
+- C. Only for first minute
+- D. Random allocation
+- **Answer: B** (Circuit switching reserves exclusive bandwidth for the communicating parties)
+
+**126. In packet switching, how do packets travel?**
+- A. All together on same path
+- B. Independently, possibly taking different routes
+- C. Only one packet at a time per network
+- D. Always in order
+- **Answer: B** (Packets may take different paths and arrive out of order; receiver reassembles them)
+
+**127. Which is more efficient for bursty data (web browsing)?**
+- A. Circuit switching
+- B. Packet switching (resources used only when data sent)
+- C. Both equal
+- D. Neither
+- **Answer: B** (Packet switching shares bandwidth efficiently; circuit switching wastes bandwidth during idle times)
+
+**128. Which has connection setup delay?**
+- A. Circuit switching (requires establishing path)
+- B. Packet switching (send immediately)
+- C. Both have setup
+- D. Neither
+- **Answer: A** (Circuit switching requires setup time; packet switching transmits immediately)
+
+**129. What happens if a circuit switch connection fails?**
+- A. Call drops completely
+- B. Automatically reroutes packets
+- C. Increases bandwidth
+- D. No effect
+- **Answer: A** (Circuit switching has no redundancy; path failure drops the call)
+
+**130. What happens if one packet is lost in packet switching?**
+- A. Entire message lost
+- B. Only that packet is retransmitted; others already received
+- C. Network crashes
+- D. All packets resent
+- **Answer: B** (Only the lost packet needs retransmission, making it robust)
+
+**131. Which switching method does LTE use?**
+- A. Circuit switching only
+- B. Packet switching (all-IP flat architecture)
+- C. Both equally
+- D. Neither
+- **Answer: B** (LTE uses all-IP architecture with packet switching for voice and data)
+
+**132. What is the main advantage of circuit switching for voice?**
+- A. Lower cost
+- B. Constant delay and guaranteed bandwidth (good quality)
+- C. Better error correction
+- D. Higher security
+- **Answer: B** (Circuit switching provides consistent delay with no jitter, ideal for voice quality)
+
+**133. What is "store and forward" associated with?**
+- A. Circuit switching
+- B. Packet switching (routers store packets briefly then forward)
+- C. Both
+- D. Neither
+- **Answer: B** (Packet switches receive entire packets, check errors, then forward to next hop)
+
+**134. Which generates more overhead per data unit?**
+- A. Circuit switching (no headers during data phase)
+- B. Packet switching (each packet has addressing headers)
+- C. Both same
+- D. Neither has overhead
+- **Answer: B** (Packet switching adds headers to every packet; circuit switching has overhead only during setup)
+
+**135. Can packet switching support different services on same network?**
+- A. No
+- B. Yes, using QoS (Quality of Service) to prioritize traffic
+- C. Only data
+- D. Only voice
+- **Answer: B** (QoS mechanisms prioritize voice, video, and data differently on packet networks)
+
+**136. What is a virtual circuit?**
+- A. Physical wire connection
+- B. Logical connection path established in packet-switched networks
+- C. Wireless only
+- D. Same as dedicated circuit
+- **Answer: B** (Virtual circuits emulate dedicated paths while using underlying packet technology)
+
+**137. Which is better for file downloads?**
+- A. Circuit switching (wastes bandwidth during pauses)
+- B. Packet switching (efficient for bursty data)
+- C. Neither
+- D. Both equal
+- **Answer: B** (File downloads are bursty; packet switching handles this efficiently)
+
+**138. What is the "call setup" phase?**
+- A. Part of packet switching
+- B. Part of circuit switching where path is established before communication
+- C. Happens automatically in all networks
+- D. Only for wireless
+- **Answer: B** (Circuit switching requires establishing the end-to-end path before data flows)
+
+**139. Why is LTE called an "all-IP" network?**
+- A. It uses IP for everything including voice (packet switching)
+- B. It uses circuit switching for voice
+- C. It doesn't use IP
+- D. Only for data
+- **Answer: A** (LTE uses IP packets for all services, including VoLTE for voice)
+
+**140. Which allows statistical multiplexing?**
+- A. Circuit switching (fixed allocation)
+- B. Packet switching (dynamic sharing based on demand)
+- C. Neither
+- D. Both
+- **Answer: B** (Packet switching shares bandwidth dynamically among users based on actual demand)
+
+---
+
+### **9. General Wireless/LTE Concepts (141-150)**
+
+**141. What is IP header compression used for?**
+- A. To increase header size
+- B. To reduce overhead and improve efficiency over radio interface
+- C. To encrypt data
+- D. To add error correction
+- **Answer: B** (Header compression like ROHC reduces packet overhead to save radio bandwidth)
+
+**142. What is a tracking area?**
+- A. Single cell
+- B. Group of cells where UE can move without updating location
+- C. Country
+- D. Building
+- **Answer: B** (Tracking Area reduces signaling by allowing UE to move within a group of cells without updating)
+
+**143. What is the difference between S-GW and P-GW?**
+- A. S-GW connects to eNodeB; P-GW connects to external networks (Internet)
+- B. They are the same
+- C. S-GW handles voice; P-GW handles data
+- D. S-GW is for 3G; P-GW is for 4G
+- **Answer: A** (S-GW is the local anchor; P-GW is the gateway to external networks)
+
+**144. What is the RLC layer function?**
+- A. Radio Link Control - handles segmentation and error correction
+- B. Random Access Control
+- C. Routing Layer Control
+- D. Resource Location Center
+- **Answer: A** (RLC segments data and handles retransmissions for error correction)
+
+**145. What is the PDCP layer responsible for?**
+- A. Physical channel decoding
+- B. Packet Data Convergence Protocol - header compression and ciphering
+- C. Power distribution
+- D. Packet delay control only
+- **Answer: B** (PDCP compresses IP headers and encrypts user data)
+
+**146. What is the MAC layer function?**
+- A. Medium Access Control - scheduling and multiplexing
+- B. Main Antenna Control
+- C. Mobile Authentication Center
+- D. Message Address Coding
+- **Answer: A** (MAC handles scheduling, logical channel multiplexing, and HARQ)
+
+**147. What is scheduling in LTE?**
+- A. Random transmission
+- B. eNodeB allocating radio resources to UEs based on demand and channel conditions
+- C. Fixed time slots only
+- D. User decides when to transmit
+- **Answer: B** (The scheduler dynamically assigns Resource Blocks to users based on CQI and requirements)
+
+**148. What is the difference between Control Plane and User Plane?**
+- A. No difference
+- B. Control Plane handles signaling; User Plane handles actual data
+- C. Control Plane is faster
+- D. User Plane is only for voice
+- **Answer: B** (C-Plane = management signaling; U-Plane = actual user traffic)
+
+**149. What is a flat architecture in LTE?**
+- A. Many layers of controllers
+- B. Simplified network with fewer nodes (no RNC between eNodeB and core)
+- C. Only one cell
+- D. Flat physical buildings
+- **Answer: B** (Flat architecture removes the RNC, reducing latency and complexity)
+
+**150. What is the main benefit of eliminating RNC in LTE?**
+- A. Higher latency
+- B. Lower latency and faster handovers
+- C. More complex network
+- D. Slower data rates
+- **Answer: B** (Removing the RNC puts control in eNodeB, reducing delays and speeding up handovers)
+
+---
+
+These 150 questions cover all major concepts from your slides including LTE architecture (E-UTRAN, EPC), network elements (eNodeB, MME, HSS, S/P-GW), radio technologies (OFDMA, SC-FDMA, MIMO), the UE lifecycle, wireless classifications, antenna concepts, and switching technologies.

@@ -170,14 +170,14 @@ delete selection and replace it with the thing on the clipboard {without losing 
 
 # ref
 - [ ] [[saving-custom-macros-as-or-into-keybindings]]
-- [ ] [[vim-multi-line-editing]]
+- [ ] [[nvim-vim-multi-line-editing]]
 - [ ] [[cool-nvim-keymaps]]
 - [ ] [[0-nvim-the-magical-g-char-or-button-in-vim]]
 - [ ] [[nvim-vim-issues-moc]]
 - [ ] [[0-nvim-setup-for-programming]]
 - [ ] [[quickfix-list-nvim]]
 - [ ] [[vimrc-examples]]
-- [ ] [[vim-arabic-support]]
+- [ ] [[vim-arabic-support-issue]]
 - [ ] [[0-nvim-vim-folds]]
 - [ ] [[nvim-vim-lsp]]
 - [ ] [[nvim-defaults-while-on-insert-mode-tricks]]

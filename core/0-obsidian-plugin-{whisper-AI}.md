@@ -1,4 +1,3 @@
-#1
 # whisper AI plugin
 - speed to text in obsidian
 needs an OpenAI API key

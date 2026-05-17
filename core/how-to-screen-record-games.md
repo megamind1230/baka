@@ -1,4 +1,3 @@
-#1
 - 2 ways 
 	- (record while playing) (if ur gear does help)
 		- apps for in-game recording (like real time recording)

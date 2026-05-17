@@ -1,0 +1,335 @@
+# haneen
+1. السامية → **Sublime / lofty**
+2. مليون نسمة → **One million people**
+3. طيات → **Folds / layers**
+4. غنية بالمفردات → **Rich in vocabulary**
+5. مفهوم / مصطلح → **Concept / term**
+6. جعجعة → **Clamor / empty noise**
+7. لقاح → **Vaccine**
+8. الرخو → **Soft / flaccid**
+9. السيل الكثير → **Flood / torrent**
+10. تكفل الأمر → **Took charge of the matter**
+11. السيطرة → **Control / domination**
+12. تدليس → **Fraud / deception**
+13. تجلد → **Endurance / toughness**
+14. تحمل آلام → **Endure pain**
+15. التأمل في النفس → **Self-reflection**
+16. فقدان الانتماء → **Loss of belonging / alienation**
+17. غطرسة → **Arrogance / haughtiness**
+18. استئثار → **Monopolization**
+19. إخفاء المعنى → **Concealment of meaning**
+20. الانفراد بالشيء → **Exclusivity**
+21. موجود في كل مكان → **Omnipresent / ubiquitous**
+22. قصير العمر → **Short-lived**
+23. شديد الدقة → **Highly precise**
+24. لغز → **Riddle / puzzle**
+25. مشكلة محيرة → **Perplexing problem**
+26. ضارًا جدًا → **Highly harmful**
+27. قادر على التعافي → **Resilient / able to recover**
+28. مفارقة → **Paradox**
+29. استدعاء → **Summoning / recall**
+30. تفكك → **Disintegration**
+31. تملص → **Evasion / dodging**
+32. تحايل → **Trickery / manipulation**
+33. صدفة → **Coincidence**
+34. العاطفة → **Emotion**
+35. ظلمات → **Darkness**
+36. غسق → **Dusk / twilight**
+37. توق → **Longing / yearning**
+38. العسف → **Oppression / tyranny**
+39. الوأد → **Infanticide / burying alive**
+40. المطر → **Rain**
+41. صعب المنال → **Hard to attain**
+42. عشوائي → **Random**
+43. دقيق → **Accurate / fine**
+44. لا مفر منه → **Inevitable**
+45. مكرر → **Repetitive**
+46. قابل للتنفيذ → **Feasible / executable**
+47. فريضة → **Obligation / religious duty**
+48. ظاهرة → **Phenomenon**
+49. نموذج فكري → **Conceptual model**
+50. منهجية → **Methodology**
+51. قيد → **Constraint / restriction**
+52. ذو دلال → **Meaningful / significant**
+53. اكتشاف جميل بالصدفة → **A pleasant accidental discovery (serendipity)**
+54. سماوي → **Celestial / heavenly**
+55. أرجواني → **Purple / crimson**
+56. تعلق عاطفي شديد → **Deep emotional attachment**
+57. حب المكتبات → **Love of libraries**
+58. إدراك أن لكل شخص قصة → **Realizing everyone has a story**
+59. عذب الصوت → **Melodious-voiced**
+60. النسيان التام → **Complete oblivion**
+61. هادئ ومثالي → **Calm and ideal**
+62. لا يوصف → **Indescribable**
+63. الشخص اللئيم → **Mean / despicable person**
+64. الشديد القوة → **Extremely powerful**
+65. مشاعر قوية بصمت → **Silent intense emotions**
+66. الفتنة → **Seduction / discord**
+67. الأعجمي → **Non-Arab / foreigner**
+68. شيء لا ينتمي لزمنه → **Anachronistic**
+69. يساير → **Go along with / conform**
+70. سلاح ذو حدين → **Double-edged sword**
+71. يثري → **Enriches**
+72. نهضة → **Renaissance / revival**
+73. يُستغنى عن → **Dispensable**
+74. تنظيم الأسرة → **Family planning**
+75. عوامل → **Factors**
+76. العدل → **Justice**
+77. حكيم → **Wise**
+78. جهاز تلفزيون → **Television set**
+79. أو راديو → **Or radio**
+80. مجال → **Field / domain**
+81. مطلب → **Demand / requirement**
+82. لتنبئوا → **To predict / foretell**
+83. دولة محورية → **Key state**
+84. برقية → **Telegram**
+85. لافتة → **Sign / banner**
+86. الفضيلة → **Virtue**
+87. التفوق → **Excellence / superiority**
+88. شرطان → **Two conditions**
+89. غيابه → **His absence**
+90. قاعدتان → **Two rules**
+91. تُعتبر → **Is considered**
+92. يمكن → **Can / may**
+93. قطاع خاص → **Private sector**
+94. الجنس البشري → **Human race**
+95. يتماشى مع → **Compatible with**
+96. الأمية → **Illiteracy**
+97. رائد → **Pioneer**
+98. الأدب → **Literature**
+99. مساحات شاسعة → **Vast areas**
+100. يمحو → **Erase / wipe out**
+101. وزارة التربية والتعليم → **Ministry of Education**
+102. موضوع حيوي → **Vital topic**
+103. الشرق الأوسط → **Middle East**
+104. حزام الأمان → **Seat belt**
+105. فرصة ذهبية → **Golden opportunity**
+106. لتنفيذ → **To implement**
+107. سكان المدن → **Urban population**
+108. يحيا → **Lives**
+109. مغرم بـ → **Fond of / infatuated with**
+110. يعترض على → **Object to**
+111. يتغلب على → **Overcome**
+112. يعترف بـ → **Admit / confess**
+113. معدل المواليد → **Birth rate**
+114. معدل الوفيات → **Death rate**
+115. سيارة موفرة → **Fuel-efficient car**
+116. يلعن → **Curse**
+117. يصرح → **Declare / state**
+118. وباء → **Epidemic / pandemic**
+119. الصحافة → **Journalism / press**
+120. المتبرعون → **Donors**
+121. الأخيرة → **The latter / last**
+122. للرفاهية → **For welfare / well-being**
+123. عوقب → **Was punished**
+124. بالحارس → **With the guard**
+125. يبلغ متوسط → **Averages / reaches an average**
+126. يميز → **Distinguish**
+127. تلتهم → **Devour / consume**
+128. دليل وبرهان → **Proof and evidence**
+129. الديمقراطية → **Democracy**
+130. يهدد → **Threatens**
+131. موهوب → **Talented**
+132. استقرار → **Stability**
+133. ينهض بـ → **Promotes / uplifts**
+134. مرحلة حرجة → **Critical stage**
+135. يزعج → **Annoy**
+136. الحق الشرعي → **Legitimate right**
+137. يتنافى → **Contradict / conflict with**
+138. الدمار الشامل → **Total destruction**
+139. الأغراض السليمة → **Peaceful purposes**
+140. الطاقة الذرية → **Nuclear energy**
+141. الفتن الطائفية → **Sectarian strife**
+142. الأقمار الصناعية → **Satellites**
+143. التشويق → **Suspense**
+144. العبقرية → **Genius**
+145. البساطة → **Simplicity**
+146. الرأفة → **Compassion**
+147. الضمير → **Conscience**
+148. نظام → **System**
+149. نصر → **Victory**
+150. هزيمة → **Defeat**
+151. نزاع → **Conflict**
+152. الانحراف → **Deviation**
+153. التعصب والتطرف → **Fanaticism and extremism**
+154. الإهمال → **Neglect**
+155. كرم الضيافة → **Hospitality**
+156. الشر → **Evil**
+157. الظلم → **Injustice**
+158. الرخاء → **Prosperity**
+159. الكفاح → **Struggle**
+160. الثواب → **Reward**
+161. الامتنان → **Gratitude**
+162. الصراحة → **Honesty / frankness**
+163. الميزانية → **Budget**
+164. العداء → **Hostility**
+165. تنظيم النسل → **Birth control**
+166. الحسد → **Envy**
+167. الإدمان → **Addiction**
+168. النقص → **Deficiency**
+169. الرأسمالية → **Capitalism**
+170. الاشتراكية → **Socialism**
+171. الصهيونية → **Zionism**
+172. النصارى → **Christians**
+173. دعاية → **Propaganda / advertisement**
+174. وزير → **Minister**
+175. فساد → **Corruption**
+176. الكراهية → **Hatred**
+177. الأغلبية → **Majority**
+178. الأقلية → **Minority**
+179. الأعباء → **Burdens**
+180. معاهدة → **Treaty**
+181. المعهد الديني → **Religious institute**
+182. هجرة → **Migration**
+183. روحي → **Spiritual**
+184. الرجولة → **Manhood**
+185. طفولة → **Childhood**
+186. دين → **Religion**
+187. مراسم → **Ceremonies**
+188. ممثل → **Actor / representative**
+189. التفصيلي → **Detailed**
+190. المواقف المعقدة → **Complex situations**
+191. فصيحة → **Eloquent**
+192. الجاسوس → **Spy**
+193. الغيرة → **Jealousy**
+194. الشك → **Doubt**
+195. مفاهيم مجردة → **Abstract concepts**
+196. الوحدة العربية → **Arab unity**
+197. فنان تجريدي → **Abstract artist**
+198. محقق خاص → **Private investigator**
+199. تحديات النطق → **Pronunciation challenges**
+200. جمل التلعثم → **Stuttering sentences**
+201. قميص نفيسة نشف → **Nafeesa’s shirt dried**
+202. طاعة الله → **Obedience to God**
+203. مغريًا → **Tempting**
+204. مغرور → **Arrogant / conceited**
+205. أصول عربية → **Arabic origins**
+206. مشتقة → **Derived**
+207. بشكل فوري → **Immediately**
+208. يتخلى عن → **Give up / abandon**
+209. غياب → **Absence**
+210. استيعاب → **Comprehension**
+211. أكاديمي → **Academic**
+212. لهجة → **Dialect / accent**
+213. يأخذ بعين الاعتبار → **Take into consideration**
+214. ثابت → **Stable / constant**
+215. تركيز → **Focus**
+216. دلالة → **Indication / meaning**
+217. الحد الأقصى → **Maximum**
+218. الحد الأدنى → **Minimum**
+219. الحد المتوسط → **Average**
+220. قاعدة → **Rule**
+221. يزعج → **Bother / annoy**
+222. قبر → **Grave**
+223. جناح → **Wing**
+224. حساس → **Sensitive**
+225. أنيقة → **Elegant**
+226. بوابة → **Gate / portal**
+227. إيماءة → **Gesture**
+228. حمل → **Carry / pregnancy**
+229. حرفيًا → **Literally**
+230. فهرس → **Index**
+231. استثمار → **Investment**
+232. نكتة → **Joke**
+233. عدالة → **Justice**
+234. الاصطناعية → **Artificial**
+235. حظر → **Ban**
+236. نادرًا → **Rarely**
+237. مشوي → **Grilled**
+238. حراري → **Thermal**
+239. مشاكس → **Mischievous**
+240. خليع → **Lewd / dissolute**
+241. بخار → **Steam**
+242. المماس → **Tangent**
+243. أشتم → **Smell**
+244. الهضم → **Digestion**
+245. الكمال → **Perfection**
+246. رعد → **Thunder**
+247. يمين → **Right**
+248. شمال → **Left**
+249. سرج → **Saddle**
+250. متفاوت → **Variable**
+251. بالمئة → **Percent**
+252. يمضي قديمًا → **Passes long ago**
+253. دليل → **Guide / evidence**
+254. تمويل → **Funding**
+255. يهدي → **Give a gift / guide**
+256. يتمنى → **Wish**
+257. يهين → **Insult**
+258. فضيحة → **Scandal**
+259. انتقام → **Revenge**
+260. قوس المطر → **Rainbow**
+261. محدود → **Limited**
+262. شارد الذهن → **Absent-minded**
+263. ملعقة → **Spoon**
+264. تكبير → **Enlargement / magnification**
+
+# karim
+1. السلف الصالح → **The righteous predecessors (early righteous Muslims)**
+2. يتفرق → **Disperse / split up**
+3. اختلف → **Disagreed / differed**
+4. العصور → **Eras / ages**
+5. الرهبان → **Monks**
+6. الجهاد → **Jihad (struggle/striving, especially for a righteous cause)**
+7. ابتلاء → **Trial / affliction**
+8. باطل → **False / invalid**
+9. ضلالة → **Misguidance**
+10. طائفة → **Sect / group**
+11. رضى أو رضوان → **Satisfaction / divine pleasure**
+12. لوازم → **Necessities / requisites**
+13. جازم → **Decisive / certain**
+14. خلاصة → **Summary / essence**
+15. يتميز → **Distinguish oneself / stand out**
+16. يوالي → **Be loyal to / ally with**
+17. يعادي → **Show hostility toward / oppose**
+18. الإنفاق → **Spending (charity/expenditure)**
+19. النفاق → **Hypocrisy**
+20. التفريط → **Negligence / laxity**
+21. الجرح → **Wound / injury**
+22. نصراني → **Christian**
+23. مفتري → **Slanderer / fabricator**
+24. مدائن → **Cities**
+25. سرداب → **Tunnel / cellar / underground passage**
+26. أقل شيوعًا → **Less common**
+27. حدوة → **Horseshoe**
+28. بليغ → **Eloquent**
+29. أصول مالية → **Financial assets**
+30. أصول أخلاقية → **Moral principles**
+31. خبيث → **Malicious / vile**
+32. مكر → **Cunning / deceit**
+33. اعتقاد أو عقيدة → **Belief / creed**
+34. يستنكر → **Condemn / denounce**
+35. استدلال → **Inference / reasoning**
+36. يتأول → **Interpret (figuratively)**
+37. بدعة → **Innovation (religious heresy)**
+38. فرقة → **Faction / sect**
+39. خاضع → **Submissive**
+40. جدال → **Argument / debate**
+41. تبذير → **Extravagance / wastefulness**
+42. تكتل → **Bloc / coalition**
+43. غلام → **Boy / youth / servant**
+44. استعاد → **Recovered / regained**
+45. استغل → **Exploited / took advantage of**
+46. يتيم → **Orphan**
+47. يرزق → **Provide sustenance**
+48. يشهد → **Witness / testify**
+49. شهيد حرب → **War martyr**
+50. شهيد محكمة → **Court witness**
+51. قوم → **People / قوم**
+52. اختلط → **Mixed / became confused**
+53. حرم شخصًا من → **Deprived someone of**
+54. رجس → **Impurity / filth**
+55. مروع → **Terrifying / horrifying**
+56. نبيل → **Noble**
+57. التزم → **Committed / adhered**
+58. حرام → **Forbidden (religiously)**
+59. هيبة → **Awe / prestige**
+60. شرف → **Honor**
+61. منطق → **Logic**
+62. عطاء → **Giving / generosity**
+63. إتقان → **Mastery / perfection**
+64. حرص → **Eagerness / diligence**
+65. انسجام → **Harmony**
+66. حيوية → **Vitality**
+67. صفاء → **Clarity / purity**
+68. مكر مفر → **Cunning and evasiveness**

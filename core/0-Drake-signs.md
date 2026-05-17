@@ -1,4 +1,3 @@
-#1
 - elder > `execute` low health champs
 - Infernal > `overall` 
 - Ocean > `regen` healing- mana in fights

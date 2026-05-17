@@ -12,7 +12,7 @@ BIOS not UEFI
 
 `wheel group` in linux helps its members to do sudo commands easily
 
-[[0@-linux-terminal-cmds-or-utilities-MOC]]
+[[@-linux-terminal-cmds-or-utilities-MOC]]
 
 >bios with MBR > nothing to do more
 >bios with GPT > create a special (`boot bios` type) file of about 1MB, better make a swap of double the RAM size (but from 4GB on so on .. just the RAM size is ok for swap size)

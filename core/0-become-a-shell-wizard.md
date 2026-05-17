@@ -1,8 +1,6 @@
-> ref
 - `less` better than `cat`
 	- it allows you to search in the vim way
-- learn [[rip-grep-or-rg-command]]
-- [[find-command|find]] vs [[fd-commad]] vs [[fzf-or-fuzzy-finder]]
+- [[fd-and-find-and-rg-or-ripgrep-commads]] vs [[0-fzf-or-fuzzy-finder]]
 - learn [[0-sed-command]] , [[0-the-awk-command]]
 - `compgen -c | less` > almost evey single command in the system
 	- `compgen -c | fzf | xargs tldr` > on-demand simple manual for any command you want

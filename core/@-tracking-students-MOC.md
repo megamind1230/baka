@@ -1,4 +1,3 @@
-#1 
 ## skills
 [[@-skills-moc]]
 ## students

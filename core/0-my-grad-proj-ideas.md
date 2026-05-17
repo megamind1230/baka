@@ -1,6 +1,3 @@
-
-
-
 # qna {q-flow}
 problem {huge  data, maintenance scale }
 - موقع سؤال وجواب .. بس مش زي اللي فبالك ( مش منتدي )

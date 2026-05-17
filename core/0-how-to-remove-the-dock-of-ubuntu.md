@@ -1,5 +1,3 @@
-#1
-
 - gnome-shell-extension-ubuntu-dock
 	- a package representing the dock
 		- so you can delete it

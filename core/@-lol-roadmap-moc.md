@@ -22,10 +22,10 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[types-of-champs-according-to-range]]
 - [ ] [[AD---AP---true-damage]]
 - [ ] [[0-your-first-baby-steps-in-league]]
-- [ ] [[helpful-channels-lol]]
+- [ ] [[0-helpful-channels-lol]]
 - [ ] [[0-lol-helpful-websites-or-apps]]
 - [ ] [[0-my-lol-game-settings]]
-- [ ] [[how-to-ping-and-when]]
+- [ ] [[0-how-to-ping-and-when]]
 - [ ] [[0-acronyms-slang-terms-in-lol]]
 - [ ] [[spells]]
 - [ ] [[0-champ-kit-lol]]
@@ -33,8 +33,8 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[all-runes-pages]]
 - [ ] [[0-mythic-items]]
 - [ ] [[tank-items]]
-- [ ] [[mage-items]]
-- [ ] [[adc-marksman-items-lol]]
+- [ ] [[0-mage-items]]
+- [ ] [[0-adc-marksman-items-lol]]
 - [ ] [[assasin-items]]
 - [ ] [[fighter-bruiser-split-pusher-items]]
 - [ ] [[0-support-items]]
@@ -49,12 +49,12 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[CSing]]
 - [ ] [[why-supp-just-kills-canon-minions]]
 - [ ] [[warding]]
-- [ ] [[0-Drake-signs]]
+- [ ] [[0-drake-signs]]
 - [ ] [[objectives-respawn-times]]
 - [ ] [[when-to-cheater-recall]]
 - [ ] [[walk-or-recall]]
 - [ ] [[when-to-roam]]
-- [ ] [[when-to-group-or-team-fight]] ^iwdhpg
+- [ ] [[0-when-to-group-or-team-fight]] ^iwdhpg
 - [ ] [[0-when-to-solo-fight]]
 - [ ] when to tp and how your team can cycle tp in a lane to save it
 - [ ] when to split-push ?
@@ -74,7 +74,7 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] [[0-when-to-use-chat-in-lol]]
 - [ ] [[0-how-to-chat-with-friends-while-in-game]]
 - [ ] [[0-smurf]]
-- [ ] [[wintrading]]
+- [ ] [[0-wintrading]]
 - [ ] [[boosting]]
 - [ ] [[lvling]]
 - [ ] [[blink---draft-pick---aram---ranked---flex]]
@@ -88,7 +88,7 @@ id: 01HN3MRVWQ1FJS6X5SWT28A9TM
 - [ ] non cirt abilities
 - [ ] mordi R then illaoi R inside
 - [ ] [[0-league-meta-ranking-tiers]]
-- [ ] [[cc-types]]
+- [ ] [[cc-or-crowd-control-types]]
 - [ ] [[drafting-lol]]
 - [ ] [[lol-scripting]]
 - [ ] [[when-to-gank-lanes]]

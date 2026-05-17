@@ -1,15 +1,15 @@
 # content
-- إزاي نحفظ كلمات
-- الأفعال المساعدة
-- تكوين الجمل
-- خاتمات الأسماء والصفات والظرف
-- كلمات التكرار
-- مضارع بسيط
-- ماضي بسيط
-- مستقبل بـwill/ going to
-- مضارع مستمر
-- ماضي مستمر
-- 4 if conditional
+- [ ] إزاي نحفظ كلمات
+- [x] الأفعال المساعدة
+- [x] تكوين الجمل
+- [x] خاتمات الأسماء والصفات والظرف
+- [x] كلمات التكرار
+- [x] مضارع بسيط
+- [x] ماضي بسيط
+- [x] مستقبل بـwill/ going to
+- [x] مضارع مستمر
+- [x] ماضي مستمر
+- [ ] 4 if conditional
 - [ ] ## II. Punctuation & Mechanics (40 Details)
 	- [ ] Th Semicolon (;)
 		 - [ ] Use a semicolon to join two closely related independent clauses.

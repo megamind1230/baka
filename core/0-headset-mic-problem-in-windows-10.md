@@ -1,6 +1,3 @@
-
-
-#1
 - before
 	- without headset (sound was good)
 	- with headset (sound is good but no mic detected)

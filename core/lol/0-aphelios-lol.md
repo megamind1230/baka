@@ -74,7 +74,7 @@
 > 	- then the `oldest` weapon you have
 
 > THE `DRR` :
-- [x] [[0-the-drr-the-daynean-rotation-rule-for-aphelios]]
+- [x] [[0-the-drr-daynean-rotation-rule-for-aphelios]]
 
 
 > [!WARN]  > fucked up the rotation?

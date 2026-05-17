@@ -26,11 +26,8 @@ session > tab > split / window > buff
 		- [x] `ctrl w</>` > resize slowly
 			- [x] `ctrl w+/-` > resize for hori
 			- [x] `ctrl w=` > reset
-	- [x] ctrl + wx > swap with next window
-
-
-
-
+	- [x] ctrl wx > swap with next window
+	- [x] ctrl wT > all splits nows are tabs
 # extra
 - [x] `:qa` > quit all 
 - [ ] `:new %:h press_tab` > allows for fast creating a new file on same folder

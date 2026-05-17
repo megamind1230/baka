@@ -1,4 +1,3 @@
-#1
 # containers
 - [ ] docker
 # cloud

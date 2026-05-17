@@ -41,7 +41,7 @@
 - [ ] [رياض الأزهار في صحيح الأذكار : محمد يسري سلامة : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/20240628_20240628_1944)
 # core
 [[books-for-prog-ps-cp-cs]]
-[[books-for-cultral-or-religion-debates]]
+[[0-books-for-cultral-or-religion-debates]]
 [[books-for-math]]
 
 # other

@@ -1,7 +1,7 @@
 # done
-- [x] [[0@-linux-terminal-cmds-or-utilities-MOC]]
+- [x] [[@-linux-terminal-cmds-or-utilities-MOC]]
 - [x] [[0-linux-cli-or-tui-apps-and-terminals-moc]]
-- [x] [[0@-bash-zsh-cmds-aliases-and-shell-scirpts-linux-MOC]]
+- [x] [[@-bash-zsh-cmds-aliases-and-shell-scirpts-linux-MOC]]
 - [x] [[0-my-linux-slander-the-linux-journey]]
 - [x] [[@-linux-gui-apps-moc]]
 - [x] [[0@-TWMs-vs-DEs-MOC]]

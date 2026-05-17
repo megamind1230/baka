@@ -1,4 +1,3 @@
-#1
 # database
 - [ ] database normalization
 - [ ] MySQL

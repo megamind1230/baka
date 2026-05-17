@@ -1,0 +1,69 @@
+just install `stow`
+
+create your `~/dotfiles/`
+and mirror you file structure inside of this directory
+
+# example structure inside ~/dotfiles/
+```c
+├── .bashrc
+├── .bashrc-aliases
+├── .bashrc-personal
+├── .config
+│   ├── hypr
+│   │   ├── hyprland.conf
+│   │   └── hyprpaper.conf
+│   ├── i3
+│   │   └── config
+│   ├── i3status
+│   │   └── config
+│   ├── kitty
+│   │   └── kitty.conf
+│   ├── mpv
+│   │   └── mpv.conf
+│   ├── nvim
+│   │   ├── init.lua
+│   │   ├── lazy-lock.json
+│   │   └── lua
+│   │       ├── colorscheme.lua
+│   │       ├── config
+│   │       │   └── lazy.lua
+│   │       ├── keymaps.lua
+│   │       ├── options.lua
+│   │       └── plugins
+│   │           ├── colorizer.lua
+│   │           ├── extras.lua
+│   │           ├── floaty
+│   │           │   └── lua
+│   │           │       └── floaty.lua
+│   │           ├── floaty.lua
+│   │           ├── lualine.lua
+│   │           ├── mini-nvim.lua
+│   │           ├── no-bad-nvim.lua#
+│   │           ├── oilnvim.lua
+│   │           └── twilight.lua
+│   ├── one
+│   │   ├── init.lua
+│   │   ├── lazy-lock.json
+│   │   └── lua
+│   │       ├── colorscheme.lua
+│   │       ├── config
+│   │       │   └── lazy.lua
+│   │       ├── keymaps.lua
+│   │       ├── options.lua
+│   │       └── plugins
+│   │           ├── colorizer.lua
+│   │           ├── lualine.lua
+│   │           ├── oilnvim.lua
+│   │           └── twilight.lua
+│   └── waybar
+│       ├── config
+│       └── style.css
+├── .emacs
+└── scripts
+    ├── calc
+    ├── cwp
+    ├── emote
+    ├── new-word
+    ├── timer
+    └── toglang
+```

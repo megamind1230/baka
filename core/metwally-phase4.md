@@ -1,4 +1,3 @@
-#1
 # network
 - [ ] network basics
 - [ ] HTTP(S): advanced and how it really works

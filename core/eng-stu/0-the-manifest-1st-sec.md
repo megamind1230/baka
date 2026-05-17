@@ -194,7 +194,6 @@ sum == X/282
 
 # tables
 ## daily
-==26-12-2025==
 
 | TOPIC4    | seif | ahmad | kareem | haneen |
 | --------- | ---- | ----- | ------ | ------ |
@@ -206,10 +205,23 @@ sum == X/282
 | 3:12      | 30   | 30    | 30     | 30     |
 ## weekly 
 
-| TOPIC4    | seif | ahmad | kareem | haneen |
-| --------- | ---- | ----- | ------ | ------ |
-| recap     | 0    | 0     | 0      | 0      |
-| 30 vocabs | 61.5 | 9     | 29     | 53.5   |
-| question  | 35   | 53    | 46     | 217    |
-| essay     | 2    | 2     | 2      | 2      |
-| ==Σ==     | 190.5    | 141     | 165      | 384.5      |
+| TOPIC4    | seif  | ahmad | kareem | haneen |
+| --------- | ----- | ----- | ------ | ------ |
+| recap     | 0     | 0     | 0      | 0      |
+| 30 vocabs | 61.5  | 9     | 29     | 53.5   |
+| question  | 35    | 53    | 46     | 217    |
+| essay     | 2     | 2     | 2      | 2      |
+| ==Σ==     | 190.5 | 141   | 165    | 384.5  |
+
+| ***criteria***          | haneen | karim | ahmad | seif |
+| ----------------------- | ------ | ----- | ----- | ---- |
+| taken words grades      |        |       |       |      |
+| cards                   |        |       |       |      |
+| ZAE                     |        |       |       |      |
+| weekly exam             |        |       |       |      |
+| essays written          |        |       |       |      |
+| topics                  |        |       |       |      |
+| books pages read grades |        |       |       |      |
+| extra                   |        |       |       |      |
+| ==Σ==                   |        |       |       |      |
+28-02-2026

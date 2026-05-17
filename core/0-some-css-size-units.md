@@ -1,4 +1,3 @@
-#1
 >font size can be (absolute `px` /relative)
 # reltive units
 - `%`

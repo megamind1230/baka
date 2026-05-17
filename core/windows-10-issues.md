@@ -4,6 +4,7 @@
 - [ ] [[keyboard-and-mouse-macro-recorder]]
 
 # done
+- [x] [[0-headset-mic-problem-in-windows-10]]
 - [x] [[0-how-to-stop-edge-from-showing-its-tabs-when-using-alt-tab]]
 - [x] how to open recycle bin without the icon on desktop
 	from exploerer `ctrl l recycle bin` 

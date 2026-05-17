@@ -1,4 +1,5 @@
 # not done
+- [ ] [[vim-arabic-support-issue]]
 - [ ] how to delete till end of line in insert mode (vim) like opposite of `ctrl u` ?
 - [ ] normal / insert `ctrl f` cus it does not do something important in vim
 - [ ] `ctrl shift c` opens terminal with current file path

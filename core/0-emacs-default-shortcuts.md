@@ -1,3 +1,6 @@
+# emacs motions
+![[0-emacs-motions.jpg]]
+# others
 - `ctrl j/m` > new line
 - `ctrl x` {buffers/windows related}
 	- `k` > kill buffer
@@ -6,12 +9,6 @@
 	- `1` > delete other windows
 	- `2` >  hori split
 	- `3` >  vert split
-- `space tab` workspaces
-	- `tab` > list them in status bar
-	- `n` > new
-	- `d` > delete
-	- `.` > switch by name
-	- `number` > switch by number
 - `ctrl p/n/b/f` `alt b/f` > move
 - `ctrl a/e` lines
 	- `alt a/e` sentences

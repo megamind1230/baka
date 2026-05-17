@@ -1,5 +1,5 @@
 - [x] [[0-7ittit-7ikmah-{ali-mo-ali}-p1]]
 - [x] [[7ittit-7ikmah-{ali-mo-ali}-p2]]
-- [x] [[7ittit-7ikmah-{ali-mo-ali}-p3]]
+- [x] [[0-7ittit-7ikmah-{ali-mo-ali}-p3]]
 - [x] [[7ittit-7ikmah-{ali-mo-ali}-p4]]
 - [x] [[7ittit-7ikmah-{ali-mo-ali}-p5]]

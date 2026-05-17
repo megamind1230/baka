@@ -27,3 +27,5 @@ https://vt.tiktok.com/ZSPqd8xk1/
 https://vt.tiktok.com/ZSPqeH4oA/
 
 https://youtu.be/weJ6wFlNSyU?si=4McSJDgZgDlSHYOJ
+
+- [x] [How to Install Tonarchy (2027 Edition) | Alpha Release - YouTube](https://www.youtube.com/watch?v=Q3nAPh4UkSk)

@@ -1,9 +1,3 @@
-# done
-- [x] https://linuxjourney.com/
-- [x] https://dev-random.net/linux-directory-structure-explained/
-
-
-
 # not done
 - [ ] [[@-linux-challenges-overthewire-bandit-moc]]
 - [ ] [Linux Handbook](https://linuxhandbook.com/)
@@ -12,5 +6,6 @@
 - [ ] [minimal linux blogs showcase](https://rms-support-letter.github.io/)
 - [ ] [Massive list of the best Linux resources I know of. - YouTube](https://www.youtube.com/watch?v=Jllnhid7O7w)
 
-
---- 
+# done
+- [x] https://linuxjourney.com/
+- [x] https://dev-random.net/linux-directory-structure-explained/

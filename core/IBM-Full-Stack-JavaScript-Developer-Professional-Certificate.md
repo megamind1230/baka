@@ -1,4 +1,3 @@
-#1 
 - [ ] [IBM Full-Stack JavaScript Developer Professional Certificate {~=166h}| Coursera](https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer#outcomes)
 # 01 [Introduction to Software Engineering | Coursera](https://www.coursera.org/learn/introduction-to-software-engineering?specialization=ibm-full-stack-javascript-developer)
 - module1

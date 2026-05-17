@@ -1,0 +1,2 @@
+- to rage gank an n with a shutdown
+- never fight untill the guy who pinged that he is close to getting his item is ready

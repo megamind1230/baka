@@ -1,104 +1,17 @@
 > nice hobby to do {search TIL on github}
-
-# graduation project ideas
-
-## [[0-my-grad-proj-ideas]] 
-
-## web or both
-[ref](https://nevonprojects.com/project-ideas/software-project-ideas/)
-- Topic Detection Using Keyword Clustering
-- Fingerprint Voting System Project
-- Waste Food Management & Donation App
-
-idk.. maybe not
-- Blockchain based Cross Border Payment System
-- Blockchain based Cloud File Sharing System
-- File Transfer System using Elliptic Curve Cryptography
-## mobile
-idk
-
-
+# [[0-great-projects-to-do-now]]
 
 # simple/crazy side project ideas
-- [ ] vscodevim contribute to add more missing functionalities
-- [ ] links storage app /  extension
-	- link repo app
-- [ ] [[my-serious-talk-app]]
-- [ ] radio phone calls app
-- [ ] Make a website to host images of mind maps / recaps  .. u pay uploaders from the ad profit [[0-ideas#graduation project ideas|can relate to mine here]]
-- [ ] Follow me bot..
-	بيتعلم حركة الماوس وبيعملها بعدين
-	وبيملى الفورم ببيانات ما لو انت جربت قدامه تعملها مرة وحدة
-	وكأنه مع كل حركة ليك بيعمل سكربت ليها ويكتبها
-	but suddenly I found this [macro recorder](https://www.jitbit.com/macro-recorder/macro-recorder-video-tutorial/)
-
-- [ ] app to visualize linked lists ( u type the code ... and a real time drawing happens beside)
-- [ ] a website for ranking codeforces problems 
-and having some discussion about them
-- [ ] مشروع جراف الأسانيد
-- [ ] a simple project to transfer gobrish english into the corresponding keystrokes in Arabic and vice versa
-
-- [ ] [[my-custom-stop-watch-app]]
-
-- [ ] a project to scrape what is the most used terms in the exams pdfs.. then highlight them inside the pdf with different colors (according to frequency).. to study the most important then next.. and so on
-- [ ] game of villages ..  {game of games}
-	- Genshin Impact like game .. where this is some villages
-		- each of them.. you can go and learn about some  useful skill .. like {vim, obsidian , zettelkasten, league of legends}
-- [ ] a very basic website to apply the corell note taking method .. a layout like in this frame
-	- https://youtu.be/q6VtSllQHHo?si=Sw-8-HGXJm5XrLP3&t=644
-
-
-
-- [ ] idea :can you create or resupport the old vim for notepad++ ?
-
 - [ ] a better fci zu channel .. idea is to explain subjects better and faster than profs themselves
-- [ ] heatmap.com  اعمل موقع تسجل فيه ستريك عاداتك المختلفة 
-
-- [ ] code to visualize the holy trifecta {dota2/league}
-dota2 purge trading ep 3
-can try provide a csv of values .. advanced i guess
-or at least tells me to either
-kite, attack while in range , run down enemy, run from enemy 
-
-- [ ] [[time-blocking-app]]
-
 - [ ] make your generic cpp classes for trees , linked lists.. etc
 
-- [ ] idea website learn this trick today
-a database of tricks in games like league of legends and dota2 
-like eg
-you sign up
-determine game
-determine champ/hero
-every day you learn 2 tricks.. one for macro, one for micro
-get emails + browser notifications 
-
-- [ ] idea website  rank your best friends or best friend leaderboard app {like the one in the facebook movie}
-you create a community.. add image of each person
-ppl signing in can pick between 1 of 2 friends showing
-you can comment the reasons for your pick
-small comments about 100 words max
-
-- [ ] create a dota2 synergy app
-you have a database with each hero having descrptive tags
-then you query the database according to synergy
-like
-if carry lacks cc then give him supp with cc 
-
-- [ ] idea website find a friend
-you sign in
-the website ranks the tags by popularity 
-you see one at a time
-you answer by yes or no
-the website keeps filtering ppl and showing more tags to try and provide you with the best pool of ppl from which you can find a friend
-you can view each user profile as a page of his social media platforms
-
-
-
-# channel ideas
+# youtube channel ideas
+- [ ] idea ..learn by example.. pl name
+- [ ] [[my-wiki-channels-project]]
+- idea يعم جاريني بس .. اسم بلايلست يوتيوب
+- بحب اطلع اصوات جديدة ziad zaza
 - [[0-playlist-names-for-my-channel]]
 - react to the primeagen obsidian , and see if he did more , plus answer his questions
-
 - مروان بابلو بربري التمويه بتاع الإضاءة كان المفروض يكون في عكس الاتجاه علشان يعطي ايحاء الحركة لقدام
 	- ودا عكس الفيديو
 	- يعني مروان بابلو كان راجع بضهره
@@ -151,14 +64,12 @@ you can view each user profile as a page of his social media platforms
 
 من حلول الكراك هو مشاركة الشركات في عمل foss حتى ولو بمميزات اقل بكثير من التطبيق الأصلي
 
-بحب اطلع اصوات جديدة ziad zaza
 sometimes I hate to talk about a topic that I don't master as a whole
 cuz it's better to explain when you have an wide outline for it
  but at the same time you don't want to waste the opportunity of having an idea about a single concept in that specific topic
  that you can share which maybe useful 
 so you share this single idea till you get some more information about that topic
 
-- wish dot com idea
 
 
 - get hired  تطبيق للتوظيف يوم بيوم شغلانة بشغلانة
@@ -166,7 +77,6 @@ so you share this single idea till you get some more information about that topi
 - [[the-comment-section-reaction-series]]
 - elites rating .. sign in get quizzed to check of you are elite or not .  get things to rate through your email
 
-- idea يعم جاريني بس .. اسم بلايلست يوتيوب
 
 - idea.. today we stream about ..
 	 both 
@@ -177,22 +87,43 @@ so you share this single idea till you get some more information about that topi
 	(better be educational, help ppl learn)
 
 
-- [ ] idea.. `we need a` .. app to save number of ppl in a region according to their profession
 
 
-- [ ] we need a simple communication application
-	- the website is a txt file and domain generator
-	- sign up with username .. get into dashboard of all communication files .. you can create txt files
-		- each file is has its link as follows {username1-username2}
-			- if hope i can make the {username2-username1} redirect to same page
-		- page UI is  split into 2 panes .. for each user
-			- each time the user inputs a message .. it leaves a timestamp before the message
-		- only txt website
-		- files are volatile .. deleted every day
-	- maybe later .. we can add dump channels ... like forums {with question in the link}
+- [ ] idea .. cook book app
 
-- [ ] [[my-wiki-channels-project]]
-- [ ] [[grad-proj-names-new]]
-- [ ] [[@-grad-proj-team-meetings-moc]]
-- [ ] idea ..learn by example.. pl name
-- [ ] idea .. simple drafting website for league and dota2 {with numbers representing how good a champ is}
+
+# later
+- radio phone calls app
+> [ref](https://nevonprojects.com/project-ideas/software-project-ideas/)
+- Topic Detection Using Keyword Clustering
+- Fingerprint Voting System Project
+- Waste Food Management & Donation App
+
+- Blockchain based Cross Border Payment System
+- Blockchain based Cloud File Sharing System
+- File Transfer System using Elliptic Curve Cryptography
+- [[my-serious-talk-app]]
+- [[0-my-grad-proj-ideas]] 
+- [[grad-proj-names-new]]
+- [[@-grad-proj-team-meetings-moc]]
+- vscodevim contribute to add more missing functionalities
+- Follow me bot..
+	- بيتعلم حركة الماوس وبيعملها بعدين
+	- وبيملى الفورم ببيانات ما لو انت جربت قدامه تعملها مرة وحدة
+	- وكأنه مع كل حركة ليك بيعمل سكربت ليها ويكتبها
+	- but suddenly I found this [macro recorder](https://www.jitbit.com/macro-recorder/macro-recorder-video-tutorial/)
+- Make a website to host images of mind maps / recaps  .. u pay uploaders from the ad profit [[0-ideas#graduation project ideas|can relate to mine here]]
+- app to visualize linked lists ( u type the code ... and a real time drawing happens beside)
+- game of villages ..  {game of games}
+	- Genshin Impact like game .. where this is some villages
+		- each of them.. you can go and learn about some  useful skill .. like {vim, obsidian , zettelkasten, league of legends}
+- [ ] مشروع جراف الأسانيد
+- [ ] a simple project to transfer gobrish english into the corresponding keystrokes in Arabic and vice versa
+
+- [ ] a project to scrape what is the most used terms in the exams pdfs.. then highlight them inside the pdf with different colors (according to frequency).. to study the most important then next.. and so on
+- [ ] a very basic website to apply the corell note taking method .. a layout like in this frame
+	- https://youtu.be/q6VtSllQHHo?si=Sw-8-HGXJm5XrLP3&t=644
+
+
+
+- [ ] idea :can you create or resupport the old vim for notepad++ ?

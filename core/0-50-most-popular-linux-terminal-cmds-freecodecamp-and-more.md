@@ -45,7 +45,7 @@
 - syntax `find <place> <filter>`
 - `find . -type f -size +100k -size -1M -name '*MOC.md'`
 	- any moc file of size between 100KB to 1MB
-- [[find-command]]
+- [[find-cmd]]
 # grep
 - stands for (go regular expression and print) > finds matches
 - `grep -ri "Moc" .`

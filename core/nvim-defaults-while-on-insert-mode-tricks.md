@@ -1,3 +1,13 @@
+# not done
+- [ ] `ctrl x` > completion, must combine with more keybindings
+	- [x] `ctrl n/p` > next/prev completion
+	- [x] `ctrl xf` > file
+	- [x] `ctrl xl` > line
+	- [ ] `ctrl xo` > neovim native lsp omni-completion
+	- [ ] `ctrl xs` > spell suggest
+	- [ ] `ctrl xk` > dict
+- [ ] `ctrl k char1 char2` > digraphs and insane characters, legatures 
+# done
 > `ctrl c/[ or esc` > escape
 
 - [x] `ctrl i` > insert tab {after cursor}
@@ -12,11 +22,3 @@
 - [x] `ctrl r regChar` > paste the register
 	- [x] `ctrl r=` > do simple math
 - [x] `ctrl a` > last inserted text
-- [ ] `ctrl x` > completion, must combine with more keybindings
-	- [x] `ctrl n/p` > next/prev completion
-	- [x] `ctrl xf` > file
-	- [x] `ctrl xl` > line
-	- [ ] `ctrl xo` > neovim native lsp omni-completion
-	- [ ] `ctrl xs` > spell suggest
-	- [ ] `ctrl xk` > dict
-- [ ] `ctrl k char1 char2` > digraphs and insane characters, legatures 

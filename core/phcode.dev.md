@@ -1,4 +1,3 @@
-#1
 [index.html (default project) - Phoenix (phcode.dev)](https://phcode.dev/)
 
 is just an online front-end ide

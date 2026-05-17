@@ -38,7 +38,7 @@
 - [ ] [[pdf-on-linux-and-add-image-to-pdf#some pdf recommendations|pdf stuff]]
 - [ ] emacs
 - [ ] krita
-- [ ] [[0@-obsidian-plugins-MOC]]
+- [ ] [[@-obsidian-plugins-MOC]]
 - [ ] kdenlive rendering options
 	- [ ] scripting?
 - [ ] download anki

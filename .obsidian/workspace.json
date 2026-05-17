@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e13e90e6e955e4cb",
+        "id": "b2dffc2ec6645205",
         "type": "tabs",
         "children": [
           {
-            "id": "897cd5cf7bfe2cb3",
+            "id": "24c117691e6dd5e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core/0-simple-how-to-of-pacman-cmds-arch.md",
+                "file": "0-social-info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-simple-how-to-of-pacman-cmds-arch"
+              "title": "0-social-info"
             }
           }
         ]
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "1710fa0f9e8f5c98",
+            "id": "13788e24a27f1230",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -76,8 +76,7 @@
               "title": "Zen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5e029fa968ce6c60",
@@ -103,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core/0-simple-how-to-of-pacman-cmds-arch.md",
+                "file": "core/computer-vision.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0-simple-how-to-of-pacman-cmds-arch"
+              "title": "Backlinks for computer-vision"
             }
           }
         ]
@@ -147,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core/0-simple-how-to-of-pacman-cmds-arch.md",
+                "file": "core/computer-vision.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0-simple-how-to-of-pacman-cmds-arch"
+              "title": "Outline of computer-vision"
             }
           },
           {
@@ -193,34 +192,40 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "897cd5cf7bfe2cb3",
+  "active": "24c117691e6dd5e8",
   "lastOpenFiles": [
-    "core/@-archlinux-MOC.md",
-    "core/AUR-with-paru.md",
+    "core/1st-sec-t2-eng-rewrite.md",
+    "core/1st-sec-t2-eng-story-qna.md",
+    "core/0-ideas.md",
+    "core/0-great-projects-to-do-now.md",
+    "core/0-my-grad-proj-ideas.md",
+    "core/Untitled.md",
+    "core/4th-elem-eng.md",
+    "core/3rd-prep-t2-paragraphs-2026.md",
+    "core/computer-vision-imgs-test.md",
+    "core/1st-prep-t2-eng-paragraphs.md",
+    "core/english-basics.md",
+    "core/math-basics.md",
+    "0-social-info.md",
+    "core/seleted-topics-2.md",
+    "core/computer-vision-lec1-lec2.md",
+    "core/0@-linux-MOC.md",
+    "core/league-of-linux-community-on-reddit.md",
+    "core/0-pomodoro-apps.md",
+    "core/obsidian-plugin-{icons}.md",
+    "core/intro-to-bash-scripting-basics-and-arrays-and-loops.md",
+    "core/@-database-design-MOC.md",
     "core/aur-arch-user-repository-with-yay-or-paru.md",
-    "core/temp.md",
-    "core/0-emacs-moc.md",
-    "core/0-emacs-default-shortcuts.md",
-    "core/csharp-dotnet-asp-rondo-dump-moc.md",
-    "core/dependency-injection.md",
-    "core/0-support-items.md",
-    "core/0-a-tiny-geometry-trick-while-cutting-in-audacity.md",
-    "core/0@-obsidian-plugins-MOC.md",
-    "core/obsidian-plugin-{outline-core}.md",
-    "core/0-best-fonts-to-distinguish-between-characters.md",
-    "core/0-nano-shortcuts.md",
-    "core/eng-stu/00-tarjama-vaccine.md",
-    "core/0@-linux-terminal-cmds-or-utilities-MOC.md",
-    "core/dd-cmd.md",
-    "core/0-types-of-plastic-containers.md",
-    "core/@-HOME-moc.md",
-    "core/nvim-vim-issues-moc.md",
-    "core/nvim-intermediate-shortcuts.md",
-    "core/cool-nvim-keymaps.md",
-    "core/pdf-on-linux-and-add-image-to-pdf.md",
-    "core/00-net-sec.md",
-    "core/windows-10-issues.md",
-    "core/0-weird-lua-for-nvim.md",
+    "core/cs-t1-js.md",
+    "core/ds-BST-delete-node-1.md",
+    "core/eng-stu/00-grammer-1st-sec-t1-p1.md",
+    "core/when-to-bait.md",
+    "attachments/Pasted-image-20231104153546.png",
+    "Untitled 1.canvas",
+    "0-emacs-motions.jpg",
+    "attachments/Pasted-image-20231104172302.png",
+    "my-dotfiles/fast-note.md~",
+    "Untitled.canvas",
     "attachments/Pasted Image 20250515182155_619.png",
     "Pasted image 20260110205537.png",
     "Pasted image 20260110205525.png",
@@ -228,10 +233,6 @@
     "Pasted image 20260110205238.png",
     "Pasted image 20260110205050.png",
     "Pasted image 20260110205016.png",
-    "Pasted image 20260110204951.png",
-    "Pasted image 20260110204912.png",
-    "Pasted image 20260110204901.png",
-    "Untitled.canvas",
     "00-23-11-2025-npm-start-error-and-no-local-host-link.canvas",
     "1st-sec-t1-essays.pdf",
     "core/eng-stu"

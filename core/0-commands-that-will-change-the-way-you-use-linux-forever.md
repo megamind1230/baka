@@ -28,4 +28,3 @@
 	- [x] `cp whatever .` 
 		- [x] `.` means here
 	- [x] `rename 's/\.png/\.gif/' *.png` [[@-regex-or-regular-expressions-moc|regex]] on rename
-	- [x] [[wget-command]]

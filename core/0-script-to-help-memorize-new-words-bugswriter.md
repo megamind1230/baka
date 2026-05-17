@@ -10,14 +10,14 @@ echo "$word | $meaning" >> /mnt/hdd/words.txt
 
 ```
 
-then add this one line to ur .bashrc / .zshrc
+then add this one line to ur `.bashrc` / .zshrc
 ```
 shuf -n 1 /mnt/hdd/words.txt
 ```
 
 > and it will show a new word everytime u open a terminal
 
-## this is my version
+## my version 07-02-2026
 ```bash
 #!/bin/bash
 # Script with fuzzel

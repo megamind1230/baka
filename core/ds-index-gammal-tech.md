@@ -10,7 +10,7 @@
 [[ds-double-circular-linked-list]]
 [[ds-recursion-2-explanation]]
 [[ds-memory-leak]]
-[[ds-new-&-delete]]
+[[ds-new-and-delete]]
 [[ds-exception]]
 [[ds-destructor]]
 [[ds-linked-list-(c++)]]

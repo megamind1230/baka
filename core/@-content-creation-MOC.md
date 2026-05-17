@@ -1,6 +1,6 @@
 [[the-exposure-triangle]]
 [[mobile-video-creation]]
 [[@-audacity-moc]]
-[[0@-gimp-MOC]]
+[[@-gimp-moc]]
 [[@-kdenlive- moc]]
 [[manim-python-library]]

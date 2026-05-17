@@ -1,0 +1,73 @@
+# great to do right now
+- [ ] idea.. `we need a` .. app to save number of ppl in a region according to their profession
+	- simple website { more database centric }
+	- list by country + governorate + city + village + craft/job/transportation
+	- the website lists people according to these filters
+		- each item with their social media / phone number contacts + a simple avator
+		- `can add rating for ppl too later on` but this requires signing in and auth from both sides
+- [ ] idea `make a wish` or `wish dot com` website { should be education-wise centric }
+	- sign in > make a wish {name something+put a price for it}
+	- wait in queue
+	- get blessed by ppl donating
+- [ ] links storage app /  extension
+	- link repo app
+		- either make it a perma daemon that runs in bg and gets triggered with a shortcut to store the last copied thing into a file
+		- or make it like telescope and make it store whatever you place
+- [ ] [[my-custom-stop-watch-app]]
+- [ ] heatmap.com  اعمل موقع تسجل فيه ستريك عاداتك المختلفة 
+- [ ] rank / vote per face { the zuckerberg website from the movie }
+	- a tender like website { refreshed weekly }
+	- every account must be authed
+	- people rate a person with 3 buttons { nice 👍 / idk ❓ / bad 👎 }
+	- also has this mode
+		- rank your best friends or best friend leaderboard app {like the one in the facebook movie}
+		- you create a community.. add image of each person
+		- ppl signing in can pick between 1 of 2 friends showing
+		- you can comment the reasons for your pick
+	
+small comments about 100 words max
+- [ ] a website for ranking codeforces problems 
+	- and having some discussion about them and the best resource to solve them from .. not giving direct solutions tho
+	- and giving `time outs / bans` to cheaters / ruiners / spoilers
+	- website must be moderated / have a review team
+- [ ] [[time-blocking-app]]
+- [ ] idea website learn this trick today
+	- a database of tricks in games like league of legends and dota2 like eg 
+	- you sign up with email/rss feed / telegram / whatsapp to get emails + browser/mobile notifications 
+	- determine game > determine champ/hero 
+	- now every day you learn 1 tricks macro and micro 
+- [ ] idea website find a friend
+	- you sign in
+		- 2 levels of authentecity
+			- 1st is to give your social media websites available at least 2
+			- 2nd give and real images of you { not AI } over the course of 3 days .. every day you send 1
+	- the website ranks the tags by popularity {by default}
+		- nudity/harrassment detected is perma banned
+		- unbanning requires a huge fine tax
+	- you see one person at a time with his tags
+		- you answer by yes or no
+		- or simply you just pick that specific tag that you both have in common
+	- the website keeps filtering ppl and showing more tags to try and provide you with the best pool of ppl from which you can find a friend
+	- you can view each user profile as a page of his social media platforms
+- [ ] we need a simple communication application
+	- the website is a txt file and domain generator
+	- sign up with username .. get into dashboard of all communication files .. you can create txt files
+		- each file is has its link as follows {username1-username2}
+			- if hope i can make the {username2-username1} redirect to same page
+		- page UI is  split into 2 panes .. for each user
+			- each time the user inputs a message .. it leaves a timestamp before the message
+		- only txt website
+		- files are volatile .. deleted every day
+	- maybe later .. we can add dump channels ... like forums {with question in the link}
+# dota 2
+- [ ] create a modular dota 2 website that has this mode
+	- [ ] code to visualize the holy trifecta {dota2/league}
+		- dota2 purge trading ep 3
+		- can try provide a csv of values .. advanced i guess
+		- or at least tells me to either
+		- kite, attack while in range , run down enemy, run from enemy 
+	- [ ] create a dota2 synergy app
+		- you have a database with each hero having descrptive tags
+		- then you query the database according to synergy
+		- ex: carry lacks cc > give him supp with cc recommendation
+	- [ ] idea .. simple drafting website for league and dota2 {with numbers representing how good a champ is}

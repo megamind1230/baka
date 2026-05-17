@@ -4,8 +4,7 @@
 	- has `hjkl` from vim
 	- right click drag
 		- can select whole paragraphs to copy
-- [x] i love pdf
-	- the website we all love
+- [x] i love pdf - the website we all love
 - [x] [[0-zathura-the-vimlike-modal-and-modular-pdf-viewer]]
 ## not done
 - [ ] how to add image to pdf

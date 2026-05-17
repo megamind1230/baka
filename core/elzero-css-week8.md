@@ -1,4 +1,3 @@
-#1
 # 74
 > Learn CSS In Arabic 2021 - #74 - Animation - KeyFrames, Name, Duration
 

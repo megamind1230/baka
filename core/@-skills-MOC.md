@@ -1,21 +1,23 @@
 ## must have
-- [x] [[0-fitness-and-calisthenics]]
+- [x] [[0-fitness-and-calisthenics-and-health]]
 - [x] [[studying-methods-moc| study and note-taking]]
 - [x] [[0-how-to-summarize-or-recap-videos-lectures-lesson-books-the-topics-you-study]]
 - [x] [[0-active-listening]]
 - [x] [[0-the-falocn-framework]]
 - [x] [[0-how-to-wake-up-properly-from-sleep-and-causes-of-face-puffiness-in-the-morning]]
 - [x] [[0-how-to-link-to-a-specific-part-in-a-youtube-video]]
+- [x] [[0-google-or-search-engine-tricks-google-dorks]]
 - [ ] [[prompt-engineering-moc]]
 - [ ] [[books-moc]]
 - [ ] [[time-blocking-app]]
+- [ ] [[0-making-use-of-the-summer-holiday-by-adel-samir]]
 
 ## OS
 - [x] [[0-windows-10-shortcuts|windows]]
 - [x] [[0-my-linux-slander-the-linux-journey|linux]]
 ## fast
 - [x] [[0-touch-typing]]
-- [x] [[0-google-dorks]]
+- [x] [[0-google-or-search-engine-tricks-google-dorks]]
 - [x] [[0-autohotkey-(AHK)-windows]]
 - [x] [[@-nvim-moc]]
 
@@ -44,6 +46,7 @@
 		- [x] reddit [mnk4](https://www.reddit.com/r/mnk4/)
 		- [x] github repo
 ## IRL
+- [x] [[0-how-to-draw-and-types-or-styles-of-drawing-to-try]]
 - [ ] IRL math
 - [ ] simple programming 
 - [ ] computer scripting

@@ -691,26 +691,6 @@ will be deleted
 all lines without http
 will be deleted
 
-Network Name: Dr.Print
-Type: WPA
-Password: Moh1907#
-Hidden
-
-
-Network Name: level
-Type: WPA
-Password: 56794134
-Hidden
-
-
-210852
-رقم محفظة فودافون كاش الخط الجديد
-
-MEC
-اسم المستخدم
-01015759780
-كلمة السر
-lbkxqfdz
 
 
 idea حلقة

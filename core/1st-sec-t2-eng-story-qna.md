@@ -1,0 +1,253 @@
+**==> How has Manolin changed by the end of the story?** كيف تغير مانولين بحلول نهاية القصة؟
+=> He matured from a boy into a confident young man who takes charge of Santiago's care and refuses to leave him again. نضج من صبي إلى شاب واثق يتولى رعاية سانتياجو ويرفض تركه مرة أخرى.
+
+**==> What does the sunset imagery represent?** ماذا تمثل صورة غروب الشمس؟
+=> The end of Santiago's career and life cycle, but also hope and renewal as it mirrors the lions of his youth. نهاية مسيرة سانتياجو وحياته، لكنها أيضاً أمل وتجدد كما تعكس أسود شبابه.
+
+**==> Why does Santiago sleep peacefully at the end?** لماذا ينام سانتياجو بهدوء في النهاية؟
+=> He fulfilled his purpose, fought with dignity, and knows Manolin will continue his legacy. حقق هدفه، قاتل بكرامة، ويعلم أن مانولين سيواصل إرثه.
+
+**==> How does the sea function as a teacher in the story?** كيف تعمل البحر كمعلم في القصة؟
+=> It teaches patience, respect for nature, humility, and that man is part of a larger world. تعلم الصبر، احترام الطبيعة، التواضع، وأن الإنسان جزء من عالم أكبر.
+
+**==> Why did Santiago dream of lions?** لماذا حلم سانتياجو بالأسود؟
+=> Lions represent his lost youth, strength, and the vitality he still feels inside despite his age. الأسود تمثل شبابه الضائع، قوته، والحيوية التي لا يزال يشعر بها رغم سنه.
+
+**==> What did Manolin want from Santiago at the start?** ماذا أراد مانولين من سانتياجو في البداية؟
+=> He wanted to fish with him again and learn from him, showing his loyalty and love. أراد أن يصطاد معه مرة أخرى وأن يتعلم منه، مظهراً ولاءه وحبه.
+
+**==> Why were tourists surprised at shore?** لماذا تفاجأ السياح على الشاطئ؟
+=> They mistook the marlin's skeleton for a shark's, showing their ignorance of Santiago's great struggle. أخطأوا في اعتبار هيكل المارلين قرشاً، مظهرين جهلهم بكفاح سانتياجو العظيم.
+
+**==> Why did Manolin refuse to leave Santiago again?** لماذا رفض مانولين ترك سانتياجو مرة أخرى؟
+=> He realized Santiago needed him and that true loyalty means staying through difficulty. أدرك أن سانتياجو يحتاجه وأن الولاء الحقيقي يعني البقاء في أوقات الصعوبة.
+
+**==> Why is the skeleton left visible to everyone?** لماذا ترك الهيكل العظمي مرئياً للجميع؟
+=> It silently proves Santiago's heroic struggle and dignity to the village. يثبت بصمت كفاح سانتياجو البطولي وكرامته للقرية.
+
+**==> How does the hut symbolize Santiago's inner world?** كيف يرمز الكوخ إلى العالم الداخلي لسانتياجو؟
+=> Its simplicity, order, and few possessions reflect his humble, disciplined, and content inner life. بساطته ونظامه وممتلكاته القليلة تعكس حياته الداخلية المتواضعة والمنضبطة والراضية.
+
+**==> Why does the boy's loyalty feel unconditional?** لماذا يبدو ولاء الصبي غير مشروط؟
+=> Manolin serves Santiago without expecting reward, driven purely by love and respect. يخدم مانولين سانتياجو دون توقع مكافأة، مدفوعاً بالحب والاحترام فقط.
+
+**==> Why did Santiago warn Manolin about the sea's changing moods?** لماذا حذر سانتياجو مانولين من تقلبات مزاج البحر؟
+=> To teach him respect for nature's power and unpredictability. لتعليمه احترام قوة الطبيعة وعدم قابليتها للتنبؤ.
+
+**==> What does the younger lion in Santiago's dream mean?** ماذا يعني الأسد الأصغر في حلم سانتياجو؟
+=> It symbolizes Manolin as Santiago's spiritual heir carrying his strength forward. يرمز إلى مانولين كوريث سانتياجو الروحي الذي يحمل قوته إلى الأمام.
+
+**==> What is the significance of the boy sharing the dream?** ما أهمية مشاركة الصبي للحلم؟
+=> It shows their deep spiritual bond and that Manolin truly understands Santiago. تظهر رابطهما الروحي العميق وأن مانولين يفهم سانتياجو حقاً.
+
+**==> Why does the boy ask about regret?** لماذا يسأل الصبي عن الندم؟
+=> He wants to confirm that Santiago's struggle had meaning beyond material success. يريد التأكد أن كفاح سانتياجو كان له معنى beyond النجاح المادي.
+
+**==> Why is the future described as "safe"?** لماذا يُوصف المستقبل بأنه "آمن"؟
+=> With Manolin by his side, Santiago's legacy and spirit are protected. مع مانولين إلى جانبه، إرث سانتياجو وروحه محميان.
+
+**==> Why did Santiago and Manolin go to the shore instead of fishing?** لماذا ذهب سانتياجو ومانولين إلى الشاطئ بدلاً من الصيد؟
+=> Santiago was too exhausted after his battle with the marlin and sharks. كان سانتياجو منهكاً للغاية بعد معركته مع المارلين والقرش.
+
+**==> What did tourists do when they saw the Marlin's skeleton?** ماذا فعل السياح عندما رأوا هيكل المارلين؟
+=> They misunderstood it, asked what it was, and showed ignorance of Santiago's achievement. أساؤوا فهمه، سألوا ما هو، وأظهروا جهلهم بإنجاز سانتياجو.
+
+**==> What did Manolin learn during this fishing trip?** ماذا تعلم مانولين خلال رحلة الصيد هذه؟
+=> Patience, respect for the sea, endurance, and the true meaning of being a fisherman. الصبر، احترام البحر، التحمل، والمعنى الحقيقي لكونك صياداً.
+
+**==> How did Santiago guide the boy when catching the larger fish?** كيف وجه سانتياجو الصبي عند اصطياد السمكة الأكبر؟
+=> He instructed him to let the fish tire itself, showing technique and wisdom. أرشده ليترك السمكة تتعب نفسها، مظهراً تقنية وحكمة.
+
+**==> How did Manolin handle the larger fish he caught?** كيف تعامل مانولين مع السمكة الأكبر التي اصطادها؟
+=> With patience and skill, following Santiago's guidance. بصبر ومهارة، متبعاً إرشادات سانتياجو.
+
+**==> How do Santiago's stories from the past influence Manolin's attitude?** كيف تؤثر حكايات سانتياجو من الماضي على موقف مانولين؟
+=> They inspire the boy's respect, loyalty, and desire to learn from him. تلهم احترام الصبي وولاءه ورغبته في التعلم منه.
+
+**==> What does Santiago's smile at the end reveal about his inner state?** ماذا تكشف ابتسامة سانتياجو في النهاية عن حالته الداخلية؟
+=> Inner peace, contentment, and acceptance of his struggle's meaning. السلام الداخلي، الرضا، والقبول بمعنى كفاحه.
+
+**==> Why do some people admire Santiago while others pity him?** لماذا يعجب بعض الناس بسانتياجو بينما يحتاجه الآخرون؟
+=> Admirers see his dignity and courage; others see only his poverty and bad luck. المعجبون يرون كرامته وشجاعته؛ الآخرون يرون فقره وسوء حظه فقط.
+
+---
+
+**==> How does Santiago's attitude toward people's opinions reflect his character?** كيف يعكس موقف سانتياجو من آراء الناس شخصيته؟
+=> He is indifferent to others' judgment, showing his self-respect and inner strength. هو غير مبالٍ بحكم الآخرين، مظهراً احترامه لذاته وقوته الداخلية.
+
+**==> What is the deeper meaning of fighting "with all your heart"?** ما المعنى الأعمق للقتال "بكل قلبك"؟
+=> True worth lies in the struggle itself, not the outcome. القيمة الحقيقية تكمن في الكفاح نفسه، وليس في النتيجة.
+
+**==> Why are the lions in Santiago's dream important?** لماذا الأسود في حلم سانتياجو مهمة؟
+=> They connect him to his prime, symbolizing enduring youth and vitality of spirit. تربطه بأوج عطائه، ترمز إلى شباب دائم وحيوية الروح.
+
+**==> How does this story transform failure into a form of success?** كيف تحول هذه القصة الفشل إلى شكل من أشكال النجاح؟
+=> Santiago lost the fish but proved his dignity, courage, and perseverance—moral victory over material loss. خسر سانتياجو السمكة لكنه أثبت كرامته وشجاعته وإصراره—انتصار أخلاقي على الخسارة المادية.
+
+**==> Why did the villagers show respect when Santiago returned?** لماذا أظهر القرويون احترامهم عندما عاد سانتياجو؟
+=> The skeleton proved his incredible struggle and restored his reputation. أثبت الهيكل كفاحه المذهل واستعاد سمعته.
+
+**==> How did Santiago feel when he saw the Marlin's skeleton?** كيف شعر سانتياجو عندما رأى هيكل المارلين؟
+=> Sad but proud—sad for the loss, proud of the noble creature and his fight. حزين لكن فخور—حزين على الخسارة، فخور بالمخلوق النبيل ومعركته.
+
+**==> What did the villagers begin to call Santiago after his return?** ماذا بدأ القرويون ينادون سانتياجو بعد عودته؟
+=> "El Campeón" (The Champion) or simply showed renewed respect for the old champion. "البطل" أو مجرد إظهار احترام متجدد للبطل العجوز.
+
+**==> What did both Santiago and Manolin dream about that night?** ماذا حلم سانتياجو ومانولين تلك الليلة؟
+=> The lions on the African beaches. الأسود على الشواطئ الأفريقية.
+
+**==> How does the Marlin's skeleton tell a story without words?** كيف يحكي هيكل المارلين قصة دون كلمات؟
+=> Its massive size and structure silently testify to Santiago's epic battle and endurance. حجمه الضخم وبنيته تشهدان بصمت على معركة سانتياجو الملحمية وتحمله.
+
+**==> Why is Santiago's struggle considered a victory even though he lost the fish's flesh?** لماذا يُعتبر كفاح سانتياجو انتصاراً رغم أنه خسر لحم السمكة؟
+=> He fought with unmatched courage and dignity; the struggle itself defines success. قاتل بشجاعة وكرامة لا مثيل لهما؛ الكفاح نفسه يحدد النجاح.
+
+**==> How does Manolin's presence in the dream deepen the story's message?** كيف يعمق وجود مانولين في الحلم رسالة القصة؟
+=> It shows the transfer of spirit from old to young, ensuring continuity of courage and hope. يظهر انتقال الروح من الكبير إلى الصغير، مضمناً استمرار الشجاعة والأمل.
+
+**==> Why is dignity emphasized more than success in the story?** لماذا تُؤكد الكرامة أكثر من النجاح في القصة؟
+=> Hemingway believed a man can be destroyed but not defeated—dignity in struggle matters more than winning. آمن همنغواي أن الإنسان يمكن أن يُدمر لكن لا يُهزم—الكرامة في الكفاح أهم من الفوز.
+
+**==> Why does Santiago focus on guiding rather than controlling Manolin?** لماذا يركز سانتياجو على التوجيه بدلاً من التحكم في مانولين؟
+=> He respects the boy's growth and wants him to learn independently, not just obey. يحترم نمو الصبي ويريده أن يتعلم باستقلالية، لا أن يطيع فقط.
+
+**==> How does carrying the mast symbolize Santiago's inner struggle?** كيف يرمز حمل السارية إلى كفاح سانتياجو الداخلي؟
+=> Like Christ carrying the cross, it represents bearing life's burdens with dignity and perseverance. كما يحمل المسيح الصليب، يمثل تحمل أعباء الحياة بكرامة وإصرار.
+
+**==> Why does Santiago continue to dream of lions despite his age and pain?** لماذا يستمر سانتياجو في الحلم بالأسود رغم سنه وألمه؟
+=> The lions represent eternal youth and strength of spirit that age cannot diminish. الأسود تمثل الشباب الأبدي وقوة الروح التي لا يمكن للسن أن تضعفها.
+
+**==> What role does memory play in keeping Santiago strong?** ما دور الذاكرة في إبقاء سانتياجو قوياً؟
+=> Memories of his prime and the lions sustain his courage and will during hardship. ذكريات أوج عطائه والأسود تدعم شجاعته وإرادته خلال المحن.
+
+**==> What life lessons did Santiago teach the boy on this final trip?** ما الدروس الحياتية التي علمها سانتياجو للصبي في هذه الرحلة الأخيرة؟
+=> Patience, respect for nature, endurance, humility, and dignity in struggle. الصبر، احترام الطبيعة، التحمل، التواضع، والكرامة في الكفاح.
+
+**==> How did the boy show courage and growth?** كيف أظهر الصبي شجاعته ونموه؟
+=> He insisted on carrying heavy things, stayed loyal despite his parents, and took charge of Santiago's care. أصر على حمل الأشياء الثقيلة، بقي مخلصاً رغم والديه، وتولى رعاية سانتياجو.
+
+**==> Why did Santiago say he regretted nothing about the marlin?** لماذا قال سانتياجو أنه لا يندم على شيء بخصوص المارلين؟
+=> He honored the fish by fighting it worthily; regret would dishonor their noble struggle. كرم السمكة بقتالها بجدارة؛ الندم سيشوه كفاحهما النبيل.
+
+**==> How did the villagers view Santiago differently by the end?** كيف نظر القرويون إلى سانتياجو بشكل مختلف في النهاية؟
+=> From a "salao" unlucky old man to a respected champion who proved his greatness. من عجوز "سالاو" محظوظ سيئ إلى بطل محترم أثبت عظمته.
+
+**==> Why do some people consider "the ending" "a new beginning"?** لماذا يعتبر بعض الناس "النهاية" "بداية جديدة"؟
+=> Manolin's commitment to fish with Santiago again promises renewal and continuation. التزام مانولين بالصيد مع سانتياجو مرة أخرى يعد بالتجدد والاستمرار.
+
+**==> What does the resting moment on the boat symbolize?** ماذا يرمز لحظة الراحة على القارب؟
+=> Peace after struggle, and the cyclical nature of life and work. السلام بعد الكفاح، والطبيعة الدورية للحياة والعمل.
+
+---
+
+**==> How does Santiago define defeat?** كيف يعرف سانتياجو الهزيمة؟
+=> "A man can be destroyed but not defeated"—giving up internally is true defeat, not external loss. "يمكن تدمير الإنسان لكن لا يمكن هزيمته"—الاستسلام الداخلي هو الهزيمة الحقيقية، ليس الخسارة الخارجية.
+
+**==> What does Santiago call the sea?** ماذا ينادي سانتياجو البحر؟
+=> "La mar" (feminine), showing affection and respect, unlike younger fishermen who say "el mar." "لا مار" (مؤنث)، مظهراً الحب والاحترام، على عكس الصيادين الأصغر سناً الذين يقولون "إل مار."
+
+**==> How has Santiago changed by the end of the story?** كيف تغير سانتياجو بحلول نهاية القصة؟
+=> He moved from isolation and doubt to peaceful acceptance and renewed purpose through Manolin. انتقل من العزلة والشك إلى القبول السلمي والهدف المتجدد عبر مانولين.
+
+**==> What does Manolin sharpening hooks symbolize?** ماذا يرمز شحذ مانولين للخطافات؟
+=> Preparation for the future and his readiness to continue Santiago's work and legacy. الاستعداد للمستقبل واستعداده لمواصلة عمل سانتياجو وإرثه.
+
+**==> What role does memory play in Santiago's strength?** ما دور الذاكرة في قوة سانتياجو؟
+=> It sustains him through hardship, connecting him to his prime and giving him courage. تدعمه خلال المحن، تربطه بأوج عطائه وتمنحه الشجاعة.
+
+**==> How does teaching give Santiago new purpose?** كيف يمنح التعليم سانتياجو هدفاً جديداً؟
+=> Passing wisdom to Manolin gives his life meaning beyond catching fish. نقل الحكمة إلى مانولين يمنح حياته معنى beyond اصطياد السمك.
+
+**==> Why does Santiago feel young in the presence of the lions?** لماذا يشعر سانتياجو بالشباب في حضور الأسود؟
+=> The lions reconnect him to his youthful strength and vitality. الأسود تعيد ربطه بقوته وحيويته الشبابية.
+
+**==> How does silence play a role during the fishing journey?** كيف يلعب الصمت دوراً خلال رحلة الصيد؟
+=> It builds focus, respect, and the spiritual bond between Santiago, Manolin, and nature. يبني التركيز، الاحترام، والرابط الروحي بين سانتياجو ومانولين والطبيعة.
+
+**==> What lesson does Manolin learn from letting the larger fish tire itself?** ما الدرس الذي تعلمه مانولين من ترك السمكة الأكبر تتعب نفسها؟
+=> Patience and timing are more important than force. الصبر والتوقيت أهم من القوة.
+
+**==> Why does Santiago warn Manolin not to hurry when fishing?** لماذا يحذر سانتياجو مانولين من التسرع عند الصيد؟
+=> Haste leads to mistakes; patience ensures success and respect for the fish. التسرع يؤدي إلى الأخطاء؛ الصبر يضمن النجاح والاحترام للسمكة.
+
+**==> How does Santiago's calm reaction to the rough sea reflect wisdom?** كيف يعكس هدوء سانتياجو تجاه البحر العاصف حكمته؟
+=> Experience has taught him to accept what he cannot control. التجربة علمته قبول ما لا يمكنه التحكم فيه.
+
+**==> What does eating the fish raw suggest about Santiago's life as a sailor?** ماذا يوحي أكل السمك نيئاً عن حياة سانتياجو كبحار؟
+=> Hardship and necessity are part of his simple, practical existence. المشقة والضرورة جزء من وجوده البسيط والعملي.
+
+**==> How does the changing sea reflect an important lesson in the story?** كيف يعكس البحر المتغير درساً مهماً في القصة؟
+=> Life is unpredictable; one must adapt with humility and resilience. الحياة غير متوقعة؛ يجب على المرء التكيف بتواضع ومرونة.
+
+**==> How does pain affect Santiago's wisdom?** كيف يؤثر الألم على حكمة سانتياجو؟
+=> It deepens his understanding and endurance, making him more compassionate. يعمق فهمه وتحمله، مما يجعله أكثر رحمة.
+
+**==> What role does patience play in the story?** ما دور الصبر في القصة؟
+=> Essential for fishing, survival, and maintaining dignity under hardship. ضروري للصيد، البقاء، والحفاظ على الكرامة تحت المشقة.
+
+**==> Why does the boy insist on carrying heavy things?** لماذا يصر الصبي على حمل الأشياء الثقيلة؟
+=> To prove his strength, show respect, and serve Santiago. لإثبات قوته، إظهار الاحترام، وخدمة سانتياجو.
+
+**==> Why is humility essential to Santiago's character?** لماذا التواضع ضروري لشخصية سانتياجو؟
+=> It allows him to accept help, respect the sea, and maintain dignity without pride. يسمح له بقبول المساعدة، احترام البحر، والحفاظ على الكرامة دون غرور.
+
+**==> How does the village mirror human judgment?** كيف تعكس القرية الحكم البشري؟
+=> It shows how people judge by appearances and luck rather than true character. تظهر كيف يحكم الناس بالمظاهر والحظ بدلاً من الشخصية الحقيقية.
+
+**==> Why does the story begin with the villagers' reactions instead of Santiago's thoughts?** لماذا تبدأ القصة بتفاعلات القرويين بدلاً من أفكار سانتياجو؟
+=> To establish the contrast between public perception and Santiago's true worth. لإرساء التباين بين الإدراك العام وقيمة سانتياجو الحقيقية.
+
+**==> How does public opinion shape Santiago's image in the village?** كيف تشكل الرأي العام صورة سانتياجو في القرية؟
+=> It fluctuates with his luck, but the skeleton finally reveals his true greatness. يتقلب مع حظه، لكن الهيكل أخيراً يكشف عظمته الحقيقية.
+
+**==> What lesson did Santiago teach about fishing lines?** ما الدرس الذي علمه سانتياجو عن خطوط الصيد؟
+=> Precision, care, and respect for equipment reflect respect for the craft. الدقة، العناية، واحترام المعدات تعكس احترام المهنة.
+
+**==> How did Manolin feel while practicing knots?** كيف شعر مانولين أثناء ممارسة العقد؟
+=> Proud, focused, and connected to Santiago's teaching. فخور، مركز، ومتصل بتعليم سانتياجو.
+
+**==> What did Santiago say a fisherman is judged by?** ماذا قال سانتياجو أن الصياد يُحكم عليه بماذا؟
+=> By his skill, dignity, and how he handles himself, not just his catch. بمهارته وكرامته وكيف يتصرف، ليس فقط بما يصطاده.
+
+---
+
+**==> Why does Santiago describe himself as stubborn?** لماذا يصف سانتياجو نفسه بالعناد؟
+=> His stubbornness is his refusal to give up, which keeps him going. عناده هو رفضه الاستسلام، الذي يبقيه مستمراً.
+
+**==> What does the return to the hut symbolize at the end of the day?** ماذا يرمز العودة إلى الكوخ في نهاية اليوم؟
+=> Coming home to simplicity, rest, and the cyclical nature of life. العودة إلى البيت للبساطة، الراحة، وطبيعة الحياة الدورية.
+
+**==> How is stubbornness presented as a positive trait in the story?** كيف يُقدم العناد كسمة إيجابية في القصة؟
+=> It becomes perseverance—the refusal to surrender defines his heroism. يصبح إصراراً—رفض الاستسلام يحدد بطولته.
+
+**==> Why does Santiago plan to fish together with the boy next time?** لماذا يخطط سانتياجو للصيد مع الصبي في المرة القادمة؟
+=> It gives him hope, purpose, and ensures his legacy continues. يمنحه الأمل، الهدف، ويضمن استمرار إرثه.
+
+**==> What lesson does Santiago want Manolin to carry into the future?** ما الدرس الذي يريد سانتياجو أن يحمله مانولين إلى المستقبل؟
+=> Dignity, courage, respect for nature, and endurance in struggle. الكرامة، الشجاعة، احترام الطبيعة، والتحمل في الكفاح.
+
+**==> Why does the boy say he will not let the sharks win?** لماذا يقول الصبي أنه لن يدع القروش تفوز؟
+=> He commits to protecting Santiago's legacy and fighting with the same courage. يلتزم بحماية إرث سانتياجو والقتال بنفس الشجاعة.
+
+**==> Why did Manolin cry when he saw Santiago sleeping?** لماذا بكى مانولين عندما رأى سانتياجو نائماً؟
+=> He was moved by Santiago's suffering, exhaustion, and frailty. تأثر بمعاناة سانتياجو وإرهاقه وهشاشته.
+
+**==> What promise did Manolin make to Santiago?** ما الوعد الذي قطعه مانولين لسانتياجو؟
+=> That he would fish with him again and never leave him. أنه س يصطاد معه مرة أخرى ولن يتركه أبداً.
+
+**==> What does Santiago's dream of lions mean?** ماذا يعني حلم سانتياجو بالأسود؟
+=> Enduring youth, strength, and the vitality of spirit beyond age. الشباب الدائم، القوة، وحيوية الروح beyond السن.
+
+--- 
+
+**==> Why do you think the villagers' attitude toward Santiago changed after his return?** لماذا تعتقد أن موقف القرويين تجاه سانتياجو تغير بعد عودته؟
+=> Physical proof of his struggle made them recognize his true greatness. الدليل المادي على كفاحه جعلهم يدركون عظمته الحقيقية.
+
+**==> How does the writer use silence to show respect and meaning in the story?** كيف يستخدم الكاتب الصمت لإظهار الاحترام والمعنى في القصة؟
+=> Silence during fishing and at the end conveys deep emotion beyond words. الصمت خلال الصيد وفي النهاية ينقل عاطفة عميقة beyond الكلمات.
+
+**==> How does Manolin's reaction show the importance of companionship in difficult times?** كيف يظهر تفاعل مانولين أهمية الصحبة في أوقات الصعوبة؟
+=> His care and loyalty restore Santiago and prove love transcends material loss. رعايته وولاؤه يستعيدان سانتياجو ويثبتان أن الحب يتجاوز الخسارة المادية.
+
+**==> Why does Santiago believe the marlin was "worth everything" he suffered?** لماذا يعتقد سانتياجو أن المارلين كان "يستحق كل شيء" عاناه؟
+=> The noble struggle honored both man and fish, giving his life deep meaning. الكفاح النبيل كرم الإنسان والسمكة معاً، منح حياته معنى عميقاً.
