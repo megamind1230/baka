@@ -1,4 +1,3 @@
-#1
 - `sudo` SuperUser do
 - `whoami`
 	- gives the username

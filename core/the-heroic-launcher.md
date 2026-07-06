@@ -1,4 +1,3 @@
-#1
 - Support for importing already installed games 
 - Support for installing, uninstalling, updating, repairing, and moving games
 - It is important to note that Proton was not designed to run games outside of Steam, and the results may vary. You can check for compatibility information for each game on the ProtonDB website: [https://www.protondb.com](https://www.protondb.com/)

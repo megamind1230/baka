@@ -1,0 +1,175 @@
+* TODO what does unit testing mean simply
+can I do simple project with it
+  [2026-03-07 Sat 07:31]
+
+*** ✅ Simple meaning of /Unit Testing/
+:PROPERTIES:
+:CUSTOM_ID: simple-meaning-of-unit-testing
+:END:
+*Unit testing = testing small pieces of your code (units) to make sure
+each one works correctly.*
+
+- A /unit/ is usually a *method/function*
+- You test it *independently* from the rest of the program
+
+👉 Think of it like:
+
+#+begin_quote
+Instead of testing the whole car, you test the *engine alone*, then the
+*brakes alone*, etc.
+#+end_quote
+
+--------------
+
+*** 💡 Why it matters
+:PROPERTIES:
+:CUSTOM_ID: why-it-matters
+:END:
+- Finds bugs early 🐛
+- Makes your code safer to change
+- Helps you understand your own code better
+
+--------------
+
+*** 🧠 Simple C# example
+:PROPERTIES:
+:CUSTOM_ID: simple-c-example
+:END:
+Let's say you wrote this method:
+
+#+begin_src csharp
+public int Add(int a, int b)
+{
+    return a + b;
+}
+#+end_src
+
+A *unit test* checks if it works correctly:
+
+#+begin_src csharp
+[Test]
+public void Add_ShouldReturnCorrectSum()
+{
+    int result = Add(2, 3);
+
+    Assert.AreEqual(5, result);
+}
+#+end_src
+
+👉 This test says:
+
+- Call =Add(2, 3)=
+- Expect the result to be =5=
+
+--------------
+
+*** 🧰 Tools in C# (very common)
+:PROPERTIES:
+:CUSTOM_ID: tools-in-c-very-common
+:END:
+You usually use frameworks like:
+
+- NUnit
+- xUnit
+- MSTest
+
+They provide:
+
+- =[Test]= → marks a test
+- =Assert= → checks results
+
+--------------
+
+*** 🚀 Can you do a simple project? YES (good idea)
+:PROPERTIES:
+:CUSTOM_ID: can-you-do-a-simple-project-yes-good-idea
+:END:
+Start small. Example project:
+
+**** 🧮 "Calculator with tests"
+:PROPERTIES:
+:CUSTOM_ID: calculator-with-tests
+:END:
+1. Create methods:
+
+#+begin_src csharp
+Add(a, b)
+Subtract(a, b)
+Multiply(a, b)
+Divide(a, b)
+#+end_src
+
+2. [@2] Write tests for each:
+
+#+begin_src csharp
+[Test]
+public void Divide_ByZero_ShouldThrowError()
+{
+    Assert.Throws<DivideByZeroException>(() => Divide(5, 0));
+}
+#+end_src
+
+--------------
+
+*** 🔑 Key concepts (easy terms)
+:PROPERTIES:
+:CUSTOM_ID: key-concepts-easy-terms
+:END:
+- *Test case* → one check (e.g., 2+3=5)
+- *Assert* → verify result
+- *Test suite* → group of tests
+- *Pass/Fail* → result of test
+
+--------------
+
+*** 🧩 Mental model
+:PROPERTIES:
+:CUSTOM_ID: mental-model
+:END:
+- Your app = big machine
+- Unit tests = small inspectors checking each part
+
+--------------
+
+If you want, I can guide you step-by-step to:
+
+- set up a C# test project
+- or build a mini real project with unit tests 👍
+
+
+* TODO how to select every thing that does not match a regex in neovim
+  [2026-03-26 Thu 14:27]
+* TODO can you fkn make me a proper ex and compress bash function
+  [2026-02-20 Fri 18:27]
+* TODO what is ctrl ca in org {attach file}
+  [2026-02-14 Sat 20:56]
+* TODO How migrations relate to DbContext
+  [2026-01-18 Sun 20:03]
+* TODO Using multiple DbSets together
+    * tracking and no tracking
+  [2026-01-18 Sun 20:24]
+* TODO csharp-specific rules (`virtual`, `override`, `new`) + Common interview traps
+  just tell me 👍
+* TODO wtf is projectile in emacs
+  [2026-02-14 Sat 20:59]
+* TODO how to setup system defaults in both xorg and wayland
+  [2026-02-20 Fri 18:31]
+for example .. the default
+terminal
+browser
+text editor
+
+* TODO disable notify-send on 'new-word' script on xorg
+  [2026-02-28 Sat 06:07]
+* TODO study these
+
+/mnt/hdd/st/obsi/vault_bank/core/fd-and-find-and-rg-or-rip-grep-commads.md
+/mnt/hdd/st/obsi/vault_bank/core/how-to-transfer-files-between-two-computers.md
+* TODO <() how to use it in bash scripting, why is it useful, tricks
+  [2026-03-07 Sat 07:35]
+* TODO delegates-and-events
+  [2026-03-26 Thu 17:54]
+* TODO ctrl x i { insert file } 
+  [2026-04-04 Sat 21:02]
+* TODO alias/func to freely convert between .md / .org
+  [2026-04-04 Sat 21:06]

@@ -1,22 +1,21 @@
-#todo
-- [ ] [25 Most Used VS Code Shortcuts And More + Cheat Sheet](https://www.crio.do/blog/vs-code-shortcuts/)
+- [x] [25 Most Used VS Code Shortcuts And More + Cheat Sheet](https://www.crio.do/blog/vs-code-shortcuts/)
 - `alt enter` after searching a word {the vscode way}
 	- puts a cursor on each occurance .. so u can do whatever
 - `ctrl shift p `> pallet of commands (your best friend)
 
 - `ctrl tilde` > terminal 
 - `In terminal` > code folderName
-- `alt no.`> switch to that file
+- `alt number`> switch to that file
 - `ctrl p `> write down file name .. if project is big
 - `ctrl k w`> close all windows 
 - `Folder/folder2/whatever.anything` > creates the heirarchy 
 - `ctrl b` > more view space
-- `ctrl \` > split editor .. ctrl no. .. go to slice
+- `ctrl \` > split editor .. ctrl number .. go to slice
 - `alt shift arrow` > duplicate line at direction
 - `ctrl d` > add next match to selection
 - `alt arrow` > move line to direction 
 - `ctrl shift o` > list all mentioned vars and funcs..to navigate
-- `ctrl g no.` > go to line no.
+- `ctrl g number` > go to line number
 - `ctrl hover` > more info
 - `alt multi click` > set cursor and different places to edit
 - `ctrl tab` > switch between files
@@ -46,7 +45,7 @@
 - select some code > `ctrl .` > to view some more actions you can do with it
 - `ctrl space` > recommends functions that can replace this one
 
-- `leader `` ` > close folder/workstation #shortcuts/vim/vscode/vimed 
+- `leader `` ` > close folder/workstation
 
 https://www.youtube.com/watch?v=dI34jrEtmB0
 
@@ -58,3 +57,5 @@ https://www.youtube.com/watch?v=ifTF3ags0XI
 [[0-html-and-css-emmet-or-snippets-in-vscode]]
 
 - `alt z` > globally word-wrap long line
+
+

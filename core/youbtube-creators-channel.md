@@ -1,4 +1,3 @@
-#1
 [YouTube Creators - YouTube](https://www.youtube.com/@youtubecreators/playlists)
 [Arabic YouTube Creators Channel - YouTube](https://www.youtube.com/@youtubecreatorsarabic/playlists)
 

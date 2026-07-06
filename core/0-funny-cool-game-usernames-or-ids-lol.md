@@ -1,12 +1,17 @@
 - [x] introbird 
 - tobby lag-uire
 - pc clear
-- eren yoga - eren yogurt
+- [x] eren yoga - eren yogurt
 - totally me
 - sombrero 
-- yussif alt i {يوسف ألطاي}
+- [x] yussif alt i {يوسف ألطاي}
 - drive py-ke
 - nicole saga
 - Musso-leesin
 - i-touch-neutral-camps
-- Al-kaisa
+- AL-kaisa
+- edith puthee
+- Lou-Sassole
+- gabe itch
+- mike oxmaul
+- dixon sider

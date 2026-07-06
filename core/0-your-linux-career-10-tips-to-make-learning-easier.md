@@ -1,4 +1,3 @@
-#1
 from learnlinuxtv
 - test multiple distros, even if in live mode
 - ignore haters, don't compare yourself to others

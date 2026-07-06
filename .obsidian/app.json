@@ -16,5 +16,6 @@
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "core",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "showUnsupportedFiles": true
 }

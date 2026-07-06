@@ -1,0 +1,606 @@
+* DONE emacs confu
+| shortcut          |                | more info         |
+|-------------------+----------------+-------------------|
+| ctrl x left/right | cycle buffers  |                   |
+| M-n/p             | next/prev item | corfu completion, |
+| ctrl g            | cancel         | corfu             |
+| tab               | select         | corfu             |
+
+* DONE help
+| shortcut           |                                   |
+|--------------------+-----------------------------------|
+| ctrl h f/v/m/P/b/k | func/var/mode/Package/binding/key |
+| M-x info           | best man pages for emacs          |
+| M-x man            | read man inside emacs             |
+
+* DONE lisp
+(message "Hello %s" 'emacs)
+| shortcut        |                          |
+|-----------------+--------------------------|
+| ctrl xe         | eval expr                |
+| M-x eval-buffer | render file as lisp code |
+
+* DONE learning emacs lists [1/1]
+- [-] like this [100%]
+  + [X] tab also on list to down
+  + [X] shift arrow > change list @@comment:style@@
+  + [-] idk fr what is this :: something
+  + i was watching this [[https://www.youtube.com/watch?v=VcgjTEa0kU4&list=PLdLYBLkBDcyheUwZz73HEXlOD3iZEX_DC&index=7][video]]
+  + emacs يقدر يفهم arabic
+  + مثال زي keda
+
+* DONE emacs shortcut for fast checklist adding
+SCHEDULED: <2026-01-07 Wed 09:00>
+  [2026-01-06 Tue 20:50]
+solution :
+    just make one
+    alt shift enter
+
+| shortcuts       | info                                             |
+|-----------------+--------------------------------------------------|
+| enter           | new line                                         |
+| ctrl enter      | same as prev heading {in a proper place}         |
+| alt enter       | same as prev {but cuts}                          |
+| shift enter     | only in tables {copy field above                 |
+| alt shift enter | weird {checklists /gives TODO mark for headings? |
+| ctrl cc         | toggle check                                     |
+
+* DONE what are emacs tags .. how to make use of them .. related to org? :q:org:
+SCHEDULED: <2026-01-09 Fri 08:00>
+| shorcuts            | info                                          |
+| ctrl cc  OR ctrl cq | create tag                                    |
+| ctrl c a m          | search by tag / todo                          |
+| ctrl c a t          | show todo .. can do /work for more tag search |
+|                     |                                               |
+
+
+work&urgent, -work, work|urgent
+tag on higher headings .. make childs inherit
+
+* DONE how to do emacs links
+| shortcut      |                       |                           |
+|---------------+-----------------------+---------------------------|
+| ctrl cl       | create link           |                           |
+| ctrl co OR gx | follow link           |                           |
+| ctrl c i      | create id for heading | custom.. i made it myself |
+|               |                       |                           |
+
+* DONE windows
+| shortcut                         |                                             |
+|----------------------------------+---------------------------------------------|
+| alt }{                           | jump parag up/down                          |
+| alt gg                           | go line                                     |
+| ctrl x 0                         | kill window                                 |
+| ctrl x 1                         | close others then fullsreen/max this window |
+| ctrl x 2                         | win below                                   |
+| ctrl x 3                         | win right                                   |
+| ctrl x o                         | other win                                   |
+| ctrl x b                         | other buffer                                |
+| M-x winmove-default-keybings     | now shift+arrow > moves cursor to win       |
+| ctrl x rw some-register-char     | store layout                                |
+| ctrl x rj the-same-register-chat | restore layout {jump to layout}             |
+| ctrl xw                          | clone a backup to this file                 |
+| ctrl xq                          | toggle readonly on this file                |
+| ctrl x d                         | dired                                       |
+
+* DONE default emacs search and edit
+| shortcut                     |                                         |                                          |
+|------------------------------+-----------------------------------------+------------------------------------------|
+| ctrl space                   | select                                  |                                          |
+| ctrl w                       | cut                                     |                                          |
+| alt w                        | copy                                    |                                          |
+| ctrl y                       | paste                                   |                                          |
+| alt BS                       | del prev word                           |                                          |
+| alt h                        | highlight parag                         | really good                              |
+| ctrl x h                     | highlight all                           |                                          |
+| ctrl / OR ctrl shift -       | undo                                    | bad                                      |
+| ctrl alt shift -             | redo                                    | bad                                      |
+| alt x insert-char            | insert emoji                            |                                          |
+| ctrl s something then ctrl r | search then go next forward OR backward | bad.. emacs has 2 directions for search? |
+| alt %                        | normal replace                          |                                          |
+| ctrl alt %                   | regex replace                           | y,n,!                                    |
+| M-x save-place-mode          | save cursor position on files you kill  |                                          |
+
+* DONE how to search {body} non heading content in my org files/ ogenda
+SCHEDULED: <2026-01-10 Sat>
+  [2026-01-10 Sat 13:53]
+ ctrl c a s
+
+* DONE ocr tool for linux .. for faster book reading
+SCHEDULED: <2026-01-15 Thu 10:00>
+  [2026-01-08 Thu 19:41]
+- [X] [ocrmypdf cli](https://github.com/ocrmypdf/OCRmyPDF)
+* DONE why some website require cookies and js on emacs and how to open all of them in eww
+SCHEDULED: <2026-01-15 Thu 08:00>
+cuz eww is not built for js heavy websites nor for the ones depending on cookies
+  [2026-01-13 Tue 11:50]
+* DONE dbcontext
+SCHEDULED: <2026-01-18 Sun>
+
++ dbcontext: DbContext is the main class in {ef core} that lets you work with a database using C# objects instead of SQL.
+  + a short-life session with the real database.. in c# without actually writing sql
+  + It
+    1. knows:
+         Which tables exist
+         How C# classes map to tables
+             maps rows to objects { classes with tables }
+         How to read, add, update, and delete data
+    2. almost auto opens/closes connection
+    3. tracks and saves changes
+
+DbContext → represents the whole database
+DbSet → represents one table inside that database
+
+Add() is on DbSet
+SaveChanges() is on DbContext
+
+| Feature             | DbContext                    | DbSet         |
+| ------------------- | ---------------------------- | ------------- |
+| Represents          | Whole database               | Single table  |
+| Contains            | DbSets                       | Entities      |
+| Handles             | Connection, tracking, saving | Querying data |
+| Has `SaveChanges()` | Yes                          | No            |
+| Used for            | Managing DB session          | CRUD on table |
+* DONE override overload overwrite in programming
+SCHEDULED: <2026-01-19 Mon>
+  [2026-01-13 Tue 20:17]
+**Overload** → *too many options* (different inputs)
+    same name BUT diff paras
+    same action/logic BUT diff input
+**Override** → *I take control* (child replaces parent)
+    same name & paras
+    inheritance + poly
+**Overwrite** → *erase & replace* (data, files)
+* DONE migration and how does it relate to dbcontext
+SCHEDULED: <2026-01-23 Fri>
+1) If they ask: “How do migrations relate to DbContext?”
+     Say:
+     DbContext defines the shape of the data model.
+     EF Core compares the DbContext model to the existing migrations and generates new migrations to keep the database schema in sync.
+2) DbContext defines the model
+    Migration captures changes
+    Database follows migrations
+* DONE how to view a specific day out of the normal org  agenda view of the week
+just use ctrl u someNumber ctrl c a a
+  [2026-01-25 Sun 20:49]
+* DONE why emacs arabic can't by copied
+SCHEDULED: <2026-01-27 Tue>
+  [2026-01-14 Wed 18:49]
+it doesn copy/paste everywhere .. except for the browser
+* DONE kitty shortcuts
+SCHEDULED: <2026-01-28 Wed>
+  [2026-01-24 Sat 18:40]
+
+| shorcuts              |                        |
+| ctrl T/Q              | create tab / close tab |
+| ctrl shift left/right | next/prev tab          |
+| ctrl shift ,/.        | move tab left/right    |
+| ctrl N                | new OS window          |
+| ctrl U                | insert unicode char    |
+| ctrl J/K              | scroll up/down         |
+
+* DONE scroll between headings
+ctrl cp/n
+ctrl cj
+* DONE how to workspaces in emacs
+SCHEDULED: <2026-01-28 Wed>
+  [2026-01-20 Tue 18:30]
+  installed perspective.el package
+* DONE create emacs func for inserting checklist / ul
+SCHEDULED: <2026-01-28 Wed>
+:PROPERTIES:
+:ID:       c4149bb8-e9fe-452b-8315-c0ff50ba8c2a
+:END:
+  [2026-01-22 Thu 19:50]
+ctrl c i c
+* DONE lazyvim shortcuts page
+SCHEDULED: <2026-01-29 Thu>
+  [2026-01-22 Thu 19:13]
+
+- [X] [⌨️ Keymaps | LazyVim](https://www.lazyvim.org/keymaps)
+  1) ctrl arrow > window width
+       ctrl hjkl > focus
+  2) leader` last buffer
+     1) leader bd > delete current buff
+        leader bo > delete other buffs
+     2) L/H > buffer next/prev
+        leader bp > pin buffer
+  3) leader ss > workspace LSP
+     1) leader cr > rename symbol
+  4) leader cl > LSP info
+  5) leader cf > format
+  6) ctrl k > signature help
+     K > hover
+  7) gD/y/I > go to declaration/ type definition / implementation
+  8) gr > references
+  9) leader uz > zen mode
+  10) ctrl / > terminal
+  11) leader uL > toggle relative line numbers
+* DONE clipboard manager with fuzzel / dmenu
+you can with {cliphist , wl-clipboard, wl-clip-persist, and this line in hypr conf}
+`bind = $mainMod, V, exec, cliphist list | fuzzel --dmenu --with-nth 2 | cliphist decode | wl-copy`
+>> but no image preview { still you got image support }
+* DONE dependency injection vs dependency inversion [6/6]
+SCHEDULED: <2026-02-01 Sun>
+:PROPERTIES:
+:LAST_REPEAT: [2026-01-31 Sat 22:10]
+:END:
+
+- State "DONE"       from "TODO"       [2026-01-31 Sat 22:10]
+- State "DONE"       from "TODO"       [2026-01-30 Fri 13:45]
+- State "DONE"       from "TODO"       [2026-01-29 Thu 20:36]
+- State "DONE"       from "TODO"       [2026-01-28 Wed 21:05]
+- State "DONE"       from "TODO"       [2026-01-26 Mon 18:24]
+- State "DONE"       from "TODO"       [2026-01-25 Sun 20:43]
+- State "DONE"       from "TODO"       [2026-01-24 Sat 22:54]
+- State "DONE"       from "TODO"       [2026-01-23 Fri 21:05]
+- State "DONE"       from "TODO"       [2026-01-22 Thu 19:43]
+- [X] [what is DI](https://www.youtube.com/watch?v=ttza41X-O6k)
+- [X] best [Learn Dependency Injection in less than 20 minutes! - C# DI - #csharp #dependencyinjection #net - YouTube](https://www.youtube.com/watch?v=wwzhReyKV2Y)
+- [X] bad [Dependency Injection in a Nutshell - YouTube](https://www.youtube.com/watch?v=yunF2PgJlHU)
+- [X] #009 Dependency Inversion Principle  [ شرح بالعربي ] #cleancode #designprinciples  #solid
+- [X] [Dependency Injection Deep Dive | .NET & C# Essentials - YouTube](https://youtu.be/yjUCKSKCQxg?si=Ts-lW_f9aj0V8d2A)
+- [X] [Dependency injection fundamentals in C# - DI vs IoC vs DIP - YouTube](https://www.youtube.com/watch?v=M1jxLQu40qo)
+
+** dependency injection
+> remember: props must be cap letters {if public}, _ must prefix props {if private}
+
+   + DI a is pattern design
+     - where a class receives its dependencies from the outside instead of creating them itself.
+     - which helps make avoid tightly coupled components and make them loosely coupled
+   + IOC > inversion of control
+   + DI container
+     1) {ig} is an {interface} holding every possible variation of for example the logger{the dependency} which then does {the dependency resolving and injecting it back where it's needed}
+     2) you dont create it from scratch {ig} .. the framework does most of it
+   + service lifetimes
+     - transcient > for everytime
+     - scoped > for every request
+     - singleton > for the whole app
+
+what are types of dependency injection.. how they differ .. how to make use of each
+    - [X] ctor DI
+      pros > ctor take dep at creation
+      cons > dep cannot be changed after obj created
+    - [X] setter DI
+      pros > dep can be changed after obj created
+      cons > may lead to null ref { if not set pre usage }
+    - [X] interface DI
+      pros > flexible
+      cons > overkill for simple logic
+
+> dependency inversion principle {DIP} or {IOC} .. is the general design principle
+    vs dependency injection {DI} .. while this is one of its implementation techniques
+* DONE `*365#` cheat code on phone .. for daily offers
+* DONE a good cli tool for pdf splitting/ extracting
+  [2026-02-25 Wed 16:03]
+
+[How To Split or Extract Particular Pages From A PDF File :: IT'S FOSS](https://itsfoss.gitlab.io/post/how-to-split-or-extract-particular-pages-from-a-pdf-file/)
+`pdftk`
+
+
+  
+* task management web api dotnet { clean architecture }
+The Golden Rule: Each layer only knows about the layer directly below it.
+    Controllers don't touch databases. Services don't know about HTTP status codes.
+** day 1
+- [X] is TaskManagementApi.sln a folder or just a file?.. yes a file
+  Solution (.sln) → manager / organizer
+  Solution = “What belongs together?”
+  Project (.csproj) → actual code
+  Project = “What do we build?”
+
+- [X] Core → domain models, business rules
+  so does Core contain the DTOs {data transfer objects} ? or what is it then?
+  1. core is not DTOs
+     core makes sense without the api { if i delete the api .. core would still compile and make sense }
+
+  2. contains
+     A) {domain models = entities , with no DTO prefix, has behaviour{methods} not just data }
+     B) moethods/ rules { how things work }
+     C) more
+
+     D) [X] Infrastructure is where the **“how”** lives: - EF Core - Database context - Repository implementations - External services - File system - Email / cache / Redis
+
+- [X] core is contract decla VS infra is {real code impl}
+   core depends on nothing
+   Core defines what should happen = Pure business logic, no dependencies on databases or web frameworks
+   Infra defines how it happens = "Dirty" implementation details (database, file system, external APIs)
+   API connects them = Entry point, wires everything together
+
+- [X] what does repository mean in dotnet ?
+    a design pattern {made on the data access layer} to make data access be agnostic of the real data access technique
+
+- [X] dateTime? >> nullable
+  used only for value types
+
+- [X] what is record? why use it with DTOs?
+  record = class {carries data but with no methods}
+  better used with DTOs
+  think of DTOs as {forms you fill}
+** day 2
+- [X] ITaskService
+  is like saying what's available on the menu
+- [X]
+  Code Section,Simple Definition
+  DbSet<...>,"""Create these tables."""
+  OnModelCreating,"""Follow these rules and connections."""
+  OnModelCreating: Where you define relationships, constraints, and seed data
+  DeleteBehavior.Cascade,"""If the parent dies, the children die too."""
+  SeedData,"""Pre-fill the tables with this example info."""
+- [X] EF core simple dive
+  ```
+  // "context" is your link to the database
+  var highPriorityTasks = await context.Tasks
+  .Where(t => t.Priority == "High")
+  .ToListAsync();
+  ```
+
+  dotnet ef migrations add AddDueDate -> "Create a plan to update the DB."
+  dotnet ef database update -> "Execute the plan."
+- [X] `.AsNoTracking()` for better with readonly data, speed boost
+
+** day 3
+- [X] explain `.Include()` {eager load not lazy load}
+  [.NET 6 EF Core 🚀 Load Related Data with Include(), ThenInclude() & AutoInclude() - YouTube](https://www.youtube.com/watch?v=7HuOivcr6Mg)
+  without it = no deeper data fetching
+- [X] what does `.Entity` or `entity.` {fluent api}
+  ```cs
+  public dbset<team> teams => set<team>();
+  public dbset<project> projects => set<project>();
+  public dbset<taskitem> tasks => set<taskitem>();
+
+  //here, `team`, `project`, and `taskitem` are the **entities**.
+  ```
+
+  then
+
+  ```cs
+  // Team { configuration }
+  modelBuilder.Entity<Team>(entity =>
+  {
+  entity.HasKey(e => e.Id);
+  entity.Property(e => e.Name).IsRequired().HasMaxLength(100);
+  entity.Property(e => e.Description).HasMaxLength(500);
+
+  // One team has many projects
+  entity.HasMany(e => e.Projects)
+  .WithOne(e => e.Team)
+  .HasForeignKey(e => e.TeamId)
+  .OnDelete(DeleteBehavior.Cascade);
+  });
+  ```
+  >> both for config .. but
+  Entity is for the whole Table
+  meanwhile entity/Entry is for every single row
+- [X] namespace is like saying know what folder you in
+- [X] DTO is for API
+    Entity is for database
+- [X] reference type >> use `!= null`
+    value/primary type >> use `.HasValue`
+- [X] again why static?
+    when
+        It does NOT use instance fields
+        It depends only on the input parameter
+    defined in the global sector of memory
+** day 4
+- [ ] what is navigation property?
+- [ ] what is projection ?
+- [ ] why return DTOs instead of entities?
+    do entities get changed/passed by referenced so it's dangerous to use them directly.. so i pass a copy of them ?
+- [ ] why used .Reference instead of .Include
+- [ ] would it matter if it's .slnx not .sln
+* DONE how to go to line X in emacs
+alt g g X
+* DONE insert some file content into emacs at cursor position
+ctrl x i
+
+* DONE emacs dired { directory editing mode } .. the file directory of emacs
+really bloated and not that productive
+better use vterm and yazi
+| shortcut | info                        |
+| ctrl xj  | dired in pwd of this buffer |
+| (        | hide details                |
+| ctrl u s | edit listing flags/switches |
+| ctrl xf  | create new file {as usual}  |
+* DONE more of fzf [3/3]
+
+# done
+- [X] [The Amazing Interactive Command Line Fuzzy Finder (fzf) - YouTube](https://www.youtube.com/watch?v=Ab6cWN9ZrXo)
+  `command ls | dmenu` > wow i can just use `command` to properly pipe ls into dmenu
+- [X] [FZF Will CHANGE How You Work - YouTube](https://www.youtube.com/watch?v=MvLQor1Ck3M)
+
+
+# not done
+- [X] [Examples · junegunn/fzf Wiki · GitHub](https://github.com/junegunn/fzf/wiki/examples)
+* DONE how to use pandoc/ how to .md to .pdf
+  [2026-03-19 Thu 22:49]
+`pandoc rewrite-ocr.md -o output.pdf --pdf-engine=tectonic -V geometry:margin=1in`
+* DONE how to md to pdf in cli
+  [2026-03-11 Wed 13:52]
+** md to pdf
+use pandoc with tectonic
+
+* DONE make emacs an rss feed reader
+  [2026-03-12 Thu 13:23]
+elfeed
+i also use { ctrl c e  .. to toggle evil-mode } 
+* DONE how to org to pdf
+from inside emacs
+ctrl ce
+but make sure latex is all set
+* DONE how to md to org in cli
+  [2026-03-22 Sun 19:26]
+  use pandoc
+  `pandoc input.md -f markdown -t org -o output.org`
+* DONE which is better: ember spirit magical OR physical damage
+  [2026-03-23 Mon 13:37]
++ **Magical = early/mid game, tempo, safer choice ✅**
++ **Physical = late game scaling, greedy, riskier ⚠️**
+* DONE AsNotTracking()
+SCHEDULED: <2026-03-06 Fri>
+  [2026-01-22 Thu 17:03]
+** meaning
++ The returned entities are not tracked by the context
++ Changes to them are not automatically saved
++ It improves performance for read-only queries
+** When to use it
++ Read-only operations
++ Large queries where tracking adds overhead
++ APIs that just fetch data without updating it
+
+* DONE `required` vs `readonly` vs `init` keywords in csharp
+
+
+| Feature               | Purpose                                                   |
+|-----------------------+-----------------------------------------------------------|
+| =required=            | Must initialize member, you must provide this”            |
+| =init=                | Can only set during creation, you can only set this once” |
+| =readonly=            | Cannot change after constructor                           |
+| constructor parameter | Force values through constructor                          |
+
+** =required=
+:PROPERTIES:
+:CUSTOM_ID: required
+:END:
+*** Problem It Solves
+:PROPERTIES:
+:CUSTOM_ID: problem-it-solves
+:END:
+
+"People keep forgetting to fill important data."
+
+
+*** Used For
+:PROPERTIES:
+:CUSTOM_ID: used-for
+:END:
+- DTOs - API requests - Configuration objects - Entity models - Anything
+  that would be invalid if partially empty
+
+--------------
+
+** =init=
+:PROPERTIES:
+:CUSTOM_ID: init
+:END:
+*** Problem It Solves
+:PROPERTIES:
+:CUSTOM_ID: problem-it-solves-1
+:END:
+
+"I want values set once during creation, then locked."
+
+
+--------------
+
+*** Real Usage
+:PROPERTIES:
+:CUSTOM_ID: real-usage
+:END:
+avoid someone accidentally changes important data later.
+
+=csharp id="n2w8ig" public class Order {     public decimal TotalPrice { get; init; } }=
+
+Now:
+
+=csharp id="v11b8r" var order = new Order {     TotalPrice = 100 };=
+
+But later:
+
+=csharp id="1gr3od" order.TotalPrice = 200; // error=
+
+--------------
+
+*** Used For
+:PROPERTIES:
+:CUSTOM_ID: used-for-1
+:END:
+- Immutable objects - Safer models - Thread-safe data - Configuration
+  snapshots - Record-like behavior
+
+--------------
+
+** =readonly=
+:PROPERTIES:
+:CUSTOM_ID: readonly
+:END:
+*** Problem It Solves
+:PROPERTIES:
+:CUSTOM_ID: problem-it-solves-2
+:END:
+
+"This field should never change after construction."
+
+
+--------------
+
+*** Real Usage
+:PROPERTIES:
+:CUSTOM_ID: real-usage-1
+:END:
+Usually for internal/private fields.
+
+```csharp id="p9cv36" public class DatabaseService { private readonly
+string _connectionString;
+
+#+begin_example
+public DatabaseService(string conn)
+{
+    _connectionString = conn;
+}
+#+end_example
+
+}
+
+#+begin_example
+
+---
+# One More Important Thing
+
+`readonly` is mostly for **fields**:
+
+```csharp id="0jmvks"
+private readonly ILogger _logger;
+#+end_example
+
+=init= is for *properties*:
+
+=csharp id="2hycfe" public string Name { get; init; }=
+
+That's why modern C# code often prefers:
+
+=csharp id="5s72tp" public required string Name { get; init; }=
+
+instead of old-style private readonly fields for data models.
+* DONE nullable reference
+
+*** careful
+#+begin_src csharp
+string? name = GetName();
+
+if (name != null)
+{
+    Console.WriteLine(name.Length);
+}
+#+end_src
+Now compiler is happy.
+
+*** Easy mental model
+
+| Type      | Meaning                                                                                                        |
+|-----------+----------------------------------------------------------------------------------------------------------------|
+| =string=  | must exist                                                                                                     |
+| =string?= | may be null                                                                                                    |
+| =!=       | Null-forgiving operator"trust me compiler, this would not be null, I know better" > Dangerous if you're wrong. |
+| =?.=      | safely access, If is null → result becomes null instead of crashing.                                           |
+| =??=      | fallback value , if it's null then fallback to this value                                                      |
+
+** Why this matters in real projects
+Without proper handling of nullable references :
+- random crashes - APIs returning unexpected nulls - difficult debugging - hidden bugs
+
+* DONE configure emacs M-x to show cmds in first column+ their description in the 2nd column
+just intstall vertico + marginalia
+
+
+

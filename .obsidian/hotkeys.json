@@ -93,6 +93,12 @@
         "Alt"
       ],
       "key": "ArrowDown"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
     }
   ],
   "editor:swap-line-up": [
@@ -101,6 +107,12 @@
         "Alt"
       ],
       "key": "ArrowUp"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
     }
   ],
   "app:go-back": [
@@ -259,5 +271,13 @@
       "key": "L"
     }
   ],
-  "workspace:close": []
+  "workspace:close": [],
+  "workspace:copy-full-path": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ]
 }

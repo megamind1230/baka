@@ -1,3 +1,4 @@
 {
-  "show-checkboxes": true
+  "show-checkboxes": true,
+  "lane-width": 300
 }

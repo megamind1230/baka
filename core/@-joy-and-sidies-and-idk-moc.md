@@ -8,8 +8,10 @@
 - [ ] [[typst-is-the-best-language-for-u-to-write-ur-cv-or-resume-better-than-latex]]
 - [ ] [[@-scan-this-channel-or-channel-scanning-moc]]
 - [ ] [[WaveEditor]]
-- [ ] [[manim-python-library]]
- 
+- [ ] TODO incredibox app for simple beats
+ - [ ] [[manim-python-library]]
+ * TODO needlework api exploring app
+
 
 # done
 - [x] [[0-names-of-special-characters]]
