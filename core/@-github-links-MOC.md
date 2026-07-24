@@ -9,3 +9,4 @@
 - [daviwil/dotfiles: [MIRROR] The path to GNUrvana](https://github.com/daviwil/dotfiles)
 # done
 - [x] [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles/tree/main)
+- [x] [rexim/dotfiles: Config files for mixer](https://github.com/rexim/dotfiles)

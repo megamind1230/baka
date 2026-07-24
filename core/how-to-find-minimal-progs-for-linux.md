@@ -1,7 +1,6 @@
-#todo
-- [ ] suckless.org/ rocks
-- [ ] mayfrost/ guides github
-- [ ] cat-v.org/ sotfware
-- [ ] lukesmite.xyz/ programs
-- [ ] wiki.installgetoo.com/ recommended gnu linux software
-- [ ] wiki.installgetoo.com/ gnu linux ricing
+- [x] suckless.org/ rocks
+- [x] mayfrost/ guides github
+- [x] cat-v.org/ sotfware
+- [x] lukesmite.xyz/ programs
+- [x] wiki.installgetoo.com/ recommended gnu linux software
+- [x] wiki.installgetoo.com/ gnu linux ricing

@@ -34,5 +34,5 @@ public partial class A {} //file2.cs
 ```
 
 - [x] [[out-ref-in-keywords-in-csharp]]
-- [ ] [[tryparse-csharp]]
-- [ ] yield-keyword
+- [x] [[tryparse-csharp]]
+- [x] yield-keyword

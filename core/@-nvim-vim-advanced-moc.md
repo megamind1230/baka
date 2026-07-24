@@ -176,7 +176,7 @@ delete selection and replace it with the thing on the clipboard {without losing 
 - [ ] [[nvim-vim-issues-moc]]
 - [ ] [[0-nvim-setup-for-programming]]
 - [ ] [[quickfix-list-nvim]]
-- [ ] [[vimrc-examples]]
+- [ ] [[core/0-vimrc-examples-outdated]]
 - [ ] [[vim-arabic-support-issue]]
 - [ ] [[0-nvim-vim-folds]]
 - [ ] [[nvim-vim-lsp]]

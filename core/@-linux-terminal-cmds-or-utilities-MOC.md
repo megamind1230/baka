@@ -18,7 +18,6 @@
 - [ ] [[chmod-command]]
 - [ ] [[dd-cmd]]
 - [ ] [[xargs-command]]
-- [ ] [[fd-and-find-and-rg-or-ripgrep-commads]]
 - [ ] [[export-command-and-how-to-add-script-to-path]]
 - [ ] [[visudo-command]]
 - [ ] [[chroot-command]]
@@ -28,6 +27,7 @@
 - [ ] [[the-linux-commands-bible-pdf]]
 - [ ] [[0-know-more-about-your-linux-system-some-system-cmds]]
 # done
+- [x] [[core/0-fd-and-find-and-rg-and-fzf-commads|0-fd-and-find-and-rg-and-fzf-commads]]
 - [x] [[intro-to-bash-scripting-basics-and-arrays-and-loops]]
 - [x] wget
 	- [x] [wget Cheat Sheet : Command in Line](https://www.commandinline.com/cheat-sheet/wget/)

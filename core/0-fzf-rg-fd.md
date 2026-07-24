@@ -1,9 +1,8 @@
 * TODO fd-rg-fzf
-  [2026-01-24 Sat 19:05]
-> there is also `fzf-tmux` but you must be first inside a tmux session for it to run 
+> there is also `fzf-tmux` but you must be first inside a tmux session for it to run
 
 ```bash
-fd 
+fd
   finds files/folder by default { not showing hidden files also by default} with the name X
   fd config # files/folders named config
   fd -e mp4 # files/folders with extension .mp4

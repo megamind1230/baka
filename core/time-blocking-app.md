@@ -1,4 +1,3 @@
-#todo
 - [x] make a gimp design
 	- `/mnt/hdd/gimps/time-blocking-template.png`
 

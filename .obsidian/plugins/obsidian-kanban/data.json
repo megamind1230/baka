@@ -1,4 +1,5 @@
 {
   "show-checkboxes": true,
-  "lane-width": 300
+  "lane-width": 300,
+  "show-archive-all": false
 }

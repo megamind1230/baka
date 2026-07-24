@@ -1,0 +1,24 @@
+* DONE install evil-surround in emacs
+  [2026-02-28 Sat 06:34]
+* DONE solution explorer vs normal explorer and how do they both appear at the cli level .. like inside neovim / terminal / emacs
+* DONE U7-8 1st-sec
+  [2026-03-26 Thu 17:55]
+* DONE 1st-sec math written recap
+  [2026-04-11 Sat 13:27]
+
+
+* DONE setup i3 so that each app has his own specific workspace
+#+begin_src bash
+# === app → workspace assignments ===
+assign [class="Steam"] → $ws1
+assign [class="Brave"] → $ws2
+assign [class="firefox"] → $ws2
+# assign [class="Thunar"] → $ws3
+assign [class="okular"] → $ws4
+assign [class="Gimp"] → $ws5
+assign [class="kdenlive"] → $ws5
+assign [class="obsidian"] → $ws9
+assign [class="Zennotes"] → $ws9
+assign [class="discord"] → $ws10
+assign [class="TelegramDesktop"] → $ws10
+#+end_src

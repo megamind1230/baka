@@ -1,6 +1,6 @@
-[GitHub - abdalrahmanshaban0/Vim-for-CP: My vim configuration to write and run C/C++ code for competitive programming or any thing similar.](https://github.com/abdalrahmanshaban0/Vim-for-CP)
+- [x] [GitHub - abdalrahmanshaban0/Vim-for-CP: My vim configuration to write and run C/C++ code for competitive programming or any thing similar.](https://github.com/abdalrahmanshaban0/Vim-for-CP)
 # .vimrc general template
-```lua
+```vimscript
 set mouse   =a
 syntax on
 set number
@@ -36,13 +36,9 @@ colorscheme desert
 ```
 
 
-#quest
-
 # .vimrc
-found in Linux, MacOS file systems {but no on windows}
-to save your own configuration / settings of vim
-go to `~/.vimrc` and add these
-```c
+`~/.vimrc` then add these
+```vimscript
 set nocompatible
 filetype indent plugin on
 set autoindent
@@ -57,8 +53,8 @@ set relativenumber
 
 set tabstop=4
 set shiftwidth=4
-set expandtab=4 // meaning? #how-to-use
-set smarttab // meaning? #how-to-use
+set expandtab=4 
+set smarttab
 
 set ignorecase
 set smartcase
@@ -67,10 +63,10 @@ set smartcase
 ```
 
 
-# vimrc for cp-ps
+# vimrc for competitive programming
 
 #quest
-```lua
+```vimscript
 autocmd BufNewFile *.cpp 0r /path/to/cpp_template
 autocmd filetype cpp nnoremap <F9> :w <bar> !clear && g++ % -o %:r.exe<CR> #quest
 autocmd filetype cpp nnoremap <F10> :!./%:r.exe<CR>

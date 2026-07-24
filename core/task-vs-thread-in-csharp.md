@@ -11,12 +11,12 @@
 | can do exception handling<br>specially with `await` | not effecient                               |
 |                                                     |                                             |
 
-- [ ] [[thread-pool]]
+- [x] [[thread-pool]]
 
-- [ ]  [[task-and-thread-syntax-and-async-programming]]
-- [ ] physical vs logical thread
-- [ ] how-it-js-single-threaded-and-csharp-is-multi-threaded
-- [ ] [[semaphore]]
-- [ ] [[thread-cancelation-token]]
+- [x]  [[task-and-thread-syntax-and-async-programming]]
+- [x] physical vs logical thread
+- [x] how-it-js-single-threaded-and-csharp-is-multi-threaded
+- [x] [[semaphore]]
+- [x] [[thread-cancelation-token]]
 
 

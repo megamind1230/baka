@@ -851,3 +851,33 @@ combobulate Tree-sitter superpowers
 If you're the type who writes custom Elisp, I'd especially recommend Dogears, Bufler, Burly, Detached, and Wgrep. Those five can fundamentally change how you move around Emacs and manage long-running workflows.
 * TODO [ZenNotes/zennotes: Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.](https://github.com/ZenNotes/zennotes)
   [2026-06-10 Wed 22:33]
+* rofi has a big issue for : it doesn't sort the apps by frequency
+  [2026-07-05 Sun 04:23]
+
+  can i contribute it?
+  or should i create my clone?
+
+* helix vs vim
+- has the concept of motion does selection
+- Note: Whenever you delete or change text, Helix will copy the
+       altered text. Use Alt-d / Alt-c instead to avoid this.
+- Note: Helix doesn't share the system clipboard by default. Type
+       Space + y / p to yank / paste on the system's clipboard.
+- Note: Unlike Vim, ? doesn't change the search direction.
+       N always goes backwards and n always goes forwards.
+- Press Alt-s to split into selections at each line.
+
+| shortcut    | info or same as                      |
+| d (not x)   | delete                               |
+| w           | (move & select next word)            |
+| be OR eb    | viw                                  |
+| c           | dli                                  |
+| x           | select line  , repeat to select more |
+| ;           | deselect                             |
+| alt ;       | like `O` in visual mode              |
+| u and U     | undo and redo                        |
+| C and alt C | multi cursors up and down            |
+| s           | search on selection                  |
+| %           | select the whole file                |
+| &           | align                                |
+=                    6.2 THE REPLACE COMMAND                    =

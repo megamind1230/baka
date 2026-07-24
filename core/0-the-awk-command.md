@@ -62,5 +62,5 @@ awk 'NR>1 {sum+=$2*60*$3} END {print sum/1024 "GB"}' dl-info.txt
 
 
 
-- [ ] search for more awk tricks
+- [x] search for more awk tricks
 - the awk programming lang `book`

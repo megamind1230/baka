@@ -17,5 +17,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "core",
   "rightToLeft": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "absolute"
 }

@@ -43,5 +43,5 @@ sed '/happily ever after/a\The end.'
 ```
 
 
-- [ ] sed flags meaning
+- [x] sed flags meaning
 	- `-E -i -n`

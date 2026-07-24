@@ -1,7 +1,7 @@
 #todo
 # not done
-- [ ] [[what-does-source-cmd-do-in-bash]]
-- [ ] [[a-failed-script-to-auto-upload-my-obsi-vault-to-github-using-git]]
+- [x] [[what-does-source-cmd-do-in-bash]]
+- [x] [[a-failed-script-to-auto-upload-my-obsi-vault-to-github-using-git]]
 # done
 - [x] [[0-script-to-minize-a-video-with-ffmpeg]]
 - [x] [[0-script-to-help-memorize-new-words-bugswriter]]

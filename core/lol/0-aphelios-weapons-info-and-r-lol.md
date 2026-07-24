@@ -49,7 +49,7 @@
 		- lost 
 			- after `5sec` .. unless reset with `AA` or whatever
 			- against yasuo `wall` , samira `slash` , braum `shield`
-	- [ ] best way to stack chakrams ? #quest
+	- best way to stack chakrams ?
 - `q`
 	- [x] triggers `OHW`
 	- prio n over anything else

@@ -79,5 +79,5 @@
 - [x] apis
 # final
 - [x] git & github
-- [ ] search for design patterns
-- [ ] full project
+- search for design patterns
+- full project

@@ -11,4 +11,5 @@
 - [x] [[@-linux-journey-roadmap-moc]]
 - [x] [[@-linux-permissions-moc]]
 - [x] [[@-qemu-moc]]
+- [x] [[core/scripts-moc|scripts-moc]]
 # not done

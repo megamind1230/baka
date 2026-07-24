@@ -16,27 +16,15 @@ kanban-plugin: board
 
 ## nextlearn desktop
 
-- [ ] add feature like the one in obsidian search `file:` to search only by file disk name
 - [ ] plugins support
 	
 	make sure hamburger menu show also plugins listed
-- [ ] plugin: theme switcher 
-	allows you edit a css to override the colors
 - [ ] plugin: bg lofi music player
 - [ ] built in : nextsnipe, snipe
 - [ ] `i` in all profiles
 	triggers open image overlay on the first image in the page (inside of study box)
-- [ ] add support to `.txt` files
-	inside of study page 
-	
-	but this file type now has a specific behaviour
-	
-	each page would be 25 lines max
-	
-	so with `.txt` we split on counts not split on a specific heading format
 - [ ] markdig
 - [ ] ocr in the image overlay
-- [ ] seach icon (lens) inside of  the placeholder of the seach bar
 - [ ] new mcq timestamps
 - [ ] image overlay annotations
 	
@@ -45,20 +33,73 @@ kanban-plugin: board
 	ex (either have a button that refreshes reading the image, better ig) 
 	
 	or (have image live image update)
+- [ ] plugin: theme switcher 
+	allows you edit a css to override the colors
 
 
 ## in progress
 
-- [ ] ensure works on Windows
+- [ ] slide which of these are easier to read ? img of bulked page content, img segmented
+- [ ] [7/11/26 8:53 PM] Introbird NSB: UI showcase
+	1. homepage with regex
+	2. mcq UI
+	3. dark / light theme
+	4. study page UI with latex , code, quotes
+	5. heatmap
+- [ ] [7/11/26 8:53 PM] Introbird NSB: 6. focus timer
+	6. settings
+	7. handbook
+	8. command palette
+	[7/11/26 8:53 PM] Introbird NSB: demo
+	[7/11/26 8:53 PM] Introbird NSB: questions
+	[7/11/26 8:53 PM] Introbird NSB: ابراهيم عادل
 - [ ] change yaml to toml format?
-- [ ] notify that `handbook` is auto-synced with new key bindings
 - [ ] `New Anki Flashcards sidebar panel with separate \[Basic\] and \[Cloze\]`
 	
-	these latex blocks don't have copy button
+	these latex blocks don't have copy button, why?
 
 
 ## done
 
+- [x] logo
+- [x] simple todo timer `left sidebar` session volatile (evaporated each new session, nothing saved)
+	
+	only a pomodoro custom timer + a todo list and that's it
+- [x] add support to `.txt` files
+	inside of study page 
+	
+	but this file type now has a specific behaviour
+	
+	each page would be 25 lines max, with linebreaks
+	
+	so with `.txt` we split on counts not split on a specific heading format
+- [x] dark theme / light theme
+	
+	but first let's const or extract all colors in a collective spot
+- [x] what is color palette used in the app: give me a comprehensive list of all color + used where?
+- [x] notify that `handbook` is auto-synced with new key bindings
+- [x] notify 
+	remove the snipe part from the readme.org
+- [x] nofify that windows .exe might not work, cuz i lack a windows machine to consistently test on + that windows uses webview2 and not the linux webview + so we are dropping the windows support at the moment
+- [x] scrape the gemini prompts
+- [x] add `file:` filter in every search bar to only search by the disk name of the note
+	
+	example
+	`file:baka #new`
+	should show every deck/file/note that has the name baka in its disk name + that has also the tag `new` in
+	
+	same for `desc:` or `description:`
+	
+	same for `tags:` (so basically now we have 2 ways to search by tag `#new` or `tags:new`, `#parent/child` or `tags:parent/child`)
+	
+	also `title:`
+- [x] add seach icon (lens) inside of  the placeholder of every seach bar
+- [x] `back` button on the interactive mcq quiz, is aggressively sending me to the home search page (worng)
+	
+	should only send me to the mcq tabs
+- [x] cancelled ensure works on Windows
+	
+	drop windows support due to inefficency
 - [x] screenshots/ and screenshots.org
 	
 	and TOC for README.org

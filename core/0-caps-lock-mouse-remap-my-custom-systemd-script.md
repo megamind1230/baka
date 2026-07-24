@@ -1,0 +1,106 @@
+a custom script :
+remap left click to middle click when caps lock is on
+# @ /usr/local/bin/capslock-mouse-remap.py
+```python
+#!/usr/bin/env python3
+import glob
+import signal
+import sys
+import evdev
+from evdev import UInput, ecodes as e
+
+MOUSE_NAME = "USB OPTICAL MOUSE"
+
+
+def find_mouse():
+    for path in evdev.list_devices():
+        try:
+            dev = evdev.InputDevice(path)
+            if MOUSE_NAME in dev.name:
+                return dev
+        except OSError:
+            pass
+    return None
+
+
+def capslock_state():
+    for p in glob.glob("/sys/class/leds/*::capslock/brightness"):
+        try:
+            return open(p).read().strip() == "1"
+        except OSError:
+            pass
+    return False
+
+
+def main():
+    mouse = find_mouse()
+    if mouse is None:
+        print(f"no device matching '{MOUSE_NAME}' found", flush=True)
+        sys.exit(1)
+
+    caps = {
+        e.EV_KEY: [e.BTN_LEFT, e.BTN_RIGHT, e.BTN_MIDDLE],
+        e.EV_REL: [e.REL_X, e.REL_Y],
+    }
+    ui = UInput(caps, name="capslock-mouse-remap", version=0x3)
+
+    mid_pressed = False
+    cleanup = False
+
+    def shutdown(signo, _frame):
+        nonlocal cleanup
+        cleanup = True
+
+    signal.signal(signal.SIGTERM, shutdown)
+    signal.signal(signal.SIGINT, shutdown)
+
+    mouse.grab()
+    try:
+        for ev in mouse.read_loop():
+            if cleanup:
+                break
+
+            if ev.type == e.EV_KEY and ev.code == e.BTN_LEFT:
+                on = capslock_state()
+                if on and ev.value == 1:
+                    mid_pressed = True
+                    ui.write(e.EV_KEY, e.BTN_MIDDLE, 1)
+                    ui.syn()
+                    continue
+                elif mid_pressed and ev.value == 0:
+                    mid_pressed = False
+                    ui.write(e.EV_KEY, e.BTN_MIDDLE, 0)
+                    ui.syn()
+                    continue
+
+            ui.write(ev.type, ev.code, ev.value)
+            ui.syn()
+    except OSError:
+        pass
+    finally:
+        try:
+            mouse.ungrab()
+        except OSError:
+            pass
+        ui.close()
+
+
+if __name__ == "__main__":
+    main()
+```
+# systemd service @ /etc/systemd/system/capslock-mouse-remap.service
+
+```
+[Unit]
+Description=Remap left click to middle click when Caps Lock is on
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/capslock-mouse-remap.py
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
+```
