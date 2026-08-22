@@ -1,0 +1,14 @@
+* done
+- [X] [[file:0-emacs-default-shortcuts.org][0-emacs-default-shortcuts]]
+- [X] [[file:0-nano-shortcuts.org][0-nano-shortcuts]]
+- [X] [[file:0-discord-shortcuts.org][0-discord-shortcuts]]
+- [X] [[file:0-my-shortcuts-on-ubuntu-(on-super-key).org][0-my-shortcuts-on-ubuntu-(on-super-key)]]
+- [X] [[file:0-FancyWM-a-tiling-WM-for-windows-10-shortcuts.org][0-FancyWM-a-tiling-WM-for-windows-10-shortcuts]]
+  ​# not done
+- [ ] [[file:notion-shortcuts.org][notion-shortcuts]]
+- [ ] [[file:vscode-default-shortcuts.org][vscode-default-shortcuts]]
+- [ ] [[file:0-xfce4-shortcuts.org][0-xfce4-shortcuts]]
+- [ ] [[file:drawboard-pdf-app-shortcuts.org][drawboard-pdf-app-shortcuts]]
+- [ ] [[file:0-how-to-control-my-windows-sound-with-a-shortcut.org][0-how-to-control-my-windows-sound-with-a-shortcut]]
+- [ ] [[file:0-how-to-change-or-disable-conflict-shortcuts-in-gnome.org][0-how-to-change-or-disable-conflict-shortcuts-in-gnome]]
+- [ ] [[file:bugswriter-dwm-shortcuts.org][bugswriter-dwm-shortcuts]]

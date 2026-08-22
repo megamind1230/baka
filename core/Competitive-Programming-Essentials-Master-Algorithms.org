@@ -1,0 +1,2 @@
+- [ ] [[https://www.udemy.com/course/competitive-programming-algorithms-coding-minutes/?couponCode=KEEPLEARNING][Competitive Programming Essentials, Master Algorithms | Udemy]] = 56
+  - [ ] 23-07-2024

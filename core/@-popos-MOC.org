@@ -1,0 +1,11 @@
+- [X] =steam= just works from terminal
+  - .deb package
+- [X] better use =simplescreenrecorder= to screen-record
+- [X] MS fonts packages + MS media codecs
+  - within [[synaptic-package-manager|synaptic]] .. search for =ubuntu-restricted-extras=
+- [ ] backup with deja dup
+  - [[https://www.youtube.com/watch?v=Q5nbwXVYzdI][Schedule backup in Linux (daily, weekly, monthly) - YouTube]]
+- [ ] gnome tweaks
+  - [[https://www.youtube.com/watch?v=dQh-VxkNZKA][Ubuntu 18.04: Themes, Icons, Layouts - YouTube]]
+- [ ] gnome extensions
+- [ ] [[file:firewall-apps-on-linux.org][firewall-apps-on-linux]]

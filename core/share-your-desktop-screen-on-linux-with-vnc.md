@@ -1,1 +1,0 @@
-- [ ] [Setup VNC Server on Linux Using Tiger VNC](https://linuxconfig.org/share-your-desktop-screen-with-vnc-on-linux)

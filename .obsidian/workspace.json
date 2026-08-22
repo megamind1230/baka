@@ -4,28 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cce819be2b4afc0",
+        "id": "1173904c1c0ab8a0",
         "type": "tabs",
         "children": [
           {
-            "id": "5e4c81bd0eaadd59",
+            "id": "dce70714636673d3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "core/kanban-todos.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    false,
-                    false,
-                    true
-                  ]
-                }
+                "file": "core/3rd-prep-t1-eng-26-27.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "kanban-todos"
+              "icon": "lucide-file",
+              "title": "3rd-prep-t1-eng-26-27"
             }
           }
         ]
@@ -48,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -60,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blocking",
+                "query": "gpt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +67,31 @@
             }
           },
           {
-            "id": "37f80fe549738e70",
+            "id": "b38a3fa13ad743f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "com.maxymillion.zen"
+            }
+          },
+          {
+            "id": "6fac5208854a9704",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "com.maxymillion.zen"
+            }
+          },
+          {
+            "id": "ebc1e51147170659",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -94,22 +113,18 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core/todo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "New tab"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5124969482422,
+    "width": 252.078125,
     "collapsed": true
   },
   "right": {
@@ -199,45 +214,46 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5e4c81bd0eaadd59",
+  "active": "dce70714636673d3",
   "lastOpenFiles": [
-    "core/kdenlive-scripts.md",
-    "core/kanban-todos.md",
-    "core/@-github-links-MOC.md",
-    "core/lmms.md",
-    "core/0-fd-and-find-and-rg-and-fzf-commads.md",
+    "core/3rd-prep-t1-eng-26-27.md",
+    "core/00-english-3rd-prep-t1-2026-collection.org",
+    "core/blockchain-org/how-does-a-blockchain-work.org",
+    "core/blockchain-org/blockchain-introduction.org",
+    "core/blockchain-org/0-@-blockchain-moc.org",
+    "core/kanbans/kanban-blockchain.md",
+    "core/kanbans/kanban-nextlearn.md",
+    "00-23-11-2025-npm-start-error-and-no-local-host-link.canvas",
+    "core/done/0-eng-stu/00-operation-vs-function-vs-method-vs-process-in-english.excalidraw.md",
+    "core/asp-dotnet-core-dev-roadmap.org",
+    "0-social-info.md",
+    "core/kanbans/blockchain-todo-kanban.md",
+    "core/kanbans/kanban-todos.md",
+    "core/kanbans/new-kanban.md",
+    "core/kanbans",
+    "core/0-rap-tracks.md",
+    "core/math-basics.md",
+    "core/install-voidlinux.md",
+    "core/solved-mcq-websites.md",
+    "core/gpt-or-mbr-disk-drive.md",
+    "core/chatgpt-gives-me-a-git-script-to-upload-my-files.md",
+    "core/chatgpt-almadrasa.md",
+    "core/a-failed-script-to-auto-upload-my-obsi-vault-to-github-using-git.md",
     "core/@-linux-terminal-cmds-or-utilities-MOC.md",
-    "core/0-become-a-shell-wizard.md",
-    "core/fd-and-find-and-rg-or-ripgrep-commads.md",
-    "core/how-to-transfer-files-between-two-computers.md",
-    "core/0-caps-lock-mouse-remap-my-custom-systemd-script.md",
-    "core/scripts-moc.md",
-    "core/0@-linux-MOC.md",
-    "core/@-joy-and-sidies-and-idk-someday-frozen-moc.md",
+    "core/0-@-linux-MOC.md",
+    "core/Untitled.md",
+    "core/interviews-moc.md",
+    "core/@-csharp-roadmap-moc.md",
+    "core/0-how-to-fast-view-your-html-in-the-browser.md",
+    "core/README.md",
+    "core/0-configure-tmux.md",
+    "core/0-what-specs-needed-for-lol-setup.md",
+    "core/competitive-programming-essentials-master-algorithms.md",
+    "core/bookmarks_7_26_26.html",
     "my-dotfiles/fast-note.md~",
     "org/0-inbox.org",
     "core/0-backend-canvas.canvas",
-    "core/from-ziad-redah-fullstack.md",
-    "core/time-blocking-app.md",
-    "core/robotics.md",
-    "core/metwally-phase4.md",
-    "core/0-the-one-thing-{ali-mo-ali}-كتاب-الشيء-الوحيد.md",
-    "core/0-great-projects-to-do-now.md",
-    "core/@-skills-MOC.md",
-    "core/@-HOME-moc.md",
-    "core/books-for-prog-ps-cp-cs.md",
-    "core/books-for-x-moc.md",
     "org/inbox.org",
-    "core/0-vimrc-examples-outdated.md",
-    "core/kanban-nextlearn.md",
-    "org/2-notes-general.org",
-    "org/5-done-general.org",
-    "org/6-projects-done.org",
-    "org/1-projects.org",
-    "org/7-notes-cs.org",
-    "org/nextlearn.org~",
-    "org/projects.org~",
-    "core/todo.md",
     "Untitled 1.canvas",
     "Pasted image 20250905210236.png",
     "Pasted image 20250912082953.png",
@@ -249,7 +265,6 @@
     "Pasted image 20260110194358.png",
     "Pasted image 20260108100245.png",
     "Pasted image 20260108100019.png",
-    "attachments/Pasted-image-20231104153546.png",
-    "00-23-11-2025-npm-start-error-and-no-local-host-link.canvas"
+    "attachments/Pasted-image-20231104153546.png"
   ]
 }

@@ -1,0 +1,34 @@
+31-05-2025
+
+- [X] [[file:0-linq-in-csharp.org][0-linq-in-csharp]]
+  > =lec13= in yt
+
+- [X] [[file:0-anonymous-obj-and-func-vs-dto.org][0-anonymous-obj-and-func-vs-dto]]
+
+- [X] [[IEnumerable-csharp]]
+
+- [X] dll-in-csharp
+
+#+begin_quote
+better use =var=
+#+end_quote
+
+- [X] [[file:0-stored-procedure.org][0-stored-procedure]]
+
+- [ ] 2:31:00
+
+- [X] pagination
+
+- [ ] 3:29:00
+
+- [ ] 3:35:00
+
+- [ ] database-context
+
+- [ ] 4:23:00
+
+- [ ] internal-vs-extenal-config-for-db
+
+- [ ] data-annotations
+
+- [ ] migration

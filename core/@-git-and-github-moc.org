@@ -1,0 +1,10 @@
+* more ref
+- [ ] [[file:traversy-media-git-and-github.org][traversy-media-git-and-github]]
+- [ ] [[file:gitexercises.org][gitexercises]]
+- [ ] [[file:git-and-github-issues.org][git-and-github-issues]]
+- [ ] [[file:0-diff-command.org][0-diff-command]]
+- [ ] [[file:git-and-github-big-data-ar.org][git-and-github-big-data-ar]]
+- [ ] [[file:git-and-github-elzero.org][git-and-github-elzero]]
+
+* done
+- [X] [[file:w3schools-and-more-git-and-github-moc.org][w3schools-and-more-git-and-github-moc]]

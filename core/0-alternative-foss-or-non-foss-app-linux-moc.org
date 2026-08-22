@@ -1,0 +1,17 @@
+* done
+- [X] notion > [[file:@-obsidian-MOC.org][obsidian]]
+- [X] photoshop > [[file:@-gimp-MOC.org][gimp]]
+- [X] premiere > davinci-resolve , [[file:@-kdenlive- moc.org][kdenlive]]
+- [X] notepad / notepad++ > notepadqq
+- [X] adobe acrobat > [[file:drawboard-pdf-app-shortcuts.org][drawboard]]
+- [X] opencut: the capcut foss alternative
+
+* not done
+- [ ] trello > [[file:focal.org][focal]]
+- [ ] pomodoro > [[file:0-pomodoro-apps.org][0-pomodoro-apps]]
+- [ ] todo > [[file:0-ticktick-a-crossplatform-pomodoro-and-todo-app.org][ticktick]]
+- [X] discord
+  - [[file:vesktop.org][vesktop]]
+  - vencord
+  - [ ] [[file:mattermost.org][mattermost]]
+- [ ] zoom > [[jitsi]]

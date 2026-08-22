@@ -1,0 +1,22 @@
+#1
+# [[https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax][obsidian formatting]]
+
+* footnote
+- I think you can use it instead with code block down the file .. when you have some indented outline and can't fit code block inside
+
+* frontmatter
+a good place to put your attributes
+
+#+begin_example
+---
+A: B
+---
+makes it invisible in preview mode
+#+end_example
+
+#+begin_example
+----
+A: B
+----
+now it's visible
+#+end_example

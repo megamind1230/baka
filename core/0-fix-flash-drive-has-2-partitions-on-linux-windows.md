@@ -1,1 +1,0 @@
- backup data .. on windows go rightclick {this pc} manage .. `disk management` or whatever app to partition your desks .. delete all flash drive partitions .. create new one

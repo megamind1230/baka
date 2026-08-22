@@ -1,0 +1,6 @@
+* done
+- [X] [[file:../00-23-11-2025-npm-start-error-and-no-local-host-link.canvas][23-11-2025-npm-start-error-and-no-local-host-link]]
+- [X] [[https://baywet.github.io/installing-dotnet-sdk-wsl-ubuntu/][Installing the dotnet SDK on Ubuntu under WSL]]
+  ​# not done
+- [ ] [[file:FinShark-moc.org][FinShark-moc]]
+- [ ] [[file:../Pasted image 20251126102458.png]]

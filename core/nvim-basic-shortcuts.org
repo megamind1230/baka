@@ -1,0 +1,72 @@
+** basics
+- edit
+  - =y= > yank or copy , =yy= =Y= > yank line
+  - =p= > paste after cursor, =P= > paste before
+  - =d= > cut and delete
+    - =dd= > delete line (while still in normal mode)
+      - =cc= > change line {delete} (enter insert mode)
+    - =D= > delete rest of line
+      - =C= change it
+      - =c$= =C= #shortcuts/better > change till the end of line
+  - =u= > undo , =ctrl r= > redo , same as mentioned 5u
+    - [X] =U= undo all changes on last changed line
+  - =~= swap letter case {both =visual and normal=}
+    - =gu= > lower case {just in =visual=}
+    - =gU= > upper case {just in =visual=}
+  - =r{char}= > replace just current char with {char}
+    - =R= > replace as you go till you hit =esc=
+  - =s= > substitute char (enters insert mode)
+    - =x= > delete char{forwards} {not entering insert mode} , =X= > same {backwards}
+    - delete whole line while in =normal mode=
+      - =S= > same as =dd= {del whole line} but + =insert mode=
+      - =C= > del rest of line + insert mode
+- move and navigate
+  - =:20= or =20G= or =20gg= all same > go line 20
+    - =:.+50=
+    - =:.-70=
+  - =ctrl g= > file info {path/ status/ percentage of where you are}
+    - =25%= > go to 25% of file
+  - vertical
+    - =gg= > top of file , =G= > end of file
+      - ={line}gg= =:{line}=> go to line
+    - ={}= move in paragraph steps or {better said} */navigate between blank lines/*
+    - =()= move in sentence steps {navigate between sentences}
+    - =ctrl f/b= > scroll full page up/down {foreward/backward}
+      {btw the cursor moves also}
+      - =ctrl u/d= > half page up/down
+      - =ctrl y/e= > one line extra up/down
+  - horizontal
+    - =0= > line start, =$= > line end
+      - =^= same as =0w= go {first} non blank word in line
+      - =g_= {last} non blank word in line
+  - both
+    - =#= =*= exact matches back/forth
+      - {both on middle fingers XD}
+      - meanwhile =g#= =g*= for partial matches back/forth
+    - =%= > corresponding bracket
+      - =d%= =c%=
+    - =w= > jump a word after
+      - =b= > jump a word before
+      - =e= > jump to end of word
+        - =ge= > jump to the end of a word before
+      - =W= > jump a WORD after
+        - {same as word but ignore punctuation}=This_Is_A_WHOLE_WORD(WORD)=
+        - =B= =E= =gE=
+
+#+begin_example
+somehow this is a word this_is_a_test
+but this is a WORD this-is-a-test
+#+end_example
+
+- bookmark
+  - =m{char}= bookmark current line with {char}
+    - ='{char}= go back {even works in [[file:0-Vimium-extension-for-browsers.org][Vimium]]}
+    - good for reading through code
+  - btw: =''= > goes {back to where I was} before the last motion I did
+- code style and cursor view
+  - =>> << == indent, format in=normal mode=- use once in=visual mode`
+  - =zz zt zb= > drag line the cursor is on to center/top/bottom of view
+  - =gg=G= indents the whole file
+  - =H,M,L= > put the cursor high/mid/low on current view
+
+--------------

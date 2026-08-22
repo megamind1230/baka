@@ -1,1 +1,0 @@
-- [x] [Disable orientation lock shortcut Super + O in ubuntu 18.04 gnome - Ask Ubuntu](https://askubuntu.com/questions/1179858/disable-orientation-lock-shortcut-super-o-in-ubuntu-18-04-gnome)

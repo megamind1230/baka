@@ -1,0 +1,81 @@
+* DONE a safe place to save my booksmarks
+sometimes i just browser hop, have a system crash and in the past many
+of my booksmarks were lost any sustainable way to save them, even if
+outside of the browser
+
+My recommendation: bookmarks.org + Git
+
+Create something like: ~/org/bookmarks.org
+
+Then put the file in a Git repository:
+
+#+begin_src sh
+cd ~/org
+git init
+git add bookmarks.org
+git commit -m "Add bookmarks"
+#+end_src
+
+Now your bookmarks are:
+
+- plain text
+- searchable with =rg=
+- editable in Emacs
+- version-controlled
+- recoverable after browser crashes
+- easy to back up
+- not locked into Firefox/Chrome/etc.
+
+You can search them instantly:
+
+#+begin_src sh
+rg "emacs" ~/org/bookmarks.org
+#+end_src
+
+Or:
+
+#+begin_src sh
+rg -i "database|linux|csharp" ~/org/bookmarks.org
+#+end_src
+
+The important part: automatic backup
+
+Git alone is not enough if the Git repository is only on your laptop.
+Use the *3-2-1 rule*: *3 copies, 2 different types of storage, 1 copy
+somewhere else*
+
+For example:
+
+#+begin_src text
+Laptop:
+  ~/org/bookmarks.org
+         
+            Git history
+         
+            External HDD
+         
+            Private remote Git repository
+#+end_src
+
+You could also simply periodically copy:
+
+#+begin_src sh
+cp ~/org/bookmarks.org /mnt/hdd/backup/
+#+end_src
+
+But ideally, automate it.
+
+Browser bookmarks should be backup/exported too
+
+Even if your real source of truth is =bookmarks.org=, periodically
+export browser bookmarks as HTML:
+
+#+begin_src text
+Firefox bookmarks
+         
+bookmarks.html
+         
+Git / backup
+#+end_src
+
+This gives you a second recovery path.

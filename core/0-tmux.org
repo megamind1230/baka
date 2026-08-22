@@ -1,0 +1,64 @@
+#+begin_quote
+sessions > windows > panes
+leader = ctrl b
+# sessions
+#+end_quote
+
+#+begin_src sh
+leader ? # list shortcuts
+# Start a new session ORRRRRR attach to an existing session named mysession
+tmux new-session -A -s mysession 
+
+leader $ # rename session
+leader s # list session
+leader w # preview {windows & sessions}
+
+leader : kill-session # kill session
+#+end_src
+
+* windows
+#+begin_src sh
+leader c # create window
+leader , # rename window
+leader & # close window
+leader p # prev window
+leader n # next window
+leader 0:9  # specific window
+#+end_src
+
+* panes / splits
+#+begin_src sh
+leader \" # horiz split
+leader % # vert split
+leader space # change layouts
+leader q # show number on panes
+leader ! # pane into window
+leader x # close pane
+#+end_src
+
+* other modes
+#+begin_src sh
+leader [ # copy mode
+space # select
+enter # copy
+leader ] # paste
+leader : # cmd mode
+#+end_src
+
+* my custom
+#+begin_src sh
+# 3 windows
+tmux new-session -s baka 
+tmux new-window -t baka:1 
+tmux new-window -t baka:2 
+tmux new-window -t baka:3 
+tmux a -t baka
+
+# attach
+tmux a -t baka
+
+# deattach
+leader d
+#+end_src
+
+* [[file:0-configure-tmux.org][0-configure-tmux]]

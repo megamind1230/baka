@@ -1,0 +1,39 @@
+- ansi sql
+- sql parts [[file:../attachments/Pasted image 20241213161933.png]]
+- DDL = metadata
+  - col is a metadata
+- nvarchar vs dynamic
+  - nvarchar > dynamic, varchar > fixed
+  - nvarchar = UNI code
+- string in sql is in =''=
+- =getdate()= today's date
+- =default=
+- =--= comment, =/**/= multi-line comment
+- alter table =TABLE= add =colName= =type=
+  - */alter >> add/alter/drop/*
+- =like=
+  - =%= any number of chars {0 or more}, =_= single char
+- join
+  - inner join[[file:../attachments/Pasted image 20241213191620.png]]
+  - cross join (without where)
+  - outer join
+  - self join
+    ​# questions
+- [X] select into
+
+#+begin_src sql
+select * into backup_or_new_table
+from whatever_table
+#+end_src
+
+good for backups - [x] how to add a constraint to validate just 1 number to be entered { male / female }
+
+#+begin_src sql
+gender char(1) not null,
+constraint chk1 check (gender = 'F' or gender = 'M')
+#+end_src
+
+- [X] delete, truncate, drop
+  - [[file:db-fundamentals-mahara-tech.org]]
+    ​## q4
+- [X] database consists of: =mdf=: meta data file & =ldf= log data file

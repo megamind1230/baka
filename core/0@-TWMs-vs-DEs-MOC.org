@@ -1,0 +1,13 @@
+#+begin_quote
+WM = window managers
+DE = desktop environments
+# not done
+#+end_quote
+
+* done
+- [X] [[file:@-kde-plasma-MOC.org][@-kde-plasma-moc]]
+- [X] [[file:@-gnome-MOC.org][@-gnome-moc]]
+- [X] [[file:0-FancyWM-a-tiling-WM-for-windows-10-shortcuts.org][0-FancyWM-a-tiling-WM-for-windows-10-shortcuts]]
+- [X] [[file:i3wm-trial.org][i3wm-trial]]
+- [X] [[file:@-qtile-MOC.org][@-qtile-moc]]
+- [X] [[file:0-picom-opacity-make-an-app-transparent.org][0-picom-opacity-make-an-app-transparent]]

@@ -1,0 +1,10 @@
+* not done
+- [ ] [[file:pdf-on-linux-and-add-image-to-pdf.org][pdf-on-linux-and-add-image-to-pdf]]
+- [ ] [[file:0-convert-pptx-into-pdf-and-merge-pdfs-faster-linux.org][0-convert-pptx-into-pdf-and-merge-pdfs-faster-linux]]
+- [ ] [[file:terminal-pdf-readers.org][terminal-pdf-readers]]
+- [ ] [[file:best-website-for-pdf-compression.org][best-website-for-pdf-compression]]
+- [ ] [[file:drawboard-pdf-app-shortcuts.org][drawboard-pdf-app-shortcuts]]
+- [ ] [[file:0-zathura-the-vimlike-modal-and-modular-pdf-viewer.org][0-zathura-the-vimlike-modal-and-modular-pdf-viewer]]
+- [ ] [[file:images-in-pdf-is-not-clear-or-images-not-clear-in-pdf.org][images-in-pdf-is-not-clear-or-images-not-clear-in-pdf]]
+
+* done

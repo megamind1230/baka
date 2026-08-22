@@ -1,0 +1,11 @@
+* not done
+- [ ] [[file:nvim-vim-visual-multi-plugin.org][nvim-vim-visual-multi-plugin]]
+
+- [ ] [[file:nvim-plugin-vim-surround.org][nvim-plugin-vim-surround]]
+
+- [ ] regex to non-greedy select words inside ” “, replace them with just the words
+  =:%s/"\(.\{-}\)"/\1= non-greedy
+  =:%s/"\(.*\)"/\1= greedy
+
+- [ ] vim-multicursor plugin
+  ​# done

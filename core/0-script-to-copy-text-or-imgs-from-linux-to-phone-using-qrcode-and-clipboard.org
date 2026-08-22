@@ -1,0 +1,4 @@
+#+begin_src sh
+qrencode -t PNG -s 8 -o /tmp/tmp.png $(wl-paste)
+SOMEimgVIEWER /tmp/tmp.png
+#+end_src

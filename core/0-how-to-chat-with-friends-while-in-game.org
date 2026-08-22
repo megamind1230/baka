@@ -1,0 +1,4 @@
+#+begin_example
+/r theStartOfHisName press tab
+now chat
+#+end_example

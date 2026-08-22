@@ -1,0 +1,10 @@
+- [ ] [[file:coursera-financial-aid.org][coursera-financial-aid]]
+- [ ] [[file:IBM-Full-Stack-JavaScript-Developer-Professional-Certificate.org][IBM-Full-Stack-JavaScript-Developer-Professional-Certificate]]
+
+* others
+- coursera courses
+  - [[https://www.coursera.org/professional-certificates/backend-javascript-developer][IBM Back-end JavaScript Developer Professional Certificate {~= 146 }| Coursera]]
+  - [[https://www.coursera.org/professional-certificates/meta-back-end-developer][Meta Back-End Developer Professional Certificate {~=222h} | Coursera]]
+  - [[https://www.coursera.org/specializations/javascript-programming-with-react-node-mongodb][JavaScript Programming with React, Node & MongoDB {~=61h} | Coursera]]
+  - [[https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express][Developing Back-End Apps with Node.js and Express {mini course 12h} | Coursera]]
+  - [[https://www.coursera.org/professional-certificates/ibm-backend-development][IBM Back-End Development Professional Certificate {~=193h but you learn ai } | Coursera]]

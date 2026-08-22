@@ -1,2 +1,0 @@
-- from kde.org download some effects and paste them into 
-	- `/usr/share/kdenlive/effects/` >> ez

@@ -1,0 +1,52 @@
+** [[https://chain.link/education-hub/blockchain][What Is Blockchain Technology? » Explained | Chainlink]]
+*** deepseek recap
+1) *How It Works*
+   - *Distributed Ledger*: A digital ledger maintained by a
+     *decentralized network of computers (nodes)*, each running the same
+     software and holding a copy of the ledger.
+   - *Transactions & Keys*: Users submit transactions using a *public
+     key* (address) and sign them with a *private key* (like a password).
+   - *Block Formation*: Pending transactions are grouped into a
+     *"block"*.
+   - *Validation & Consensus*: Nodes validate the block through a
+     *consensus mechanism* (e.g., Proof of Work, Proof of Stake). This
+     redundant checking makes malicious changes nearly impossible.
+   - *Appending & Rewards*: Once confirmed, the block is
+     cryptographically linked to the previous block, forming a
+     *"blockchain"*. Nodes are rewarded with transaction fees and/or
+     newly minted cryptocurrency.
+2) *Key Benefits*
+   - *Security*: Very high probability that only valid transactions are
+     confirmed, even against malicious actors.
+   - *Immutability*: Once confirmed, transactions become part of an
+     unchangeable ledger that gets increasingly difficult to alter.
+   - *Reliability*: Globally distributed networks with 24/7 uptime, not
+     restricted geographically or politically.
+   - *Peer-to-Peer*: Eliminates intermediaries, allowing direct
+     transactions without counterparty risk (the risk that the other
+     party won't fulfill their obligations).
+3) *Tradeoffs*
+   - *The Scalability Trilemma*: Blockchains make tradeoffs optimizing
+     between *security, decentralization, and scalability*---they cannot
+     currently maximize all three simultaneously.
+4) *Key Use Cases & Applications*
+   - *Monetary System* (e.g., Bitcoin): A self-contained financial
+     ecosystem with its own currency and deflationary monetary policy.
+   - *Smart Contracts* (e.g., Ethereum): A secure distributed computer
+     for processing conditional agreements ("if x event happens, then
+     execute y action"), enabling Decentralized Finance (DeFi).
+   - *Asset Tokenization*: Creating unique *non-fungible tokens (NFTs)*
+     to represent ownership of real-world assets (buildings, art, etc.).
+   - *Enterprise Middleware*: Ensures two or more enterprise databases
+     have matching records without exposing sensitive internal data
+     (using privacy techniques like Zero-Knowledge Proofs).
+   - *Ledger of Record*: An immutable environment for storing historical
+     records (financial contracts, medical records, identities).
+   - *Utility*: Provides specific services like decentralized video
+     streaming, tamper-proof gaming, or immutable file storage.
+   - *Blockchain Gaming*: Tracks and verifies ownership of in-game assets
+     via NFTs, enabling cross-game trading and player-owned economies.
+   - *Supply Chain*: Enhances traceability, coordination, and
+     accountability between different participants in a supply chain.
+   - *Insurance*: Automates insurance policies and claims processing
+     through transparent, reliable smart contracts.

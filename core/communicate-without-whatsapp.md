@@ -1,1 +1,0 @@
-[Home page - CryptPad.fr](https://cryptpad.fr/)

@@ -1,0 +1,23 @@
+* not done
+- [ ] [[file:how-to-delete-or-remove-into-a-recycle-bin-in-linux-terminal.org][how-to-delete-or-remove-into-a-recycle-bin-in-linux-terminal]]
+- [ ] [[file:pdf-on-linux-and-add-image-to-pdf.org][pdf-on-linux-and-add-image-to-pdf]]
+- [ ] [[file:@-things-to-try-on-a-VM-MOC.org][@-things-to-try-on-a-vm-moc]]
+- [ ] [[file:what-is-mastodon.org][what-is-mastodon]]
+- [ ] [[file:timeshift-linux.org][timeshift-linux]]
+- [ ] [[file:LBRY-meaning-linux.org][LBRY-meaning-linux]]
+- [ ] [[file:keyboard-and-mouse-macro-recorder.org][keyboard-and-mouse-macro-recorder]]
+- [ ] [[file:best-free-vpn-for-linux.org][best-free-vpn-for-linux]]
+
+* done
+- [X] [[file:0-fix-flash-drive-error-splicing-file-too-large.org][0-fix-flash-drive-error-splicing-file-too-large]]
+- [X] [[file:0-how-to-write-a-portable-bash-script.org][0-how-to-write-a-portable-bash-script]]
+- [X] [[file:0-how-to-make-root-password-or-when-su-auth-failure.org][0-how-to-make-root-password-or-when-su-auth-failure]]
+- [X] [[file:0-USERNAME-is-not-in-the-sudoers-file-problem.org][0-USERNAME-is-not-in-the-sudoers-file-problem]]
+- [X] [[file:0-how-to-troubleshoot-linux.org][0-how-to-troubleshoot-linux]]
+- [X] ppt-files-in-linux
+  - opens normally with libre office suite
+- [X] how to list all installed & available fonts on your linux system
+  - =fc-list : family | sort | uniq | nvim=
+- [X] [[file:0-fix-flash-drive-has-2-partitions-on-linux-windows.org][0-fix-flash-drive-has-2-partitions-on-linux-windows]]
+- [X] [[file:0-how-to-open-file-manager-of-the-directory-by-terminal.org][0-how-to-open-file-manager-of-the-directory-by-terminal]]
+- [X] [[file:0-show-keyboard-presses-on-linux.org][0-show-keyboard-presses-on-linux]]

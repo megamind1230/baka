@@ -1,0 +1,1 @@
+#1 - [x] [[https://www.youtube.com/watch?v=KYkaaqf3ETs][Firefox has a DEB PACKAGE! | Installing Firefox without Snap]] - [x] [[https://support.mozilla.org/en-US/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions][some mozilla firefox doc]]

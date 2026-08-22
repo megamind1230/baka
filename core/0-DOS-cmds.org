@@ -1,0 +1,10 @@
+=cmds= for windows - =cd=
+[[file:../attachments/Pasted-image-20221213112346.png]] somehow like pwd here - =cd/= root
+[[file:../attachments/Pasted-image-20221213112407.png]] - =rd= remove an empty */dir/* - =rd /s= > not empty - =del= delete/remove a */file/* - =copy con fileName.txt= > like saying */copy what amma type into this file/* - end typing with =ctrl z=
+[[file:../attachments/Pasted-image-20221213112511.png]] - =type fileName.txt= > print content {like cat in linux}
+[[file:../attachments/Pasted-image-20221213112604.png]] - =copy fileName.txt path= to copy
+[[file:../attachments/Pasted-image-20221213112641.png]] - =move fileName.txt path= to cut
+[[file:../attachments/Pasted-image-20221213112723.png]] - =F7= shows cmd history - =ren old new= > rename - hide / unhide folders with =attrib=
+[[file:../attachments/Pasted-image-20221213112813.png]] - system version =ver=
+[[file:../attachments/Pasted-image-20221213112856.png]] - go to another partition
+[[file:../attachments/Pasted-image-20221213112931.png]] - how to run more than a command at once ? - can use a batch file =.bat= [[file:../attachments/Pasted-image-20221213114112.png]] - restart to system bios - =shutdown /r /fw /f /t 0= - ip addr + mac addr+ gateway - =ipconfig /all= - =| findstr something= pretty similar to [[file:0-grep-command.org][grep]] - copy to clipboard with =| clip= - only get mac addr - =getmac /v= - default apps for specific extensions - =assoc= - also can reassign =assoc .mp4=VLC.vlc=

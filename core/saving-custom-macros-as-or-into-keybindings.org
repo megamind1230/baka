@@ -1,0 +1,11 @@
+* showcasing problem
+#+begin_src js
+server.listen(process.env.PORT) // we need to 
+//console.log('process.env.PORT', process.env.PORT) .. for debugging purpose
+#+end_src
+
+* solution
+#+begin_src C
+ql
+yoconsole.log('^[')
+#+end_src

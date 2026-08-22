@@ -1,0 +1,7 @@
+* not done
+- [ ] [[file:ubuntu-linux-essentials-mahara-tech.org][ubuntu-linux-essentials-mahara-tech]]
+- [ ] [[file:db-fundamentals-mahara-tech.org][db-fundamentals-mahara-tech]]
+
+* done
+- [X] [[file:the-principles-of-writing-clean-code-mahara-tech.org][the-principles-of-writing-clean-code-mahara-tech]]
+- [X] [[file:db-fundamentals-mahara-tech.org][db-fundamentals-mahara-tech]]

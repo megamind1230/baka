@@ -1,1 +1,0 @@
-its just like cropping a custom area of one video onto the other 

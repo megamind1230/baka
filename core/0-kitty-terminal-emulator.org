@@ -1,0 +1,9 @@
+* DONE shortcuts kitty
+| shorcuts              |                        |
+|-----------------------+------------------------|
+| ctrl shift t/q        | create tab / close tab |
+| ctrl shift left/right | next/prev tab          |
+| ctrl shift ,/.        | move tab left/right    |
+| ctrl shift n          | new OS window          |
+| ctrl shift u          | insert unicode char    |
+| ctrl shift j/k        | scroll up/down         |

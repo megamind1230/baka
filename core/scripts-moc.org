@@ -1,0 +1,5 @@
+* not done
+- [ ] [[file:0-script-to-minize-a-video-with-ffmpeg.org][0-script-to-minize-a-video-with-ffmpeg]]
+
+* done
+- [X] [[file:0-caps-lock-mouse-remap-my-custom-systemd-script.org][0-caps-lock-mouse-remap-my-custom-systemd-script]]

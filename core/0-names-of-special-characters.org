@@ -1,0 +1,12 @@
+- [X] [[https://www.javatpoint.com/what-is-a-special-character][What is a Special character - javatpoint]]
+  just some commentary
+
+#+begin_example
+` > back tick
+@ > at
+# > hash / pound sign
+& > and/ampersand
+<> > chevron
+~ > telde
+,* > asterisk
+#+end_example

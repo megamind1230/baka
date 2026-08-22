@@ -1,0 +1,3 @@
+- [X] [[https://www.youtube.com/watch?v=cBOaYidGaCQ][Installing Nerd Fonts on Linux - YouTube]]
+- [ ] [[http://www.lazyvim.org/keymaps][⌨️ Keymaps | LazyVim]]
+  - [ ] [[https://www.youtube.com/watch?v=N93cTbtLCIM][Zero to IDE with LazyVim - YouTube]]

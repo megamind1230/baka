@@ -1,1 +1,0 @@
-- [x] [[0-adel-samir-passive-income-resources]]

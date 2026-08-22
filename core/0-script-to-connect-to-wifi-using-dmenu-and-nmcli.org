@@ -1,0 +1,12 @@
+- [X] =nmcli c= or =nmcli d= network manager cli
+  - what type of internet your device have + gives your wifi router name
+
+#+begin_quote
+nmcli = network manager cli
+#+end_quote
+
+#+begin_src sh
+bssid=$(nmcli device wifi list | sed -n '1!p' | cut -b 9- | dmenu -p "Select wifi :" -l 20 | cut -d' ' -f1)
+pass=$(echo "" | dmenu -p "Enter password :")
+nmcli device wifi connect $bssid password $pass
+#+end_src

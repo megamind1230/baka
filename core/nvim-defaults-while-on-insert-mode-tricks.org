@@ -1,0 +1,37 @@
+* not done
+- [ ] =ctrl x= > completion, must combine with more keybindings
+
+  - [X] =ctrl n/p= > next/prev completion
+  - [X] =ctrl xf= > file
+  - [X] =ctrl xl= > line
+  - [ ] =ctrl xo= > neovim native lsp omni-completion
+  - [ ] =ctrl xs= > spell suggest
+  - [ ] =ctrl xk= > dict
+
+- [ ] =ctrl k char1 char2= > digraphs and insane characters, legatures
+  ​# done
+  > =ctrl c/[ or esc= > escape
+
+- [X] =ctrl i= > insert tab {after cursor}
+
+  - [X] =ctrl t/d= > indent/un-indent {whole line}
+
+- [X] =ctrl h= > delete 1char back
+
+  - [X] delete forward ? - workarounds with =ctrl o=
+
+- [X] =ctrl w= > delete 1word back
+
+- [X] =ctrl u= > delete till line start
+
+- [X] =ctrl o= > allows for 1 normal mode cmd
+
+- [X] =ctrl j/m= > enter/newline
+
+- [X] =ctrl v <Esc>= > drops the =^[= which stands for esc
+
+- [X] =ctrl r regChar= > paste the register
+
+  - [X] =ctrl r== > do simple math
+
+- [X] =ctrl a= > last inserted text

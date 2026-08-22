@@ -1,0 +1,4 @@
+- [X] never use it in low elo
+  - [X] in case they don't understand pings meaning .. so u write it down in chat
+  - [X] never flame ( chat is the fastest way to get banned )
+- [X] use it in high elo

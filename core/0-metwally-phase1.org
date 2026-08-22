@@ -1,0 +1,19 @@
+* lang choice (js)
+- [X] syntax, statements
+- [X] working with files and directories
+  - using the lang?
+- [[https://overapi.com/javascript][Javascript Cheat Sheet | OverAPI.com]]
+  ​# code tools
+- [X] [[file:@-git-and-github-moc.org][@-git-and-github-moc]]
+- [X] unit test
+- [X] build for different OSs
+- [X] # linux server
+- [X] linux server basics
+  - [X] [[file:@-linux-journey-roadmap-MOC.org][is this useful]]
+  - [X] https://www.udemy.com/course/master-linux-administration/
+- [X] # read list
+- [X] computer hardware architecture
+- [X] how memeory or ram works
+- [X] how cpu works
+- [X] OS architecture
+- [X] how OS manages processes

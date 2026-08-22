@@ -1,0 +1,11 @@
+* publisher and subscriber
+#+begin_src cs
+public void Subscribe(WeatherStation station)
+{
+station.WeatherChanged += ShowWeather;
+    // same as
+    // WeatherChanged().WeatherChanged = ShowWeather();
+}
+#+end_src
+
+* message broker

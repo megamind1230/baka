@@ -1,0 +1,6 @@
+- [X] suckless.org/rocks
+- [X] mayfrost/ guides github
+- [X] cat-v.org/sotfware
+- [X] lukesmite.xyz/programs
+- [X] wiki.installgetoo.com/recommended gnu linux software
+- [X] wiki.installgetoo.com/gnu linux ricing

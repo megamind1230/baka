@@ -1,7 +1,0 @@
-- would be my primary default for singles {video and audio}
-	- very simple
-	- cheat sheet ![[mpv.png|300]] 
-		- and volume with wheel or 9/0
-		- frames `./,`
-- but no playlists .. just a single video
-- [x] [[0-my-mpv-config-and-plugins]]

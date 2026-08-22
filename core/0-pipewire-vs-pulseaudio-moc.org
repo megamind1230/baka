@@ -1,0 +1,5 @@
+* pulseaudio
+** done
+- [X] [[file:0-cli-tools-for-pulseaudio.org][0-cli-tools-for-pulseaudio]]
+  ​## not done
+  ​# pipewire

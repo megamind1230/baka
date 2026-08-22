@@ -1,0 +1,97 @@
+link ==> [[https://updraft.cyfrin.io/courses/blockchain-basics][Blockchain Basics Technology Course - Cyfrin Updraft]]
+
+[[https://www.cyfrin.io/glossary][Cyfrin Glossary]]
+
+* DONE deepseek recap
+*** 📚 Section 1: What Is A Blockchain?
+This section establishes the foundational knowledge by exploring the
+"why" and "how" of blockchain technology.
+- *Core Problem & Solution:* It begins by examining the problems with
+  centralized systems (like censorship or unverifiable processes) and
+  presents blockchain as a decentralized, shared ledger where truth is
+  verified by math, not intermediaries .
+- *History & Evolution:* You'll trace the technology's origins, from the
+  double-spend problem that plagued early digital cash to Bitcoin's
+  revolutionary solution, and then to Ethereum's evolution into a
+  platform for smart contracts and "world computer" .
+- *Key Benefits:* The section covers the main advantages of blockchain,
+  including its permissionless, immutable, and credibly neutral
+  properties .
+- *Initial Use Cases:* It provides a practical overview of blockchain's
+  current impact, including DeFi, cross-border payments, and DAOs .
+- *Multi-Chain World:* It demystifies the landscape of Layer 1 (L1),
+  Layer 2 (L2) blockchains, and explains the crucial difference between
+  real-money mainnets and risk-free testnets .
+- *The Oracle Problem:* A crucial lesson on why smart contracts cannot
+  access off-chain data on their own, and how Decentralized Oracle
+  Networks (DONs) act as a secure bridge to the real world .
+*** ⚙️ Section 2: Smart Contracts & The EVM
+This module dives deep into the "programs" that run on the blockchain.
+- *What is a Smart Contract:* You'll learn how these are "math-based
+  promises" or "unbreakable digital agreements" that offer advantages
+  over traditional, trust-based contracts .
+- *Benefits of Smart Contracts:* This part explores their revolutionary
+  properties: decentralization, immutability, and transparency, which
+  replace fragile trust with cryptographic certainty .
+- *Introduction to the EVM:* You'll get a primer on the Ethereum Virtual
+  Machine (EVM), the core computation engine of Ethereum, and learn the
+  difference between EVM Equivalence and Compatibility .
+*** 💸 Section 3: Sending Transactions (Hands-On)
+This is where the course gets practical, guiding you through real-world
+interactions with the blockchain using testnets.
+- *Setting Up a Wallet:* A detailed, step-by-step guide to creating a
+  secure MetaMask wallet, covering the critical concept of self-custody
+  and the importance of your Secret Recovery Phrase .
+- *Testnets & Tenderly:* You'll learn about the friction of public
+  testnet faucets and how Cyfrin's use of Tenderly virtual testnets
+  removes this pain point, allowing you to spin up a private blockchain
+  with infinite test ETH .
+- *Your First Transaction:* A guided walkthrough to send your first ETH
+  transaction on a virtual testnet, and then on a public Sepolia
+  testnet, where you can use Etherscan to track your activity .
+*** ⛽ Section 4: Gas, Wallets & Network Mechanics
+This section breaks down the technical mechanics behind blockchain
+operations.
+- *Transaction Signing:* An in-depth explanation of the process of
+  signing transactions, including the crucial role of public and private
+  keys for security .
+- *What is Gas:* You will learn why every transaction requires a fee,
+  breaking down "Gas" as computational effort and "Gas Price" as a bid
+  for priority. It also covers calculating total costs and Ethereum's
+  EIP-1559 fee structure .
+- *How Blockchains Work:* A detailed look at the inner workings,
+  including hash functions and the concept of immutability .
+- *Scaling with L2s:* An overview of Layer 1s, Layer 2s, and rollups
+  (Optimistic and ZK), explaining why they are essential for solving
+  blockchain's scalability challenges .
+*** 🚀 Section 5: Real-World Blockchain Use Cases
+This is designed to be a more relaxed and conceptual section, focusing
+on the practical applications of the technology .
+- *Overview:* It connects the dots between the complex architecture
+  you've just learned and the tangible, real-world impact of Web3 .
+- *DeFi (Decentralized Finance):* Explores how developers are building
+  an alternative, open financial system on the blockchain, including
+  lending and decentralized exchanges (DEXs) .
+- *Tokens:* A breakdown of different token standards, including fungible
+  (ERC20) and non-fungible (NFT) tokens .
+- *CEXs vs. DEXs:* A comparison of centralized exchanges (like Coinbase)
+  with DEXs (like Uniswap) .
+- *Stablecoins:* An examination of how cryptocurrencies are designed to
+  maintain a stable value, often pegged to a real-world currency .
+- *Real World Assets (RWA):* Explores the tokenization of physical
+  assets like real estate on the blockchain .
+- *DAOs:* An introduction to Decentralized Autonomous Organizations, or
+  internet-native, community-led organizations .
+*** 🔐 Section 6: Blockchain Threats and Security
+This section highlights the risks and attack vectors in the blockchain
+space.
+- *Attack Vectors:* You will learn about critical threats like
+  Miner/Maximal Extractable Value (MEV), 51% attacks, Sybil attacks, and
+  blockchain reorganizations .
+- *Advanced Concepts:* The course also introduces topics like account
+  abstraction (EIP-4337) and concludes with a celebratory summary of
+  your learning journey from theory to practice .
+
+- what's DAOs?Decentralized Autonomous Organizations
+
+* notes

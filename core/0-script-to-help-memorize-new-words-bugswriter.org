@@ -1,0 +1,32 @@
+#+begin_src sh
+# file name: new-word
+#!/bin/bash
+
+word=$(echo "" | dmenu -p "Add word: ")
+meaning=$(echo "" | dmenu -p "Add meaning: ")
+
+echo "$word | $meaning" >> /mnt/hdd/words.txt
+#+end_src
+
+then add this one line to ur =.bashrc= / .zshrc
+
+#+begin_example
+shuf -n 1 /mnt/hdd/words.txt
+#+end_example
+
+#+begin_quote
+and it will show a new word everytime u open a terminal
+#+end_quote
+
+** my version 07-02-2026
+#+begin_src sh
+#!/bin/bash
+# Script with fuzzel
+word=$(echo "" | fuzzel --dmenu --prompt="Add word: ")
+meaning=$(echo "" | fuzzel --dmenu --prompt="Add meaning: ")
+
+if [[ -n "$word" && -n "$meaning" ]]; then
+    echo "$word | $meaning" >> "/mnt/hdd/words.txt"
+    notify-send "Word Added" "'$word' added to dictionary"
+fi
+#+end_src

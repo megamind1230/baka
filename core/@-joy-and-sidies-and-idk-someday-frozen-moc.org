@@ -1,0 +1,20 @@
+* not done
+- [ ] [[file:nice-steam-games-to-play.org][nice-steam-games-to-play]]
+- [ ] [[file:are-prices-going-up-when-we-buy-more.org][are-prices-going-up-when-we-buy-more]]
+- [ ] [[file:films-movies-to-watch.org][films-movies-to-watch]]
+- [ ] [[file:my-new-muslim-bruv-a-message-to-ali-the-japanese.org][my-new-muslim-bruv-a-message-to-ali-the-japanese]]
+- [ ] [[file:wifi-router-settings.org][wifi-router-settings]]
+- [ ] [[typst-is-the-best-language-for-u-to-write-ur-cv-or-resume-better-than-latex]]
+- [ ] [[file:@-scan-this-channel-or-channel-scanning-MOC.org][@-scan-this-channel-or-channel-scanning-moc]]
+- [ ] [[file:WaveEditor.org][WaveEditor]]
+- [ ] [[file:manim-python-library.org][manim-python-library]]
+- [ ] TODO needlework api exploring app
+- [ ] [[https://www.wireguard.com/][WireGuard: fast, modern, secure VPN tunnel]]
+- [ ] [[https://hbd.gg/][EthnoGuessr]]
+- [ ] [[https://ethnoguessr.online/][EthnoGuessr --- Human phenotypes & world geography quiz | Educational map game]]
+
+* done
+- [X] [[file:0-names-of-special-characters.org][0-names-of-special-characters]]
+- [X] [[file:egyptian-street-slang.org][egyptian-street-slang]]
+- [X] [[file:0-rap-tracks.org][0-rap-tracks]]
+- [X] incredibox app for simple music beat making

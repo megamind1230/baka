@@ -1,0 +1,5 @@
+#+begin_src C
+egrep -c '(vmx|svm)' /proc/cpuinfo
+
+//output should be gt 0
+#+end_src

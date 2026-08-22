@@ -1,0 +1,9 @@
+* not done
+- [ ] [[file:he-tried-50-programming-courses-here-are-top-5.org][he-tried-50-programming-courses-here-are-top-5]]
+- [ ] [[file:0-backend-canvas.canvas][0-backend-canvas]]
+- [ ] [[file:0-js-backend-roadmap.org][0-js-backend-roadmap]]
+- [ ] [[file:@-csharp-roadmap-moc.org][@-csharp-roadmap-moc]]
+- [ ] [[file:roadmap-sh-Backend-Developer-general-musts.org][roadmap-sh-Backend-Developer-general-musts]]
+- [ ] [[file:mazen-canada-backend-core-checklist.org][mazen-canada-backend-core-checklist]]
+
+* done

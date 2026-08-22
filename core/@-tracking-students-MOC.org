@@ -1,0 +1,7 @@
+** skills
+[[file:@-skills-MOC.org][@-skills-moc]]
+## students
+[[file:karim-tracking.org][karim-tracking]]
+[[yasmeen-tracking]]
+[[file:7neen-tracking.org][7neen-tracking]]
+[[file:ziad-tracking.org][ziad-tracking]]

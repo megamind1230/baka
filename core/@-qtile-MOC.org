@@ -1,0 +1,2 @@
+- [ ] [[qtile-cheatsheet]]
+- [ ] [[file:0-qtile-switch-between-active-workspaces-only-just-skip-empty-ones.org][0-qtile-switch-between-active-workspaces-only-just-skip-empty-ones]]

@@ -1,0 +1,13 @@
+https://www.geeksforgeeks.org/function-overloading-vs-function-overriding-in-cpp/
+
+- overload
+  - same name
+  - diff signature
+  - return type doesnt affect
+- override
+- overwrite
+
+* DONE override vs overload vs overwrite in programming
+- ****Overload**** *too many options* (different inputs) same name BUT diff paras same action/logic BUT diff input
+- ****Override**** *I take control* (child replaces parent) same name & paras inheritance + poly
+- ****Overwrite**** *erase & replace* (data, files)

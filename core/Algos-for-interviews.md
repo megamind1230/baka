@@ -1,9 +1,0 @@
-Algos-for-interviews
-- DFS
-- BFS
-- Maching parenthesis 
-- Hash table
-- Dynamic programming 
-- Memoaisation 
-- Var ptr manip
-- Linked lists

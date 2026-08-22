@@ -1,0 +1,23 @@
+#1
+
+#+begin_src sh
+file=$(find $HOME -type f | dmenu -i l 25)
+curl -F "file=@$file" 0x0.st | xclip -selection c
+notify-send "file sharable link .. is now on clipboard"
+#+end_src
+
+#+begin_quote
+[!NOTE] 0x0.st
+can shorten urls
+#+end_quote
+
+#+begin_example
+curl -F "shorten=url" 0x0.st
+#+end_example
+
+#+begin_quote
+#+end_quote
+
+#+begin_quote
+512MB max
+#+end_quote

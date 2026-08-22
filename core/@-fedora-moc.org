@@ -1,0 +1,7 @@
+- [[file:EIO-obsidian-problem-on-fedora.org][EIO-obsidian-problem-on-fedora]]
+  [[file:0-fedora-randoms.org][0-fedora-randoms]]
+
+#+begin_src dataview
+table
+where contains(file.name, "fedora")
+#+end_src

@@ -1,0 +1,3 @@
+- [ ] [[https://www.youtube.com/playlist?list=PLSWNAxJuTT5HZN_kTsR_mrUKtJvfqTQmc][Obsidian diagrams playlist- YouTube]]
+- [ ] [[file:obsidian-plugin-{charts}.org][obsidian-plugin-{charts}]]
+- [ ] [[file:diagrams-{obsidian-mermaid}.org][diagrams-{obsidian-mermaid}]]

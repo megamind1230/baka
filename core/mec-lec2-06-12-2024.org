@@ -1,0 +1,51 @@
+#1
+#todo - [x] entity in ERD = always table in schema ? - now 100% cuz attr can create a table {multi-valued case} - entity can be mixed with another in same table - [x] entity can not have relationship ? - no
+
+| - foreign key: PK in another table - can diff in name - same datatype? of course YES - arrow from another to PK - can have NULL, duplicates |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
+| - record = row = tuble - col = field = =attr=                                                                                               |
+
+- constraints doc
+
+  - tells
+    - composite attr parts
+    - derived attr
+
+- ERD mapping
+
+  - first to look for 1:1 total
+
+- multi-valued -> create table {now the PK = composite}
+
+- 
+  ** arrow from child to parent { head to PK }
+  [[file:db-fundamentals-mahara-tech.org]]
+
+- [[file:../attachments/Pasted image 20241206181817.png]]
+  emp(^/ssn/, ^BD, ^gender, ^Fname, ^Lname, */sup-ssn/*, */DepNum/*)
+  work{emp, department}()
+  have{dependant, emp}()
+  dependant(/dname/, BD, gender, /emp-ssn/)
+  department(/DepNum/, Dname, */emp-ssn2/*, =hiredate=)
+  depLoc(/DepNum/, /loc/)
+  manage{dep, emp}()2
+  project(loc, city , Pname, /Pnum/, */DepNum/*)
+  has{project, department}
+  working{emp, project}
+  working(hours, /emp-ssn/, */projNum/*)
+
+- [X] super
+
+- [X] manage
+
+- [X] work
+
+- [X] have
+
+- [X] has
+
+- [X] working
+
+[[file:../attachments/Pasted image 20241206194451.png]]
+
+[[file:0-mec-assignment-lec2.org][0-mec-assignment-lec2]]

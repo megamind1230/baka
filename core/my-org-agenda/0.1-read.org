@@ -1,0 +1,3 @@
+* WAITING what is magit in emacs
+* what is ctrl ca in org {attach file}
+* mx compile in emacs

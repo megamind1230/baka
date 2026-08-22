@@ -1,0 +1,27 @@
+- [X] a great video to save for later [[https://www.youtube.com/watch?v=LkHjJlSgKZY][Neovim Config Switcher - YouTube]]
+- [X] it is not about =vim= itself.. it is about =vim motions efficiency=
+- [X] =vimtutor= in shell to learn vim inside terminal in linux
+- [X] a buffer = a file in vim sometimes
+- [X] vim is harder to get into windows
+  - but use it [[https://www.vimonlineeditor.com/][online]]
+  - or VSCodeVim extension
+- [X] [[file:nvim-roadmap-ai.org][nvim-roadmap-ai]]
+- [X] [[file:nvim-modes.org][nvim-modes]]
+- [X] [[file:nvim-basic-shortcuts.org][nvim-basic-shortcuts]]
+- [X] [[file:nvim-intermediate-shortcuts.org][nvim-intermediate-shortcuts]]
+  ​# ref links
+- [ ] [[https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet][cheat sheet]]
+- [ ] [[https://github.com/VSCodeVim/Vim/blob/master/ROADMAP.md][look at available in VSCodeVim now]]
+- [ ] [[file:vscodevim-extra-key-remapping.org][vscodevim-extra-key-remapping]]
+- [ ] [[https://learnvim.irian.to/][Learn Vim]]
+- [ ] [[https://www.vimgolf.com/][really cool vim tricks and challenges]]
+- [ ] [[https://neovim.io/doc/user/quickref.html#quickref][Quickref - Neovim docs]]
+- [ ] [[https://neovim.io/doc/user/tips.html#tips][Tips - Neovim docs]]
+- [ ] [[https://neovim.io/doc/user/index.html#bars][Help - Neovim docs]]
+- [X] [[https://vim.rtorr.com/][Vim Cheat Sheet (rtorr.com)]]
+  ​# sub mocs
+- [X] [[file:@-nvim-vim-advanced-moc.org][@-nvim-vim-advanced-moc]]
+- [ ] [[file:nvim-vim-issues-moc.org][nvim-vim-issues-moc]]
+- [ ] [[file:@-nvim-plugins-moc.org][@-nvim-plugins-moc]]
+- [ ] [[file:boost-your-coding-fu-book-or-the-learnvim-vscode-extension.org][boost-your-coding-fu-book-or-the-learnvim-vscode-extension]]
+- [ ] [[file:vim-from-scratch.org][vim-from-scratch]]

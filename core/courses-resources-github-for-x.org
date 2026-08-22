@@ -1,0 +1,45 @@
+* [[file:@-github-links-MOC.org][@-github-links-moc]]
+* cpp
+- [[https://www.youtube.com/watch?app=desktop&v=_bYFu9mBnr4&t=10059s&ab_channel=CalebCurry][C++ Programming All-in-One Tutorial Series (10 HOURS!) - YouTube]]
+  ​# python
+- [[https://mega.nz/folder/9AJiTBgK#qwxiC8dt1HWdTAgnIeujOw][angela yu python 100 days mega]]
+  ​# ds
+- [[https://drive.google.com/drive/folders/1bjoIIQFaY9gw2Hqln1p1aVeUSlam6PQj][DrMostafaSaadIbrahim CPP-DS - Google Drive]]
+  ​# flutter/mobile dev
+- [[https://www.youtube.com/@FlutterMapp/playlists][Flutter Mapp - YouTube]]
+  ​# my roadmaps
+- [[file:0-js-backend-roadmap.org][0-js-backend-roadmap]]
+- [[file:@-problem-solving-ordered-solving-roadmap-MOC.org][@-problem-solving-ordered-solving-roadmap-moc]]
+- [[https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/][complete system design roadmap]]
+  ​# ds & algo
+- [[https://www.youtube.com/@TheAdityaVerma/playlists][Aditya Verma - YouTube]]
+- [[https://www.youtube.com/@CodeToSuccess7/playlists?view=1&sort=dd&shelf_id=0][LeetCode To Success - YouTube]]
+- [[https://www.youtube.com/@mralgorithms5127/playlists][https://www.youtube.com/[cite/t:@mralgorithms5127/playlists]]]
+- visualgo.com
+  ​# web
+- [[https://www.youtube.com/user/theCodeFather00][ahmed mohamady - YouTube]]
+- [[https://www.youtube.com/@CleverProgrammer/playlists][Clever Programmer - YouTube]]
+- [[https://www.youtube.com/@KevinPowell/playlists][Kevin Powell - YouTube]]
+  ​# AI & machine learning & data science
+- [[https://www.youtube.com/@alwaslah/playlists][Al Waslah - الوصلة - YouTube]]
+- [[https://www.youtube.com/@arafamicrosystems/playlists][Arafa Microsys - YouTube]]
+- [[https://www.youtube.com/@HeshamAsem/playlists][Hesham Asem - YouTube]]
+- [[https://github.com/jbhuang0604/awesome-computer-vision#awesome-lists][GitHub - jbhuang0604/awesome-computer-vision: A curated list of awesome computer vision resources]]
+  ​# math
+- https://www.youtube.com/user/mathantics
+- [[https://www.youtube.com/@sureshaggarwal/playlists][https://www.youtube.com/[cite/t:@sureshaggarwal/playlists]]]
+- [[https://youtube.com/c/DontMemorise][Don't Memorise]]
+- [[https://youtube.com/c/JusticeShepard][Justice Shepard]]
+- [[https://youtube.com/c/papaflammy][Flammable Maths]]
+- [[https://youtube.com/c/misterwootube][Eddie Woo]]
+- [[https://youtube.com/c/Freemathvideos][Brian McLogan]]
+- [[https://www.youtube.com/@FridaDaniel/playlists][Frida Daniel - YouTube]]
+- [[https://www.youtube.com/@gkrealstudy/playlists][GK Real Study and Knowledge - YouTube]]
+- [[https://www.youtube.com/@GoluBhaiyaMaths/playlists][Golu Bhaiya Maths - YouTube]]
+- [[https://www.youtube.com/@SawFinMathematics/playlists][Kimberly Brehm - YouTube]]
+- [[https://www.youtube.com/@knowshare/playlists][Knowledge Sharing - YouTube]]
+- [[https://www.youtube.com/@markiedoesmath/playlists][markiedoesmath - YouTube]]
+- [[https://www.youtube.com/@mathOgenius/playlists][mathOgenius - YouTube]]
+- [[https://www.youtube.com/@maths_easy_channel/playlists][Maths Easy - YouTube]]
+  ​# still
+- https://daily.dev/

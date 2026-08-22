@@ -1,0 +1,5 @@
+#1
+
+- [ ] [[https://www.youtube.com/watch?v=TIxZ4G1JQ5c][Finally a terminal file explorer that doesn't suck! - YouTube]]
+  ​# yazi
+  to learn it just use =~= for help

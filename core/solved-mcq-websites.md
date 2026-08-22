@@ -1,2 +1,0 @@
-- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
-- [Programming & Engineering Questions & Answers - Sanfoundry](https://www.sanfoundry.com/)

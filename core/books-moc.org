@@ -1,0 +1,12 @@
+* done
+- [X] [[file:0-the-one-thing-{ali-mo-ali}-كتاب-الشيء-الوحيد.org][0-the-one-thing-{ali-mo-ali}-كتاب-الشيء-الوحيد]]
+- [X] [[file:0-the-little-book-of-talent-{ali-mo-ali}.org][0-the-little-book-of-talent-{ali-mo-ali}]]
+- [X] [[file:0-how-to-make-book-recaps-{abo-zaid}.org][0-how-to-make-book-recaps-{abo-zaid}]]
+- [X] ميكافيللي الأمير (تم الاستماع) #done
+
+* not done
+- [ ] [[file:books-for-x-moc.org][books-for-x-moc]]
+- [ ] [[file:0-books-im-done-reading-or-reading.org][0-books-im-done-reading-or-reading]]
+- [ ] [[file:building-a-second-brain-tiago-forte.org][building-a-second-brain-tiago-forte]]
+- [ ] [[file:@-cpp-how-to-program-paul-deitel-tenth-edition-cpphtp-MOC.org][@-cpp-how-to-program-paul-deitel-tenth-edition-cpphtp-moc]]
+- [ ] [[file:Esam-Halim-Houssein-Abd-El-Halim-4-Data-Structure-Using-Cpp-Malik.org][Esam-Halim-Houssein-Abd-El-Halim-4-Data-Structure-Using-Cpp-Malik]]

@@ -1,0 +1,103 @@
+--------------
+
+kanban-plugin: board
+id: 01HN3MRVWQ1FJS6X5SWT28A9TM
+
+--------------
+
+** لسه بنتعلمه
+** مفهوم
+- [ ] [[file:league-sht.org][league-sht]] #1
+- [ ] [[file:0-what-specs-needed-for-lol-setup.org][0-what-specs-needed-for-lol-setup]]
+- [ ] [[file:how-to-use-youtube-as-a-beginner.org][how-to-use-youtube-as-a-beginner]]
+- [ ] [[file:0-how-to-add-someone-in-league.org][0-how-to-add-someone-in-league]]
+- [ ] [[file:how-to-invite-someone-to-lobby.org][how-to-invite-someone-to-lobby]]
+- [ ] [[file:0-how-to-take-a-screenshot-3-diff-ways-lol.org][0-how-to-take-a-screenshot-3-diff-ways-lol]]
+- [ ] [[file:how-to-screen-record-games.org][how-to-screen-record-games]]
+- [ ] [[file:strategy-game-&-MOBA-&-league-briefly.org][strategy-game-&-MOBA-&-league-briefly]]
+- [ ] [[file:types-of-champs-according-to-range.org][types-of-champs-according-to-range]]
+- [ ] [[file:AD---AP---true-damage.org][AD---AP---true-damage]]
+- [ ] [[file:0-your-first-baby-steps-in-league.org][0-your-first-baby-steps-in-league]]
+- [ ] [[file:0-helpful-channels-lol.org][0-helpful-channels-lol]]
+- [ ] [[file:0-lol-helpful-websites-or-apps.org][0-lol-helpful-websites-or-apps]]
+- [ ] [[file:lol/0-my-lol-game-settings.org][0-my-lol-game-settings]]
+- [ ] [[file:0-how-to-ping-and-when.org][0-how-to-ping-and-when]]
+- [ ] [[file:0-acronyms-slang-terms-in-lol.org][0-acronyms-slang-terms-in-lol]]
+- [ ] [[file:spells.org][spells]]
+- [ ] [[file:0-champ-kit-lol.org][0-champ-kit-lol]]
+- [ ] [[file:champions-classes.org][champions-classes]]
+- [ ] [[file:all-runes-pages.org][all-runes-pages]]
+- [ ] [[file:0-mythic-items.org][0-mythic-items]]
+- [ ] [[file:tank-items.org][tank-items]]
+- [ ] [[file:0-mage-items.org][0-mage-items]]
+- [ ] [[file:0-adc-marksman-items-lol.org][0-adc-marksman-items-lol]]
+- [ ] [[file:assasin-items.org][assasin-items]]
+- [ ] [[file:fighter-bruiser-split-pusher-items.org][fighter-bruiser-split-pusher-items]]
+- [ ] [[file:0-support-items.org][0-support-items]]
+- [ ] [[file:items-in-nexus-blitz.org][items-in-nexus-blitz]]
+- [ ] [[file:support-champs.org][support-champs]]
+- [ ] [[file:lol/0-synergy-champs-lol.org][0-synergy-champs-lol]]
+- [ ] [[file:scaling-champs.org][scaling-champs]]
+- [ ] [[file:lol/most-fun-champs-mechanical-wise.org][most-fun-champs-mechanical-wise]]
+- [ ] [[file:micro-vs-macro-lol.org][micro-vs-macro-lol]]
+- [ ] [[file:micro-or-champ-tips-and-tricks.org][micro-or-champ-tips-and-tricks]]
+- [ ] [[file:game-phases.org][game-phases]]
+- [ ] [[file:CSing.org][CSing]]
+- [ ] [[file:why-supp-just-kills-canon-minions.org][why-supp-just-kills-canon-minions]]
+- [ ] [[file:warding.org][warding]]
+- [ ] [[file:0-Drake-signs.org][0-drake-signs]]
+- [ ] [[file:objectives-respawn-times.org][objectives-respawn-times]]
+- [ ] [[file:when-to-cheater-recall.org][when-to-cheater-recall]]
+- [ ] [[file:walk-or-recall.org][walk-or-recall]]
+- [ ] [[file:when-to-roam.org][when-to-roam]]
+- [ ] [[file:0-when-to-group-or-team-fight.org][0-when-to-group-or-team-fight]] ^iwdhpg
+- [ ] [[file:0-when-to-solo-fight.org][0-when-to-solo-fight]]
+- [ ] when to tp and how your team can cycle tp in a lane to save it
+- [ ] when to split-push ?
+- [ ] when to baron ?
+- [ ] when to drake ?
+- [ ] [[file:when-to-bait.org][when-to-bait]]
+- [ ] when to leash ?
+- [ ] when to flank ?
+- [ ] when to gank ?
+- [ ] when to rage gank ?
+- [ ] when to counter gank ?
+- [ ] [[file:when-to-dive-under-turret.org][when-to-dive-under-turret]]
+- [ ] wave management
+- [ ] when to proxy
+- [ ] [[file:when-to-report.org][when-to-report]]
+- [ ] [[file:0-when-to-dodge-a-game.org][0-when-to-dodge-a-game]]
+- [ ] [[file:0-when-to-use-chat-in-lol.org][0-when-to-use-chat-in-lol]]
+- [ ] [[file:0-how-to-chat-with-friends-while-in-game.org][0-how-to-chat-with-friends-while-in-game]]
+- [ ] [[file:0-smurf.org][0-smurf]]
+- [ ] [[file:0-wintrading.org][0-wintrading]]
+- [ ] [[file:boosting.org][boosting]]
+- [ ] [[file:lvling.org][lvling]]
+- [ ] [[file:blink---draft-pick---aram---ranked---flex.org][blink---draft-pick---aram---ranked---flex]]
+- [ ] [[file:Lethality---armor-pen---percentage-armor-pen.org][Lethality---armor-pen---percentage-armor-pen]]
+- [ ] Damage according to missing health , max health , current health
+- [ ] control mage ?
+- [ ] oh hit champs ? jax
+- [ ] read items on fandom
+- [ ] Melee AP divers and Slayers
+- [ ] artillery mages
+- [ ] non cirt abilities
+- [ ] mordi R then illaoi R inside
+- [ ] [[file:0-league-meta-ranking-tiers.org][0-league-meta-ranking-tiers]]
+- [ ] [[file:cc-or-crowd-control-types.org][cc-or-crowd-control-types]]
+- [ ] [[file:drafting-lol.org][drafting-lol]]
+- [ ] [[file:lol-scripting.org][lol-scripting]]
+- [ ] [[file:when-to-gank-lanes.org][when-to-gank-lanes]]
+- [ ] [[file:0-when-to-freeze-or-slow-push-lol.org][0-when-to-freeze-or-slow-push-lol]]
+- [ ] [[file:0-adc-laning-phase-guide.org][0-adc-laning-phase-guide]]
+- [ ] [[file:0-good-videos-for-lol-noobs.org][0-good-videos-for-lol-noobs]]
+- [ ] [[file:lvl-up-timers.org][lvl-up-timers]]
+
+** خلاص اتعلمناه
+%% kanban:settings
+
+#+begin_example
+{"kanban-plugin":"board","list-collapse":[null,false]}
+#+end_example
+
+%%

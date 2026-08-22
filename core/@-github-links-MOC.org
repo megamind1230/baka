@@ -1,0 +1,12 @@
+* not done
+- [[https://github.com/jixserver/free-for-dev][jixserver/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev]]
+- [[https://github.com/practical-tutorials/project-based-learning#javascript][practical-tutorials/project-based-learning: Curated list of project-based tutorials]]
+- [[https://github.com/The-Cool-Coders/Project-Ideas-And-Resources][The-Cool-Coders/Project-Ideas-And-Resources: A Collection of application ideas that can be used to improve your coding skills ❤.]]
+- [[https://github.com/poteto/hiring-without-whiteboards][poteto/hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process]]
+- [[https://github.com/public-apis/public-apis][public-apis/public-apis: A collective list of free APIs]]
+- [[https://github.com/donnemartin/system-design-primer][donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.]]
+- https://github.com/GorvGoyl/Clone-Wars
+- [[https://github.com/daviwil/dotfiles][daviwil/dotfiles: [MIRROR] The path to GNUrvana]]
+  ​# done
+- [X] [[https://github.com/elliottminns/dotfiles/tree/main][elliottminns/dotfiles]]
+- [X] [[https://github.com/rexim/dotfiles][rexim/dotfiles: Config files for mixer]]

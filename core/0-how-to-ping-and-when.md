@@ -1,9 +1,0 @@
-#  actions
-hold ctrl or alt  and hover mouse ![[Pasted-image-20231015231527.png]]
-# you can also ping on these
-- health & mana
-- lvl
-- gold
-- missing in tab
-- structures & monsters
-- ms {ping}

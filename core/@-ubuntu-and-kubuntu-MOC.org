@@ -1,0 +1,20 @@
+* not done
+- [[file:best-clipboard-manager-for-me-(on-ubuntu).org][best-clipboard-manager-for-me-(on-ubuntu)]]
+- [[file:can-i-take-a-game-from-windows-pc-into-ubuntu-pc.org][can-i-take-a-game-from-windows-pc-into-ubuntu-pc]]
+- [[file:how-i-solved-the-New-Volume-disk-problems-in-ubuntu.org][how-i-solved-the-New-Volume-disk-problems-in-ubuntu]]
+- [[file:how-to-add-gmic-to-gimp-on-ubuntu-linux.org][how-to-add-gmic-to-gimp-on-ubuntu-linux]]
+- [[some-debian-based-commands]]
+- [[file:what-to-free-up-space-on-ubuntu-linux.org][what-to-free-up-space-on-ubuntu-linux]]
+- [[file:ubuntu-stack-exchange-&-reputation.org][ubuntu-stack-exchange-&-reputation]]
+- [[file:how-to-list-all-the-built-in-hotkeys-of-ubuntu-that-has-super-key-in-it.org][how-to-list-all-the-built-in-hotkeys-of-ubuntu-that-has-super-key-in-it]]
+- [[file:ubuntu-linux-essentials-mahara-tech.org][ubuntu-linux-essentials-mahara-tech]]
+
+* done
+- [[file:0-how-to-install-audacity-the-right-way-(on-ubuntu).org][0-how-to-install-audacity-the-right-way-(on-ubuntu)]]
+- [[file:0-how-to-set-hotkeys-for-running-an-app-on-ubuntu.org][0-how-to-set-hotkeys-for-running-an-app-on-ubuntu]]
+- [[file:0-how-to-launch-the-terminal-from-terminal-ubuntu.org][0-how-to-launch-the-terminal-from-terminal-ubuntu]]
+- [[file:0-firefox-deb-package-on-unbunu-distro-instead-of-snap.org][0-firefox-deb-package-on-unbunu-distro-instead-of-snap]]
+- [[file:0-alt-f2-show-the-run-command-prompt-(on-ubuntu).org][0-alt-f2-show-the-run-command-prompt-(on-ubuntu)]]
+- [[file:0-how-to-remove-the-dock-of-ubuntu.org][0-how-to-remove-the-dock-of-ubuntu]]
+- [[file:0-my-shortcuts-on-ubuntu-(on-super-key).org][0-my-shortcuts-on-ubuntu-(on-super-key)]]
+- [[file:0-timer-app-for-ubuntu-gnome.org][0-timer-app-for-ubuntu-gnome]]

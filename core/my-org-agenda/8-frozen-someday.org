@@ -1,0 +1,947 @@
+* how-to-gain-weight-the-proper-way
+  [2026-01-30 Fri 11:46]
+* gimp xfc templates? repo? websites?
+* coding with sphere
+fidget
+vim tmux nav
+tabout
+treesj > idk > no
+autopair > mini.pairs > ok
+mini.surround > ok
+nvim treesitter text objects > mini.ai > ok
+flash nvim > mini.jump2d > ok
+comment > ig the built-in thing is enough > ok
+
+* emacs c#
+can't
+
+* neovim / lazyvim for c#
+can't
+* pile
+** delegates-and-events
+** internal-vs-extenal-config-for-db
+** polymorphisms-operations
+** object-keyword
+** database-context
+** data-annotations
+** functional programming
+** extension class
+** how to remove a text / thing from pdf
+** quizz pdf template
+** Th Comma (,)
+	- `if` i were you, i would
+	- In 2008, Internet was still pretty new.
+	- Washington D.C, the crime took place
+	- I bought a bag, a pen, a sharpener and a pencil
+	- I talked to the guy, whose name is ahmad, about buying his house.
+	- "All roads lead to me", said Faker.
+** generation
+** quantifier
+** grouping
+** partitioning operators
+** ef core vs dapper vs ado .net
+** ways for mapping
+** loading types
+** soft delete in db
+** cealed class
+	** no inherit
+	** cealed func
+** singleton vs static obj
+	- 2 cant make instance of
+** shadowing vs override in c#
+** readonly vs const
+	- runtime
+** dynamic keyword
+** postman application
+** IEnumerable .. and other builtin interfaces
+** task-and-thread-syntax-and-async-programming
+* Algos-for-interviews
+- DFS
+- BFS
+- Maching parenthesis
+- Hash table
+- Dynamic programming
+- Memoaisation
+- Var ptr manip
+- Linked lists
+
+  [2026-01-17 Sat 21:14]
+* how to open neovim inside of emacs and have it working without glitches { use vterm as an example terminal }
+  [2026-03-04 Wed 07:37]
+I guess ppl hate to tell me and I can't find a way still
+Wed Mar  4 08:19:02 PM EET 2026
+* quickfix-list-nvim
+  [2026-01-24 Sat 23:04]
+  - [X] bad [Quickfix can do so much! - YouTube](https://www.youtube.com/watch?v=wOdL2T4hANk)
+  - [ ] [Ultimate Quickfix List Guide - YouTube](https://www.youtube.com/watch?v=AuXZA-xCv04)
+  - [ ] [This vim command might be the missing piece of your workflow - YouTube](https://www.youtube.com/watch?v=oAAYS2IJFhg)
+  - [ ] [3 Levels of Vim Refactoring - YouTube](https://www.youtube.com/watch?v=oQB8lYUZtrY)
+  - [ ] [4 Use Cases for Vim QuickFix List - YouTube](https://www.youtube.com/watch?v=1MjQ3mHqdbs)
+  - [ ] [Mastering Vim's Quickfix List - Vim Tips and Tricks - YouTube](https://www.youtube.com/watch?v=aKG9uR6LhX4)
+
+* /mnt/hdd/st/obsi/vault_bank/core/@-kdenlive-manual-MOC.md
+* [Pandoc - index](https://pandoc.org/)
+  [2026-03-24 Tue 23:28]
+* make my own MS-paint { make is keyboard centric + merge with mermaid + excalidraw }
+  [2026-03-24 Tue 18:41]
+* how to use neovim inside of vterm inside of emacs
+* how to do scratch workspaces in i3wm
+  [2026-02-28 Sat 18:31]
+* the perfect editor
+  [2026-06-10 Wed 21:00]
+* TODO emacs further study
+  [2026-06-10 Wed 21:02]
+
+[6/10/26 12:04 AM] Introbird NSB: Here are 50 useful/cool Emacs Lisp functions and commands worth exploring:
+
+Function Purpose
+
+find-file Open a file
+save-buffer Save current buffer
+write-file Save under new name
+kill-buffer Close buffer
+switch-to-buffer Change buffers
+other-window Move to another window
+delete-window Close current window
+delete-other-windows Maximize current window
+split-window-right Vertical split
+split-window-below Horizontal split
+list-buffers Show buffer list
+revert-buffer Reload file from disk
+rename-buffer Rename buffer
+bury-buffer Send buffer to back
+eval-buffer Evaluate entire elisp buffer
+eval-region Evaluate selected region
+eval-expression Quick Lisp REPL
+describe-function Function help
+describe-variable Variable help
+describe-key Explain keybinding
+where-is Find command bindings
+apropos-command Search commands
+execute-extended-command M-x itself
+shell-command Run shell command
+async-shell-command Run shell command asynchronously
+compile Run compiler/build
+grep Search files
+rgrep Recursive grep
+query-replace Interactive replace
+replace-regexp Regex replace
+occur Show matching lines
+imenu Jump to definitions
+bookmark-set Create bookmark
+bookmark-jump Jump to bookmark
+recentf-open-files Recent files list
+project-find-file Find file in project
+project-switch-project Switch projects
+dired File manager
+wdired-change-to-wdired-mode Edit Dired buffer directly
+ediff-buffers Visual diff
+kmacro-start-macro Start keyboard macro
+kmacro-end-macro Stop macro
+kmacro-call-macro Replay macro
+narrow-to-region Focus on region
+widen Undo narrowing
+clone-indirect-buffer Multiple views of same file
+list-packages Package manager
+package-install Install package
+toggle-truncate-lines Disable wrapping
+display-line-numbers-mode Toggle line numbers
+
+
+Lesser-known gems
+
+flush-lines — delete lines matching regex.
+
+keep-lines — keep only matching lines.
+
+sort-lines — sort selected lines.
+
+sort-fields — sort by column.
+
+align-regexp — align text using regex.
+
+rectangle-mark-mode — column selection.
+
+string-rectangle — insert text on many lines.
+
+replace-string-in-region (custom helper often written by users).
+
+shell-command-on-region — pipe region through shell command.
+
+clone-buffer — duplicate buffer view.
+
+
+Fun Elisp Functions
+
+(mapcar)
+(cl-mapcar)
+(reduce)
+(seq-filter)
+(seq-map)
+(seq-reduce)
+(apply)
+(funcall)
+(lambda)
+(thread-first)
+(thread-last)
+
+If you're building your own Emacs toolkit
+
+Some functions I use constantly in custom scripts:
+
+(buffer-file-name)
+(file-name-base)
+(file-name-directory)
+(directory-files)
+(insert-file-contents)
+(write-region)
+(with-temp-buffer)
+(save-excursion)
+(save-window-excursion)
+(save-restriction)
+(thing-at-point)
+(bounds-of-thing-at-point)
+(region-beginning)
+(region-end)
+(current-word)
+(current-kill)
+(shell-command-to-string)
+(start-process)
+(call-process)
+(make-process)
+
+These are the building blocks for creating commands like:
+
+project dashboards
+
+note systems
+
+custom file browsers
+
+fzf integrations
+
+PDF tools
+
+Git utilities
+
+Org-mode workflows
+
+AI assistants inside Emacs
+
+static-site generators
+
+personal knowledge bases (PKM)
+[6/10/26 12:09 AM] Introbird NSB: If you're writing your own Emacs commands, these functions are the ones that tend to unlock "I can make Emacs do anything" territory.
+
+Buffer Manipulation
+
+(buffer-string)
+(buffer-substring)
+(buffer-substring-no-properties)
+(insert)
+(delete-region)
+(erase-buffer)
+(goto-char)
+(point)
+(point-min)
+(point-max)
+(forward-line)
+(beginning-of-line)
+(end-of-line)
+
+Example:
+
+(defun duplicate-line ()
+  (interactive)
+  (save-excursion
+    (let ((line (thing-at-point 'line)))
+      (end-of-line)
+      (newline)
+      (insert line))))
+
+
+---
+
+File Utilities
+
+(file-exists-p)
+(file-readable-p)
+(file-writable-p)
+(rename-file)
+(copy-file)
+(delete-file)
+(make-directory)
+(delete-directory)
+(expand-file-name)
+(file-name-extension)
+
+Example:
+
+(defun rename-current-file ()
+  (interactive)
+  (let ((new-name (read-file-name "New name: ")))
+    (rename-file buffer-file-name new-name)
+    (set-visited-file-name new-name)))
+
+
+---
+
+Window Management
+
+(selected-window)
+(window-list)
+(window-buffer)
+(set-window-buffer)
+(select-window)
+(balance-windows)
+(shrink-window)
+(enlarge-window)
+(fit-window-to-buffer)
+
+Example:
+
+(defun rotate-windows ()
+  (interactive)
+  (let ((buffers (mapcar #'window-buffer (window-list))))
+    (cl-loop
+     for win in (window-list)
+     for buf in (append (last buffers) buffers)
+     do (set-window-buffer win buf))))
+
+
+---
+
+Buffer Lists
+
+(buffer-list)
+(current-buffer)
+(get-buffer)
+(generate-new-buffer)
+(with-current-buffer)
+(kill-matching-buffers)
+
+Example:
+
+(defun kill-scratch-buffers ()
+  (interactive)
+  (dolist (buf (buffer-list))
+    (when (string-match "\\*scratch" (buffer-name buf))
+      (kill-buffer buf))))
+
+
+---
+
+User Input
+
+(read-string)
+(read-number)
+(read-file-name)
+(read-directory-name)
+(read-buffer)
+(y-or-n-p)
+(yes-or-no-p)
+(completing-read)
+
+Example:
+
+(defun insert-date ()
+  (interactive)
+  (insert (format-time-string "%Y-%m-%d")))
+
+
+---
+
+Search Stuff
+
+(re-search-forward)
+(re-search-backward)
+(search-forward)
+(search-backward)
+(looking-at)
+(string-match)
+(replace-match)
+
+Example:
+
+(defun count-todos ()
+  (interactive)
+  (save-excursion
+    (goto-char (point-min))
+    (let ((count 0))
+      (while (search-forward "TODO" nil t)
+        (setq count (1+ count)))
+      (message "%d TODOs" count))))
+
+
+---
+
+Dired Hacks
+
+(dired)
+(dired-get-file-for-visit)
+(dired-get-marked-files)
+(dired-mark)
+(dired-unmark)
+
+Example:
+
+(defun open-marked-files ()
+  (interactive)
+  (mapc #'find-file (dired-get-marked-files)))
+
+
+---
+
+Shell Integration
+
+(shell-command)
+(shell-command-to-string)
+(call-process)
+(start-process)
+(make-process)
+(process-live-p)
+
+Example:
+
+(defun current-git-branch ()
+  (interactive)
+  (message
+   (string-trim
+    (shell-command-to-string
+     "git branch --show-current"))))
+
+
+---
+
+Project Helpers
+
+(project-current)
+(project-root)
+(project-files)
+(project-find-file)
+
+Example:
+
+(defun project-root-copy ()
+  (interactive)
+  (kill-new
+   (project-root
+    (project-current)))
+  (message "Copied"))
+
+
+---
+
+Org-mode Gold Mine
+
+(org-heading-components)
+(org-back-to-heading)
+(org-next-visible-heading)
+(org-todo)
+(org-insert-heading)
+(org-archive-subtree)
+(org-map-entries)
+
+Example:
+
+(defun org-mark-done-all ()
+  (interactive)
+  (org-map-entries
+   (lambda ()
+     (org-todo "DONE"))))
+
+
+---
+
+Pathological Power Functions
+
+These are everywhere in advanced configs:
+
+(save-excursion)
+(save-window-excursion)
+(save-restriction)
+(save-match-data)
+(with-temp-buffer)
+(with-current-buffer)
+(with-selected-window)
+(with-demoted-errors)
+
+
+---
+
+Functional Programming
+
+(mapcar)
+(seq-map)
+(seq-filter)
+(seq-remove)
+(seq-reduce)
+(cl-remove-if)
+(cl-loop)
+(apply)
+(funcall)
+
+Example:
+
+(seq-filter
+ (lambda (f)
+   (string-match "\\.org$" f))
+ (directory-files default-directory))
+
+
+---
+
+Extremely Useful for Dashboards/PKM Systems
+
+(tabulated-list-mode)
+(special-mode)
+(insert-button)
+(make-text-button)
+(widget-create)
+(define-derived-mode)
+
+These are what power things like:
+
+Magit
+
+Package Menu
+
+Dired
+
+Embark
+
+Consult UIs
+
+Custom dashboards
+
+Note browsers
+
+Task managers
+
+
+
+---
+
+"Why didn't I know these existed?"
+[6/10/26 12:09 AM] Introbird NSB: (flush-lines)
+(keep-lines)
+(sort-lines)
+(sort-regexp-fields)
+(reverse-region)
+(delete-duplicate-lines)
+(count-words-region)
+(untabify)
+(tabify)
+(shell-command-on-region)
+
+For example:
+
+M-x flush-lines RET ^# RET
+
+removes every comment line from the current buffer.
+
+These alone can replace dozens of ad-hoc shell scripts.
+[6/10/26 12:21 AM] Introbird NSB: Here are some packages that don't get nearly as much attention as vertico, consult, magit, org, etc., but can dramatically improve an Emacs setup.
+
+Navigation & Editing
+
+[Avy](https://github.com/abo-abo/avy?utm_source=chatgpt.com)
+
+Jump to any visible character/word with a few keystrokes.
+
+(avy-goto-char)
+(avy-goto-word-1)
+
+Many users stop using arrow keys almost entirely.
+
+
+---
+
+[Link Hint](https://github.com/noctuid/link-hint.el?utm_source=chatgpt.com)
+
+Like Avy, but for buttons, links, URLs, Org links, Help buffers, etc.
+
+
+---
+
+[Dogears](https://github.com/alphapapa/dogears.el?utm_source=chatgpt.com)
+
+Automatically remembers where you've been and lets you jump backward/forward through your editing history.
+
+Much smarter than plain mark rings.
+
+
+---
+
+[Casual Suite](https://github.com/kickingvegas/casual-suite?utm_source=chatgpt.com)
+
+Transient menus for built-in Emacs commands.
+
+Makes forgotten built-ins discoverable.
+
+
+---
+
+File Management
+
+[Dirvish](https://github.com/alexluigit/dirvish?utm_source=chatgpt.com)
+
+Modern Dired replacement.
+
+Adds:
+
+previews
+
+icons
+
+subtree views
+
+file metadata
+
+media previews
+
+
+Many people install Treemacs but never discover Dirvish.
+
+
+---
+
+[Diredfl](https://github.com/purcell/diredfl?utm_source=chatgpt.com)
+
+Makes Dired much easier to scan visually.
+
+Tiny package, huge quality-of-life improvement.
+
+
+---
+
+Buffer Management
+
+[Bufler](https://github.com/alphapapa/bufler.el?utm_source=chatgpt.com)
+
+Intelligent buffer grouping.
+
+Groups by:
+
+project
+
+mode
+
+directory
+
+custom rules
+
+
+Far better than buffer-menu.
+
+
+---
+
+[Burly](https://github.com/alphapapa/burly.el?utm_source=chatgpt.com)
+
+Save entire window layouts as bookmarks.
+
+Perfect for research sessions.
+
+
+---
+
+Shell & Terminal
+
+[Eat](https://codeberg.org/akib/emacs-eat?utm_source=chatgpt.com)
+
+A surprisingly fast terminal emulator.
+
+Supports:
+
+TUI programs
+
+vim
+
+htop
+
+ssh
+
+
+Many users still struggle with vterm while Eat just works.
+
+
+---
+
+[Detached](https://github.com/yqrashawn/detached.el?utm_source=chatgpt.com)
+
+Run long shell commands detached from Emacs.
+
+Close Emacs. Command keeps running.
+
+
+---
+
+Knowledge Management
+
+[Denote](https://protesilaos.com/emacs/denote?utm_source=chatgpt.com)
+
+Simple file-based note system.
+
+No database. Just files.
+
+Works wonderfully with:
+
+Org
+
+Markdown
+
+Git
+
+
+
+---
+
+[Citar](https://github.com/emacs-citar/citar?utm_source=chatgpt.com)
+
+Bibliography manager.
+
+If you're reading papers, this is gold.
+
+
+---
+
+Search & Discovery
+
+[Deadgrep](https://github.com/Wilfred/deadgrep?utm_source=chatgpt.com)
+
+Beautiful Ripgrep UI.
+
+Arguably the best project-wide search experience in Emacs.
+
+
+---
+
+[Wgrep](https://github.com/mhayashi1120/Emacs-wgrep?utm_source=chatgpt.com)
+
+Edit grep results directly.
+
+Search → edit matches → save.
+
+Feels like magic.
+
+
+---
+
+Org-mode Enhancers
+
+[Org Appear](https://github.com/awth13/org-appear?utm_source=chatgpt.com)
+
+Show hidden markup only when cursor enters it.
+
+Makes Org files look clean.
+
+
+---
+
+[Org Modern](https://github.com/minad/org-modern?utm_source=chatgpt.com)
+
+Makes Org visually beautiful without changing files.
+
+
+---
+
+[Org Superstar](https://github.com/integral-dw/org-superstar-mode?utm_source=chatgpt.com)
+
+Pretty bullets.
+
+Simple but addictive.
+
+
+---
+
+Programming
+
+[Combobulate](https://github.com/mickeynp/combobulate?utm_source=chatgpt.com)
+
+Structural editing using Tree-sitter.
+
+One of the most impressive recent packages.
+
+
+---
+
+[Sideline](https://github.com/emacs-sideline/sideline?utm_source=chatgpt.com)
+
+LSP diagnostics shown in margins.
+
+Cleaner than noisy overlays.
+
+
+---
+
+[Breadcrumb](https://github.com/joaotavora/breadcrumb?utm_source=chatgpt.com)
+
+Displays symbol path at top.
+
+Excellent for large codebases.
+
+
+---
+
+Utilities
+
+[Keycast](https://github.com/tarsius/keycast?utm_source=chatgpt.com)
+
+Shows pressed keys.
+
+Useful for:
+
+screencasts
+
+learning
+
+debugging keybindings
+
+
+
+---
+
+[Helpful](https://github.com/Wilfred/helpful?utm_source=chatgpt.com)
+
+Replacement for built-in help.
+
+Shows:
+
+source code
+
+callers
+
+references
+
+documentation
+[6/10/26 12:21 AM] Introbird NSB: Should honestly be built into Emacs.
+
+
+---
+
+[Command Log Mode](https://github.com/lewang/command-log-mode?utm_source=chatgpt.com)
+
+Records every command executed.
+
+Amazing for studying workflows.
+
+
+---
+
+Truly Hidden Gems
+
+These are the ones I rarely see mentioned:
+
+Package Why it's great
+
+dogears Navigation history done right
+burly Save entire workspaces
+detached Run jobs outside Emacs
+bufler Intelligent buffers
+sideline Better LSP UX
+wgrep Edit grep results
+link-hint Avy for links
+casual Makes built-ins discoverable
+eat Excellent terminal
+combobulate Tree-sitter superpowers
+
+
+If you're the type who writes custom Elisp, I'd especially recommend Dogears, Bufler, Burly, Detached, and Wgrep. Those five can fundamentally change how you move around Emacs and manage long-running workflows.
+* TODO [ZenNotes/zennotes: Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.](https://github.com/ZenNotes/zennotes)
+  [2026-06-10 Wed 22:33]
+* rofi has a big issue for : it doesn't sort the apps by frequency
+  [2026-07-05 Sun 04:23]
+
+  can i contribute it?
+  or should i create my clone?
+
+* helix vs vim
+- has the concept of motion does selection
+- Note: Whenever you delete or change text, Helix will copy the
+       altered text. Use Alt-d / Alt-c instead to avoid this.
+- Note: Helix doesn't share the system clipboard by default. Type
+       Space + y / p to yank / paste on the system's clipboard.
+- Note: Unlike Vim, ? doesn't change the search direction.
+       N always goes backwards and n always goes forwards.
+- Press Alt-s to split into selections at each line.
+
+| shortcut    | info or same as                      |
+| d (not x)   | delete                               |
+| w           | (move & select next word)            |
+| be OR eb    | viw                                  |
+| c           | dli                                  |
+| x           | select line  , repeat to select more |
+| ;           | deselect                             |
+| alt ;       | like `O` in visual mode              |
+| u and U     | undo and redo                        |
+| C and alt C | multi cursors up and down            |
+| s           | search on selection                  |
+| %           | select the whole file                |
+| &           | align                                |
+=                    6.2 THE REPLACE COMMAND                    =
+* how do i hide the #+begin_src #+end_src lines (they are annoying)
+* Neovim Mastery
+[[https://neovimmastery.com/][Neovim Mastery]]
+** Course Content
+- Fundamentals of Vim/NeoVim
+- Editing and Navigation
+- Find and Replace
+- Settings, Keymaps & Autocmd
+- Extending Neovim with Plugins
+- UI & Editor improvements
+- Syntax highlighting with Treesitter
+- Language server protocols (LSPs) and Autocompletion
+- Linting and Formatting
+- Snippets
+- Git integration
+- DAP setup
+- Plugin development using Lua
+- Extras: Tmux
+- and many more! 🚀
+
+* github as my resume
+* nvim plugins
+- time-bomb.nvim
+- easy-dotnet.nvim
+- leap.nvim is just better vs flash.nvim
+- is flash.nvim better than leap.nvim
+** nvim plugins
+time-bomb.nvim
+easy-dotnet.nvim
+
+
+https://www.facebook.com/share/p/18G6N8XBXX/
+
+wireguard vpn
+
+
+stupid idea short football dribbling videos can be rendered into a sequence of crucial images and to save space we can convert these images into ascii characters
+
+** nvim plugins
+time-bomb.nvim
+easy-dotnet.nvim
+
+* links
+- [[https://github.com/florinpop17/app-ideas][florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.]]
+- [[https://www.frontendmentor.io/][Learn to Code for Free by Building Real-World Projects]]
+- [[https://devchallenges.io/][devChallenges | Real-life Projects To Practice Your Skills And Land A Job]]
+- [[https://www.freecodecamp.org/news/project-based-learning][How to Use Project-Based Learning to Become a Better Developer]]
+- [[https://github.com/othneildrew/Best-README-Template][othneildrew/Best-README-Template: An awesome README template to jumpstart your projects!]]
+- [[https://docs.github.com/en/get-started][Get started with GitHub documentation - GitHub Docs]]
+- [[https://github.com/topics/developer-portfolio][developer-portfolio · GitHub Topics]]
+- [[https://duckduckgo.com/?q=cobalt+tools&t=brave&ia=web][cobalt tools at DuckDuckGo]]
+- [[https://duckduckgo.com/?q=periplus&t=brave&ia=web][periplus at DuckDuckGo]]
+- [[https://repple.sh/][Repple --- Spaced repetition flashcards & document reader]]
+- [[https://github.com/wesbos/JavaScript30][wesbos/JavaScript30: 30 Day Vanilla JS Challenge]]
+- [[https://github.com/browser-use/video-use][browser-use/video-use: Edit videos with coding agents]])
+* a simple productive emacs and obsidian note template
+where idea came from, inspiration?
+where used it?
+when?
+how to use?
+topics related?
+a template that would be a good outline for notes that people gonna read from me
+if i would write content on this idea, how well documented should it be, what questions to ask and answer
+* create an emacs (give-me-random-h1-heading) functions
+* what is a submodule in git and how do i handle nested git repos upload properly

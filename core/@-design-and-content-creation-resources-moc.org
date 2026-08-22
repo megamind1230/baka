@@ -1,0 +1,42 @@
+- book
+  - the design of everyday things
+- wallpaper resource
+  - https://www.uhdpaper.com/
+- colors
+  - [[https://coolors.co/][Coolors - The super fast color palettes generator!]]
+  - [[https://colorhunt.co/][Color Palettes for Designers and Artists - Color Hunt]]
+  - [[https://duo.alexpate.uk/][Duo - Colour Pairings by Alex Pate]]
+  - [[https://paletton.com/][Paletton - The Color Scheme Designer]]
+  - [[https://www.canva.com/colors/][Canva Colors | even helps with color meanings]]
+  - [Color wheel, a color palette generator | Adobe Color](https://color.adobe.com/create/color-wheel
+- fonts
+  - [[https://www.dafont.com/][DaFont - Download fonts]]
+  - [[https://www.fontspace.com/][Free Fonts | 110,000+ Font Downloads | FontSpace]]
+  - [[https://www.1001fonts.com/][1001 Fonts ❤ Free Fonts Baby!]]
+- Arabic fonts
+  - [[https://alfont.com/][الفونت | Arabic fonts خطوط عربية (alfont.com)]]
+  - [[https://arbfonts.com/][أكبر وأفضل موقع تحميل خطوط عربية (arbfonts.com)]]
+- png
+  - [[https://www.pngwing.com/][PNGWing - Exclusive png design images]]
+  - [[https://www.cleanpng.com/][CleanPNG - HD png images and illustrations. Free unlimited download. - CleanPNG / KissPNG]]
+  - https://pngreal.com/
+- icons
+  - [[https://www.zwicon.com/][Come back! 👋 (zwicon.com)]] abstract icons
+  - [[https://www.flaticon.com/][Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS (flaticon.com)]]
+  - [[https://shape.so/][Shape - 36000+ Icons & Illustrations to SVG, Lottie, React.]]
+- pics
+  - [[https://www.freepik.com/][Freepik | Create great designs, faster]]
+  - [[https://www.pexels.com/][Free Stock Photos, Royalty Free Stock Images & Copyright Free Pictures · Pexels]]
+  - [[https://pixabay.com/][4.3 million+ Stunning Free Images to Use Anywhere - Pixabay - Pixabay]]
+- omg websites
+  - [[file:%5BWordmark%20-%20Helps%20you%20choose%20fonts!%5D(https://wordmark.it/)][wordmark]] font finder
+  - [[https://spline.design/][Spline - 3D Design tool in the browser with real-time collaboration]]
+  - [[https://wasmenia.com/][Wasmenia]] Arabic logos
+  - [[https://www.behance.net/][Behance]]
+  - [[https://dribbble.com/][Dribbble - Discover the World's Top Designers & Creative Professionals]]
+  - [[https://www.uplabs.com/][Unlimited UI Kits, Icons, Templates, Themes and More - UpLabs]]
+- enhance blurry pic
+  - letsenhance , remini
+- bg remover
+  - [[https://www.remove.bg/][Remove Background from Image for Free -- remove.bg]]
+  - [[https://www.photoroom.com/tools][Free powerful photo editing tools online | PhotoRoom]]

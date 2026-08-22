@@ -1,0 +1,280 @@
+#+LATEX_COMPILER: xelatex
+* ctrl c i (not found in my whichkey) in emacs, how to add description for it?
+* design code for testability from day 1
+1. dependency injection, loose coupling
+2. pure functions
+3. separation of concerns
+* emacs wiki mode
+* raw note :random:raw:
+https://en.andros.dev/blog/6cad402e/my-morning-routine-in-emacs/
+https://vt.tiktok.com/ZSCoUxSd1/
+https://vt.tiktok.com/ZSCoUSCmd/
+ impala tui
+ wiremix tui
+ walker tui
+ https://vt.tiktok.com/ZSXKaR55T/
+ funny id gankouzo
+ kitty or tmux is better?
+ add rev date to the lecture template paper
+ do a plugin or a project in lua
+ emacs for noobs
+
+press ctrl h t for tutorial
+
+vterm ia better than eshell
+
+M-x is your friend
+
+learn all the ways to search for help inside of/within emacs
+
+install and search these packages: corfu, consult, vertico, marginalia, embark, orderless, perspective, golden-ratio
+
+use evil if you like vim motions
+
+learn how to use these: grep/rg , find/ fd, occur, project-find-file or the projectile package, dired, imenu
+ how hard is it to create a lmms or fl studio plugin
+ https://vt.tiktok.com/ZSXoD4rnN/
+ https://www.tiktok.com/@francis.lockedin?_r=1&_t=ZS-98NGQdvxram
+ mahmoodsh36 (mahmoodsh36) https://github.com/mahmoodsh36
+ https://vt.tiktok.com/ZS41sGCYy/
+ https://vt.tiktok.com/ZS4J429v4/
+ https://vt.tiktok.com/ZS4JV1Wps/
+ emacs-config/init.el at main · dubaer/emacs-config https://github.com/dubaer/emacs-config/blob/main/init.el#L8
+ How I use Obsidian — Steph Ango https://stephango.com/vault
+ can i make nvim colorscheme creator plugin
+ legit content https://youtu.be/mJZDmO5yOxE?si=9wCdb90Q7QmB5MnP
+ https://vt.tiktok.com/ZS4dbNg5b/
+ https://chrismaiorana.com/god-mode-notes/
+
+try find his emacs starter config
+ https://vt.tiktok.com/ZS48ySTLK/
+ codespy
+ https://vt.tiktok.com/ZS4FrfFRF/
+ https://vt.tiktok.com/ZS4FBbfuA/
+ why not have an electron runtime or something like that that runs all electron apps in a single interface using same resources instead of having each have his own set of resources?
+ Idea of runtime mode · Issue #673 · electron/electron https://github.com/electron/electron/issues/673
+ RTX 5050 Mobile vs HD 8790M [5-Benchmark Showdown] https://technical.city/en/video/Radeon-HD-8790M-vs-GeForce-RTX-5050-mobile
+ Styles | Avalonia Docs https://docs.avaloniaui.net/docs/styling/styles
+ so there's openrc, runit, systemd
+ cloudflare
+ what is dns, and does systemd log it
+ so there's cloudflare, cloudflared
+ buy a whiteboard
+ arabic dialect translator
+ Vivaldi
+ AUR (en) - brave-origin-bin https://aur.archlinux.org/packages/brave-origin-bin
+ rofi search that lists google, ddg, chatgpt... as engines search script
+ cloc cmd
+ manim scripts
+ https://vt.tiktok.com/ZS4MKN1kK/
+https://github.com/smllb/qhints-rs https://github.com/AlfredoSequeida/hints
+ https://vt.tiktok.com/ZS4ByaG3K/
+ create neovim colorscheme package
+ create emacs colorscheme package
+https://vt.tiktok.com/ZS45oG2bD/
+delta nuget package for query optimization
+can i create any useful nuget package
+another periodic timer
+web2 problems
+nvimtest cpp,c,rust,go,dotnet,py lsp setup
+هل زياد بينام بالليل كفاية؟
+القاموس الذهبي زياد
+ https://www.tiktok.com/@tangmathgames?_r=1&_t=ZS-98fRdAu1iKL
+badedits kdenlive integration
+ هيثم حكيم بورتفوليو
+ https://vt.tiktok.com/ZS4VW8fvf/
+Linux Command Line Books by William Shotts https://www.linuxcommand.org/tlcl.php
+dynamic subtitles kdenlive
+croc cmd
+kdslfjioasdfj/tinyemacs: A tiny Emacs configuration https://github.com/kdslfjioasdfj/tinyemacs
+Gödel, Escher, Elisp: The Beauty of Macros | Charlie Holland's Blog https://www.chiply.dev/post-elisp-macros-are-beautiful
+ emacs god mode vs devil mode vs meow mode vs evil mode vs default
+haysmhakim@gmail.com
+DevOps Roadmap: Learn to become a DevOps Engineer or SRE https://roadmap.sh/devops
+nsblol0@ is my new reddit pw
+what's my tribble pw?
+ CatWizard/myn-macs: MY miNimal eMACS IDE setup for the lazy terminal wizard - Codeberg.org https://codeberg.org/CatWizard/myn-macs
+ https://vt.tiktok.com/ZS43GEjTh/
+ GitHub - WyattBlue/auto-editor: Effort free video editing! · GitHub https://github.com/wyattblue/auto-editor
+ https://youtube.com/@infalliblecode?si=HWQu_4Jia0wQzDr0
+ yt dlp
+ NameThatUI — What Is This UI Element Called? https://namethatui.com/
+ GitHub - hakuimaku/hakuspace: This is just a personal dotfiles. Multi-WM support: Hyprland, Niri, MangoWM and Labwc · GitHub https://github.com/hakuimaku/hakuspace
+* ai recap this :ai:
+* ------------------------- * ------------------------- * -----------NEWLY CAPTURED-------------- * ------------------------- * -------------------------
+* can i issue an updated version of a dotnet documentation page?
+* what is n8n
+* also more good ways to contribute - dependencies of projects you're using - issues
+* How migrations relate to DbContext
+* Using multiple DbSets together
+* csharp-specific rules (`virtual`, `override`, `new`) + Common interview traps
+* delegates-and-events
+* create qt version of mouseless-kanban
+* super ` for rofi fuzzy find open windows
+* what is musl and why better than libc
+* xero linux as a better linux mint for linux beginners
+* what is llvm , what is clang
+* minix
+* realtek company
+* review your emacs config shortcuts
+* make emacs shift [ and ] .. same as neovim paragraph jumps
+* can I contribute to arch/gentoo/debian wikis?
+* how to have emacs complete filenames or file paths as i write them down in the buffer?
+* i wanna create a strick .md to .org converter that follows my rules/convensions of writing
+* create a bash function/utility that lists all my custom bash functions
+* change emacs org keywords from next, waiting ..etc ==> into in-progress, paused ..etc
+* how do i make it so that when i use yazi then press a custom hotkey it would make the original kitty terminal cd there?
+* ctrl u doesn't scroll up
+* yazi function to move pwd into last opened dir on hotkey press
+* how to see all forks of a repo on github
+* what is docker multi-stage builds
+* how to have vim-motions in thunar filemanager
+* how do I rely on emacs for arabic note taking as a teacher?
+* what is CDN in dev?
+* btw emacs doesn't remember where i was the last time i editted .emacs
+* update dt/query-chatgpt to have more ai providers with a list to pick from
+* text editor challenges
+: a list of the most 1K things that you gonna do in a text editor done in (emacs, neovim)
+
+| challenge                                                                                    | emacs                 | neovim |
+|----------------------------------------------------------------------------------------------+-----------------------+--------|
+| Jump to start/end of the current line                                                        | HOME/END or C-a/e     |        |
+| Skip over the next/prev word                                                                 | M-f/b or C-right/left |        |
+| go to bottom/top of the file                                                                 | M->/<                 |        |
+| Scroll in the file without mouse                                                             | C-v and M-v           |        |
+|                                                                                              |                       |        |
+| Pull this line to  middle/top/bottom of the screen                                           | C-l                   |        |
+| Delete the character sitting under the cursor                                                |                       |        |
+| forward delete without reaching for the Delete key; small, constant, worth automating        |                       |        |
+| Take back the edit you just made                                                             |                       |        |
+| undo is a long chain, not a toggle; Ctrl+X then U does the same if the slash feels far       |                       |        |
+| Drop the mark here to start selecting a region                                               |                       |        |
+| Emacs selections start with a dropped pin, not a held Shift; every region begins at the mark |                       |        |
+| Copy the region to the kill ring without deleting it                                         |                       |        |
+| the gentle sibling of Ctrl+W; same shape, nothing lost from the buffer                       |                       |        |
+| Paste back the last thing you killed                                                         |                       |        |
+| yank means paste, straight off the top of the kill ring                                      |                       |        |
+| That yank pasted the wrong thing — cycle to an earlier kill                                  |                       |        |
+| only works right after Ctrl+Y; a clipboard with history beats a clipboard                    |                       |        |
+| Kill from the cursor to the end of the line                                                  |                       |        |
+| clears to the line's end and banks it; a second press takes the newline too                  |                       |        |
+| Kill the word ahead of the cursor                                                            |                       |        |
+| the word-sized delete; killed text is never gone, just stored                                |                       |        |
+| Erase the word you just mistyped, behind the cursor                                          |                       |        |
+| undoes a bad word without arrowing back through it letter by letter                          |                       |        |
+| Hunt forward for a word as you type it                                                       |                       |        |
+| search moves with every keystroke; press Ctrl+S again to hop to the next hit                 |                       |        |
+| Hunt backward for something you passed earlier                                               |                       |        |
+| the same live search, running upstream                                                       |                       |        |
+| Replace one word with another, approving each occurrence                                     |                       |        |
+| a yes or no on every hit; press ! the moment you stop doubting yourself                      |                       |        |
+| Bounce back to where the region started                                                      |                       |        |
+| flips cursor and mark, which doubles as a jump back to where you just were                   |                       |        |
+| Select the entire buffer in one motion                                                       |                       |        |
+| whole-buffer region in one sequence; the setup move for every region-wide command            |                       |        |
+| Flip to another open buffer by name                                                          |                       |        |
+| buffers are cheap; type a few letters and completion does the rest                           |                       |        |
+| Close the buffer you are done with                                                           |                       |        |
+| killing a buffer is routine housekeeping, not a file deletion                                |                       |        |
+| See every buffer you have open, in a list                                                    |                       |        |
+| the overview for when you have lost count of what is open                                    |                       |        |
+| Split the frame into two windows, stacked                                                    |                       |        |
+| two views of your work at once; Emacs windows are panes, not OS windows                      |                       |        |
+| Split the frame into two windows, side by side                                               |                       |        |
+| the natural shape for comparing two files or two ends of one                                 |                       |        |
+| Hop the cursor into the other window                                                         |                       |        |
+| O for other; moving between panes stays a keystroke, never a mouse trip                      |                       |        |
+| Close the window you are in, keeping the rest                                                |                       |        |
+| zero closes this pane; the buffer behind it survives untouched                               |                       |        |
+| Collapse every split back to a single window                                                 |                       |        |
+| one means only this one; the fastest route back to a clean screen                            |                       |        |
+| Ask Emacs what a mystery keystroke actually does                                             |                       |        |
+| press any key after it and the editor documents itself                                       |                       |        |
+| Read the full documentation for a command by name                                            |                       |        |
+| the docs come from the running editor, so they are never out of date                         |                       |        |
+| Check what a setting is and what it is currently set to                                      |                       |        |
+| settings are variables; this reads their docs and live value in place                        |                       |        |
+| Find every command related to a keyword like 'rectangle'                                     |                       |        |
+| for when you know the idea but not the name                                                  |                       |        |
+| Open the built-in interactive tutorial                                                       |                       |        |
+| it has been onboarding people since before the mouse was standard equipment                  |                       |        |
+| Jump to the start of the sentence you are in                                                 |                       |        |
+| Alt+A treats sentences the way Ctrl+A treats lines; prose gets edge keys too                 |                       |        |
+| Jump to the end of the sentence you are in                                                   |                       |        |
+| the sentence-end mirror; writing moves in sentence units, so should the cursor               |                       |        |
+| Kill from the cursor to the end of the sentence                                              |                       |        |
+| editing prose in sentence units instead of character mush                                    |                       |        |
+| Jump up to the start of the previous paragraph                                               |                       |        |
+| paragraphs become one hop; the brace keys sit at the block's edges                           |                       |        |
+| Jump down past the end of this paragraph                                                     |                       |        |
+| the closing brace closes the pair; block-sized travel with no scrolling                      |                       |        |
+| Select the whole paragraph around the cursor                                                 |                       |        |
+| repeat it and the region swallows the next paragraph too                                     |                       |        |
+| Drag a word past its neighbor to fix the order                                               |                       |        |
+| reordering without retyping; the words trade places and punctuation stays put                |                       |        |
+| Make the word ahead of the cursor ALL CAPS                                                   |                       |        |
+| case changes become a keystroke instead of a delete-and-retype                               |                       |        |
+| Drop the word ahead of the cursor to lowercase                                               |                       |        |
+| the quiet inverse of Alt+U; U, L, C cover the three cases                                    |                       |        |
+| Capitalize the word ahead of the cursor                                                      |                       |        |
+| Title Case one word at a time, exactly where the cursor sits                                 |                       |        |
+| The compiler says the error is on line 247 — go there                                        |                       |        |
+| line numbers from stack traces stop being a scroll hunt                                      |                       |        |
+| Comment out the selected region of code                                                      |                       |        |
+| dwim means do-what-I-mean; with no region it adds a comment at line end instead              |                       |        |
+| Re-wrap a mangled paragraph to a tidy fill width                                             |                       |        |
+| prose stays neat without ever hand-breaking a line                                           |                       |        |
+| Snap the current line to its correct indentation                                             |                       |        |
+| Tab indents by the mode's rules rather than inserting a tab; alignment stops being optional  |                       |        |
+| Finish typing a long identifier you have used before                                         |                       |        |
+| completes from words already in your buffers; dumb, fast, and right surprisingly often       |                       |        |
+| Move down exactly 8 lines by giving the motion a count first                                 |                       |        |
+| Ctrl+U 8 Ctrl+N drops eight lines; any command takes a multiplier                            |                       |        |
+| Start recording every keystroke as a macro                                                   |                       |        |
+| Ctrl+X then ( is the classic spelling; either way, the editor starts watching your hands     |                       |        |
+| Stop recording, then replay the macro on the next line                                       |                       |        |
+| first press ends the recording, every press after replays it; edit once, apply everywhere    |                       |        |
+| Replay the last macro the classic way                                                        |                       |        |
+| after the first run, tapping E alone repeats it again and again                              |                       |        |
+| Browse a directory's files without leaving the editor                                        |                       |        |
+| the file manager is a buffer too; directories navigate with the same keys as text            |                       |        |
+| Run one shell command and see its output in Emacs                                            |                       |        |
+| a single command's worth of terminal without the context switch                              |                       |        |
+| Kick off a long-running shell command in the background                                      |                       |        |
+| the command works while you keep editing; output arrives in its own buffer                   |                       |        |
+| Mark this spot in the file so you can find it next week                                      |                       |        |
+| bookmarks are named and survive restarts; this is for places, not moments                    |                       |        |
+| Jump to a bookmark you set days ago                                                          |                       |        |
+| type the name and you are there, even if the file was not open                               |                       |        |
+| Review everything you have bookmarked, in one list                                           |                       |        |
+| the catalog of every place you have marked, jumpable from the list itself                    |                       |        |
+| Search forward with a regular expression instead of plain text                               |                       |        |
+| the same live incremental search, upgraded to patterns                                       |                       |        |
+| Park your exact position in register A before wandering off                                  |                       |        |
+| a lettered pin for your place; set it before any long detour                                 |                       |        |
+| Return to the position you parked in register A                                              |                       |        |
+| the round trip is what makes registers worth learning                                        |                       |        |
+| Stash the region in register A for safekeeping                                               |                       |        |
+| a named slot the kill ring can never overwrite                                               |                       |        |
+| Drop the text stashed in register A back into the buffer                                     |                       |        |
+| pastes the stash no matter how many kills happened since                                     |                       |        |
+| Replace with a regexp pattern, approving each match                                          |                       |        |
+| bulk edits with backreferences, still gated by a yes on every hit                            |                       |        |
+| Do that last command again, whatever it was                                                  |                       |        |
+| after the first repeat, tapping Z alone keeps it going                                       |                       |        |
+| Make the whole selected region ALL CAPS                                                      |                       |        |
+| Emacs asks you to enable it the first time; after that, region-wide case in one stroke       |                       |        |
+| Drop the whole selected region to lowercase                                                  |                       |        |
+| the region-wide inverse; same one-time confirmation, same payoff                             |                       |        |
+| Reindent the whole region after a messy paste                                                |                       |        |
+| the mode's indentation rules applied wholesale; the cleanup key for borrowed code            |                       |        |
+| Land on the first real character of the line, not column zero                                |                       |        |
+| usually where you actually meant Ctrl+A to take you                                          |                       |        |
+| Toggle a comment on just the current line                                                    |                       |        |
+| comments the line and steps down, already aimed at the next one                              |                       |        |
+| transpose line                                                                               | C-x C-t               |        |
+| transpose word                                                                               | M-t                   |        |
+| transpose char                                                                               | C-t                   |        |
+| Save as                                                                                      | C-x C-w               |        |
+* create a my-hopes-beliefs-and-wishes github repo
+- i hope more linux users do streaming and content creation, especially for emacs and FOSS

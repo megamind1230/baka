@@ -1,0 +1,24 @@
+* DONE dbcontext
+- dbcontext: DbContext is the main class in that lets you work
+  with a database using C# objects instead of SQL.
+  - a short-life session with the real database.. in c# without actually
+    writing sql
+  - It
+    1. knows: Which tables exist How C# classes map to tables maps rows
+       to objects How to read, add, update, and
+       delete data
+    2. almost auto opens/closes connection
+    3. tracks and saves changes
+
+DbContext represents the whole database DbSet represents one table
+inside that database
+
+Add() is on DbSet SaveChanges() is on DbContext
+
+| Feature             | DbContext                    | DbSet         |
+|---------------------+------------------------------+---------------|
+| Represents          | Whole database               | Single table  |
+| Contains            | DbSets                       | Entities      |
+| Handles             | Connection, tracking, saving | Querying data |
+| Has `SaveChanges()` | Yes                          | No            |
+| Used for            | Managing DB session          | CRUD on table |

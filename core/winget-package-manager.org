@@ -1,0 +1,4 @@
+- [ ] [[https://www.youtube.com/watch?v=uxr7m8wDeGA][Windows FINALLY Got a Package Manager - Here's Why It's Awesome - YouTube]]
+- [ ] [[https://www.youtube.com/watch?v=DVeNUAFgHQc][Winget: Does Microsoft Know How To Make A Package Manager? - YouTube]]
+- [ ] [[https://www.youtube.com/watch?v=zOvH-BZ0uIQ][WinGet Crash Course | EASY Program Updater/Manager | Windows Guide - YouTube]]
+- [ ] [[https://www.youtube.com/watch?v=__2_41pVHcQ][Install Microsoft Store Apps WITHOUT the Microsoft Store - YouTube]]

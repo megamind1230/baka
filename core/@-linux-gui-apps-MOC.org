@@ -1,0 +1,2 @@
+- [ ] app outlet
+- [ ] [[file:0-offline-dict-for-linux.org][0-offline-dict-for-linux]]

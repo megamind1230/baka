@@ -1,0 +1,4 @@
+#1 - [ ] [[https://charts.phib.ro/Meta/Charts/Basics][Basics - Charts Plugin]] - [ ] [[https://www.youtube.com/watch?v=djj7QXZAIjM][Data Visualization in Obsidian with Obsidian Charts - YouTube]]
+data visualization
+
+just remember to add newline between these![[Pasted-image-20240614095804.png]]

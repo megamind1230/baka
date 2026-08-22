@@ -1,0 +1,339 @@
+* method 1
+using mobile as an FTP bridge between 2 machines on same wifi is slow AF
+2 steps: pc1 -> mobile -> pc2
+
+* others
+The easiest way depends on whether the two computers are on the
+*same network*. Since you're on Linux/Arch, the best options are:
+
+** 1. =scp= --- simple one-time transfer
+On the *receiving computer*, find its IP:
+
+#+begin_src sh
+ip addr
+#+end_src
+
+Then from the *sending computer*:
+
+#+begin_src sh
+scp file.txt username@192.168.1.50:/home/username/
+#+end_src
+
+For a directory:
+
+#+begin_src sh
+scp -r my-folder username@192.168.1.50:/home/username/
+#+end_src
+
+You need an SSH server running on the receiving computer:
+
+#+begin_src sh
+sudo systemctl enable --now sshd
+#+end_src
+
+Then transfer:
+
+#+begin_src sh
+scp -r ~/Documents/project username@RECEIVER_IP:~/Documents/
+#+end_src
+
+--------------
+
+** 2. =rsync= --- best for large folders / repeated transfers
+#+begin_src sh
+rsync -avh --progress ~/Documents/project/ \
+    username@192.168.1.50:~/Documents/project/
+#+end_src
+
+This is usually my recommendation because if the transfer is interrupted, you can run the command again and it only transfers what is missing or changed.
+
+For example:
+
+#+begin_src sh
+rsync -avh --progress ~/Videos/ \
+    dt@192.168.1.50:~/Videos/
+#+end_src
+
+--------------
+
+** 3. =sftp= --- interactive file transfer
+#+begin_src sh
+sftp username@192.168.1.50
+#+end_src
+
+Then:
+
+#+begin_src text
+put file.txt
+put -r folder/
+get remote-file.txt
+#+end_src
+
+--------------
+
+** 4. USB drive
+For a large amount of data, a USB drive is often simplest:
+
+#+begin_src sh
+cp -r ~/Documents/project /run/media/$USER/USB/
+#+end_src
+
+Or use =rsync=:
+
+#+begin_src sh
+rsync -avh --progress ~/Documents/project/ /run/media/$USER/USB/project/
+#+end_src
+
+--------------
+
+** My recommendation for you
+For two Linux computers on the same Wi-Fi/LAN:
+
+#+begin_src sh
+# Computer 2
+sudo systemctl enable --now sshd
+
+# Computer 1
+rsync -avh --progress /path/to/files/ \
+    username@COMPUTER_2_IP:/destination/path/
+#+end_src
+
+For example:
+
+#+begin_src sh
+rsync -avh --progress ~/Projects/ \
+    dt@192.168.1.42:~/Projects/
+#+end_src
+
+If you tell me *what operating systems the two computers use* and whether they're connected to the *same Wi-Fi*, I can give you the exact commands.
+
+** Here are *10 free ways to transfer files between two computers*, ranging from simple to creative/technical:
+*** 1. =scp= over SSH --- the classic
+Best for quick transfers over LAN or the internet.
+
+#+begin_src sh
+scp -r ~/folder user@192.168.1.20:~/destination/
+#+end_src
+
+*Good for:* Linux ↔ Linux, servers, one-off transfers.
+
+--------------
+
+*** 2. =rsync= --- smart incremental copying
+Only transfers changed parts and can resume interrupted transfers.
+
+#+begin_src sh
+rsync -avh --progress ~/Projects/ user@192.168.1.20:~/Projects/
+#+end_src
+
+*Good for:* huge folders, backups, repeated synchronization.
+
+--------------
+
+*** 3. =SFTP= --- browse another computer's files
+Connect interactively:
+
+#+begin_src sh
+sftp user@192.168.1.20
+#+end_src
+
+Then:
+
+#+begin_src text
+put file.txt
+get file.txt
+put -r folder/
+#+end_src
+
+*Good for:* manually browsing and moving files.
+
+--------------
+
+*** 4. Temporary HTTP server --- extremely simple
+On Computer A:
+
+#+begin_src sh
+cd ~/Files
+python -m http.server 8000
+#+end_src
+
+On Computer B, open:
+
+#+begin_src text
+http://COMPUTER_A_IP:8000
+#+end_src
+
+You can download files from the browser.
+
+*Creative use:* turn any folder into a temporary website.
+
+--------------
+
+*** 5. Netcat --- raw file transfer
+On the receiving computer:
+
+#+begin_src sh
+nc -l 9999 > file.zip
+#+end_src
+
+On the sending computer:
+
+#+begin_src sh
+nc RECEIVER_IP 9999 < file.zip
+#+end_src
+
+*Good for:* understanding how raw network communication works.
+
+⚠️ No encryption or authentication. Use only on a trusted network.
+
+--------------
+
+*** 6. =tar= + SSH --- stream a whole directory
+You don't even need to create an archive file:
+
+#+begin_src sh
+tar czf - my-folder/ | ssh user@192.168.1.20 'tar xzf -'
+#+end_src
+
+This compresses the folder, sends it through SSH, and extracts it remotely.
+
+*Good for:* transferring entire projects efficiently.
+
+--------------
+
+*** 7. Git --- transfer projects with history
+Computer A:
+
+#+begin_src sh
+git init
+git add .
+git commit -m "Initial commit"
+#+end_src
+
+Then use a Git hosting service or a bare repository on Computer B.
+
+Or directly:
+
+#+begin_src sh
+git clone ssh://user@192.168.1.20/path/to/repo
+#+end_src
+
+*Good for:* source code, version history, collaboration.
+
+--------------
+
+*** 8. Syncthing --- automatic peer-to-peer synchronization
+Install Syncthing on both computers and choose folders to synchronize.
+
+Computer A:
+
+#+begin_src text
+~/Documents
+#+end_src
+
+Computer B:
+
+#+begin_src text
+~/Documents
+#+end_src
+
+Changes automatically propagate between both machines.
+
+*Good for:* keeping two computers continuously synchronized without a central cloud server.
+
+--------------
+
+*** 9. =magic-wormhole= --- send files using a code
+Install it on both machines, then:
+
+Computer A:
+
+#+begin_src sh
+wormhole send myfile.zip
+#+end_src
+
+It gives you a short code like:
+
+#+begin_src text
+7-purple-elephant
+#+end_src
+
+Computer B:
+
+#+begin_src sh
+wormhole receive
+#+end_src
+
+Enter the code.
+
+*Good for:* transferring files between computers even when they're not on the same network.
+
+Very cool because you don't need to know the IP address.
+
+--------------
+
+*** 10. Build your own transfer system --- the hacker way 🧙
+For example, create a simple Bash command:
+
+#+begin_src sh
+send() {
+    rsync -avh --progress "$1" "dt@$2:~/Incoming/"
+}
+#+end_src
+
+Then:
+
+#+begin_src sh
+send ~/Videos/movie.mkv 192.168.1.20
+#+end_src
+
+Or create your own:
+
+- TCP file transfer program in C#
+- HTTP upload server with ASP.NET Core
+- WebSocket file transfer
+- encrypted file transfer using AES
+- P2P file sharing system
+- QR code containing a temporary download URL
+- terminal UI with =fzf= to select files
+- =rofi= file picker + =rsync=
+
+For example, you could make:
+
+#+begin_src text
+[ Select files with fzf ]
+          ↓
+[ Compress them ]
+          ↓
+[ Encrypt them ]
+          ↓
+[ Send over SSH ]
+          ↓
+[ Automatically extract ]
+#+end_src
+
+That would actually be a pretty good *C# networking project*.
+
+--------------
+
+*** My personal ranking
+| Method         | Best for                   |
+|----------------+----------------------------|
+| =scp=          | Simple transfer            |
+| =rsync=        | Large/repeated transfers   |
+| HTTP server    | Quick browser download     |
+| =netcat=       | Learning networking        |
+| =tar + ssh=    | Whole directories          |
+| Git            | Code                       |
+| Syncthing      | Continuous synchronization |
+| Magic Wormhole | Easy remote transfer       |
+| USB            | No network / massive files |
+| Build your own | Learning and fun           |
+
+For *your Arch Linux + terminal + Emacs/Helix workflow*, I'd personally build a small command like:
+
+#+begin_src sh
+send ~/some/file dt@laptop
+#+end_src
+
+using *=fzf + rsync + SSH=*. It would feel almost like your own personal AirDrop, but entirely terminal-based and free.

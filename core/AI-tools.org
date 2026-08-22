@@ -1,0 +1,10 @@
+- Descrpit
+- Otter
+- Mem
+- Textblaze
+- Vribble
+- Ask you pdf
+- Gamma
+- Typefully
+- Midjourney
+- [[https://huggingface.co/][Hugging Face -- The AI community building the future.]]

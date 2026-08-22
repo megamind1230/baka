@@ -1,0 +1,245 @@
+[[https://blockchain-observatory.ec.europa.eu/document/download/1063effa-59cc-4df4-aeee-d2cf94f69178_en?filename=Blockchain_For_Beginners_A_EUBOF_Guide.pdf][1063effa-59cc-4df4-aeee-d2cf94f69178_en]]
+
+pdf: "Blockchain For Beginners: A EUBOF Guide"
+- *The Web Evolution:* Web 1.0 (Read) --> Web 2.0 (Read-Write) --> Web 3.0 (Read-Write-Own).
+*** explain simply
+**** unilateral control meaning?
+- one sided control One person or organization can make a decision *without needing permission from anyone else*.
+
+**** smart contracts meaning?
+- *A program that automatically follows rules.*
+
+**** custodial
+- custody = who is holding/controlling something for you.
+100$ in your bank account ( you --> owner & bank --has--> costody )
+
+**** what is a ledger?
+- a record of transactions and ownership
+
+**** consortium blockchain
+- a *consortium* is a group of organizations working together.
+
+| Type                  | Who can participate?            |
+|-----------------------+---------------------------------|
+| Public blockchain     | Almost anyone                   |
+| Private blockchain    | One organization                |
+| Consortium blockchain | Selected group of organizations |
+
+**** isn't blockchain all about decentralization, how can CBDC be an application of blockchain then?
+*Excellent question.*
+The important distinction is:
+#+begin_quote
+*Blockchain does not automatically mean fully decentralized.*
+#+end_quote
+Blockchain is fundamentally a way of maintaining a *shared,
+tamper-resistant ledger using a network of computers*.
+There are different ways to organize that network.
+For example:
+#+begin_src text
+             BLOCKCHAIN
+                  │
+       ┌──────────┴──────────┐
+       ↓                     ↓
+  Decentralized          Permissioned
+     public                 network
+       │                     │
+ Bitcoin/Ethereum       Banks/government
+#+end_src
+A *CBDC* (Central Bank Digital Currency) is digital money issued by a
+country's *central bank*.
+A central bank could potentially use blockchain or distributed-ledger
+technology to operate some part of a CBDC system.
+But it *doesn't need to be decentralized like Bitcoin*.
+For example:
+#+begin_src text
+  Bitcoin
+     ↓
+  No central authority
+     ↓
+  Highly decentralized
+  CBDC
+     ↓
+  Central bank remains responsible
+     ↓
+  Can use a permissioned blockchain
+#+end_src
+So there's no contradiction.
+*Blockchain is a technology. Decentralization is a design choice.*
+**** what is a legal tender in finance/banking?
+money that the law recognizes as valid for settling debts
+a form of money acceptable to settle debts could be assets{gold, silver, land, buildings}
+*** deepseek recap
+**** Page 7
+  - *Definition:* Blockchain is a shared, immutable, and tamper-proof
+    digital ledger for recording transactions in a decentralized
+    network.
+**** Page 8
+- *Why Blockchain Matters (Key Advantages):*
+  1. *Decentralization:* No single point of failure.
+  2. *Transparency & Immutability:* Data is very difficult to alter,
+     creating a trustworthy ledger.
+  3. *Peer-to-Peer (p2p) Transactions*
+  4. *Censorship Resistance & Public Verification:* Open networks allow
+     for transparency and prevent unilateral control.
+**** Page 9
+- *The Case of Bitcoin:*
+  - *Bitcoin vs Blockchain:* Bitcoin is the first and most famous
+    /application/ of blockchain, not the technology itself.
+  - *Mining:* The "trust system" in Bitcoin relies on "mining," which
+    uses computing power to confirm transactions and *generate new
+    bitcoins*.
+**** Page 10:12 *Fundamentals:*
+- *Decentralization:*
+  - *Distributed Ledger:* The ledger is spread across multiple "nodes"
+    instead of one central point.
+  - *Consensus Mechanism:* Transactions are agreed upon by a network
+    consensus rather than a central authority.
+  - *Security and Trust:* Uses cryptography for security, and trust is
+      established through the network's collective agreement.
+- *Transparency and Immutability:* Transactions are public and cannot
+  be altered once added.
+- *Cryptography:*
+  - *Digital Signatures:* Users sign transactions with a private key,
+      and others verify them with the public key
+  - *Hash Functions:* Acts like a digital fingerprint for data, securing
+      the link between blocks and maintaining the integrity of the
+      blockchain.
+- *Consensus Mechanisms:* a set of rules or protocols for the network to agree on the validity of the ledger.
+  - *Types of Consensus:*
+    - *Proof of Work (PoW):* Used by Bitcoin, secure but =energy-intensive=.
+    - *Proof of Stake (PoS):* =less energy=, validators are chosen based on the amount of =cryptocurrency they "stake."=
+    - *Delegated Proof of Stake (dPoS):* A =democratic= version where stakeholders vote for delegates.
+    - *Proof of Authority (PoA):* Transactions are validated by =approved, trusted accounts=; faster but less decentralized.
+**** Page 14
+- *Blockchain vs Traditional Databases (continued):*
+  - *When to Use Blockchain:*
+    - When immutable and tamper-proof records are needed.
+    - decentralization
+    - transparency and auditability.
+    - using smart contracts.
+    - strong cryptographic security.
+    - collaborative trust across organizations.
+    - managing cryptocurrencies or tokens.
+    - applications requiring a consensus.
+- *limitations of blockchain:* Blockchain may not be suitable for applications
+  requiring high-speed data processing or low latency. Sometimes a
+  hybrid approach is best.
+**** Page 15-16 *Types of Blockchain:*
+- *Public vs Private Blockchain:*
+  - *Public:* Open to anyone, decentralized, and permissionless (e.g.,
+    Bitcoin, Ethereum).
+  - *Private:* Requires permission to join, provides more control and
+    privacy for businesses.
+- *Permissionless vs Permissioned Blockchain:*
+  - *Permissionless:* No gatekeepers, anyone can join and transact
+    publicly.
+  - *Permissioned:* Only identifiable participants can join
+- *Consortium Blockchain:* Used by a group of organizations to enable
+  *private* transactions among trusted participants (e.g., R3 Corda,
+  Quorum).
+- *Hybrid Blockchain:* *both private and public*
+
+**** Page 17:25 *Blockchain Use Cases:*
+1. *Finance and Cryptocurrency:*
+   - *Finance:* The broad field of managing money, investments, and
+       financial resources.
+   - *Cryptocurrency:* A digital/virtual currency that uses
+       cryptography for security, operates on a decentralized blockchain,
+       and is not controlled by any central authority.
+2. *Supply Chain Management:*
+   - *Enhancing Transparency, Traceability, and Security:* immutable
+     ledger for recording every transaction in the supply chain.
+   - *Authenticity Verification:* Products can be assigned unique
+     digital IDs to prove their authenticity.
+   - *Smart Contracts:* Can automate processes like payment and quality
+     control.
+   - Other benefits include optimizing inventory, ensuring quality and
+     compliance, and tracking environmental impact.
+3. *Healthcare:*
+   - *Electronic Health Records (EHRs):* Blockchain provides a secure and
+     interoperable way to store and share patient data.
+   - *Medical Data Sharing*
+   - *Supply Chain Management:* Ensures drug authenticity and reduces
+     counterfeiting.
+   - *Patient Consent Management:* Patients can control access to their
+     data via smart contracts.
+   - *Other Uses:* Telemedicine, healthcare provider credential
+     verification, insurance claims processing, and securing
+     patient-managed health records.
+4. *Voting and Governance:*
+   - *Secure Voting Systems*
+   - *Decentralized Autonomous Organizations (DAOs):* Self-governing
+     entities that use smart contracts for decision-making.
+   - *Other Applications:* Transparent government records, token-based
+     voting, and decentralized decision-making.
+5. *Intellectual Property:*
+   - *Ownership Verification:* Blockchain can establish and verify
+     =ownership and origin of IP assets.=
+   - *Timestamps:* Creates indisputable proof of creation date for
+     copyright purposes.
+   - *Smart Contracts:* Automates royalty payments and licensing
+     agreements.
+   - *Counterfeit Prevention:* Creates digital certificates of
+     authenticity for physical products.
+6. *NFTs (Non-Fungible Tokens):* A unique and non-interchangeable
+   digital asset verified on a blockchain.  Evolved from "colored
+   coins" on Bitcoin into projects like =CryptoPunks and CryptoKitties=.
+   - *Key Characteristics:* Uniqueness, rarity (artificial, numerical,
+     historical), proof of ownership, immutability, and
+     programmability.
+7. *DeFi (Decentralized Finance):*
+   - *Traditional Finance (TradFi):* Centralized, custodial,
+     permissioned, costly, and can be exclusive.
+   - *DeFi:* A paradigm shift to a decentralized, open, and
+     permissionless peer-to-peer financial system.
+   - *Key Differences:* DeFi uses triple-entry accounting, is mostly
+     trustless, has public transaction data, is highly innovative, can be
+     difficult to use, and has irreversible transactions.
+   - *Risks:* DeFi carries inherent technology (dev framework), project, economic, and
+     governance risks.
+8. *Virtual Worlds (Metaverse):*
+   - *Definition:* Persistent, immersive environments that blend physical
+     and digital worlds in real-time.
+   - *Closed vs Open Virtual Worlds:*
+     - *Closed:* Controlled by a few powerful entities (e.g., tech
+       giants). Decisions are based on shareholder value, and user data
+       is stored centrally.
+     - *Open:* Decentralized and community-based. Values are
+       stakeholder-centric, and users have more control over their data.
+9. *CBDCs (Central Bank Digital Currencies):*
+   - *Current Money Forms:* Physical (coins/banknotes) and electronic
+     (commercial bank accounts).
+   - *Definition:* A CBDC is a form of digital money issued by a central
+     bank.
+   - *CBDC vs Cryptocurrency:* CBDCs are centralized, unlike
+     decentralized cryptocurrencies.
+  - *Two Models:*
+    - *Wholesale:* Used by commercial banks and institutions for
+      payments and settlements.
+    - *Retail:* A form of legal tender for the public (individuals and
+      businesses).
+  - *Criticism and Concerns on CBDC:* Risks include financial instability,
+    privacy issues, cyberattacks, marginalization of traditional
+    banking, and potential for increased inequality.
+**** Page 26
+- *Interoperability:*
+  - *Definition:* The ability of different blockchain networks to
+    communicate, send messages, and exchange data and tokens.
+  - *Importance:* It's vital for linking the currently fragmented
+    blockchain ecosystems and preventing a new form of centralization.
+  - *Challenges:* Includes ensuring transaction finality across chains,
+    managing cross-chain smart contracts, and maintaining data
+    integrity.
+- *Environmental Concerns of blockchain and Solutions:*
+  - *Problems:* Proof-of-Work (PoW) blockchains are highly
+    energy-intensive, have a significant carbon footprint, and
+    generate electronic waste.
+  - *Solutions:*
+    - *Alternative Consensus:* More energy-efficient mechanisms like PoS
+      and PoA, as mentioned before.
+    - *using Renewable Energy:* solar, wind, or hydroelectric power for
+      mining.
+    - *Optimization:* Making smart contracts more efficient.
+    - *Hardware:* Using more efficient mining equipment.
+    - *Carbon Offsets:* Investing in projects that reduce greenhouse
+      gases.

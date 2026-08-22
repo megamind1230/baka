@@ -1,0 +1,35 @@
+#1 - eses infor learning
+[[https://youtube.com/playlist?list=PLqlTgdmIZxTs0A_cq6SyehAH5pUCe8X2E][Kdenlive Video Editor]]
+
+#+begin_example
+- 50
+- 51
+- 52
+- 53
+- 54
+- 55
+- 56
+- 57
+- 58
+- 59
+- 60# Beautiful Effects: 6 Beautiful Effects in Kdenlive for Colour Corrections
+    - technicolor - curves
+    - hue shift
+    - levels
+    - luma lift gain gama
+    - rgb adjustment
+    - white balance
+- 61 # What's the heck is YUV in Kdenlive effects. Find out
+    - roberts + sobel fx
+    - [[file:../attachments/Pasted-image-20230718182925.png]]
+    - [[file:../attachments/Pasted-image-20230718182952.png]]
+    - [[file:../attachments/Pasted-image-20230718183010.png]]
+    - [[file:../attachments/Pasted-image-20230718183113.png]]
+    - 
+- 62 # Swipe Text Animation in Kdenlive
+    - luma comp ( luminance )> bar hori > reverse
+- 63 What YOU should know about VIBRANCE AND SATURATION effects in Kdenlive
+    - saturation[[file:../attachments/Pasted-image-20230718135539.png]]
+    - vibrance[[file:../attachments/Pasted-image-20230718135859.png]]
+    - color space ==???==
+#+end_example

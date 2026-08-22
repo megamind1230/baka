@@ -1,0 +1,13 @@
+#1
+
+| keys    | (1)add(2)switch(3)remove | mode   | wherea:keybindingsb:settingsc:lua | remapped to become(0)               | vscode func (1) | old func(2)                     | new func(3)                     | my pick |
+|---------+--------------------------+--------+-----------------------------------+-------------------------------------+-----------------+---------------------------------+---------------------------------+---------|
+| =jj=    | 1                        | insert | a                                 | =esc=vscode-neovim.compositeEscape1 | -               | -                               | -                               | 0       |
+| =p=     | 2                        | visual | c                                 | =P={so i swapped p and P}           | -               | paste and yank overwritten text | just paste                      | 3       |
+| =P=     | 2                        | visual | c                                 | =p=                                 | -               | just paste                      | paste and yank overwritten text | 3       |
+| =esc=   | 1                        | normal | c                                 | =:nohlsearch=                       | -               | -                               | clear search highlighting       | 3       |
+| =space= | 1                        | all    | c                                 | =leader= or=vim.g.mapleader=        | -               | -                               | leader                          | 3       |
+|         |                          |        |                                   |                                     |                 |                                 |                                 |         |
+
+- path to init.lua
+  - =C:\Users\hassa\AppData\Local\nvim=

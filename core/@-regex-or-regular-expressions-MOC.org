@@ -1,0 +1,6 @@
+* done
+- [X] [[file:0-find-and-replace-in-vim-with-regex.org][0-find-and-replace-in-vim-with-regex]]
+- [X] [[file:0-grep-command.org][grep cmd]]
+  ​# not done
+- [ ] [[file:regex-basics.org][regex-basics]]
+- [ ] [[file:regex-practice-websites.org][regex-practice-websites]]

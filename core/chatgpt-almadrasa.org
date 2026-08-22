@@ -1,0 +1,29 @@
+#1
+#has_corrupt_img
+Eng.Ahmad Fathi
+# how to create an email
+open [[https://hidester.com/proxy/][Hidester Proxy - Fast & Free Anonymous Web Proxy]]
+then search for
+
+then open the free vpn in the app
+open {openai} website on cognito
+sign up your email
+then you'll need a foreign phoen no. >>[[https://onlinesim.io/][Onlinesim - online phone service for receiving virtual SMS to virtual SIM]]
+but this needs money
+
+* try on almadrasa
+[[https://almdrasa.com/chatgpt/][برنامج شات جي بي تي ChatGPT المجاني » منصة المدرسة (almdrasa.com)]]
+
+* try on Telegarm
+https://t.me/OpenAI_GPT_Chatbot
+
+* usages/ use cases
+- cover page for linked-in
+- summarizing
+- writing web-scrapping code
+- {refactoring / code coupling / SMILI code [[file:%5Bastrosmili/smili:%20SMILI:%20Sparse%20Modeling%20Imaging%20Library%20for%20Interferometry%20(github.com)%5D(https://github.com/astrosmili/smili)][maybe related]]}
+  - [[https://refactoring.guru/][Refactoring and Design Patterns]] a website to learn {refactoring & design patterns}
+  - refactoring > هو تصغير للكود بحيث يصبح أقل في الكتابة وعدد السطور
+- debugging/ fixing wrong semantics
+- database simple code generating
+- a helper in problem solving

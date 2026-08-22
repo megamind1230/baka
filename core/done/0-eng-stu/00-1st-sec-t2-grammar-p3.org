@@ -1,0 +1,81 @@
+* U12 possibility & deduction
+** =present= في الـمضارع : (must 100%|| can't 0% || maybe/might 1:99% ) + */inf/*
+| must  | sure, certain متأكد, definitely بالتأكيد      |
+|-------+-----------------------------------------------|
+| can't | impossible مستحيل                             |
+| maybe | not sure مش متأكد, perhabs ربما, likely يحتمل |
+
+#+begin_quote
+I don't know. He */might be/* hav*/ing/* a shower.
+تركيبة للحدث */المستمر/* حالا في المضارع
+#+end_quote
+
+** =past=في الماضي: (must have 100% || can't have 0% || maybe/might have 1:99%) + */pp/*
+
+#+begin_quote
+I don't know. He */might have been/* hav*/ing/* a shower.
+تركيبة للحدث */المستمر/* سابقا في الماضي
+#+end_quote
+
+#+begin_quote
+*/should/shouldn't have been/* + pp
+نصيحة على شيء في الماضي = */انتقاد/*
+نهي عن شيء في الماضي = */لوم/*
+#+end_quote
+
+* U11 reported speach الكلام المنقول
+عايز دماغ وواحد بيعرف يرد على الكلام ويتعامل
+> - دوما بــنحول الضمائر والظروف */239,240/*
+> - لكن مش دوما بــنحول الزمن في الجملة وننزل بيه درجة (نخليه أبـــعد).. ومن الحالات التي لا يتغير بها الزمن
+> - حقيقة علمية
+> - said (*/ago/*/ */just now/*)
+> - فعل القول مضارع
+> - if 2,3 ﻷنهم بالفعل في الماضي أصلا
+
+#+begin_quote
+النزول درجة بالزمن معناه نخليه في أكتر جهة الماضي
+#+end_quote
+
+=Speaker (said/told me), "bla-bla-bla-V1".=
+--> =Speaker (said/told me) [that] bla-bla-bla-V2.=
+
+--------------
+
+** الخبر
+| direct                                        | indirect                                                            |
+|-----------------------------------------------+---------------------------------------------------------------------|
+| He said, "I */bought/* a car ==yesterday==".  | He said =[that]= he */bought/had bought/* a car ==the day before==. |
+| "She was drinking coffee", he */said to me/*. | He */told me/* that she was/had been drinking coffee.               |
+
+** هل؟ Yes/No question
+
+#+begin_quote
+عند تحويل أي صنف سؤال من مباشر إلى غير مباشر
+whether/if/wh-word لازم فاعل بعدهم
+#+end_quote
+
+#+begin_quote
+وخليك فاكر : Do/Does - Did في جملة السؤال بـ هل
+بتنــحذف تماما .. وبركز على الفعل الرئيس
+#+end_quote
+
+#+begin_quote
+whether افضل استعمال ليها هو إما الـــتخــييــر
+يا إما علشان مش نتلخبط مع
+if
+#+end_quote
+
+#+begin_quote
+ينفع whether to عادي
+Marian wonderd */whether to/* wait for Nada or leave.
+#+end_quote
+
+| direct                                     | indirect                                      |
+|--------------------------------------------+-----------------------------------------------|
+| "Can you swim,Tarik=?=", said Omar.        | Omar asked Tarek =if/whether= he could swim.  |
+| "Do you get up early=, Ali=?", Karim said. | Karim =asked Ali= if/whether he got up early. |
+
+** سؤال بكلمة اســتفــهام wh-word question
+| direct                                                | indirect                                             |
+|-------------------------------------------------------+------------------------------------------------------|
+| "==When== */are/* you leaving, Salma ?", asks father. | Father ==asked== Salma ==when== she */was/* leaving. |

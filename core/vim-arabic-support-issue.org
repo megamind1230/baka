@@ -1,0 +1,9 @@
+idk if it's a terminal thing or just a gvim thing
+
+#+begin_example
+set termbidi "must have +arabic packaged within vim"
+#+end_example
+
+#+begin_quote
+*/emacs/* has better arabic support out of the box
+#+end_quote

@@ -1,0 +1,2744 @@
+* NEXT chrono app: revisited
+** DONE profiles
+** TODO --one-shot
+* NEXT mouseless-mindmap electron app
+plus add the functionality to (enter = same lvl sibling , tab = down lvl child = shift tab = up lvl parent)
+
+it would have a dynamic rendering
+* idea make Chineasy pdf for every Chinese character with its drawing
+** how about a static website, or a desktop app too
+
+* projects ideas stack/roadmap : programming noob resources and projects
+question: is there a website that will like give me inspiration to do something easy at first?
+** noobs first 100
+*** stage 0:
+pick one and only one language
+    for simplicity either pick python/javascript/cpp
+    don't write notes that much, just keep practicing + search the unknown syntax and let it guide you through. just follow the flow, dude.
+    but it would be a good idea to have a note-taking method (obsidian/emacs/ any other app)
+*** stage 1
+1. hello world
+2. personalized greeting
+3. age calculator
+4. bmi calculator
+5. temperature converter
+6. currency converter
+7. tip calculator
+8. seconds converted into ==> hours/minutes/seconds
+9. simple calculator (+ − × ÷), no gui
+10. rectangle/circle area calculator
+*** stage 2
+11. even or odd?
+12. positive/negative?
+13. largest of three numbers?
+14. grade pass calculator
+15. leap year checker
+16. password checker
+17. rock paper scissors
+18. number guessing game
+19. basic login simulation
+20. atm withdrawal validator
+*** stage 3
+21. multiplication table
+22. sum of numbers
+23. factorial
+24. fibonacci
+25. prime number checker
+26. prime generator
+27. number pattern printer
+28. countdown timer
+29. guess until correct
+30. dice rolling simulator
+*** stage 4
+31. calculator with functions
+32. temperature library
+33. password strength checker
+34. palindrome checker
+35. anagram checker
+36. gcd & lcm
+37. caesar cipher
+38. random password generator
+39. random quote generator (using a quotes.txt file)
+40. unit converter (dashbaord)
+*** stage 5
+41. file word counter/file line counter
+    folder word counter/folder word counter
+42. character frequency
+    how much does it appear in a word, a file, a folder
+43. reverse string
+44. vowel counter
+45. pig latin converter
+46. morse code translator
+47. text statistics
+48. hangman
+49. mad libs
+50. mini markdown formatter
+*** Stage 6
+51. Todo List (console)
+52. Student Grades
+53. Shopping List
+54. Contact List
+55. Lottery Number Generator
+56. Remove Duplicates
+57. Bubble Sort
+58. Binary Search
+59. Quiz Game
+60. Inventory Manager
+*** Stage 7
+61. Notes App
+62. Expense Tracker
+63. Diary
+64. CSV Reader
+65. CSV Writer
+66. Log Analyzer
+67. Word Frequency Analyzer
+68. File Backup Utility
+69. Rename Files Tool
+70. Simple Password Vault
+*** Stage 8
+71. Bank Account (oop)
+72. Library System
+73. Student Management
+74. Animal Simulator
+75. RPG Character
+76. Chess Piece Classes
+77. Car Rental
+78. Hotel Booking
+79. Shopping Cart
+80. Restaurant Ordering System
+*** Stage 9
+solve problems from (codeforces/leetcode) on:
+81. Stack
+82. Queue
+83. Linked List
+84. Binary Search Tree
+85. Maze Solver
+86. Sudoku Validator
+87. Pathfinding (BFS)
+88. Pathfinding (DFS)
+89. Mini Search Engine
+90. Huffman Compression
+*** Stage 10
+91. Weather App (API)
+92. Currency Exchange App
+93. URL Shortener
+94. Chat Application
+95. Markdown Editor
+96. Image Viewer
+97. Music Player
+98. Blog System
+99. Online Quiz Website
+100. Full CRUD Task Manager with Database
+*** After Project 100
+- You should be comfortable building things like:
+  - Personal website
+  - Portfolio
+  - Discord bot
+  - Telegram bot
+  - Password manager
+  - Expense tracker
+  - Chess game
+  - Snake
+  - Tetris
+  - Pac-Man
+  - File explorer
+  - Code editor
+  - Programming language interpreter
+  - Database engine (basic)
+  - Operating system kernel (educational)
+  - Compiler (educational)
+*** Best Practice Websites
+**** Learning (you should be practising beside these)
+- [[https://cs50.harvard.edu/x?utm_source=chatgpt.com][CS50 by Harvard]]
+- [[https://www.freecodecamp.org?utm_source=chatgpt.com][freeCodeCamp]]
+- [[https://www.theodinproject.com?utm_source=chatgpt.com][The Odin Project]]
+- [[https://developer.mozilla.org?utm_source=chatgpt.com][MDN Web Docs]] (web)
+**** Practice Problems
+- [[https://leetcode.com?utm_source=chatgpt.com][LeetCode]]
+- [[https://codeforces.com/problemset/page/1?order=BY_RATING_ASC][Problemset - Codeforces]]
+- [[https://www.codewars.com?utm_source=chatgpt.com][Codewars]]
+- [[https://codingbat.com?utm_source=chatgpt.com][CodingBat]]
+- [[https://open.kattis.com?utm_source=chatgpt.com][Kattis]]
+- [[https://www.hackerrank.com?utm_source=chatgpt.com][HackerRank]]
+**** Project Ideas
+- [[https://www.frontendmentor.io?utm_source=chatgpt.com][Frontend Mentor]]
+- [[https://github.com/florinpop17/app-ideas?utm_source=chatgpt.com][App Ideas Collection]]
+- [[https://github.com/codecrafters-io/build-your-own-x?utm_source=chatgpt.com][Build Your Own X]]
+- [[https://github.com/practical-tutorials/project-based-learning?utm_source=chatgpt.com][Project Based Learning]]
+**** Computer Science
+- [[https://ocw.mit.edu?utm_source=chatgpt.com][MIT OpenCourseWare]]
+- [[https://opendatastructures.org?utm_source=chatgpt.com][Open Data Structures]]
+- [[https://teachyourselfcs.com?utm_source=chatgpt.com][Teach Yourself Computer Science]]
+**** Git & Development
+- [[https://learngitbranching.js.org?utm_source=chatgpt.com][Learn Git Branching]]
+- [[https://git-scm.com/book/en/v2?utm_source=chatgpt.com][Pro Git Book]] (too advanced)
+** 50 projects on each track
+from here, just pick whatever you like to create right now, no order
+*** Track 1 --- 50 CLI Tools
+***** Level 1 --- Beginner (1--10)
+1. =echo= clone
+2. =cat=
+3. =head=
+4. =tail=
+5. =wc=
+6. =pwd=
+7. =basename=
+8. =dirname=
+9. =touch=
+10. =mkdir=
+***** Level 2 --- File Utilities (11--20)
+11. =ls=
+12. =cp=
+13. =mv=
+14. =rm=
+15. =tree=
+16. =find=
+17. =file=
+18. =stat=
+19. =du=
+20. =df=
+***** Level 3 --- Text Processing (21--30)
+21. =grep=
+22. =sort=
+23. =uniq=
+24. =cut=
+25. =paste=
+26. =tr=
+27. =tee=
+28. =nl=
+29. =strings=
+30. =hexdump=
+***** Level 4 --- Useful Daily Tools (31--40)
+31. Zip utility
+32. Unzip utility
+33. File organizer
+34. Duplicate file finder
+35. Markdown previewer
+36. Todo manager
+37. Notes application
+38. Password generator
+39. Directory synchronizer
+40. Disk usage analyzer
+***** Level 5 --- Intermediate Systems Programming (41--45)
+41. HTTP client (=curl= clone)
+42. File downloader (=wget= clone)
+43. JSON processor (=jq= clone)
+44. Git clone (basic)
+45. SQLite browser/query tool
+***** Level 6 --- Advanced Projects (46--50)
+46. Password manager (encrypted vault)
+47. Package manager
+    - install
+    - remove
+    - update
+    - dependency resolution
+48. Programming language compiler or interpreter
+    - lexer
+    - parser
+    - AST
+    - code generation / VM
+49. Container runtime (Mini Docker)
+    - namespaces
+    - cgroups
+    - images
+    - process isolation
+50. Unix shell
+    - command parser
+    - pipes
+    - redirection
+    - environment variables
+    - job control
+    - built-ins
+    - scripting support
+***** Bonus ideas (after finishing the 50)
+- =sed= clone
+- =awk= clone
+- =diff=
+- =patch=
+- =tar=
+- =gzip=
+- =xz=
+- =openssl= subset
+- =ssh= client
+- =scp=
+- =rsync=
+- =ping=
+- =traceroute=
+- =dig=
+- =netcat=
+- =top=
+- =htop=
+- =ps=
+- =kill=
+- =watch=
+- =cron= scheduler
+- terminal file manager
+- fuzzy finder (=fzf=)
+- terminal text editor
+- hex editor
+- binary inspector
+- log viewer
+- process monitor
+- torrent client
+- HTTP server
+- static site generator
+- static blog engine
+- database engine
+- search engine
+- shell scripting language
+- Lisp interpreter
+- Make clone
+- Docker Compose clone
+- system monitor
+- terminal music player
+- terminal image viewer
+
+ig you can now do your own *compiler*, *mini Docker*, and *your own shell*
+
+*** Track 2 --- 50 TUI Apps
+***** Level 1
+1. Calculator
+2. Stopwatch
+3. Timer
+4. Digital clock
+5. Calendar
+6. Unit converter
+7. Color palette viewer
+8. ASCII table viewer
+9. Keyboard event tester
+10. System information dashboard
+***** Level 2
+11. Todo manager
+12. Notes app
+13. Kanban board
+14. Habit tracker
+15. Pomodoro timer
+16. Expense tracker
+17. Bookmark manager
+18. Password vault
+19. Contact manager
+20. Flashcard app
+***** Level 3
+21. File manager
+22. Disk usage analyzer
+23. Log viewer
+24. Hex editor
+25. Markdown editor
+26. Markdown previewer
+27. JSON viewer/editor
+28. SQLite database browser
+29. Git repository browser
+30. Git commit history viewer
+***** Level 4
+31. Weather dashboard
+32. RSS reader
+33. Hacker News client
+34. Reddit client
+35. GitHub repository browser
+36. GitHub issue manager
+37. Spotify client
+38. Email client
+39. Chat application (local or networked)
+40. SSH session manager
+***** Level 5
+41. Process manager (=htop=-style)
+42. Terminal file explorer with preview panes
+43. Git UI (basic =lazygit= alternative)
+44. Database administration tool
+45. Terminal dashboard with configurable widgets
+***** Level 6
+46. Terminal spreadsheet
+47. Terminal code editor
+    - syntax highlighting
+    - search
+    - multiple tabs
+    - split views
+48. Terminal debugger frontend
+    - breakpoints
+    - stack frames
+    - variables
+    - watches
+49. Terminal IDE
+    - file explorer
+    - editor
+    - terminal
+    - git integration
+    - debugger
+    - project tree
+50. Obsidian-like Personal Knowledge Management (PKM)
+    - Markdown editor
+    - backlinks
+    - graph view (ASCII)
+    - tags
+    - daily notes
+    - templates
+    - search
+    - wiki links
+    - attachments
+    - graph navigation
+    - plugins/themes (optional)
+***** Bonus Ideas
+- Music player
+- Podcast client
+- Torrent client
+- Docker dashboard
+- Kubernetes dashboard
+- SQLite query editor
+- PostgreSQL client
+- Redis browser
+- MongoDB browser
+- API testing tool (Postman-like)
+- HTTP inspector
+- Terminal browser
+- IRC client
+- Matrix client
+- Discord client (unofficial)
+- Mastodon client
+- AI chat client
+- Docker image explorer
+- Package manager UI
+- Diff/Merge tool
+- Backup manager
+- Encryption tool
+- Certificate manager
+- Kubernetes log viewer
+- Network monitor
+- CPU/GPU dashboard
+- Markdown presentation tool
+- UML/diagram editor
+- Mind map editor
+- LaTeX editor
+
+This progression builds toward a terminal-native development
+environment. By the time you reach the final projects, you'll have
+experience with event loops, state management, asynchronous programming,
+keyboard-driven interfaces, file systems, databases, networking, and
+rendering complex layouts---all of which come together naturally in the
+final *Obsidian-like PKM* application.
+
+*** Track 3 --- 50 Game Development Projects
+***** Beginner (1--15)
+1. Guess the Number
+2. Rock Paper Scissors
+3. Hangman
+4. Tic Tac Toe
+5. Connect Four
+6. Memory Matching Game
+7. Simon Says
+8. Snake
+9. Pong
+10. Breakout
+11. Flappy Bird
+12. Asteroids
+13. Space Invaders
+14. Frogger
+15. Doodle Jump
+
+***** Intermediate (16--35)
+16. Tetris
+17. Pac-Man
+18. Minesweeper
+19. Sokoban
+20. Bubble Shooter
+21. Match-3 (Candy Crush style)
+22. Brick Breaker with Power-ups
+23. Pinball
+24. Bomberman
+25. Tron Light Cycles
+26. Missile Command
+27. Scorched Earth (Artillery Game)
+28. Worms-style Artillery
+29. Top-down Zombie Survival
+30. Endless Runner
+31. Vampire Survivors clone
+32. Rhythm Game (osu!/DDR style)
+33. Tower Defense
+34. Idle/Incremental Game
+35. Card Game (Slay the Spire/Hearthstone mechanics)
+
+***** Advanced (36--49)
+36. Chess (with Minimax AI)
+37. Checkers (AI)
+38. Sudoku Generator & Solver
+39. Roguelike (procedural dungeons)
+40. 2D RPG (quests, inventory, NPC AI)
+41. Metroidvania Engine
+42. Platformer Engine (physics, tilemaps, editor)
+43. Bullet Hell Shooter
+44. RTS (Age of Empires-lite)
+45. Civilization-style 4X Strategy
+46. City Builder (SimCity-lite)
+47. Minecraft-style Voxel Engine
+48. Terraria-style Sandbox
+49. Multiplayer Arena Shooter (client/server)
+
+***** Project 50 --- Capstone
+50. *Online Multiplayer Game*
+Build something that combines everything you've learned.
+Possible ideas:
+- Multiplayer Terraria
+- Multiplayer Tower Defense
+- Online Chess with matchmaking
+- Multiplayer Bomberman
+- MMO-lite RPG
+- Survival Craft Game
+- Battle Royale prototype
+- Among Us clone
+- Real-time Strategy online
+- Multiplayer Sandbox
+*** Track 4 --- 50 Frontend Projects
+
+***** Beginner (1–15)
+
+- Personal Portfolio
+- Landing Page
+- Resume / CV
+- Blog Homepage
+- Restaurant Website
+- Product Showcase
+- Photo Gallery
+- FAQ Accordion
+- Calculator
+- Digital Clock
+- Stopwatch & Timer
+- Tip Calculator
+- Random Quote Generator
+- Password Generator
+- To-do List
+
+***** Intermediate (16–30)
+
+- Weather Dashboard
+- Notes App
+- Habit Tracker
+- Expense Tracker
+- Pomodoro Timer
+- Markdown Editor
+- Kanban Board
+- Bookmark Manager
+- Recipe Finder
+- Movie Browser
+- GitHub Profile Viewer
+- Music Player
+- Quiz Platform
+- Calendar & Event Planner
+- E-commerce Storefront
+
+***** Advanced (31–45)
+
+- Chat Application
+- Twitter/X Clone
+- Reddit Clone
+- Google Keep Clone
+- Trello Clone
+- YouTube Clone
+- Spotify Clone
+- Netflix Clone
+- Google Docs Clone
+- Whiteboard
+- Spreadsheet
+- File Manager
+- CMS Admin Dashboard
+- Project Management Dashboard
+- AI Chat Interface
+
+***** Expert (46–50)
+
+- VSCode Clone
+- Figma Clone
+- Notion Clone
+- Online IDE
+- Complete SaaS Dashboard
+
+****** SaaS Dashboard Features
+
+Authentication
+- Login
+- Registration
+- Password Reset
+- OAuth
+
+User Management
+- User Profiles
+- Roles
+- Permissions
+- Teams
+
+Dashboard
+- Analytics
+- Charts
+- KPIs
+- Reports
+
+Productivity
+- Tasks
+- Calendar
+- Kanban
+- Notes
+
+Communication
+- Notifications
+- Chat
+- Activity Feed
+
+Data
+- CRUD Tables
+- Search
+- Filters
+- Pagination
+- File Uploads
+
+Settings
+- Dark Mode
+- Themes
+- Localization (i18n)
+- User Preferences
+
+Payments
+- Subscription Plans
+- Billing
+- Invoices
+
+Admin
+- Audit Logs
+- System Health
+- Feature Flags
+
+Polish
+- Responsive Design
+- Accessibility
+- Animations
+- Keyboard Shortcuts
+- Offline Support (PWA)
+*** Track 5 --- 50 Backend Projects
+
+***** Beginner (1–15)
+
+- Hello World API
+- Calculator API
+- URL Shortener
+- Todo API
+- Notes API
+- Blog API
+- Book Library API
+- Weather Proxy API
+- File Upload API
+- Contact Manager API
+- Student Management API
+- Expense Tracker API
+- Inventory API
+- Recipe API
+- URL Bookmark API
+
+***** Intermediate (16–30)
+
+- Authentication Server
+- JWT Authentication Service
+- OAuth Server
+- Email Verification Service
+- Password Reset Service
+- Chat Server (WebSockets)
+- Notification Service
+- Discord Bot Backend
+- Image Hosting Backend
+- URL Analytics Service
+- RSS Aggregator
+- Banking Backend
+- E-commerce Backend
+- CMS Backend
+- Social Network Backend
+
+***** Advanced (31–45)
+
+- GraphQL API
+- API Gateway
+- Reverse Proxy
+- Load Balancer
+- Distributed Cache
+- Job Queue System
+- Event Bus
+- Message Broker
+- Redis Clone
+- Kafka Clone
+- Docker Clone
+- Search Engine Backend
+- Object Storage Service
+- CI/CD Runner
+- Kubernetes-style Scheduler
+
+***** Expert (46–50)
+
+- Git Hosting Backend
+- Video Streaming Backend
+- Cloud Storage Platform
+- Backend-as-a-Service (BaaS)
+- Production-ready Backend
+
+****** Production-ready Backend Features
+
+API
+- REST
+- GraphQL
+- WebSockets
+- API Versioning
+- OpenAPI / Swagger
+
+Authentication
+- JWT
+- OAuth
+- Refresh Tokens
+- RBAC
+- API Keys
+
+Database
+- Migrations
+- Seeding
+- Transactions
+- Indexing
+- Read Replicas
+
+Performance
+- Redis Caching
+- Rate Limiting
+- Compression
+- Pagination
+- Query Optimization
+
+Background Processing
+- Job Queues
+- Scheduled Jobs
+- Event Processing
+- Email Workers
+
+Storage
+- File Uploads
+- Object Storage
+- CDN Integration
+
+Security
+- HTTPS
+- CORS
+- CSRF Protection
+- Input Validation
+- Secrets Management
+
+Observability
+- Structured Logging
+- Metrics
+- Tracing
+- Health Checks
+- Monitoring
+
+DevOps
+- Docker
+- Docker Compose
+- CI/CD
+- Environment Configuration
+- Automated Deployments
+
+Testing
+- Unit Tests
+- Integration Tests
+- API Tests
+- Load Testing
+
+Documentation
+- OpenAPI
+- Architecture Diagrams
+- Deployment Guide
+- Developer Documentation
+*** Track 6 --- 50 Automation Scripts
+
+***** Beginner (1–15)
+
+- Hello World CLI
+- File Renamer
+- Batch File Converter
+- Duplicate File Finder
+- Directory Tree Generator
+- Disk Usage Analyzer
+- Package Updater
+- Archive Extractor
+- Archive Creator
+- Project Generator
+- Git Helper
+- TODO Generator
+- Markdown Formatter
+- JSON Pretty Printer
+- Environment Variable Manager
+
+***** Intermediate (16–30)
+
+- Wallpaper Changer
+- Screenshot Manager
+- Clipboard History
+- Workspace Switcher
+- Session Launcher
+- Backup Script
+- Dotfile Installer
+- SSH Host Selector
+- Password Generator
+- Wi-Fi Manager
+- Bluetooth Manager
+- Notification Center
+- Download Manager
+- PDF Toolkit
+- Media Converter
+
+***** Configuration Ecosystem (31–45)
+
+****** Emacs
+
+- Org Automation
+- Denote Helpers
+- Capture Templates
+- Agenda Automation
+
+****** Helix
+
+- Project Templates
+- Language Configuration
+- Theme Generator
+
+****** Neovim
+
+- Plugin Bootstrapper
+- LSP Installer
+- Keymap Generator
+
+****** Terminal Tools
+
+- Yazi Plugin
+- tmux Session Manager
+- Kitty Session Launcher
+- Fish Utility Scripts
+- Zsh Utility Scripts
+
+****** Linux Desktop
+
+- Hyprland Workspace Manager
+- Hyprland Window Rules Generator
+- i3 Workspace Helper
+- Rofi Launcher Collection
+- System Monitor Dashboard
+
+***** Expert (46–50)
+
+- Linux Installer Script
+- Development Environment Bootstrap
+- Dotfiles Framework
+- Self-Upgrading Configuration Manager
+- Fully Automated Linux Workstation Bootstrap
+
+****** Bootstrap Features
+
+System
+
+- Install Packages
+- Configure Repositories
+- Enable Services
+- Configure Firewall
+
+Development
+
+- Git
+- Docker
+- Languages
+- Editors
+- SDKs
+
+Desktop
+
+- Hyprland / i3
+- Waybar
+- Rofi
+- Kitty
+- Fonts
+- Themes
+- Wallpapers
+
+Terminal
+
+- Bash
+- Zsh
+- Fish
+- tmux
+- Starship
+- fzf
+- eza
+- bat
+- ripgrep
+
+Editors
+
+- Emacs
+- Helix
+- Neovim
+- VS Code
+
+Dotfiles
+
+- Automatic Symlinking
+- Backup Existing Configs
+- Cross-machine Sync
+- Secrets Management
+
+Personal Knowledge Management
+
+- Org Mode
+- Denote
+- Obsidian
+- Automated Backups
+
+Maintenance
+
+- System Updates
+- Cleanup Scripts
+- Health Checks
+- Log Rotation
+
+Security
+
+- SSH Configuration
+- GPG Setup
+- Firewall Rules
+- Disk Encryption Helpers
+
+Cloud
+
+- GitHub Authentication
+- SSH Keys
+- Cloud Backup
+- Configuration Sync
+*** Track 7 --- 50 CTF Challenges
+***** Linux & General Skills (1–10)
+
+- Bandit Level 0–5
+- Bandit Level 6–10
+- File Identification
+- grep / find / xargs
+- strings & xxd
+- Base64 & Encodings
+- tar / zip / gzip Challenges
+- Permissions & SUID
+- Bash Scripting Challenge
+- SSH & Remote Enumeration
+
+***** Cryptography (11–20)
+
+- Caesar Cipher
+- ROT13
+- Vigenère Cipher
+- XOR Cipher
+- Frequency Analysis
+- Base Encodings
+- AES
+- RSA Basics
+- RSA Attacks
+- Multi-stage Crypto Challenge
+
+***** Web Security (21–30)
+
+- SQL Injection
+- Blind SQL Injection
+- XSS
+- CSRF
+- SSRF
+- File Inclusion (LFI/RFI)
+- Command Injection
+- Authentication Bypass
+- JWT Exploitation
+- Web Challenge (Mixed)
+
+***** Reverse Engineering
+
+- strings Challenge
+- GDB Basics
+- Ghidra Beginner
+- Binary Ninja Analysis
+- IDA Analysis
+
+***** Forensics
+
+- Image Metadata
+- Steganography
+- PCAP Analysis
+- Memory Dump Analysis
+- Disk Image Investigation
+
+***** Binary Exploitation (41–50)
+
+- Buffer Overflow
+- Shellcode
+- Return-to-libc
+- ROP Chains
+- Format String Vulnerability
+- Integer Overflow
+- Heap Exploitation
+- Race Condition Challenge
+- Full pwn Challenge
+- Multi-stage CTF Challenge
+
+***** Recommended Platforms
+
+Beginner
+
+- OverTheWire (Bandit)
+- picoCTF
+
+Intermediate
+
+- TryHackMe
+- Root Me
+
+Advanced
+
+- Hack The Box
+- CTFtime
+- pwn.college
+- PortSwigger Web Security Academy
+
+Essential Tools
+
+- grep
+- find
+- strings
+- file
+- xxd
+- objdump
+- readelf
+- ltrace
+- strace
+- gdb
+- pwndbg
+- Ghidra
+- Binary Ninja
+- IDA Free
+- Wireshark
+- Burp Suite
+- sqlmap
+- ffuf
+- gobuster
+- pwntools
+- CyberChef
+
+*** Track 8 --- 50 Data Analysis Projects
+
+***** Beginner (1–15)
+
+- CSV Explorer
+- Data Cleaning Pipeline
+- Missing Data Analysis
+- Descriptive Statistics Report
+- Correlation Matrix
+- Distribution Visualizer
+- Titanic Survival Analysis
+- Netflix Movies Analysis
+- Spotify Songs Analysis
+- FIFA Players Analysis
+- Olympics Dataset Analysis
+- World Population Analysis
+- Weather Data Analysis
+- SQL Analytics Dashboard
+- Interactive EDA Notebook
+
+***** Intermediate (16–30)
+
+- Sales Dashboard
+- Customer Churn Analysis
+- Credit Card Spending Analysis
+- Marketing Campaign Analysis
+- HR Employee Analytics
+- GitHub Repository Analytics
+- YouTube Trending Analysis
+- Steam Games Analysis
+- Formula 1 Analytics
+- Airline Delays Analysis
+- Traffic Accident Analysis
+- Bike Sharing Analysis
+- Energy Consumption Analysis
+- Cryptocurrency Market Dashboard
+- Stock Market Dashboard
+
+***** Advanced (31–45)
+
+- House Price Prediction
+- Customer Segmentation
+- Movie Recommendation System
+- Music Recommendation System
+- Spam Email Classifier
+- Sentiment Analysis
+- Credit Risk Prediction
+- Fraud Detection
+- Time Series Forecasting
+- Demand Forecasting
+- Anomaly Detection
+- Image Classification
+- NLP Text Classification
+- End-to-End ML Pipeline
+- MLOps Experiment Tracker
+
+***** Expert (46–50)
+
+- Interactive BI Dashboard
+- Real-time Analytics Pipeline
+- Kaggle Competition Solution
+- Data Warehouse & ETL Project
+- End-to-End Data Analytics Platform
+
+End-to-End Data Analytics Platform
+
+Data Sources
+
+- APIs
+- SQL Databases
+- CSV / Excel
+- Web Scraping
+- Streaming Data
+
+Data Engineering
+
+- ETL Pipeline
+- Data Cleaning
+- Feature Engineering
+- Data Validation
+- Data Versioning
+
+Storage
+
+- PostgreSQL
+- SQLite
+- DuckDB
+- Parquet
+- Data Warehouse
+
+Analytics
+
+- Exploratory Data Analysis
+- Statistical Testing
+- Correlation Analysis
+- Cohort Analysis
+- A/B Testing
+
+Machine Learning
+
+- Regression
+- Classification
+- Clustering
+- Recommendation Systems
+- Forecasting
+
+Visualization
+
+- matplotlib
+- seaborn
+- Plotly
+- Streamlit
+- Dash
+
+Deployment
+
+- FastAPI
+- Docker
+- Scheduled Jobs
+- Monitoring
+
+Documentation
+
+- Jupyter Notebooks
+- Technical Reports
+- Dashboards
+- README
+*** Track 9 --- 50 Mobile Apps
+
+***** Beginner (1–15)
+
+- Hello World App
+- Calculator
+- Unit Converter
+- BMI Calculator
+- Tip Calculator
+- Digital Clock
+- Stopwatch
+- Pomodoro Timer
+- To-do List
+- Notes App
+- Flashcards
+- Habit Tracker
+- Expense Tracker
+- QR Code Scanner
+- Weather App
+
+***** Intermediate (16–30)
+
+- Calendar
+- Workout Tracker
+- Water Intake Tracker
+- Mood Tracker
+- Recipe App
+- Book Library
+- Music Player
+- Podcast Player
+- RSS Reader
+- News App
+- Movie Browser
+- Maps & Places
+- Currency Converter
+- File Manager
+- Password Manager
+
+***** Advanced (31–45)
+
+- Chat Application
+- Social Media App
+- E-commerce App
+- Banking App
+- Food Delivery App
+- Ride Sharing App
+- Fitness Platform
+- Learning Management App
+- Markdown Editor
+- Whiteboard
+- Kanban Board
+- AI Chat Client
+- Cloud Notes
+- Photo Gallery
+- Video Streaming Client
+
+***** Expert (46–50)
+
+- Offline-first Knowledge Base
+- Team Collaboration App
+- Mobile IDE
+- Cross-platform Super App
+- Complete Productivity Suite
+
+Complete Productivity Suite
+
+Organization
+
+- Tasks
+- Projects
+- Kanban
+- Calendar
+- Reminders
+
+Notes
+
+- Rich Text Notes
+- Markdown
+- Attachments
+- Tags
+- Search
+
+Knowledge
+
+- Flashcards
+- PDF Reader
+- Bookmarks
+- Document Viewer
+
+Productivity
+
+- Habit Tracker
+- Pomodoro
+- Time Tracking
+- Goals
+
+Communication
+
+- Chat
+- Notifications
+- Activity Feed
+
+Sync
+
+- Cloud Backup
+- Offline Support
+- Conflict Resolution
+- Multi-device Sync
+
+Security
+
+- Authentication
+- Biometrics
+- Encryption
+- Secure Storage
+
+Platform Features
+
+- Widgets
+- Deep Links
+- Push Notifications
+- Background Tasks
+- Share Sheet
+
+Polish
+
+- Dark Mode
+- Accessibility
+- Localization (i18n)
+- Responsive Layout
+- Animations
+*** Track 10 --- 50 FOSS Contributions
+***** Level 1 — Documentation (1–10)
+
+- Fix a typo
+- Improve a README
+- Correct broken links
+- Improve installation instructions
+- Add screenshots
+- Improve project structure documentation
+- Expand API documentation
+- Write a beginner tutorial
+- Improve code comments
+- Improve project wiki
+
+***** Level 2 — Small Contributions (11–20)
+
+- Fix a UI bug
+- Improve CLI output
+- Improve error messages
+- Fix a configuration bug
+- Improve logging
+- Improve validation
+- Refactor duplicated code
+- Improve accessibility
+- Improve performance
+- Fix a small bug from the issue tracker
+
+***** Level 3 — Testing & Quality (21–30)
+
+- Add a unit test
+- Add an integration test
+- Increase code coverage
+- Fix a flaky test
+- Improve test fixtures
+- Add benchmark tests
+- Improve CI pipeline
+- Add static analysis
+- Add linting rules
+- Improve release automation
+
+***** Level 4 — Features (31–40)
+
+- Add a CLI command
+- Add a configuration option
+- Add a plugin
+- Implement a requested feature
+- Add an API endpoint
+- Improve editor integration
+- Improve documentation tooling
+- Improve localization (i18n)
+- Add a new backend/provider
+- Refactor a major component
+
+***** Level 5 — Community (41–50)
+
+- Review someone else's Pull Request
+- Help answer discussions
+- Triage issues
+- Reproduce reported bugs
+- Write release notes
+- Mentor a first-time contributor
+- Design a project roadmap
+- Become a regular contributor
+- Become a core contributor
+- Become a maintainer
+
+Beginner-Friendly Projects
+
+Editors
+
+- Emacs
+- Neovim
+- Helix
+- Zed
+- VS Code
+
+CLI Tools
+
+- ripgrep
+- fd
+- bat
+- eza
+- yazi
+- fzf
+
+Linux
+
+- Hyprland
+- Waybar
+- foot
+- Kitty
+- tmux
+
+Languages & Frameworks
+
+- Go
+- Rust
+- .NET
+- ASP.NET Core
+- Flutter
+- React
+
+Websites
+
+- firstcontributions
+- goodfirstissue.dev
+- up-for-grabs.net
+- CodeTriage
+- GitHub "good first issue"
+
+Goal
+
+By the end of this track, aim to have:
+
+- 50+ merged Pull Requests
+- Contributions to at least 10 different projects
+- Multiple accepted feature implementations
+- Experience reviewing code
+- A consistent open-source profile
+- At least one project where you're a regular contributor or maintainer
+** How to Contribute to FOSS
+Contributing to Free and Open Source Software (FOSS) is one of the
+fastest ways to become a better developer. You learn how real software
+is built, collaborate with experienced developers, improve your Git
+and debugging skills, and build a public portfolio of work.
+
+The goal is not to immediately add major features. The goal is to
+become a reliable contributor by making many small, high-quality
+improvements.
+
+*** Step 1 — Find a Project
+
+Choose software that you actually use or find interesting.
+
+Good places to look:
+
+- GitHub "good first issue"
+- goodfirstissue.dev
+- up-for-grabs.net
+- CodeTriage
+- firstcontributions
+
+Good beginner projects include:
+
+- Emacs
+- Helix
+- Neovim
+- Yazi
+- fd
+- ripgrep
+- bat
+- eza
+- tmux
+- Hyprland
+
+*** Step 2 — Read Before Coding
+
+Before writing code, spend time understanding the project.
+
+Read:
+
+- README
+- CONTRIBUTING.md
+- CODE_OF_CONDUCT.md
+- Architecture documentation
+- Existing issues
+- Existing pull requests
+
+Build the project locally and make sure all tests pass.
+
+*** Step 3 — Understand the Codebase
+
+Spend time exploring.
+
+Questions to answer:
+
+- Where is the entry point?
+- How is the project organized?
+- How are tests written?
+- How are errors handled?
+- What coding style is used?
+- How are features added?
+
+Don't rush this step.
+
+*** Step 4 — Make Your First Contribution
+
+Start extremely small.
+
+Examples:
+
+- Fix a typo
+- Improve documentation
+- Improve an example
+- Improve an error message
+- Fix formatting
+- Add missing comments
+
+Learning the workflow is more important than writing lots of code.
+
+*** Step 5 — Create a Branch
+
+Never work directly on the main branch.
+
+Example:
+
+- Create a feature branch
+- Make one logical change
+- Commit it with a descriptive message
+
+Keep commits focused.
+
+*** Step 6 — Test Everything
+
+Before submitting:
+
+- Build the project
+- Run tests
+- Run linters
+- Format the code
+- Read your changes again
+
+Never assume your change works.
+
+*** Step 7 — Open a Pull Request
+
+A good pull request includes:
+
+- What changed
+- Why it changed
+- Screenshots (if UI)
+- Related issue number
+- Testing performed
+
+Keep pull requests small.
+
+Small PRs are reviewed much faster than huge ones.
+
+*** Step 8 — Respond to Review
+
+Almost every pull request receives feedback.
+
+Do not take review comments personally.
+
+Instead:
+
+- Ask questions
+- Make requested changes
+- Learn from suggestions
+- Update the PR
+
+Good contributors respond quickly and politely.
+
+*** Step 9 — Repeat
+
+The second contribution is easier.
+
+The tenth is much easier.
+
+Consistency matters far more than making one huge contribution.
+
+*** Progression
+
+**** Level 1
+
+Documentation
+
+- Typos
+- README improvements
+- Examples
+- Tutorials
+
+**** Level 2
+
+Small Code Changes
+
+- UI fixes
+- Bug fixes
+- Error messages
+- Refactoring
+
+**** Level 3
+
+Testing
+
+- Unit tests
+- Integration tests
+- Benchmarks
+- CI improvements
+
+**** Level 4
+
+Features
+
+- New commands
+- Configuration options
+- Plugins
+- API improvements
+
+**** Level 5
+
+Community
+
+- Review pull requests
+- Answer questions
+- Triage issues
+- Help new contributors
+- Become a regular contributor
+- Become a maintainer
+
+*** Best Practices
+
+- Keep pull requests small.
+- Read existing code before writing new code.
+- Follow the project's coding style.
+- Write tests when appropriate.
+- Update documentation when behavior changes.
+- Be respectful during reviews.
+- Communicate clearly.
+- Be patient—maintainers are often volunteers.
+
+*** Common Mistakes
+
+- Sending huge pull requests.
+- Ignoring CONTRIBUTING.md.
+- Not running tests.
+- Mixing unrelated changes.
+- Arguing with reviewers.
+- Giving up after one rejected PR.
+
+*** Goal
+
+By the end of your open-source journey, aim to have:
+
+- 50+ merged pull requests
+- Contributions across multiple projects
+- Experience reviewing code
+- Experience fixing bugs and implementing features
+- A strong GitHub profile
+- At least one project where you're a regular contributor
+- One project where maintainers recognize your work
+** side resources
+*** https://github.com/coding-horror/basic-computer-games
+*** [[https://github.com/practical-tutorials/project-based-learning?utm_source=chatgpt.com][Project-Based Learning]]
+Probably the best repository for project-based learning.
+Contains tutorials for:
+- C
+- C++
+- C#
+- Go
+- Java
+- JavaScript
+- Python
+- Rust
+- Linux
+- Machine Learning
+- Web
+- Mobile
+- Games
+Starts with beginner projects and goes all the way to operating systems
+and compilers.
+([[https://github.com/topics/beginner-project?utm_source=chatgpt.com][GitHub]])
+*** [[https://github.com/codecrafters-io/build-your-own-x?utm_source=chatgpt.com][Build Your Own X]]
+One of the most famous repositories on GitHub.
+Examples include:
+- Git
+- Redis
+- Docker
+- SQLite
+- React
+- Operating System
+- Shell
+- DNS Server
+- HTTP Server
+- Compiler
+- Lisp
+- Database
+- Game Engine
+Excellent once you've finished beginner projects.
+*** [[https://github.com/MunGell/awesome-for-beginners?utm_source=chatgpt.com][Awesome for Beginners]]
+A curated list of beginner-friendly open-source projects that actively
+welcome new contributors. It organizes repositories by language and
+highlights projects with beginner-friendly issues.
+([[https://github.com/topics/beginner-project?utm_source=chatgpt.com][GitHub]])
+*** [[https://github.com/Ruth-ikegah/beginner-projects?utm_source=chatgpt.com][Beginner Projects]]
+One of the nicest collections of language-agnostic project ideas.
+Projects include:
+- calculator
+- hangman
+- text games
+- file utilities
+- ciphers
+- simulations
+- algorithms
+Each project has optional challenges to extend it.
+([[https://github.com/Ruth-ikegah/beginner-projects?utm_source=chatgpt.com][GitHub]])
+*** [[https://github.com/florinpop17/app-ideas?utm_source=chatgpt.com][App Ideas Collection]]
+Hundreds of app ideas.
+Difficulty:
+- Beginner
+- Intermediate
+- Advanced
+Every project includes:
+- requirements
+- bonus features
+- constraints
+Perfect for building a portfolio.
+*** [[https://github.com/Ritesh-456/awesome-python-project-ideas?utm_source=chatgpt.com][Awesome Python Project Ideas]]
+Even if you don't use Python, the ideas transfer well.
+Projects are categorized into:
+- Easy
+- Medium
+- Advanced ([[https://github.com/topics/beginner-projects?utm_source=chatgpt.com][GitHub]])
+*** [[https://github.com/ellisonleao/magictools?utm_source=chatgpt.com][Awesome Game Datasets & Projects (Awesome GameDev)]]
+A huge collection of:
+- engines
+- assets
+- tutorials
+- tools
+- inspiration
+*** [[https://github.com/munificent/game-programming-patterns?utm_source=chatgpt.com][Game Programming Patterns Examples]]
+Not project ideas directly, but excellent for learning how to structure
+medium-sized games.
+*** [[https://github.com/frontend-mentor/frontend-mentor?utm_source=chatgpt.com][Frontend Mentor Solutions & Challenges]]
+Real UI challenges ranging from beginner to advanced.
+*** [[https://github.com/enaqx/awesome-react?utm_source=chatgpt.com][Awesome React]]
+Huge collection of:
+- tutorials
+- project examples
+- starter kits
+*** [[https://github.com/donnemartin/system-design-primer?utm_source=chatgpt.com][System Design Primer]]
+Once CRUD apps become easy, this teaches how to build scalable systems.
+*** [[https://github.com/public-apis/public-apis?utm_source=chatgpt.com][Awesome APIs]]
+Thousands of free APIs to use in backend and frontend projects.
+*** [[https://github.com/agarrharr/awesome-cli-apps?utm_source=chatgpt.com][Awesome CLI Apps]]
+Discover hundreds of terminal applications to learn from and clone.
+*** [[https://github.com/rothgar/awesome-tuis?utm_source=chatgpt.com][Awesome TUIs]]
+A curated list of text-based user interfaces for inspiration.
+*** [[https://github.com/alebcay/awesome-shell?utm_source=chatgpt.com][Awesome Shell]]
+Bash:
+- scripts
+- frameworks
+- automation
+- shell tools
+*** [[https://github.com/webpro/awesome-dotfiles?utm_source=chatgpt.com][Awesome Dotfiles]]
+A gold mine if you enjoy configuring Linux, Emacs, Neovim, tmux,
+Hyprland, Kitty, Yazi, and similar tools.
+*** [[https://github.com/karanpratapsingh/data-science-projects?utm_source=chatgpt.com][Data Science Projects Collection]]
+Contains many beginner-friendly data analysis projects with datasets and
+notebooks.
+*** [[https://github.com/apsdehal/awesome-ctf?utm_source=chatgpt.com][Awesome CTF]]
+Contains:
+- practice sites
+- tools
+- writeups
+- challenges
+- reversing
+- cryptography
+- web exploitation
+*** [[https://github.com/zardus/ctf-tools?utm_source=chatgpt.com][CTF Practice Collection]]
+A large toolkit for solving CTF challenges.
+*** [[https://github.com/firstcontributions/first-contributions?utm_source=chatgpt.com][First Contributions]]
+Probably the best repository for learning how to make your first pull
+request.
+*** [[https://github.com/up-for-grabs/up-for-grabs.net?utm_source=chatgpt.com][Up For Grabs]]
+Lists projects with issues specifically marked for newcomers.
+*** [[https://github.com/goodfirstissue/goodfirstissue.dev?utm_source=chatgpt.com][Good First Issue]]
+Aggregates GitHub repositories that have issues labeled
+=good first issue=.
+*** [[https://github.com/kamranahmedse/developer-roadmap?utm_source=chatgpt.com][Developer Roadmap]]
+Interactive roadmaps for:
+- Backend
+- Frontend
+- DevOps
+- Android
+- AI
+- Security
+- Data Engineering
+- Game Development
+*** awesome lists
+- [[https://github.com/sindresorhus/awesome?utm_source=chatgpt.com][Awesome Lists Index]]
+- [[https://github.com/awesome-selfhosted/awesome-selfhosted?utm_source=chatgpt.com][Awesome Self-Hosted]]
+- [[https://github.com/EbookFoundation/free-programming-books?utm_source=chatgpt.com][Awesome Programming Books]]
+- [[https://github.com/wmariuss/awesome-devops?utm_source=chatgpt.com][Awesome DevOps]]
+- [[https://github.com/josephmisiti/awesome-machine-learning?utm_source=chatgpt.com][Awesome Machine Learning]]
+
+** extra ideas
+*** Real Beginner Project Ideas for asp.net
+- Todo app
+- Student management system
+- Notes app
+- Blog system
+- Authentication app
+- Expense tracker
+- E-commerce site
+- LMS
+- Admin dashboard
+*** make a wish
+1. [ ] idea `make a wish` or `wish dot com` website { should be education-wise centric }
+   - sign in > make a wish {name something+put a price for it}
+   - wait in queue
+   - get blessed by ppl donating to any of your donation apps { vodafone cash / instapay / fawry / paypal / bank account .. etc }
+
+
+
+4. [ ] rank / vote per face { the zuckerberg website from the movie }
+   - a tender like website { refreshed weekly }
+   - every account must be authed
+   - people rate a person with 3 buttons { nice 👍 / idk ❓ / bad 👎 }
+   - also has this mode
+   - rank your best friends or best friend leaderboard app {like the one in the facebook movie}
+   - you create a community.. add image of each person
+   - ppl signing in can pick between 1 of 2 friends showing
+   - you can comment the reasons for your pick
+   - small comments about 100 words max
+
+5. [ ] a website for ranking codeforces problems
+   - and having some discussion about them and the best resource to solve them from .. not giving direct solutions tho
+   - and giving `time outs / bans` to cheaters / ruiners / spoilers
+   - website must be moderated / have a review team
+
+
+7. [ ] idea website learn this trick today
+   - a database of tricks in games like league of legends and dota2 like eg
+   - you sign up with email/rss feed / telegram / whatsapp to get emails + browser/mobile notifications
+   - determine game > determine champ/hero
+   - now every day you learn 1 tricks macro and micro
+
+8. [ ] idea website find a friend
+   - you sign in
+   - 2 levels of authentecity
+     - 1st is to give your social media websites available at least 2
+     - 2nd give and real images of you { not AI } over the course of 3 days .. every day you send 1
+   - the website ranks the tags by popularity {by default}
+   - nudity/harrassment detected is perma banned
+   - unbanning requires a huge fine tax
+   - you see one person at a time with his tags
+   - you answer by yes or no
+   - or simply you just pick that specific tag that you both have in common
+   - the website keeps filtering ppl and showing more tags to try and provide you with the best pool of ppl from which you can find a friend
+   - you can view each user profile as a page of his social media platforms
+
+9. [ ] we need a simple communication application
+   - the website is a txt file and domain generator
+   - sign up with username .. get into dashboard of all communication files .. you can create txt files
+   - each file is has its link as follows {username1-username2}
+     - if hope i can make the {username2-username1} redirect to same page
+   - page UI is  split into 2 panes .. for each user
+     - each time the user inputs a message .. it leaves a timestamp before the message
+   - only txt website
+   - files are volatile .. deleted every day
+   - maybe later .. we can add dump channels ... like forums {with question in the link}
+*** dota 2
+
+- [ ] create a modular dota 2 website that has this mode
+  1. [ ] code to visualize the holy trifecta {dota2/league}
+     - dota2 purge trading ep 3
+     - can try provide a csv of values .. advanced i guess
+     - or at least tells me to either
+     - kite, attack while in range , run down enemy, run from enemy
+  2. [ ] create a dota2 synergy app
+     - you have a database with each hero having descrptive tags
+     - then you query the database according to synergy
+     - ex: carry lacks cc > give him supp with cc recommendation
+  3. [ ] idea .. simple drafting website for league and dota2 {with numbers representing how good a champ is}
+
+*** more ideas
+Here are some solid microservice project ideas that map well to the task requirements (API Gateway, Service Discovery, gRPC/RabbitMQ, Docker/K8s):
+1. E-Commerce Platform (classic, well-understood)
+Microservices: User, Product, Order, Payment, Notification
+- gRPC: Order → Payment (synchronous, need response)
+- RabbitMQ: Order → Notification (async, fire-and-forget emails/SMS)
+- Cleanest mapping to the TIL material
+2. Food Delivery System (modern, engaging)
+Microservices: Restaurant, Menu, Order, Delivery, Notification
+- gRPC: Order → Restaurant for availability check; real-time delivery tracking
+- RabbitMQ: Order placed → Notification + analytics
+- Naturally demonstrates both sync and async patterns
+3. Booking/Reservation System (clear sync/async split)
+Microservices: User, Venue, Booking, Payment, Notification
+- gRPC: Booking checks venue availability synchronously
+- RabbitMQ: Booking confirmed → Payment + notification events
+4. Online Banking / Payment System (data consistency focus)
+Microservices: Account, Transaction, FraudDetection, Notification, Loan
+- gRPC: Transaction → FraudDetection (needs immediate validation)
+- RabbitMQ: Transaction → Notification
+My recommendation: the E-Commerce Platform is the safest choice — the TIL already sketches its architecture, and every objective (gateway, discovery, gRPC, RabbitMQ, Docker, K8s) has a natural place. The Food Delivery system is the most fun if you want something different.
+Which direction feels right to you?
+▣  Plan · Big Pickle · 19.1s
+how about ideas from the things i like
+i like gaming (dota2, league of legends)
+i like linux (arch, scripting, twm vs de)
+i like notes (obsidian, neovim, emacs, org mode)
+Thought: 7.7s
+The user is sharing their interests and wants microservice project ideas that tie into what they like:
+
+1. Gaming (Dota 2, League of Legends)
+2. Linux (Arch, scripting, TWM vs DE)
+3. Notes (Obsidian, Neovim, Emacs, Org mode)
+
+Let me think of microservice ideas that combine these interests with the .NET microservices architecture requirements.
+
+Gaming themed ideas:
+- Matchmaking stats tracker (Dota 2 / League)
+- Game build/recommendation service
+- Gaming community platform
+
+Linux themed ideas:
+- Distro comparison service
+- Arch package tracker
+- Dotfile management service
+- TWM/DE benchmarking
+
+Notes themed ideas:
+- Note-taking sync service (like a mini Obsidian sync)
+- Org-mode collaboration service
+- Note search/indexing service
+
+Let me think about which ones would best demonstrate all the architecture requirements (API Gateway, Service Discovery, gRPC, RabbitMQ, Docker, Kubernetes).
+
+Idea: Game Stats Aggregator / Match Analysis Platform (gaming focus)
+- Services: User (profiles), Match (game data), Analysis (stat calculations), Notification (updates)
+- gRPC: Match → Analysis (real-time stat computation)
+- RabbitMQ: New match data → Notification (new highlights available)
+- API Gateway: Ocelot routing
+- Docker + K8s deployment
+
+Idea: Note Sync & Collaboration Service (notes focus)
+- Services: Auth, Notes, Sync, Search, Notification
+- gRPC: Note → Search (real-time indexing)
+- RabbitMQ: Note update → Sync (propagate to collaborators)
+- API Gateway, Docker, K8s
+
+Idea: Linux System Dashboard / Dotfile Manager (Linux focus)
+- Services: User, Config (dotfiles), Package (script tracking), Analytics, Notification
+- gRPC: Config validation checks
+- RabbitMQ: Config changes → backup/notification
+
+Idea: Gaming Build & Strategy Platform (gaming focus, very practical)
+- Services: User, Hero (character data), Build (recommendations), Match (history), Notification
+- gRPC: Build → Match stats for recommendation
+- RabbitMQ: New meta analysis → Notification
+
+Idea: Esports Tournament Platform (gaming)
+- Services: Team, Match, TournamentBracket, Stream, Notification
+- Good for demonstrating complex service interactions
+
+Idea: Org-mode / Obsidian Plugin Ecosystem with Cloud Sync (notes + gaming)
+A note-taking platform where:
+- Services: Auth, Notes, Tags, Analytics, Notification
+- Could also integrate gaming notes/wiki
+
+Let me present these in a structured way that ties back to the technical requirements.
+Great tie-in ideas! Here are microservice project concepts tailored to your interests:
+🎮 Gaming: Match Analysis & Build Recommender
+e.g., "MetaMancer" — analyze your Dota/League matches
+Service
+Hero
+Match
+Analysis
+Notification
+- gRPC: Match → Analysis (compute stats on demand)
+- RabbitMQ: Match imported → Analysis recalculates → Notification fires
+📝 Notes: Cloud Sync & Search Engine
+e.g., "OrgFlow" — sync & search across Obsidian/Neovim/Emacs
+Service
+Notes
+Search
+Sync
+Hook
+- gRPC: Notes → Search (index immediately)
+- RabbitMQ: Note edit → Sync propagates to other clients
+- Perfect chance to write an Obsidian plugin and Neovim client
+🐧 Linux: Dotfile Manager & System Dashboard
+e.g., "DotHub" — manage, version, and audit dotfiles + TWM configs
+Service
+Config
+Template
+Audit
+News
+- gRPC: Config → Audit (validate on upload)
+- RabbitMQ: Config change → deploy action to agents on machines
+- Could write an Arch PKGBUILD for the agent side
+🎮📝 Hybrid: Gaming Notes / Strategy Wiki
+e.g., "GameBook" — collaborative hero guides, build notes, patch notes tracker
+Service
+Guide
+Patch
+Build
+Feed
+- gRPC: Guide → Build (pull real-time stats)
+- RabbitMQ: Patch released → Feed dispatches alerts
+My top picks for your personality:
+1. MetaMancer (gaming) — you'll care about the data, and pulling real match data makes it feel alive
+2. OrgFlow (notes) — directly useful for your own workflow, and you can dogfood it
+3. GameBook (both) — best of both worlds if you want something unique
+Want me to flesh out one of these into a full architecture plan with service boundaries, communication flows, and deployment design?
+▣  Plan · Big Pickle · 19.2s
+more ideas
+Thought: 768ms
+The user wants more ideas for microservices projects based on their interests. Let me come up with more creative ideas that tie into gaming (Dota 2, League of Legends), Linux (Arch, scripting, TWM vs DE), and note-taking (Obsidian, Neovim, Emacs, org-mode).
+Sure, here are more niche ideas that hit your interests from different angles:
+🎮 Dota 2 / League Draft Counter-Picker
+"DraftWise" — a microservice that suggests counter-picks in real time
+Service
+Hero
+Counter
+Draft
+Meta
+Replay
+- gRPC: Draft → Counter (instant suggestion during ban phase)
+- RabbitMQ: Match ends → Replay queued → Meta updated
+- Fun hook: Discord bot that pulls draft suggestions
+🐧 Arch Linux AUR Health & Dependency Watchdog
+"AURWatch" — keep your AUR packages healthy
+Service
+PkgWatch
+DepGraph
+Alert
+Script
+- gRPC: PkgWatch → DepGraph (resolve deps on demand)
+- RabbitMQ: Upstream release → Alert → optional auto-rebuild
+- Could generate a personal Arch repo from your watched packages
+📝 Obsidian → Emacs Org-mode Bidirectional Sync Engine
+"BiSync" — keep your notes in both worlds
+Service
+Parse
+Link
+Conflict
+Webhook
+Graph
+- gRPC: Parse → Link (resolve cross-links after conversion)
+- RabbitMQ: Note changed → Conflict checks → Webhook pushes to other tool
+- You'd write an Obsidian plugin + Neovim plugin + Emacs package
+🎮 Personal Gaming Stats Aggregator
+"Grimstroke" — your personal performance dashboard across games
+Service
+Ingest
+Profile
+Analysis
+Dashboard
+Goal
+- gRPC: Ingest → Analysis (on-demand deep dive)
+- RabbitMQ: New match → Ingest queues → Profile updates → optional Goal progress check
+- Personal data is private — you own the whole pipeline
+🐧📝 TWM Config Generator with Org-mode Documentation
+"TWMStudio" — generate and document your i3/hyprland/awesome config
+Service	Role
+Template	Keybinding templates per TWM (i3, Hyprland, Awesome, Qtile)
+Generator	Merges your preferences into working config
+DocGen	Generates Org-mode reference doc from your keybinds
+Gallery	Share/screenshot community configs
+Hook	Applies config, reloads TWM remotely
+- gRPC: Generator → DocGen (generate docs on config build)
+- RabbitMQ: Config published → Hook applies to registered machines
+- Write the client as a Go or Rust binary for your Arch system
+🎮🐧 Linux Gaming Benchmark Pipeline
+"FrameMiner" — benchmark logging & analysis for Linux native/Proton games
+Service
+Capture
+Bench
+Compare
+Report
+Tweak
+- gRPC: Capture → Compare (diff against last 3 runs)
+- RabbitMQ: Benchmark submitted → Report generated → Alert if regression
+- Pair it with a MangoApp config that posts to your API
+📝🎮 Strategy Guide Wiki (with Org-mode Export)
+"GuideCraft" — write guides in Org-mode, publish everywhere
+Service
+Source
+Render
+Hero
+Patch
+Review
+- gRPC: Source → Render (preview on save)
+- RabbitMQ: New patch → Patch marks affected guides → Review notifies authors
+- You write guides in Emacs Org-mode; the system publishes them
+🐧 Dotfile "Nix-lite" — Bash Scripted Environment Manager
+"EnvLite" — manage environments declaratively without Nix
+Service
+Declare
+Build
+Check
+Sync
+Log
+- gRPC: Build → Check (validate before applying)
+- RabbitMQ: Sync triggered → pushes to all registered machines
+- Everything is shell-scriptable; no complex DSL to learn
+Want me to pick one and build a full architecture plan (service boundaries, proto files, DB schemas, API Gateway routes, RabbitMQ exchanges, Docker Compose layout, K8s manifests)?
+▣  Plan · Big Pickle · 21.9s
+more
+Thought: 345ms
+The user wants more ideas. Let me keep going with creative intersections of their interests.
+A few more that blend your interests in unusual ways:
+🎮 Dota 2 Replay Parser + Org-mode Match Journal
+"PostGame" — auto-generate a match journal in Org-mode after every game
+Service	Role
+Parser	Parses .dem replays, extracts timeline (wards, runes, fights, deaths)
+Journal	Generates structured Org-mode notes with timestamps, tables
+Stats	Computes GPM/XPM graphs, last-hit comparisons
+Tag	Lets you tag games ("throw", "clutch", "new build test")
+Search	Query past games by hero, bracket, outcome, tags
+- gRPC: Parser → Stats (compute advanced metrics synchronously)
+- RabbitMQ: Match finished → Parser queued → Journal generated → Notification
+Think of it like: every game you play → Emacs Org-agenda gets a new entry with your build, KDA, and a "what I learned" section you fill in.
+🐧📝 Neovim Plugin Registry + Build Pipeline
+"VimForge" — discover, build, and keep Neovim plugins updated
+Service
+Catalog
+Build
+Doc
+Pack
+Health
+- gRPC: Catalog → Build (trigger build on demand)
+- RabbitMQ: Plugin updated on GitHub → Build queues → Pack updates spec
+You'd host this as your personal plugin "curated registry" for the ones you actually use.
+🐧 Tiling Window Manager Session Manager
+"TileState" — save and restore complete TWM sessions
+Service	Role
+Layout	Captures window tree, geometry, tags/workspaces
+App	Knows which apps you had open (terminal in ~/dev, browser on wiki)
+Session	Save/load named sessions ("coding", "gaming", "writing")
+Restore	Reopens apps, repositions, restores tmux sessions
+Hook	Integrates with i3 IPC, Hyprland socket, Awesome DBus
+- gRPC: Session → Restore (restore complex layouts)
+- RabbitMQ: Screen lock/TWM reload → queued auto-save
+Imagine: tileset save coding → captures neovim + terminal + browser layout. tileset load coding → everything back exactly where it was.
+🎮📝 Patch Note Differ (Org-mode Edition)
+"DiffThePatch" — turns verbose game patch notes into clean Org diffs
+Service
+Scrape
+Parse
+Diff
+Export
+Digest
+- gRPC: Parse → Diff (compute stat changes on demand)
+- RabbitMQ: New patch → Scrape fetches → Parse queues → Digest generates → posted to your blog/notes
+You could publish this as an Org static site for your guild/friends.
+🐧🎮 ProtonDB + Wine Triage Dashboard
+"ProtonPulse" — track your personal game compatibility on Linux
+Service
+Library
+Triage
+Workaround
+Regress
+Report
+- gRPC: Triage → Workaround (apply known fixes before first run)
+- RabbitMQ: Proton updated → Regress checks your library → Alert on breakage
+Every time you run a game, a one-shot script reports the result + proton version + flags back to the dashboard.
+🐧📝 Org-mode / Neovim Daily Template Engine
+"JournalCraft" — structured daily journals from your tools
+Service
+Template
+Capture
+Rollup
+Goal
+Export
+- gRPC: Capture → Template (render entry into your preferred Org structure)
+- RabbitMQ: Day ends → Rollup queues → Goal progress computed
+Every morning your ~/journal/2026-06-16.org is pre-populated with yesterday's open todos, your calendar, and the Dota match you played last night (from PostGame above).
+🎮🐧📝 The Ultimate Personal Stack (combo)
+If you wanted one big project that ties all three together:
+┌─────────────────────────────────────┐
+│        API Gateway (Ocelot)         │
+├─────────────────────────────────────┤
+│                                     │
+│  PostGame (gaming → journal)        │
+│  │                                  │
+│  ├── gRPC → Stats service           │
+│  └── AMQP → Journal service         │
+│                                     │
+│  JournalCraft (notes → templates)   │
+│  │                                  │
+│  ├── gRPC → Export service          │
+│  └── AMQP → Rollup service          │
+│                                     │
+│  TileState (TWM → session mgmt)     │
+│  │                                  │
+│  ├── gRPC → Restore service         │
+│  └── AMQP → Auto-save daemon        │
+│                                     │
+│  DiffThePatch (patch → Org diffs)   │
+│  └── AMQP → Digest → published      │
+│                                     │
+│  Postgres (per-service DBs)         │
+│  RabbitMQ                            │
+│  Consul (service discovery)          │
+│  Docker + K8s                        │
+└─────────────────────────────────────┘
+Every thing you already do daily — game, tinker with your TWM, write in Org/Neovim — feeds into your own personal microservice ecosystem. That's the kind of project you'd actually want to maintain.
+Want me to pick a direction and build a concrete implementation plan?
+
+*** the coding sloth ideas and more
+1. Calculator
+   but it a websites-launcher depending on the result {ex: 100=google.com, 101= youtube , etc }
+2. Portfolio
+3. To do list
+4. personal Finance tracker
+5. Real time chat
+6. Make own redis
+7. Random quote generator
+8. Algorithm visualizer
+9. Travel booking system
+10. Quiz program
+11. Make own bittorrent
+12. HTTP Server
+13. Real time editor
+14. Chat bot
+15. Qr code generator
+16. AI gf/bf
+17. Make own git
+18. Neural network
+19. Video game
+
+file organizer
+quiz app
+student grading system
+notes app
+timer
+music player UI
+expense tracker
+weather app
+screenshot organizer
+
+Beginner:
+- Book/Movie Catalog — CRUD with Entity Framework, search/filter, validation
+- Blog Engine — Posts, comments, categories; auth middleware, custom middleware for logging
+Intermediate:
+- URL Shortener — Redirect middleware, custom route constraints, DI for services
+- Task/Todo Manager — Razor Pages UI, dependency-injected repository, middleware for request timing
+- E-Commerce Cart — Sessions, cookie middleware, Razor partials for product cards
+More Advanced:
+- Real-time Dashboard — Chart.js + Razor, custom status-code middleware, DI for background services
+- Multi-tenant SaaS — Tenant-resolving middleware, scoped DI per request, shared layout with sections
+
+1. Recipe Manager — CRUD with categories, ingredients, search
+ 2. Expense Tracker — Pie/bar charts, monthly filtering, categories
+ 3. Event/Meetup RSVP — Event creation + attendee signup with email notification
+ 4. Flashcard Quiz App — Decks, spaced repetition, session tracking
+ 5. Inventory System — Stock in/out, low-stock alerts, supplier list
+ 6. Job Board — Job listings, apply form, company profiles
+ 7. Issue/Bug Tracker — Status workflow, comments, assignee filter
+ 8. Habit Tracker — Daily check-in, streaks, heatmap calendar
+ 9. Voting/Poll App — Create polls, real-time results, share links
+10. Code Snippet Repository — Syntax-highlighted snippets with tags
+11. Movie/Show Watchlist — Track watched/to-watch, ratings, reviews
+12. Invoice Generator — Line items, totals, PDF export
+13. Fitness Log — Exercises, sets/reps, progress graphs
+14. Flight/Hotel Booking — Search, availability calendar, booking flow
+15. Chat Application — SignalR real-time messaging, rooms, user list
+16. Kanban Board — Drag-and-drop columns, cards, assignees
+17. Link Collection / Bookmarks — Folders, tags, click tracking
+18. API Wrapper Dashboard — Fetch external APIs, cache, display data
+19. Flash Sale / Coupon System — Time-limited deals, code generation
+20. Gym Class Scheduler — Time slots, instructor assignment, capacity limit
+
+    Here are 10 ideas, each mapping to why auth fits naturally:
+League of Legends
+1. Build Sharer — Upload/favorite rune builds. Auth: creator ownship, Admins moderate, "Pro verified" claim.
+2. Tournament Ladder — Manage teams, register for events. Auth: TeamCaptain role, MatchAdmin claim. OAuth to sign up via Google.
+3. Champion Matchup Tracker — Track winrates per champion. Auth: free tier (view) vs. premium (unlimited data). Claims-based feature gating.
+Obsidian / Note-taking
+4. Shared Vault API — Sync notes between devices via REST API. Auth: user owns notes, CanShare claim allows public links, OIDC for Google login.
+Dota 2 (same genre, different flavor)
+5. Hero Counter-Picker — Suggest counters based on enemy draft, upvote/downvote strategies. Auth: Authorize to submit, Moderator role to approve, CanEdit claim.
+Linux
+6. Linux Config Backup API — Store dotfiles/backups with versioning. Auth: user scoped (see your backups only), Admin role for server-wide view.
+7. Sudo History Viewer — Teams log sudo commands to audit. Auth: CanViewAll claim vs. CanViewOwn claim. Role-based for Ops vs. Dev.
+Languages
+ 8. Flashcard API with Spaced Repetition — Per-user decks + scheduled reviews. Auth: user isolation (can't see others' cards), Premium claim unlocks unlimited decks.
+ 9. Translation Suggestion Board — Crowdsource translations, vote best ones. Auth: CanTranslate claim, Reviewer role approves entries. OIDC to verify identity.
+10. Language Buddy Matcher — Match learners with native speakers. Auth: profile ownership, Verified claim after email/OIDC confirmation, Admin role for reports.
+
+*** Beginner
+**** Library Management System
+Services:
+
+#+begin_src text
+Book Service
+User Service
+Borrow Service
+#+end_src
+
+Use:
+
+- ASP.NET Core Web API
+- Docker
+
+**** Student Management System
+Services:
+
+#+begin_src text
+Student Service
+Course Service
+Enrollment Service
+#+end_src
+
+Use:
+
+- SQL Server
+- JWT
+
+*** Intermediate
+**** Food Delivery System
+Services:
+
+#+begin_src text
+Restaurant Service
+Order Service
+Payment Service
+Notification Service
+#+end_src
+
+Use:
+
+- Ocelot
+- RabbitMQ
+- Docker
+
+**** Online Store
+Services:
+
+#+begin_src text
+Auth Service
+Product Service
+Cart Service
+Order Service
+Payment Service
+#+end_src
+
+Use:
+
+- JWT
+- RabbitMQ
+- gRPC
+
+*** Advanced (Excellent Portfolio Project)
+**** Uber-like Ride Booking
+Services:
+
+#+begin_src text
+Auth Service
+Driver Service
+Passenger Service
+Ride Service
+Payment Service
+Notification Service
+Location Service
+#+end_src
+
+Features:
+
+- JWT Authentication
+- RabbitMQ events
+- gRPC communication
+- Docker
+- Kubernetes
+- API Gateway
+
+* SnapShot: a stupid simple note capturing app { can store links/text/images in a simple, fast, and snappy way}
+**** phase 1
+Triggered via Super+Shift+C → calls rofi → on enter, appends to ~/snapshot/snapshot.txt or opens neovim at selected line.
+Trigger (Super+Shift+C)
+  │
+  ▼
+Read ~/snapshot/snapshot.txt (newest first via tac)
+  │
+  ▼
+Pipe into rofi -dmenu
+  │  ┌─────────────────────────────────────────┐
+  │  │  SnapShot>  [type/fuzzy filter here]    │
+  │  │  ───────────────────────────────────── │
+  │  │  [12-05-2026@02:30 PM] bought groceries │  ← existing entries
+  │  │  [11-05-2026@09:15 PM] cool link       │     (fuzzy-searchable)
+  │  │  ...                                    │
+  │  └─────────────────────────────────────────┘
+  │
+  ├── User types NEW text + Enter ───────────────────────┐
+  │                                                      │
+  │  1. Check clipboard for image                        │
+  │     ├─ Wayland: wl-paste --list-types                │
+  │     └─ X11:     xclip -selection clipboard TARGETS   │
+  │                                                      │
+  │  2. If image found → save to ~/snapshot/imgs/{ts}.png│
+  │                                                      │
+  │  3. Append to file:                                  │
+  │     [12-05-2026@02:31 PM] user text (img: path.png)  │
+  │                                                      │
+  └──────────────────────────────────────────────────────┘
+  │
+  └── User SELECTS existing entry ───────────────────────┐
+                                                         │
+  1. grep -nFx to find line number in file               │
+  2. neovim +<linenum> ~/snapshot/snapshot.txt           │
+                                                         │
+  └──────────────────────────────────────────────────────┘
+**** phase 2
+1) [X] clone rofi
+
+2) [X] how to set it up for hyprland
+
+3) [ ] make a settings option to change the path of the text file
+
+**** phase 3
+
+- [ ] how can I make this cross platform { how to make a daemon that can run on all operating systems }
+
+
+- [ ] can Wayland on linux be a problem here? does it block the global keylog listener
+Linux is hardest because: Wayland restrictions
+Important: Wayland intentionally blocks global keylog-like behavior.
+So on Linux: X11 → easy,Wayland → harder
+You may need:
+    compositor-specific protocols
+    portals
+    GNOME/KDE integration
+This is the biggest challenge in the entire project.
+
+Wayland issue: Tauri's global shortcut plugin uses global-hotkey crate which doesn't support Wayland — it's a protocol-level limitation. Options:
+1. Hyprland: bind = $super SHIFT, C, exec, /path/to/snapshot-shim where the shim signals the daemon
+2. Sway: bindsym --to-code { "Mod4+Shift+C": exec ... }
+3. KDE: configure a custom shortcut in System Settings → Shortcuts → Custom Shortcuts that runs a D-Bus command
+4. gnome: gsettings or an extension
+The cleanest cross-compositor approach would be to add a Unix socket or D-Bus listener so the running daemon can be triggered by an external command. Want me to add that?
+
+- [ ] the popup window should be at 60% of the total monitor width, centered
+
+
+- [ ] if an image was on my clipboard + I pasted it into the snapshot window it should make a copy of it into the proper path with a proper name + append this entry into the text file with the proper path and timestamp
+
+- [ ]
+
+
+
+
+- [ ] consider switching to .org file format instead of .txt
+- [ ] make it into an arch package #later
+- [ ] make it into a browser extension #later
+
+* [Getting Started | Staying Code Visualization Platform](https://staying.fun/en/docs/getting-started)
+create missing c# ig
+* idea.. cashlog
+هو  صفحة ويب بتعرض balance التمويل الكلي للموقع بشكل مباشر وتاعلي
+وبتعرض مسن اللي بيروح له الدعم واتخصم كام له من الموقع
+المفروض الناس بنقدم على الدعم المالي والأعلى في الرانك هياخد المنحة
+بعدين نشوف حوار الرانك دا.. هل هنقسم على حساب الجامعة ولا الدرجة الجامعية إلخ
+والموقع بيفتح ابواب للتبرع
+* TODO You can use pytesseract as ocr, pretty simple to implement but breaks on unstructured docs. If you want somethings that also works on unstructured docs you might need to train a custom model or look on hugginface
+* idea terminal voice chat app
+* ocr tool for linux .. for faster book reading
+- [X] [ocrmypdf cli](https://github.com/ocrmypdf/OCRmyPDF)
+* any good app lighter than pandoc for .org <-> .md conversions?
+* idea mouseless kanban that can finally view source as .md file which would be obsidian compatible
+is flash.nvim better than leap.nvim
+mindmap electron app mouseless
+urgent ripple delete silence script with a threshold kdenlive
+can i issue an updated version of a dotnet documentation page?
+* cool tricks/concepts in frontend: , dynamic heading size , flex cards , svg icons , snap scrolling , buttons scale up/down on hover
+github topics
+also more good ways to contribute - dependencies of projects you're using - issues
+what is n8n
+ethnoguessor
+tailscale
+vocatype
+bezier.method.ac
+eloshapes
+idea legit-content.com website
+letter subscription
+* github as my resume
+* any good app lighter than pandoc for .org <-> .md conversions?
+* idea mouseless kanban that can finally view source as .md file which would be obsidian compatible
+* urgent ripple delete silence script with a threshold kdenlive
+* can i issue an updated version of a dotnet documentation page?
+* idea legit-content.com website
+* urgent ripple delete silence script with a threshold kdenlive
+* letter subscription
+* cool tricks/concepts in frontend: , dynamic heading size , flex cards , svg icons , snap scrolling , buttons scale up/down on hover
+* periodic timer app for mobile with profiles
+* ripelime (project queue application)
+** q-pipelime
+* idea any other method to sync text between pc and mobile other than telegram?
+
+* heatmapstreak.com
+** phase 1
++ heatmapstreak.com : a website where you
+  - sign in/log in { remember your data }
+  - add as main habit pages as you want
+  - it shows the Year in a heatmap fashion
+  - pressing on a day toggles its state light it up/turns it off { and it remembers them all for all of your habits }
+  - each account has unlimited amount of habits
+  - each habit has its own tab or whatever best fits the design
+  - each habit can have its own color
++ maybe we can make a dashboard where user can see another heatmap showing how many habbits did this user toggle
+  - the more habits he toggled on that day, the darker it gets
+
++ [X] Streak counter
+   Show current longest streak for each habit (consecutive days toggled on)
+
+** phase 2
++ habits optionally can be either having a goal number of days to complete {for example 21 days}, or a perdiocally repeated goals {3 per week or whatever}
+
++ [ ] highlight the current day cell
+
++ [ ] Weekly/monthly stats
+   Completion rate graphs, averages per week/month, best/worst days
+
++ [-] Dark mode
+   Toggle between light and dark themes
+
++ [ ] Notes per day
+   Attach a small text note to each day for a habit
+
++ [ ] Reminders/notifications
+   Optional daily reminder to check in (email or push)
+
++ [ ] Export data
+   Download habit data as CSV/JSON
+
+* imagePocket app
+can save screenshots or copied images into this pocket
+
+then you can use them into other apps
+* chrome extensions ideas for me to develop
+** Chrome extension ideas for you
+*** Easy
+- Markdown table formatter
+- JSON prettifier with copy button
+- UUID/ULID generator
+- JWT decoder
+- Base64 encoder/decoder
+- Unix timestamp converter
+- Color picker with HEX/RGB/HSL conversions
+- Regex tester
+- Lorem Ipsum generator
+*** Medium
+- Codeforces problem helper (difficulty, tags, notes)
+- GitHub README preview enhancer
+- LeetCode notes sidebar
+- Stack Overflow answer summarizer
+- Bookmark manager with tags
+- AI commit-message generator
+- Clipboard history manager
+- Pomodoro timer with website blocking
+*** Advanced
+- AI-powered code reviewer
+- API request recorder and exporter (like a lightweight Postman)
+- Network inspector with custom filters
+- Visual JSON API explorer
+- SQL query runner for local SQLite databases
+- Browser-based REST client
+- GraphQL explorer
+- Browser DevTools extension for JWT/OAuth inspection
+*** Especially good for backend developers
+- *API Debugger*
+  - Inspect requests/responses
+  - Retry requests
+  - Copy as =curl=
+  - View formatted JSON
+  - Save request history
+*** This showcases skills in:
+- JavaScript/TypeScript
+- HTTP
+- Authentication
+- APIs
+- UX
+- Data storage
+*** AI-focused ideas
+- Summarize the current webpage
+- Explain selected code
+- Generate commit messages from GitHub diffs
+- Turn articles into flashcards
+- Highlight technical terms and show concise definitions
+- "Ask AI about this page" sidebar
+
+** Productivity
+1. *Tab Queue*
+- Save tabs to a FIFO queue.
+- Open one task at a time.
+2. [@2] *Decision Wheel*
+- Collect options from a webpage.
+- Spin a wheel.
+3. [@3] *One Click Reading Mode*
+- Strip page to text only.
+4. [@4] *Website Time Budget*
+- "Only 15 min/day for Reddit."
+5. [@5] *Distraction Delay*
+- Wait 10 seconds before opening YouTube.
+6. [@6] *Pomodoro Per Website*
+- Different timers depending on site.
+7. [@7] *Clipboard History*
+- Better clipboard than Chrome's.
+8. [@8] *Undo Closed Form*
+- Restore accidentally refreshed forms.
+9. [@9] *Meeting Countdown*
+- Floating timer until next meeting.
+10. [@10] *Random Saved Tab*
+- Reopen one forgotten bookmark daily.
+** Developers
+11. [@11] *REST API Tester*
+- Send requests directly from page.
+12. [@12] *Regex Playground*
+- Highlight regex matches live.
+13. [@13] *JSON Formatter Sidebar*
+- Better than existing viewers.
+14. [@14] *XPath Finder*
+15. *CSS Specificity Calculator*
+16. *Element Screenshot*
+17. *HTML Difference Viewer*
+18. *DOM Mutation Logger*
+19. *Cookie Explorer*
+20. *JWT Decoder*
+** GitHub
+21. [@21] *PR Checklist Generator*
+22. *Issue Voting*
+- Personal voting system.
+23. [@23] *Repository Difficulty Meter*
+24. *Random Open Issue*
+- Great for contributors.
+25. [@25] *Dependency Graph Visualizer*
+26. *Commit Heatmap*
+27. *Readme Quality Analyzer*
+28. *Repository Time Machine*
+- Browse old versions quickly.
+29. [@29] *GitHub Notes*
+- Personal notes attached to repos.
+30. [@30] *Repository Bookmark Groups*
+** Students
+31. [@31] *Highlight Collector*
+- Export highlights into Markdown.
+32. [@32] *Flashcard Generator*
+33. *Vocabulary Saver*
+34. *Math OCR to LaTeX*
+35. *Citation Generator*
+36. *Reading Progress Analytics*
+37. *Question Collector*
+- Save unanswered questions.
+38. [@38] *Lecture Timestamp Notes*
+39. *PDF Highlight Sync*
+40. *Auto Bibliography Builder*
+** Linux / Power Users
+41. [@41] *Shell Command Collector*
+- Save commands from websites.
+42. [@42] *Code Copy Cleaner*
+- Removes =$=, prompts, line numbers.
+43. [@43] *Man Page Lookup*
+44. *Open in VSCode*
+- Send GitHub file to local VSCode.
+45. [@45] *Copy Markdown Link*
+46. *Generate cURL From Form*
+47. *Color Picker with Tailwind Values*
+48. *Clipboard as QR Code*
+49. *Page File Tree*
+- Build file tree from headings.
+50. [@50] *Website Keyboard Shortcut Inspector*
+- Shows all available shortcuts.
+** AI-Assisted (actually useful)
+51. [@51] *Explain Selected Error*
+- Select an error → concise explanation.
+52. [@52] *Stack Overflow Summary*
+53. *Code Review Assistant*
+54. *SQL Explainer*
+55. *Regex Explainer*
+56. *Rename Variable Suggestions*
+57. *Commit Message Generator*
+58. *Translate Code Comments*
+59. *Terminal Command Explainer*
+60. *Documentation Simplifier*
+** Ideas with Viral Potential
+- *Rage Click Detector*
+  - Detects repeated clicks and highlights bad UX.
+- *Bookmark Graveyard*
+  - Shows bookmarks untouched for years.
+- *Website Calories*
+  - "This page loaded 28 MB, 312 requests."
+- *Infinite Scroll Counter*
+  - "You've scrolled 9.2 km today."
+- *YouTube Rabbit Hole Meter*
+  - Visualizes recommendation depth.
+- *Email Reply Predictor*
+  - Shows estimated reply probability.
+- *Link Rot Detector*
+  - Highlights dead links.
+- *Reading Level Meter*
+  - Estimates reading complexity.
+- *Internet Speed History*
+  - Passive graph while browsing.
+- *Browser Habit Analytics*
+  - Which sites you visit by hour/day.
+** Ideas Developers Would Actually Install
+- Copy Stack Overflow code *without ads or hidden formatting*
+- Auto-convert code snippets to your preferred language
+- Instant diff between clipboard and selected text
+- Better bookmark search using =fzf=-style fuzzy finding
+- Keyboard-driven tab manager (Vim/Emacs inspired)
+- Copy webpage as clean Markdown
+- Generate Mermaid diagrams from page headings
+- Convert HTML tables to CSV/JSON/Markdown
+- Live accessibility checker while browsing
+- One-click "Open this GitHub repo in Codespaces/VSCode/Dev Container"
+Many of these are simple enough to build over a weekend, but solve real
+annoyances. If your goal is to build a portfolio that attracts users,
+browser extensions focused on *developer productivity*, *GitHub*,
+*Markdown*, *AI-assisted coding*, and *keyboard-first workflows* tend to
+have the strongest appeal.
+
+* we need a
+[-] idea.. `we need a` or `WeNeedA` .. app to save number of ppl in a region according to their profession
+
++ simple website { more database centric }
++ list by country + governorate + city + village + craft/job/transportation
++ the website lists people according to these filters
++ each item with their social media / phone number contacts + a simple avator
++ `can add rating for ppl too later on` but this requires signing in and auth from both sides
+
+----------------------
++ dotnet cross platform + sqlite
++ 3 levels/ways to add data: 1st by send data to the admin account for him to add it to the system using his admin accound, 2nd from verified people on the website { people who verified their emails and identity using their SSID } : those people have their accounts push data into the /verified domain, 3rd finally people who only just made their account { but still didn't verify it } their data send are shown on the /notverified domain
++ make it english only first
+
+----------------------
++ asp.net with razor pages
++ 4 levels { country - governorate - city - village }
++ admin first creates some primitive tags for jobs etc... but verified accounts can add new tags {which also the admin can later edit}
++ ###### [X] - Admin account: admin@weneeda.com / Admin@123
+
+----------------------
+- [X] what is Slug in attributes? { is it an abbreviation?}
+  - Country - Id, Name, Slug, CreatedAt
+  - Governorate - Id, Name, Slug, CountryId, CreatedAt
+  - City - Id, Name, Slug, GovernorateId, CreatedAt
+  - Village - Id, Name, Slug, CityId, CreatedAt
+----------------------
+- [ ] admin can delete any profile/entry
+  meanwhile verified users can only delete their /verified or /notverified content/entry/profil
+- can we make attributes simpler and less {for example: why use CreatedAt } { or at least explain why using all of these }
+- [ ] the app must be fast and flashy .. cuz people are using it for quick people filtering and search for an emergent profession
+- [ ] each user can add up to 3 phone numbers
+- [ ] once the user is verified .. all of his entries/ profiles are moved from /notverified to /verified
+- [ ] can this website handle 1 million visits per day ?
+- [ ] can we add a way so that tags are in a txt file for example { just to make it easier to seed tags into the project }, and each newly added tags are projected into that same file... instead of hard-coding the seeds
+- [ ] make a donation page
+
+* an ascii image converter
+convert images into a simple colored ascii of characters
+** stupid idea short football dribbling videos can be rendered into a sequence of crucial images and to save space we can convert these images into ascii characters
+
+* EmacsGolf An idea that would actually be interesting
+
+A true EmacsGolf could score solutions in several categories:
+
+Fewest key presses
+Fewest interactive commands (M-x counts as one command)
+Shortest keyboard macro
+Shortest Elisp one-liner
+Fastest completion time
+
+That would fit Emacs much better than simply counting physical keystrokes.
+
+Given your recent interest in building study tools and .NET apps, this could actually make for a fun open-source project: an Emacs challenge runner that records commands (this-command), keystrokes, keyboard macros, and Elisp evaluations, then ranks solutions under different scoring rules. I don't know of an existing polished implementation of that.
+* learn from this project to add new features into mcq-quiz-generator
+[LearnKata](https://learnkata.ai/)

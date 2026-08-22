@@ -1,0 +1,131 @@
+* done or verified ✅
+- [X] =:'<,'>!awk '{sum+=$1} END {print sum}'=
+  - [X] sum up selected lines of numbers
+- [X] =:%s\s{2}/ | %s/\s$//=
+  - =|= pipe for continuation of more cmds
+  - replace every 2 spaces with only 1
+  - then remove every ending space
+- [X] =:!sort -k2 -nr=
+  - reverse sort by 2nd column {numerically}
+- [X] =vim fileName +number= > open and go to this line number , better works with {non relative line numbers}
+- [X] copy line =17= to cursor {cursor on 10 for example} > =:17t.=
+- [X] =noremanp <Up> <NOP>= up arrow is disabled
+- [X] [[file:0-weird-lua-for-nvim.org][0-weird-lua-for-nvim]]
+- [X] [[file:0-nvim-vim-regex-replace-or-substitute.org][0-nvim-vim-regex-replace-or-substitute]]
+- [X] [[file:0-why-better-to-just-use-line-numbers-instead-of-relative.org][0-why-better-to-just-use-line-numbers-instead-of-relative]]
+- [X] =; ,= vs =n N=
+  - =n N= are with =/word= search.. to find in the whole file
+  - =; ,= are with =f/F/t/T{char}= to find only in the current line
+- [X] how to empty a file in vim > =:%d=
+- [X] [[file:0-nvim-buffers-and-windows-or-splits-and-tabs.org][0-nvim-buffers-and-windows-or-splits-and-tabs]]
+- [X] =]p= > paste .. respecting the indentation of this line
+- [X] */cursor on brackets/* =>% or <%= > indents both inside + the brackets
+  - [X] =>i{= indents the inside only
+- [X] speical registers
+  - =0= last yank\\
+  - ="= unnamed register, last delete or yank\\
+  - =%= current file name\\
+  - =#= alternate file name\\
+  - =*= clipboard contents (X11 primary)\\
+  - =+= clipboard contents (X11 clipboard)\\
+  - =/= last search pattern\\
+  - =:= last command-line\\
+  - =.= last inserted text\\
+  - =-= last small (less than a line) delete\\
+  - =equal= expression register\\
+  - =_= black hole register\\
+- [X] ="_d= delete into the =_= which is the black whole register
+  - [X] create a numbered list with macros
+
+  1. on a line start do =:let i=1=
+  2. =qa= =I ctrl r = i enter) esc= =:let i+=1= =q=
+  3. then repeat on the line you want
+- [X] =:vnew= vert new buff
+- [X] =:tab split= open current buff into another new tab
+- [X] =zk/j= go to prev/next fold
+- [X] =*= on a word like =three= > matches =three= instances that are */whole words/*
+  - [X] meanwhile =g*= would match it even if its a */subpart of a word/*
+- [X] =q/= cmd search history
+- [X] =:norm @w= on a selection > executes the macro on =w= for each line
+- [X] =:center/right/left= > align
+- [X] =go= = =gg=
+- [X] delete empty lines with regex > =:g/^$/d=
+- [X] =10%= > to the 10% spot of in file
+- [X] =ctrl 6= > move to last recent file
+- [X] time travel with
+  - =:earlier whatever_time=
+  - =:later whatever_time=
+- [X] =gcc= > comment in vim
+- [X] make last line in screen view {not in whole file} centered >
+  - =ctrl d M= */best/*
+  - =L zz=
+  - =ctrl f zz= almost
+- [X] easy 1 to 10 in vim
+  - =i1<Esc>yy9pV9j g ctrl a= > 1:10
+- [X] =:sort! iu= > sort inverse case-insensitive unique
+- [X] motion+ regex search
+  - =d/someword= > deletes till that =someword= .. not included
+- [X] =viwy viwP= > replace a word with another, without losing the first one copied
+- [X] delete from start of line till current word =ev_d=
+- [X] append to a word =:%s/word/&addtion/g=
+- [X] open 2 files into splits
+  - =nvim -o f1 f2= > hori
+  - =nvim -O f1 f2= > vert
+  - =nvim -d file1 file2= opens files in diff mode
+    - or if u opened the 2 files in splits already =:windo diffthis=
+  - =:qa= to quit all
+- [X] open nvim with a specific config =nvim -u path/to/config=
+  - [X] =nvim -u none= with no config
+- [X] copy a whole func
+  - [X] =vim.keymap.set("n","YK", "va{OVy", desc = "yank func on KnR indenting style")=
+  - [X] =vim.keymap.set("n","YA", "va{Ojy", desc = "yank func on allman indenting style")=
+- [X] =:help index= show all cmds
+- [X] =:help pattern.txt= learn [[file:@-regex-or-regular-expressions-MOC.org][regex]] from vim
+- [X] =/the\>= will match */the/* but not =there=
+  - [X] =\>= end of word
+  - [X] =\<= start of word
+- [X] =g!/sum/d= delete all lines without =sum=
+
+* not done
+- [ ] =gp= - put (paste) the clipboard after cursor and leave cursor after the new text
+- [ ] =gP= - put (paste) before cursor and leave cursor after the new text
+- [ ] =:set autowriteall= save file when changing buffers
+- [ ] Multiple Buffers
+  =One can open up multiple files at the same time and switch between them     vim file1.c file2.c file3.c ....     Commands:     :ls (shows open buffers. %a is the active buffer, # - prev buffer used )     :bn (switch to buffer #n, :b# is the prev buffer)     :b partialMath (supply part of an open file name. tab thru list if more than 1)     :n file(s) (add new files)     :n      (go to next file in the list)     :prev      (go to previous file in the list)     :find filePattern      (find a file contained in vim’s path variable. tab thru list if more than 1)=
+- [ ] Split windows or Multiple Tabs
+  =vim -o file1.c file2.c .....vim -O file1.c file2.c ....vim -p file1.c file2.c ...     :split         ctrl w s     :vsplit         ctrl w v     ctrl w hjkl         move between splits     :split fileA.html     :vsplit fileB.py     :tab ball     (display files in n panes split horizontally)     (display files in n panes split vertically)     (display files with tabs. Maximum 10)     (current file displayed again in new pane)     (current file displayed again in new pane)     (horiz split current pane and add another file)     (vertical split of current pane and add a file)     (Convert all buffers into tabs)=
+- [ ] jump to defi
+  =gd     gD     gf     gF     ctrl w gf=
+- [ ] Saving the current vim state
+  =:mksession sessionFileName (with no filename listed, session.vim is created)     This generates a script file that can recreate your settings     :source sessionFileName      (restores previous cursor and window states)=
+- [ ] =:help 42= for an intriguing easter egg ?
+- [ ] if you see a hilited work that's a link that you can put a cursor on and press K or ctrl ] ... ctrl T will get you back
+- [ ] github welle/targets.vim
+- [ ] =*p= is sys clipboard?
+  - [ ] =set clipboard^=unnamed= to use it
+- [ ] github junegunn/vim-peekaboo
+  [[http://vimcasts.org/categories/][vimcasts.org/categories/]]
+  [[http://derekwyatt.org/vim/tutorials/index.html][Vim Videos - Flarfnoogins]]
+
+* neovim manual
+vim
+
+delete selection and replace it with the thing on the clipboard {without losing the thing in the clipboard}
+=xnoremap <leader>p "_dP=
+cuz u delete into the blackwhole reg ="_"= - vim pages - the undo tree - using diagraphs - marks - tips - holy grail
+
+* ref
+- [ ] [[file:saving-custom-macros-as-or-into-keybindings.org][saving-custom-macros-as-or-into-keybindings]]
+- [ ] [[file:nvim-vim-multi-line-editing.org][nvim-vim-multi-line-editing]]
+- [ ] [[file:cool-nvim-keymaps.org][cool-nvim-keymaps]]
+- [ ] [[file:0-nvim-the-magical-g-char-or-button-in-vim.org][0-nvim-the-magical-g-char-or-button-in-vim]]
+- [ ] [[file:nvim-vim-issues-moc.org][nvim-vim-issues-moc]]
+- [ ] [[file:0-nvim-setup-for-programming.org][0-nvim-setup-for-programming]]
+- [ ] [[file:quickfix-list-nvim.org][quickfix-list-nvim]]
+- [ ] [[file:0-vimrc-examples-outdated.org][0-vimrc-examples-outdated]]
+- [ ] [[file:vim-arabic-support-issue.org][vim-arabic-support-issue]]
+- [ ] [[file:0-nvim-vim-folds.org][0-nvim-vim-folds]]
+- [ ] [[file:nvim-vim-lsp.org][nvim-vim-lsp]]
+- [ ] [[file:nvim-defaults-while-on-insert-mode-tricks.org][nvim-defaults-while-on-insert-mode-tricks]]
+- [ ] [[file:0-nvim-marks-jumps-changes-quickfix-list-and-multi-file-editing.org][0-nvim-marks-jumps-changes-quickfix-list-and-multi-file-editing]]
+- [ ] [[https://vimawesome.com/][Vim Awesome]] cool website listing all vim plugins

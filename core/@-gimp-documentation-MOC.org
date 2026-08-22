@@ -1,0 +1,2 @@
+I hope I do playlists going through these documenations (kdenlive, gimp) [[file:0-ideas.org][0-ideas]]
+[[https://www.gimp.org/tutorials/][GIMP - Tutorials]]

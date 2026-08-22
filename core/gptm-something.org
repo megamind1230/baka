@@ -1,0 +1,12 @@
+#1
+
+* core
+- [ ] create a server
+- [X] [[file:0-discord-shortcuts.org][discord shortcuts part]]
+- [X] tracks?
+  - [X] darwish aka {baka} > back
+  - [X] mariam > front
+  - [X] hamdy > flutter
+  - [X] hassan > flutter
+  - [ ] hazem >
+  - [ ] tarik >

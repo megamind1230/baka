@@ -1,0 +1,108 @@
+* 28
+#+begin_example
+in form tag some attributes
+readonly > sent
+disable > not sent
+#+end_example
+
+* 29
+[[https://www.youtube.com/watch?v=YAcn1MyAcDM][Learn HTML In Arabic 2021 - #29 - Form Part 6 - Radio And Checkbox - YouTube]]
+[[file:html-info.org][radio tag in gt]]
+to link radio with label use for
+
+#+begin_example
+input id="win"
+label for="win" // now they're linked .. so selecting label triggers the radio // label line can still go first np
+#+end_example
+
+* 30
+[[file:html-info.org][select tag in gt]]
+
+[[file:html-info.org][textarea tag in gt]]
+
+* 31
+#+begin_example
+input type="url"
+#+end_example
+
+* 32
+[[https://www.youtube.com/watch?v=X_TGbRuZ80Q][Learn HTML In Arabic 2021 - #32 - Form Part 9 - Data List, Novalidate, Target - YouTube]]
+
+#+begin_example
+in form tag
+novalidate attribute
+بتساعدك تعمل سيند من غير ما تقعد كل شوية تملأ البيانات
+حلوة في مرحلة ال testing
+
+target="_blank" > ممكن تتعمل في ال form tag
+#+end_example
+
+[[file:html-info.org][datalist tag in gt]]
+
+* 33
+[[https://www.youtube.com/watch?v=AzjtVtxoBLc][Learn HTML In Arabic 2021 - #33 - Q, BlockQuote, Wbr, Bdi, Button - YouTube]]
+
+#+begin_example
+<q> quote </q> // inline
+<blockquote>another quote</blockquote> // block
+#+end_example
+
+[[file:html-non-closing-tags-OR-empty-elements.org][html-non-closing-tags-OR-empty-elements]] wbr tag > work break opportunity
+
+#+begin_example
+<wbr> // almost like br tag
+#+end_example
+
+when writing Arabic & English & numbers
+
+use bdi > bi-directional isolation
+
+#+begin_example
+عايز اكتب السلام 2 ولكم 
+من الشمال لليمين
+<p>السلام 2 welcome</p> // not what i wanted
+
+<p><bdi> السلام </bdi> 2 welcome</p> 
+#+end_example
+
+* 34
+[[https://www.youtube.com/watch?v=aycYLVSOtZo][Learn HTML In Arabic 2021 - #34 - iFrame, Pre, Code - YouTube]]
+
+#+begin_example
+<code> lang code </code> 
+
+<pre> //preformatted text .. saves styling of text (spaces, enters, tabs) as it was
+<code> lang code </code> 
+</pre>
+#+end_example
+
+[[file:html-info.org][iframe tag in gt]]
+
+* 35
+important
+[[https://www.youtube.com/watch?v=lSqXHePabFo][Learn HTML In Arabic 2021 - #35 - Accessibility Intro - YouTube]]
+better to use =live server extension= on vscode
+inspect > lighthouse > gen report (just select accessibility for now) .. it gives you advices
+
+* 36
+[[https://www.youtube.com/watch?v=UnTxFfbpqco][Learn HTML In Arabic 2021 - #36 - ARIA And Screen Readers - YouTube]]
+aria > accessible-rich internet application
+contrast ratio
+
+accessibility cares also about colors and styling orders
+how to make div act like checkbox https://youtu.be/UnTxFfbpqco?si=nYAL8-8c-nLOHNMP&t=316
+
+#+begin_example
+<label> choose your plan </label>
+    <div role="checkbox" aria-checked="true" tabindex ="0" aria-labeledby="plan1"> plan 1 </div>
+    <div tabindex ="0" > plan 2 </div>
+    <div tabindex ="0" > plan 3 </div>
+    // now u can tab to nivigate between them
+#+end_example
+
+* 37
+[[https://www.youtube.com/watch?v=ysJQH5uPfTg][Learn HTML In Arabic 2021 - #37 - The End And What To Do - YouTube]]
+learn canvas api (with js)
+
+* q
+name attribute is extremely important for sending data to backend

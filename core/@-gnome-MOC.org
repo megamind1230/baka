@@ -1,0 +1,3 @@
+* not done
+* done
+[[file:0-how-to-change-or-disable-conflict-shortcuts-in-gnome.org][0-how-to-change-or-disable-conflict-shortcuts-in-gnome]]

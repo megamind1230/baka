@@ -1,0 +1,7 @@
+- [X] [[file:enhancer-for-youtube-extension.org][enhancer-for-youtube-extension]]
+- [X] [[file:0-copy-as-markdown-extension.org][0-copy-as-markdown-extension]]
+- [[https://chromewebstore.google.com/detail/squarex-be-secure-anonymo/kapjaoifikajdcdehfdlmojlepfpkpoe][square x]]
+- improved YouTube extension
+- [X] instead of installing a dark theme extension, just use the built-in into your browser
+  - =brave://flags=
+    - search =force dark= and enable it

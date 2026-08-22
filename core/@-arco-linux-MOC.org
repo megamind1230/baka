@@ -1,0 +1,1 @@
+#linux/arch_based - [ ] [[The-Calamares-Series]] - [ ] [[file:snapshot-capability-of-Virtualbox.org][snapshot-capability-of-virtualbox]] - [ ] [[file:etc-skel.org][etc-skel]]

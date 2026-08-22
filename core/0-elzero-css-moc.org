@@ -1,0 +1,10 @@
+* done
+- [X] [[file:elzero-css-week8.org][elzero-css-week8]]
+- [X] [[file:elzero-css-week6.org][elzero-css-week6]]
+- [X] [[file:elzero-css-week5.org][elzero-css-week5]]
+- [X] [[file:elzero-css-week4.org][elzero-css-week4]]
+- [X] [[file:elzero-css-week3.org][elzero-css-week3]]
+- [X] [[file:elzero-css-week2.org][elzero-css-week2]]
+- [X] [[file:elzero-css-week1.org][elzero-css-week1]]
+
+* not done

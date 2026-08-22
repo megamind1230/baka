@@ -1,0 +1,11 @@
+* DONE how to do screen sharing on hyprland wayland
+1. Install xdg-desktop-portal-hyprland
+   =sudo pacman -S xdg-desktop-portal-hyprland=
+
+2. Enable and start the Hyprland portal service
+   =systemctl  user enable  now xdg-desktop-portal-hyprland=
+
+3. Restart xdg-desktop-portal to pick up the new backend
+   =systemctl  user restart xdg-desktop-portal=
+
+4. Verify =systemctl  user status xdg-desktop-portal-hyprland=

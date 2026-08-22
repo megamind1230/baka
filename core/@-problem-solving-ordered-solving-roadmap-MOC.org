@@ -1,0 +1,20 @@
+- [[https://visualgo.net/en][visualising data structures and algorithms through animation - VisuAlgo]]
+- 1 > [[https://topswe.com/][topswe ladder]]
+- 2 > [[https://leetcode.com/studyplan/leetcode-75/][leetcode 75]]
+- 3 > [[https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode][cracking the coding interview (ctci) on leetcode]]
+- 4 > [[https://www.techinterviewhandbook.org/best-practice-questions/][Best practice questions]]
+- 5 > do mock interviews on [[https://www.pramp.com/#/][pramp]]
+- 6 > [[file:ps-article.org][ps-article]]
+- 7 > [[https://cses.fi/][CSES]]
+
+[[file:@-data-structures-or-ds-MOC.org][@-data-structures-or-ds-moc]]
+[[file:@-algorithms-or-algo-MOC.org][@-algorithms-or-algo-moc]]
+
+--------------
+
+- [[https://www.piratekingdom.com/leetcode/cheat-sheet][pirate king cheat sheet for leetcode]]
+- [[https://neetcode.io][neetcode 150 and blind 75]]
+- [[https://workat.tech/practice][Interview Practice Questions - Problem Solving, DSA, Machine Coding, System Design, Frontend Development]]
+- [[https://codeforces.com/blog/entry/23054][An awesome list for competitive programming! - Codeforces]]
+- [[https://github.com/jwasham/coding-interview-university][GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.]]
+- [[https://codeforces.com/blog/entry/98705][Topics Problems - Codeforces]]

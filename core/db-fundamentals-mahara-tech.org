@@ -1,0 +1,190 @@
+link: [[https://maharatech.gov.eg/course/view.php?id=740][Course: Database Fundamentals*]] - [x] [[file:0-mec-lec1-29-11-2024.org][0-mec-lec1-29-11-2024]]
+# code
+---
+## insert ex1
+
+#+begin_src sql
+insert into TableName(col1, col2, ...)
+Values(val1,val2, ...)
+#+end_src
+
+** insert ex2
+#+begin_src sql
+insert  into TableName Values(val1,val2, ...)
+#+end_src
+
+** update ex1
+#+begin_src sql
+update TableName
+set col=val
+where condition
+#+end_src
+
+* ch1
+** v2
+- why use DBMS
+  - no duplication/redundancy
+  - auth access
+  - backups
+  - sharing same DB accross multiple device
+    - no inconsistency of updates
+- integrity contraints & data quality
+  ​## v4
+- DBMS archi {levels of schemas}
+  1. external {user}
+  2. conceputal/logical
+  3. physical
+     ​## v8
+- distrubuted DB use either/both
+  - replica
+    - partial OR full
+  - frag
+- [[https://app.smartdraw.com/?nsu=1][SmartDraw: online tool to draw ERD and more]]
+  ​# ch2
+  ​## v2
+- weak entity : {has no PrimaryKey + totaly dependant on another owner enitity}
+  - ex: the dependant of an emp
+  - double rect
+  - relationship between {owener & weak} entities => identifying relationship
+    - double diamond
+      ​# ch3
+      ​## v1,v2
+- domain === field */must be single valued/*
+- =primary key= (PK): uniq + not null
+  - underlined
+- mapping {conceptual design === ERD} into --> {logical design === schema}
+  - entity -> table
+    - weak enitity: takes a FK from the PK of the owner
+      - ?*/composite/* key
+  - attr --> col
+    - =multi-valued= --> has its own table
+      - ?*/composite/* key
+      - PK from owner as FK
+        - =foreign key= (FK): a subset of the PK in another table + can be repeated + can be null
+          - */dashed/* underlined
+  - {{rel}} --> adding more FK || join tables || creating new tables
+    - btw you can rename things to avoid mis-understanding
+    - binary/unary
+      - 1:m
+        - m partial #done
+          - {PK of 1-side as FK on m-side}
+          - [ ] ? */new/* table
+            - both as FK
+            - but PK is of m-side
+        - m total #done
+          - no new table .. just on many side add
+      - m:m #done
+        - {PKs as FKs & create */new table/*}
+      - 1:1 {now depends on participation}
+        - may-may #done
+          - PK of any as FK on the other
+          - ?{new table =FK= of any}
+        - total #done
+          - mix/join/merge tables
+        - total-partial #done
+          - {PK of =may=-side as FK on =must=-side}
+    - ternary
+      - PKs as FKs & create */new/* table
+        > study that ^
+        ​# ch4
+        ​## v1
+- sql has 3 langs
+  - DDL:data =definition= lang
+    - create
+    - drop
+    - alter
+    - truncate
+  - DML:data =manip= lang
+    - select
+    - insert
+    - update
+    - delete
+  - DCL:data =control= lang {priviledges}
+    - grant امنح
+    - revoke ارفض
+- one of DB constraints
+  - referential integrity {FK}
+    - delete
+      - delete FKs {child record} then PKs {parent record}
+    - insert
+      - opposite
+        - add PKs then FKs
+          ​# ch5 DML:data =manip= lang
+          ​## v1 insert
+
+1. [[file:../attachments/Pasted-image-20241204135032.png]]
+   - ![[#code#insert ex1#]]
+   - either insert in all cols or just some portion that you know
+2. [[file:../attachments/Pasted-image-20241204135519.png]]
+   - ![[#code#insert ex2]]
+     ​## v2 update
+
+- [[file:../attachments/Pasted-image-20241204140152.png]]
+  - ![[#code#update ex1]]
+
+** v3 delete vs truncate vs drop
+|                | delete                                                         | truncate                       | drop                          |
+|----------------+----------------------------------------------------------------+--------------------------------+-------------------------------|
+| category       | DML                                                            | DDL                            | DDL                           |
+| syntax         | =delete from TableName where cond=                             | =truncate table TableName=     | =drop TableName=              |
+| usage          | delete row with =where cond= */OR/* delete table & keep schema | as in =delete= with no =where= | delete table content + schema |
+| better used on | some rows                                                      | tables                         | tables                        |
+| roll back      | YES                                                            | not that easy                  | not that easy                 |
+| speed          | logs each deleted row                                          | fast                           | fast                          |
+
+** v4 select
+- [[file:../attachments/Pasted-image-20241204144851.png]] =select col1,col2, [col3 has whitespace] from TableName=
+- * => all
+  ​## v5:v9
+- =where x between 1 and 4= === 1<=x<=4
+- =where x in (a,b)= === x=a OR x=b
+- =where x like 'regex'= [[file:@-regex-or-regular-expressions-MOC.org][more on regex]]
+- expr =as= aliasName
+- concat with =+=
+- order by prio => =order by colName asc/desc=
+  - =order by prio1, prio2 ...=
+- =select distinct col from TableName=
+  - show uniq combs {null shows}
+    ​## v10
+- [X] [[https://www.youtube.com/watch?v=jMpKK_WYi68][CH05_VID10_Inner Join - YouTube]]
+  ​## v11
+- outer join
+  - left: all data from left-hand-side table
+  - right
+  - full === left + right
+- [X] [[https://www.youtube.com/watch?v=-JG4a4JZSqU][CH05_VID11_Outer , Full Join - YouTube]]
+  ​## v12
+- [X] [[https://www.youtube.com/watch?v=KwBqdGRodpg][CH05_VID12_self Join - YouTube]]
+  بيكون فيها عكس عكاس شوية
+  ​## v13:v16
+- =(subquery)=
+- =>all=
+  - =>in=
+  - =>any=
+- =count= {no null counted}
+- [X] [[https://www.youtube.com/watch?v=sFFS6iWAheE][CH05_VID15_Group by & Having - YouTube]]
+  - having vs where
+    - =where= does */not/* come with aggregates
+
+[[https://youtu.be/45XPcKgLr1g?t=339][CH05_VID16_SELECT conclusion - YouTube]]
+
+* ch6
+- [X] [[https://maharatech.gov.eg/mod/hvp/view.php?id=7170&forceview=1][Views (create , modify , remove , types)]]
+  - كإنك بتعمل جدول افتراضي وهمي كجزء من الداتا بيز كلها
+    - بالتالي بيكون أسهل عليك تعمل عليه queries عن ما تعمل على الداتا كلها
+    - بيعطيك طبقة حماية وأمان للداتا الكبيرة نفسها
+  - =create view NameofView=
+- =with check option=
+  - اي تعديل على الفيو
+    - لازم هنراعي فيه الشرط بتاع الـ where قبل ما نقبل التعديل
+- [X] [[https://www.youtube.com/watch?v=KYbgX3ZNHQY][CH06_VD02_Indexes - YouTube]]
+  ​# ch7
+- [X] [[https://www.youtube.com/watch?v=eHSwJ68GYy4][CH07_VID02_Functional Dependency - YouTube]]
+  - FD = functional dependency
+    - full
+    - partial
+    - transitive
+- [X] [[https://www.youtube.com/watch?v=yuCPqhLWio0][CH07_VID03_First Normal Form - YouTube]]
+  - remove { multi - repeating goups - composite }
+- [X] [[https://www.youtube.com/watch?v=_wgUeYqYK4E][CH07_VID04_Second Normal Form - YouTube]] مهمة
+- [X] [[https://www.youtube.com/watch?v=ML8PuuA8-rg][CH07_VID05_Third Normal Form - YouTube]]

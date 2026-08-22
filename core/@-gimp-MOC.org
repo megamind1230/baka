@@ -1,0 +1,15 @@
+* not done
+- [ ] [[file:GIMP-Photo-Editing-Tutorials.org][GIMP-Photo-Editing-Tutorials]]
+- [ ] [[file:gimp-tricks.org][gimp-tricks]]
+- [ ] [[file:0-transition-screen-like-windows-paint.org][0-transition-screen-like-windows-paint]]
+  ​# done
+- [X] how to outline text
+- [X] resizing-and-scaling-in-gimp
+  - linear || cubic > low specs pc
+  - nohalow > when you scale up
+  - lohalow > scale down
+- [X] [[file:0-how-to-retouch-a-portrait-in-gimp.org][0-how-to-retouch-a-portrait-in-gimp]]
+- [X] [[file:0-resources-for-copyright-free-music.org][0-resources-for-copyright-free-music]]
+- [X] [[file:0-how-to-start-in-graphic-design.org][0-how-to-start-in-graphic-design]]
+- [X] how-to-sharpen-imgs-in-gimp
+  - adjust > sharpen > scale > export to =tiff=

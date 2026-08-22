@@ -1,0 +1,8 @@
+* not done
+- [ ] [[file:@-obsidian-one.org][@-obsidian-one]]
+- [ ] [[file:@-obsidian-two.org][@-obsidian-two]]
+- [ ] [[file:@-obsidian-three.org][@-obsidian-three]]
+- [ ] [[file:@-obsidian-issues-MOC.org][@-obsidian-issues-moc]]
+- [ ] [[file:@-obsidian-plugins-MOC.org][@-obsidian-plugins-MOC]]
+- [ ] [[file:showcase-of-zettelkasten-workflow-in-obsidian.org][showcase-of-zettelkasten-workflow-in-obsidian]]
+  ​# done

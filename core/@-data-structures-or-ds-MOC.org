@@ -1,0 +1,40 @@
+* not done
+** [[file:ds-index-gammal-tech.org][ds-index-gammal-tech]]
+** [[file:ms-ds-MS-Mastering-critical-SKILLS-in-Data-Structures-using-C++.org][ms-ds-MS-Mastering-critical-SKILLS-in-Data-Structures-using-C++]]
+** [[file:ds-index-{small-udemy-course-by-jovan-kostic}.org][ds-index-{small-udemy-course-by-jovan-kostic}]]
+
+* done
+
+** DONE [[https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf][Fundamental Data Structures and Algorithms in C# - DEV Community]]
+*** 📦 Data Structures Covered
+| Structure                                                                         | Use When                                                     |
+|-----------------------------------------------------------------------------------+--------------------------------------------------------------|
+| *Array*                        Fixed-size, contiguous memory, index-based access  | You need fast random access and know size upfront            |
+| *List<T>*                      Dynamic array (resizes automatically)              | You need a resizable collection with index access            |
+| *LinkedList<T>*                Doubly linked list (nodes with prev/next pointers) | Frequent insertions/deletions at ends or middle              |
+| *Stack<T>*                     LIFO (Last-In-First-Out)                           | Reversing order, parsing, undo operations                    |
+| *Queue<T>*                     FIFO (First-In-First-Out)                          | Task scheduling, buffering, BFS                              |
+| *Dictionary<TKey,TValue>*      Hash table -- key/value pairs                      | Fast lookups by key (~O(1) average)                          |
+| *HashSet<T>*                   Unique elements, hash-based                        | Deduplication, set operations (union/intersect)              |
+| *SortedSet<T>*                 Sorted unique elements (red-black tree)            | Ordered unique data with range queries                       |
+| *SortedDictionary<TKey,TValue>* Sorted key/value (tree-based)                     | Ordered key/value pairs, slower than =Dictionary= but sorted |
+*** ⚙️ Algorithms Covered
+**** 1. *Sorting*
+- *Bubble Sort*  simple but O(n²)  educational only
+- *Quick Sort*  divide-and-conquer, O(n log n) average
+- *Merge Sort*  stable, O(n log n), good for linked lists
+- C# built-in: =Array.Sort()=, =List<T>.Sort()= (uses introspective sort)
+**** 2. *Searching*
+- *Linear Search*  O(n)  unsorted data
+- *Binary Search*  O(log n)  requires sorted data (implement via =Array.BinarySearch=)
+**** 3. *Recursion*
+- Base case + recursive step
+- Examples: factorial, Fibonacci, tree traversal
+**** 4. *Tree Traversal*
+- *DFS* (Pre-order, In-order, Post-order)
+- *BFS* (Level-order using Queue)
+*** 🧠 Key Takeaways
+- Choose the *right data structure* based on operations you'll perform (search, insert, delete, order).
+- Know the *Big-O complexity* to write efficient code.
+- Leverage *C# built-in generics* (=List<T>=, =Dictionary<K,V>=, etc.) cuz they're optimized.
+- *Algorithms* are patterns -- understand recursion, divide-and-conquer, and traversal.

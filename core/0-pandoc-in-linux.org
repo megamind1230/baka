@@ -1,0 +1,12 @@
+[[file:0-obsidian-plugin-{copy-document-as-HTML}.org][0-obsidian-plugin-{copy-document-as-HTML}]]
+
+#+begin_src sh
+# how to use
+pandoc test.md -t pdf -o output.pdf
+#+end_src
+
+* DONE how to md to org in cli
+use pandoc
+=pandoc input.md -f markdown -t org -o output.org=
+
+=pandoc rewrite-ocr.md -o output.pdf --pdf-engine=tectonic -V geometry:margin=1in=

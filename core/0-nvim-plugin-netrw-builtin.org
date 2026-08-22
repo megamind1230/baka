@@ -1,0 +1,8 @@
+- [X] when opened .. create a new buffer btw
+  - [X] so to close just =:bd=
+- [X] =%= new file, =d= new dir, =D= delete, =I= toggle hide the help menu
+- [X] =-= is cd ..
+- [X] =:e .= netrw on pwd
+- [X] =:Vex= vertical split netrw
+  - [X] =:Sex= hori split netrw {but above the current buffer }
+- [X] =R= rename / move into another dir {but must create it first }

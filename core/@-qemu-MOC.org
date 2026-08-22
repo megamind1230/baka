@@ -1,0 +1,5 @@
+* not done
+- [ ] [[file:qemu-proper-guide-denshi.org][qemu-proper-guide-denshi]]
+- [ ] [[file:qemu-docs.org][qemu-docs]]
+
+* done

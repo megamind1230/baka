@@ -1,0 +1,86 @@
+#1
+# cursor
+
+#+begin_html
+  <p>
+#+end_html
+
+Mouse over the words to change the cursor.
+
+#+begin_html
+  </p>
+#+end_html
+
+auto
+crosshair
+default
+e-resize
+help
+move
+n-resize
+ne-resize
+nw-resize
+pointer
+progress
+s-resize
+se-resize
+sw-resize
+text
+w-resize
+wait
+# visibility vs display
+=visibility: hidden= > leaves item's space
+=display: none= > removes item even with its space
+
+#+begin_html
+  <head>
+#+end_html
+
+#+begin_html
+  <style>
+  q:lang(no) {
+    quotes: "~" "~";
+  }
+  </style>
+#+end_html
+
+#+begin_html
+  </head>
+#+end_html
+
+* [[https://www.w3schools.com/css/css3_backgrounds.asp][CSS Multiple Backgrounds]]
+* box-shadow spread and inset
+- =spread-radius= parameter
+  - defines the spread radius. A =+ve= value increases the size of the shadow, a =-ve= value decreases the size of the shadow.
+    - eg: =box-shadow: 10px 10px 5px {12px} lightblue;=
+- =outset{default} vs inset= parameter
+  - eg: =box-shadow: 10px 10px 5px lightblue inset;=
+  - eg: =box-shadow: 10px 10px 5px lightblue outset;=
+    ​# word-break, white-space
+    [[https://www.youtube.com/watch?v=6Nv0weHy7t0][4 ways to deal with overflowing text]]
+    ​## white-space
+
+  #+begin_src C
+  //important
+  white-space: 
+  normal {default} 
+  / nowrap 
+  / pre (exactly as written in html) 
+  / pre-wrap (pre but with wrap on) 
+  / pre-line (pre but ignores {the spaces} before each line);
+  #+end_src
+
+  ** word-break {the actual word wrap property}
+  #+begin_src C
+  word-break: 
+  normal {default} no wrapping
+  /break-all; 
+    // wrap/break {on width} 
+        //{makes it harder to read some words cuz it ruins them}
+  /break-word; 
+    // wrap/break {on specific words/parts} not to overflow width
+        // better shape
+  #+end_src
+
+* box-sizing #still/css/box-sizing
+[[https://www.w3schools.com/css/css3_box-sizing.asp][CSS Box Sizing]]

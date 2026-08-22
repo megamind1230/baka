@@ -1,0 +1,60 @@
+- [X] [[https://www.youtube.com/watch?v=bQfFvExpZDU&list=WL&index=4][Vim Tips You Probably Never Heard of{g button}]]
+
+- [X] =gg= > top of file
+
+- [X] =G= > end of file
+
+- [ ] =gf= > open/create file in a new buffer
+
+- [X] =gd= > find definition {local}
+
+- [X] =gx= > execute/open url or link
+
+- [X] =gu= > lowercase
+
+  - [X] =guu= lowercase line
+
+- [X] =gU= > uppercase
+
+  - [X] =gUU= uppercase line
+
+- [X] =g~= > swap case
+
+- [X] =ge= > end of word backward
+
+- [X] =ctrl g= > file info .. in status bar
+
+- [ ] smarter motion {wrap}.. with longer unwrapped lines
+
+  - =gj= =gk= =g0= =g$=
+  - =gq {text object}{identifier}=
+    - =gqi"= =gqa{=
+    - =gqq= wrap the current very long line
+    - =gg gq G= wrap whole file
+
+- [ ] the opposite of =gq= {warps lines} is =J gJ= {joins lines}
+
+  - =J= join with {just one space} in between
+  - =gJ= join next line {keeping its same indentation}
+
+- [X] =gv= > re-select last selection
+
+- [X] =g&= > run last {substitute command} but this time on the whole file {globally}
+
+- [ ] =gh= on any part of code
+
+  - shows more info
+  - shows the hover tooltip
+    - useful to know type of variable for example
+
+- [X] =gi= go to last place for Insert mode
+
+- [X] =g?= > caeser cipher
+
+* gn
+#+begin_example
+,*
+N
+cgn whatever esc
+n.
+#+end_example

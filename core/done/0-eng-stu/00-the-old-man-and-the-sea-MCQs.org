@@ -1,0 +1,1277 @@
+* p 335
+1. b
+
+2. b
+
+3. c
+
+4. b
+
+5. a
+
+6. b
+
+7. c
+
+8. c
+
+9. 
+   ** c
+
+10. b
+
+11. c
+
+12. a
+
+13. b
+
+14. b
+
+15. c
+
+16. a
+
+17. b
+    */
+    *1. How does Hemingway use Santiago's eyes to show his inner spirit?*\\
+    الإجابة: عيون سانتياغو "مرحة ولا تقهر" - تظهر شجاعته الروح القوية رغم جسده الهرم.\\
+    =>: Santiago's eyes are "cheerful and undefeated," reflecting his unwavering spirit and resilience despite his old age.
+    *2. Why does the patched sail symbolize more than just an old piece of cloth?*\\
+    الإجابة: الشراع المرقع يمثل فقر سانتياغو، ولكنه أيضًا يرمز لإصراره واستمراره رغم الظروف الصعبة.\\
+    =>: The patched sail symbolizes Santiago's poverty but also his endurance and ability to persist through hardship.
+    *3. In what ways does Santiago represent courage even before the big journey begins?*\\
+    الإجابة: يظهر الشجاعة بالاستمرار في الصيد رغم الفشل لمدة 84 يومًا، وبروحه المتفائلة والتحدي.\\
+    =>: He shows courage by continuing to fish despite 84 days without a catch, maintaining optimism and determination.
+    *4. What role does baseball play in the old man's life?*\\
+    الإجابة: البيسبول (خاصة جو دي ماجيو) يمثل له القوة والإصرار والتحدي، ويشكل مصدر إلهام له.\\
+    =>: Baseball, especially Joe DiMaggio, represents strength, perseverance, and inspiration for Santiago.
+    *5. Why does Hemingway show the boy's loyalty, even when he fishes on another boat?*\\
+    الإجابة: ليوضح أن الولاء الحقيقي يتجاوز الظروف المادية، وأن مانولين يبقى الدعم العاطفي لسانتياغو.\\
+    =>: To show that true loyalty transcends material circumstances, and Manolin remains Santiago's emotional support.
+    *6. How do Santiago's dreams reveal his true character?*\\
+    الإجابة: أحلامه بالأسود على الشواطئ الأفريقية تظهر حنينه لقوته وشبابه، وتكشف روحه المغامرة.\\
+    =>: His dreams of lions on African beaches reveal his nostalgia for youth and strength, and his adventurous spirit.
+    *7. Do you think luck or skill is more important for success? Why?*\\
+    الإجابة: المهارة أساسية، ولكن الحظ قد يساعد. سانتياغو ماهر لكنه يحتاج للحظ لاصطياد السمكة الكبيرة.\\
+    =>: Skill is essential, but luck can aid success. Santiago is skilled but needs luck to catch the big fish.
+    *8. How does this chapter introduce the theme of man versus nature?*\\
+    الإجابة: يظهر من خلال صراع سانتياغو مع البحر والأسماك، حيث يحترم الطبيعة لكنه يتحداها للبقاء.\\
+    =>: Through Santiago's struggle with the sea and fish, showing respect for nature but also challenging it to survive.
+    *9. In what way does Santiago's hut reflect his personality?*\\
+    الإجابة: كوخه بسيط وفارغ إلا من الصور والأساسيات، يعكس حياته المتواضعة وتركيزه على الأساسيات.\\
+    =>: His hut is simple and bare except for essentials and pictures, reflecting his humble life and focus on basics.
+    *10. Why is hope so important for both Santiago and Manolin?*\\
+    الإجابة: الأمل هو ما يدفع سانتياغو للاستمرار في الصيد، ويمنح مانولين الإيمان بأن العجوز سينجح يومًا.\\
+    =>: Hope drives Santiago to keep fishing and gives Manolin faith that the old man will succeed someday.
+    /*
+
+18. Santiago's hands were cut and full of *scars* from years of fishing.\\
+    يدان سانتياغو مليئتان بالندوب من سنوات الصيد.
+
+19. The boy helped Santiago fold his patched *sail*.\\
+    ساعد الولد سانتياغو في طي شراعه المرقع.
+
+20. The villagers whispered that the old man was cursed with bad *luck*.\\
+    همس القرويون أن الرجل العجوز ملعون بحظ سيء.
+
+21. Santiago said it was better to be lucky, but even better to be *precise (or: exact)*.\\
+    قال سانتياغو: "من الأفضل أن تكون محظوظًا، لكن الأفضل أكثر أن تكون دقيقًا."
+
+22. Manolin brought the old man food such as rice, beans, and *a piece of fish*.\\
+    أحضر مانولين للعجوز طعامًا مثل الأرز والفاصوليا وقطعة من السمك.
+
+23. Santiago admired the courage of Joe *DiMaggio* in baseball.\\
+    أُعجب سانتياغو بشجاعة جو دي ماجيو في البيسبول.
+
+24. Santiago believed the *eighty*-fifth day would be lucky.\\
+    اعتقد سانتياغو أن اليوم الخامس والثمانين سيكون يوم حظ.
+
+25. Santiago planned to go far out into the *Gulf Stream* to find a big fish.\\
+    خطط سانتياغو للذهاب بعيدًا في تيار الخليج لإيجاد سمكة كبيرة.
+
+26. At night, the old man dreamed of *lions* on the beaches of Africa.\\
+    في الليل، حلم العجوز بالأسود على شواطئ أفريقيا.
+
+27. Why did the villagers think Santiago was unlucky?\\
+    لأن سانتياغو عاد بلا سمكة لمدة 84 يومًا متتالية.\\
+    Because Santiago had returned without a fish for 84 consecutive days.
+
+28. How did Manolin show loyalty to Santiago even after leaving his boat?\\
+    بزيارته الدائمة له، وإحضار الطعام والطعم له، واهتمامه براحته ومساعدته في تجهيز قاربه.\\
+    By consistently visiting him, bringing him food and bait, caring for his comfort, and helping prepare his boat.
+
+29. Why does Santiago admire Joe DiMaggio?\\
+    لأنه يمثل القوة والتحدي والنبل في الرياضة، ويثبت أن النجاح ممكن رغم الصعاب (مثل التهاب وتر كعب دي ماجيو).\\
+    Because DiMaggio represents strength, perseverance, and grace in sports, proving success is possible despite obstacles (like DiMaggio's bone spur).
+
+30. What is the importance of the number eighty-five in this chapter?\\
+    تمثل اليوم الذي اختاره سانتياغو ليوم حظه الجديد، حيث اعتقد أن الفترة السيئة ستنتهي وتبدأ محاولة جديدة مليئة بالأمل.\\
+    It represents the day Santiago has chosen as his new lucky day, believing his bad streak will end and a new, hopeful attempt will begin.
+
+31. How does Santiago show dignity in the face of failure?\\
+    يحافظ على روتينه ومهنته ويستمر في المحاولة بروح متفائلة، دون أن يتذمر أو يظهر إحباطًا أمام الآخرين.\\
+    He maintains his routine and profession, continues trying with optimism, and does not complain or show frustration to others.
+
+32. Why do you think the boy still spends his evenings with Santiago?\\
+    بسبب حبه واحترامه العميق للعجوز، وإيمانه بمهارته، ورغبته في تعلم الصبر والشجاعة منه.\\
+    Because of his deep love and respect for the old man, his faith in his skill, and his desire to learn patience and courage from him.
+
+33. How do the lions in Santiago's dreams symbolize youth and strength?\\
+    الأسود كائنات قوية وحرّة، وأحلامه بها تعيد إليه ذكريات شبابه عندما زار أفريقيا، فهي تمثل القوة المفقودة جسديًا لكنها باقية في روحه.\\
+    Lions are strong and free creatures. Dreaming of them brings back memories of his youth in Africa, symbolizing physical strength he's lost but which remains alive in his spirit.
+
+34. What does Santiago mean by saying "It is better to be exact"?\\
+    يعني أن الاعتماد على الدقة والمهارة أهم من الاعتماد على الحظ وحده، لأن المهارة يمكن التحكم بها بينما الحظ متقلب.\\
+    He means that relying on precision and skill is more important than relying on luck alone, because skill can be controlled while luck is fickle.
+
+35. What lesson can we learn about perseverance from this chapter?\\
+    أن الإصرار يعني الاستمرار في المحاولة بروح عالية رغم الفشل المتكرر، وأن الكرامة الحقيقية تكمن في عدم الاستسلام.\\
+    That perseverance means continuing to try with high spirit despite repeated failure, and that true dignity lies in never giving up.
+    ___
+
+36. What did Santiago say about hope?
+    1) Without hope, a man is nothing.\\
+       *b) Hope is useless.*\\
+    2) Hope is only for the young.\\
+    3) Hope is stronger than skill.\\
+       ماذا قال سانتياغو عن الأمل؟\\
+       *ب) الأمل عديم الفائدة.*\\
+       ---
+
+37. The word "harpoon" means ______.
+    1) a net for fishing\\
+       *b) a long spear for catching fish*\\
+    2) a type of boat\\
+    3) a large hook for sharks\\
+       كلمة "رمح الصيد" تعني:\\
+       *ب) رمح طويل لصيد الأسماك*
+
+38. The phrase "flag of defeat" symbolizes ______.
+    1) a nation's power\\
+       *b) Santiago's patched sail and hardship*\\
+    2) victory at sea\\
+    3) the pride of fishermen\\
+       عبارة "علم الهزيمة" ترمز إلى:\\
+       *ب) شراع سانتياغو المرقع ومشقته*
+
+39. The opposite of "respect" is ______.
+    1) admiration\\
+    2) kindness\\
+       *c) disrespect*\\
+    3) care\\
+       عكس "الاحترام" هو:\\
+       *ج) عدم الاحترام*
+
+40. Which collocates with "strength"?
+    1) Show.\\
+    2) Gain.\\
+    3) Need.\\
+       *d) All of them.*\\
+       أي من هذه الكلمات تتوافق مع "القوة"؟\\
+       *د) جميع ما سبق.*
+
+41. "Seaworthy" means ______.\\
+    *a) safe and fit for sailing*
+    2) [@2] dangerous for travel\\
+    3) expensive to own\\
+    4) made of nets\\
+       "صالحة للإبحار" تعني:\\
+       *أ) آمنة ومناسبة للإبحار*
+
+42. The word "endurance" is closest in meaning to ______.
+    1) courage\\
+       *b) patience and strength over time*\\
+    2) weakness\\
+    3) fear\\
+       كلمة "المثابرة / التحمل" أقرب في المعنى إلى:\\
+       *ب) الصبر والقوة عبر الزمن*
+
+43. The antonym of "distant" is ______.\\
+    *a) near*
+    2) [@2] far\\
+    3) quiet\\
+    4) alone\\
+       عكس "بعيد" هو:\\
+       *أ) قريب*
+
+44. "Hopeful" is opposite in meaning to ______.
+    1) cheerful\\
+    2) joyful\\
+       *c) hopeless*\\
+    3) patient\\
+       "مُتَفَائِل" عكسها في المعنى:\\
+       *ج) يائس*
+
+45. "To bait the lines" means ______.
+    1) to repair them\\
+       *b) to put food on the hooks to catch fish*\\
+    2) to cut them\\
+    3) to coil them\\
+       "طعم الخيوط" تعني:\\
+       *ب) وضع طعام على الخطاطيف لصيد الأسماك*
+
+46. When did Santiago wake up to prepare for his journey?\\
+
+1) After sunrise.\\
+   *b) Before sunrise.*\\
+2) At noon.\\
+3) In the evening.\\
+   متى استيقظ سانتياغو للاستعداد لرحلته؟\\
+   *ب) قبل شروق الشمس.*
+
+11. [@11] What food did Manolin bring Santiago in the early morning?\\
+
+1) Bread and milk.\\
+   *b) Black beans, rice, and coffee.*\\
+2) Fish and fruit.\\
+3) Meat and water.\\
+   أي طعام أحضره مانولين لسانتياغو في الصباح الباكر؟\\
+   *ب) الفاصوليا السوداء والأرز والقهوة.*
+
+12. [@12] How did other fishermen react to Santiago as he passed?\\
+
+1) They all laughed.\\
+2) They all praised him.\\
+   *c) Some respected him, others pitied him.*\\
+3) They ignored him completely.\\
+   كيف كان رد فعل الصيادين الآخرين على سانتياغو وهو يمر؟\\
+   *ج) بعضهم احترمه، والبعض الآخر أشفق عليه.*
+
+13. [@13] What kind of boat did Santiago own?\\
+
+1) A large ship.\\
+2) A modern boat.\\
+   *c) A wooden skiff.*\\
+3) A canoe.\\
+   أي نوع من القوارب امتلكه سانتياغو؟\\
+   *ج) قارب صغير من الخشب (زورق).*
+
+14. [@14] Why did Santiago tell the boy not to come with him?\\
+
+1) Because the boy was too young.\\
+   *b) Because the boy had to stay with a lucky boat.*\\
+2) Because Santiago wanted to fish alone.\\
+3) Because the boy disliked the sea.\\
+   لماذا أخبر سانتياغو الولد ألا يأتي معه؟\\
+   *ب) لأن الولد كان عليه البقاء مع قارب محظوظ.*
+
+15. [@15] What number did Santiago call his "lucky number"?\\
+
+1) Forty.\\
+2) Sixty.\\
+3) Eighty-four.\\
+   *d) Eighty-five.*\\
+   ما الرقم الذي دعاه سانتياغو برقمه "المحظوظ"؟\\
+   *د) خمسة وثمانون.*
+
+16. [@16] What did Santiago believe about luck?\\
+
+1) It was more important than skill.\\
+   *b) It was useful, but exactness mattered more.*\\
+2) It never existed.\\
+3) It only helped the young.\\
+   ماذا كان يعتقد سانتياغو بشأن الحظ؟\\
+   *ب) إنه مفيد، لكن الدقة أهم.*
+
+17. [@17] What did Santiago do after pushing the boat out?\\
+
+1) He waved goodbye to everyone.\\
+   *b) He rowed steadily and listened to the sea.*\\
+2) He shouted loudly to the fishermen.\\
+3) He went back to his hut.\\
+   ماذا فعل سانتياغو بعد دفع القارب للبحر؟\\
+   *ب) جذف بثبات واستمع إلى البحر.*
+
+--------------
+
+1. Manolin brought food such as black beans, rice, and *coffee* for the old man.
+   أحضر مانولين طعامًا مثل الفاصوليا السوداء والأرز والقهوة للعجوز.
+2. Santiago's patched *sail* looked like the flag of defeat.
+   شراع سانتياغو المرقع بدا مثل علم الهزيمة.
+3. Some fishermen showed *respect* while others pitied him.
+   أظهر بعض الصيادين الاحترام بينما أشفق عليه آخرون.
+4. The old man's small wooden boat was called a *skiff*.
+   كان قارب العجوز الخشبي الصغير يُدعى زورقًا صغيرًا.
+5. Santiago told the boy to stay with the *lucky* boat.
+   أخبر سانتياغو الولد أن يبقى مع القارب المحظوظ.
+6. Santiago believed that *eighty*-five was his lucky number.
+   اعتقد سانتياغو أن الخامس والثمانين هو رقمه المحظوظ.
+7. He rowed steadily, feeling the rhythm of the *sea*.
+   جذف بثبات، محسًا بإيقاع البحر.
+8. Santiago said that without *hope* a man is nothing.
+   قال سانتياغو أنه بدون الأمل لا قيمة للإنسان.
+9. He baited his fishing *lines* carefully with sardines.
+   طعم خطاطيف صيده بعناية بالسردين.
+10. Santiago prepared his lines with *precision* like a master fisherman.
+    هيأ سانتياغو خطوطه بدقة مثل صياد ماهر.
+11. Why did Manolin bring food to Santiago?
+    لأنه يهتم بصحة سانتياغو ويعتبره مرشدًا وأبًا روحيًا، ويحرص على دعمه رغم فقره.
+    Because he cares for Santiago's well-being, sees him as a mentor and father figure, and is determined to support him despite his own poverty.
+12. How did the boy help prepare the boat for the journey?
+    ساعده في حمل المعدات وتجهيز الشراع والخطوط وإحضار الطعم والماء للرحلة.
+    He helped by carrying gear, preparing the sail and lines, and fetching bait and water for the journey.
+13. Why does the patched sail symbolize Santiago's past struggles?
+    لأنه يعكس فقره وتقدمه في السن، ولكنه يظهر أيضًا إصراره على الاستمرار واستخدام كل ما يملك.
+    Because it reflects his poverty and age, but also shows his determination to persist and make use of what he has.
+14. Why did some fishermen respect Santiago while others pitied him?
+    البعض احترمه لمهارته وصبره الأسطوري، والبعض الآخر أشفق عليه لفترة جفافه الطويلة وشيخوخته.
+    Some respected him for his legendary skill and patience, while others pitied him for his long streak of bad luck and old age.
+15. How does Santiago show humility when talking with the boy?
+    بمعاملته كشريك، وبتقديره لمساعدته، وبتعليمه دون تكبر، وقبوله المساعدة منه برحابة صدر.
+    By treating him as a partner, valuing his help, teaching him without arrogance, and graciously accepting his assistance.
+16. Why is the number eighty-five important for Santiago?
+    لأنه يمثل بداية جديدة بعد 84 يومًا من الفشل، ويجسد إيمانه بأن الحظ سيتغير والأمل يستحق المحاولة.
+    Because it represents a fresh start after 84 days of failure, embodying his belief that luck will change and hope is worth pursuing.
+17. What does the early morning setting tell us about Santiago's character?
+    تظهر انضباطه، وعمله الجاد، وارتباطه الوثيق بدورة الطبيعة والبحارة الحقيقيين.
+    It shows his discipline, strong work ethic, and deep connection to the natural rhythm of the sea and the life of a true fisherman.
+18. Why did Santiago choose to go farther than the other fishermen؟
+    لأنه يؤمن بأن الأسماك الكبيرة والعظيمة توجد في الأعماق البعيدة، ولديه الثقة بمهارته للوصول إليها.
+    Because he believes the great fish are to be found far out, and he has confidence in his own skill to reach them.
+19. What does Santiago mean by saying "without hope, a man is nothing"؟
+    يعني أن الأمل هو القوة الدافعة التي تعطي للحياة والمعنى، وبدونه يفقد الإنسان إرادة الكفاح.
+    He means that hope is the driving force that gives life purpose; without it, a man loses the will to struggle and persevere.
+20. How does Santiago's preparation show the value of patience and skill?
+    من خلال اهتمامه بتفاصيل تجهيز معداته بدقة وترتيب، مما يعكس سنوات من الخبرة والتفاني في حرفته.
+    Through his meticulous attention to detail in arranging his gear, reflecting years of experience and dedication to his craft.
+    ---
+21. How does Hemingway create an atmosphere of hope at the start of Santiago's journey?
+    من خلال وصف الصباح الباكر الهادئ، وروتين الإعداد الدقيق، وإيمان سانتياغو باليوم الخامس والثمانين، ووداعة مانولين.
+    By depicting the calm early morning, the ritual of careful preparation, Santiago's faith in the eighty-fifth day, and Manolin's gentle support.
+22. Why do you think Santiago is described as both pitied and respected by others?
+    لأنه يجسد التناقض الإنساني: مهزوم خارجيًا (بسبب الحظ السيء) ولكنه غير مهزوم داخليًا (بسبب روحه القوية).
+    Because he embodies a human paradox: outwardly defeated (by bad luck) but inwardly undefeated (by his strong spirit).
+23. How does the patched sail act as a metaphor for human struggle?
+    يمثل كيف أن الحياة تتلفنا وتبلينا، ولكن الإصلاح والاستمرار هو ما يعبر عن كرامتنا وإنسانيتنا.
+    It represents how life wears us down, but the act of mending and continuing is what defines our dignity and humanity.
+24. What does Santiago's decision to fish farther than others reveal about his spirit؟
+    يكشف عن طموحه غير العادي، وشجاعته في مواجهة المجهول، وإيمانه بأن المجازفة ضرورية للفوز بالجائزة العظيمة.
+    It reveals his extraordinary ambition, courage to face the unknown, and belief that great reward requires great risk.
+25. How is Manolin's loyalty important for the old man's dignity؟
+    لأنها تؤكد لسانتياغو أن قيمته الحقيقية تتجاوز صيد السمك؛ فهو معلم ومثال يُحتذى به، مما يرفع من شأنه الروحي.
+    It affirms to Santiago that his true worth extends beyond catching fish; he is a mentor and an example, thus upholding his spiritual dignity.
+26. Do you think luck or preparation is more important in life? Why?
+    التحضير أكثر أهمية لأنه تحت سيطرتنا ويبني المهارة والمرونة، بينما الحظ متقلب. لكن الجمع بينهما هو الأمثل.
+    Preparation is more important because it is within our control and builds skill and resilience, while luck is fickle. However, a combination of both is ideal.
+27. How does this chapter prepare readers for the great challenge to come؟
+    بتصوير عزلة سانتياغو، وتصميمه، ومهارته الأساسية، مما يخلق توقعًا لمواجهة مصيرية تتطلب كل هذه الصفات.
+    By portraying Santiago's solitude, determination, and underlying skill, creating anticipation for a fateful encounter that will demand all these qualities.
+28. In what way does Santiago's skiff represent his life؟
+    إنها صغيرة، بسيطة، ومتهالكة لكنها صامدة، مثله تمامًا. إنها وسيلته الوحيدة للوجود والمواجهة في عالم كبير وقاسٍ.
+    It is small, simple, worn but seaworthy---just like him. It is his sole vessel for existence and confrontation in a vast, harsh world.
+29. Why might Hemingway show Santiago rowing in silence at sunrise؟
+    لخلق جو من التأمل والجدية، ولإبراز الوحدة الهادئة للبطل أمام تحديه، واتحاده مع الطبيعة.
+    To create a mood of meditation and solemnity, to highlight the quiet solitude of the hero facing his trial, and his unity with nature.
+30. How does Santiago's belief in hope make him a symbol of resilience؟
+    لأنه يرفض الاستسلام لليأس رغم كل الأدلة المادية على الفشل، ويختار بدلاً من ذلك المضي قدمًا بإيمان لا يتزعزع بإمكانية التغيير.
+    Because he refuses to surrender to despair despite all material evidence of failure, choosing instead to move forward with an unshakable faith in the possibility of change.
+    ___
+31. What did the bird circling above the water signal?
+    1) A storm was coming.\\
+       *b) Fish were near the surface.*\\
+    2) The sun was too bright.\\
+    3) Santiago was close to land.\\
+       ما الذي أشار إليه الطائر الذي كان يدور فوق الماء؟\\
+       *ب) وجود أسماك قرب سطح الماء.*
+32. What happened when the bird dived into the sea?
+    1) It caught a big fish.\\
+       *b) Tuna jumped, scared of a larger fish below.*\\
+    2) Santiago caught the bird.\\
+    3) The boat rocked in the waves.\\
+       ماذا حدث عندما انقض الطائر في البحر؟\\
+       *ب) قفز التونة خوفًا من سمكة أكبر في الأسفل.*
+33. How did Santiago react when the line first moved?
+    1) He pulled hard immediately.\\
+    2) He cut the line.\\
+       *c) He held it carefully and waited.*\\
+    3) He asked another fisherman for help.\\
+       كيف كان رد فعل سانتياغو عندما تحرك الخيط أول مرة؟\\
+       *ج) أمسكه بحذر وانتظر.*
+34. What cut into Santiago's hands?
+    1) A knife.\\
+    2) The fish's teeth.\\
+       *c) The line.*\\
+    3) The tuna.\\
+       ماذا كان يقطع في يدي سانتياغو؟\\
+       *ج) خيط الصيد.*
+35. Where did the fish pull Santiago's boat?
+    1) Back toward the village.\\
+       *b) Out into the open sea.*\\
+    2) Into shallow water.\\
+    3) Toward another boat.\\
+       إلى أين سحبت السمكة قارب سانتياغو؟\\
+       *ب) نحو البحر المفتوح.*
+36. What did Santiago eat to keep his strength during the night?
+    1) Rice and beans.\\
+    2) Bread.\\
+       *c) Tuna, he had caught earlier.*\\
+    3) Shark meat.\\
+       ماذا أكل سانتياغو للحفاظ على قوته أثناء الليل؟\\
+       *ج) سمكة التونة التي اصطادها سابقًا.*
+37. What memory gave Santiago courage to endure the pain?
+    1) His childhood games.\\
+    2) The lions on the beach.\\
+       *c) Joe DiMaggio playing with pain.*\\
+    3) Manolin's words.\\
+       أي ذكرى منحت سانتياغو الشجاعة لتحمل الألم؟\\
+       *ج) ذكرى جو دي ماجيو وهو يلعب وهو يتألم.*
+38. How did Santiago support the line when he grew tired?\\
+    *a) He tied it across his shoulders.*
+    2) [@2] He tied it to the mast.\\
+    3) He asked for help.\\
+    4) He put it in the water.\\
+       كيف دعم سانتياغو الخيط عندما شعر بالتعب؟\\
+       *أ) ربطه عبر كتفيه.*
+39. What did Santiago whisper about the fish?
+    1) "Fish, you are my enemy."\\
+       *b) "Fish, you are my brother."*\\
+    2) "Fish, I will let you go."\\
+    3) "Fish, you are too strong."\\
+       ماذا همس سانتياغو للسمكة؟\\
+       *ب) "أيها السمك، أنت أخي."*
+       ---
+40. At dawn, how did Santiago describe his connection with the fish?\\
+    *a) "Now we are joined, fish, you and I."*
+    2) [@2] "I will leave you, fish."\\
+    3) "The boy will see this fish."\\
+    4) "I am stronger than you."\\
+       عند الفجر، كيف وصف سانتياغو علاقته بالسمكة؟\\
+       *أ) "الآن نحن متحدان، أيها السمك، أنت وأنا."*
+       ---
+41. The word "brace" in "Santiago braced his feet" means ______.
+    1) relaxed\\
+       *b) prepared and steadied*\\
+    2) jumped\\
+    3) fell\\
+       كلمة "تمسك / ثبت" في جملة "تمسك سانتياغو بقدميه" تعني:\\
+       *ب) استعد وثبت نفسه.*
+42. The sun shone with a hard, bright light, making the sea look almost ______.
+    1) dark\\
+       *b) harsh*\\
+    2) cold\\
+    3) quiet\\
+       لمعت الشمس بضوء قاسٍ ساطع، جاعلاً البحر يبدو تقريبًا:\\
+       *ب) قاسيًا / صارمًا.*
+43. The antonym of "surrender" is ______.\\
+    *a) resist*
+    2) [@2] give up\\
+    3) lose\\
+    4) stop\\
+       عكس "يستسلم" هو:\\
+       *أ) يقاوم.*
+44. The phrase "the line burned into his hands" means ______.
+    1) his hands were on fire\\
+       *b) his hands were scratched by the rope*\\
+    2) his hands were wet\\
+    3) his hands were relaxed\\
+       عبارة "الخيط احترق في يديه" تعني:\\
+       *ب) أن الخيط كان يجرح/يخدش يديه (بسبب الاحتكاك).*
+45. The old man was part of the eternal ______ between man and nature.
+    1) game\\
+       *b) struggle*\\
+    2) song\\
+    3) journey\\
+       كان الرجل العجوز جزءًا من الصراع الأبدي بين الإنسان والطبيعة.\\
+       *ب) صراع.*
+46. The closest meaning of "to be joined" in the text is ______.\\
+    *a) to be tied together*
+    2) [@2] to be separated\\
+    3) to be close but apart\\
+    4) to cut loose\\
+       أقرب معنى لـ "متحدان" في النص هو:\\
+       *أ) أن يكونا مربوطين/متصلين معًا.*
+47. The opposite of "calm" is ______.
+    1) peaceful\\
+       *b) angry / agitated*\\
+    2) quiet\\
+    3) patient\\
+       عكس "هادئ" هو:\\
+       *ب) مضطرب / غاضب.* (أي شيء يعكس الاضطراب).
+48. "To whisper" means ______.
+    1) to speak loudly\\
+       *b) to speak softly*\\
+    2) to shout angrily\\
+    3) to stay silent\\
+       "يهمس" تعني:\\
+       *ب) أن يتحدث بصوت منخفض/ناعم.*
+49. The word "creature" refers to ______.
+    1) a boat\\
+    2) a human\\
+       *c) a living animal or fish*\\
+    3) a storm\\
+       كلمة "مخلوق" تشير إلى:\\
+       *ج) حيوان أو سمكة حية.*
+50. "Pain does not matter. Only endurance matters." Here "matters" means ______.\\
+    *a) important*
+    2) [@2] heavy\\
+    3) painful\\
+    4) strange\\
+       "الألم لا يهم. فقط التحمل هو المهم." هنا كلمة "يهم" تعني:\\
+       *أ) مهم.*
+       ___
+51. Santiago saw a bird *circling* above the water, looking for fish.\\
+    رأى سانتياغو طائرًا يدور فوق الماء، باحثًا عن الأسماك.
+52. When the bird dived, small *tuna* jumped out of the sea.\\
+    عندما انقض الطائر، قفزت أسماك تونة صغيرة من البحر.
+53. Santiago held the line *carefully*, not pulling too soon.\\
+    أمسك سانتياغو بالخيط بحذر، دون أن يسحبه مبكرًا.
+54. The line cut into his *hands* as the fish pulled.\\
+    قطع الخيط في يديه بينما كانت السمكة تسحب.
+55. The boat was dragged into the open *sea*.\\
+    سُحب القارب إلى البحر المفتوح.
+56. Santiago ate a piece of *tuna* to keep his strength.\\
+    أكل سانتياغو قطعة من التونة للحفاظ على قوته.
+57. He remembered Joe *DiMaggio* playing baseball with pain.\\
+    تذكر جو دي ماجيو وهو يلعب البيسبول وهو يتألم.
+58. Santiago tied the line across his *shoulders* to share the strain.\\
+    ربط سانتياغو الخيط عبر كتفيه ليوزع الضغط.
+59. "Fish, you are my *brother*," Santiago whispered.\\
+    "أيها السمك، أنت أخي"، همس سانتياغو.
+60. At dawn, Santiago said: "Now we are *joined*, fish, you and I."\\
+    عند الفجر، قال سانتياغو: "الآن نحن متحدان، أيها السمك، أنت وأنا."
+    ---
+61. Why did Santiago wait instead of pulling the line immediately?\\
+    لأنه صياد خبير يعرف أنه يجب أن يترك السمكة تأكل الطعم بالكامل وتغلق فمها على الخطاف قبل أن يضبطها.\\
+    Because he is an expert fisherman who knows he must let the fish take the bait fully and close its mouth on the hook before setting it.
+62. How does the bird help Santiago know that fish are near?\\
+    الطيور تبحث عن الأسماك الصغيرة القريبة من السطح، لذا فإن وجود طائر يعني وجود فريسة، مما يشير إلى وجود أسماك أكبر تحتها.\\
+    Birds hunt for small fish near the surface, so a bird's presence indicates prey, which in turn signals larger fish below.
+63. What does the tuna jumping reveal about the sea?\\
+    يكشف أن البحر نظام بيئي هرمي، حيث تفزع الأسماك الصغيرة من الأسماك الكبيرة المفترسة تحتها.\\
+    It reveals that the sea is an ecosystem of hierarchy, where small fish are fleeing from larger predators beneath them.
+64. Why does Santiago call the fish his "brother"?\\
+    لأنه يحترم قوته وصلابته، ويرى أن كليهما كائنات تقاتل من أجل البقاء في عالم قاسٍ.\\
+    Because he respects its strength and endurance, seeing both of them as creatures fighting for survival in a harsh world.
+65. How does Santiago endure the pain in his hands?\\
+    من خلال الصبر العقلي، وتذكير نفسه بأن الألم جزء من المعركة، واستخدام جسمه (كتفيه) لتوزيع الضغط.\\
+    Through mental fortitude, reminding himself that pain is part of the battle, and using his body (his shoulders) to share the strain.
+66. Why does Santiago remember Joe DiMaggio during the struggle?\\
+    لأن دي ماجيو يجسد فكرة التحمل النبيل - اللعب بشكل عظيم رغم الإصابة - وهذا يلهم سانتياغو لتحمل ألمه الخاص.\\
+    Because DiMaggio embodies the idea of graceful endurance---playing great despite injury---which inspires Santiago to bear his own pain.
+67. What shows Santiago's determination through the night?\\
+    رفضه ترك الخيط، وتناوله الطعام للحفاظ على قوته، وحديثه مع السمكة وإلى نفسه للحفاظ على تركيزه.\\
+    His refusal to let go of the line, his eating to maintain strength, and his talking to the fish and himself to maintain focus.
+68. Why does Santiago wish the boy were with him?\\
+    للرفقة والدعم العاطفي، وللمساعدة العملية، ولتأكيد انتصاره المحتمل بمشاركته مع شخص يهتم لأمره.\\
+    For companionship and emotional support, for practical help, and to validate his potential victory by sharing it with someone who cares.
+69. How does the night sky affect Santiago's thoughts?\\
+    يجعله يشعر بالوحدة لكنه أيضًا يربطه بالكون الشاسع، مما يعطي صراعه نطاقًا كونيًا ويهدئ من روعه.\\
+    It makes him feel alone but also connects him to the vast universe, giving his struggle a cosmic scale and calming his mind.
+70. What does Santiago mean when he says, "May the best of us win"?\\
+    إنه يعترف بالمنافسة الشريفة بينه وبين السمكة. إنها ليست مجرد صيد، بل هي اختبار للقوة والإرادة، وسيفوز الأكثر استحقاقًا.\\
+    He acknowledges a fair contest between him and the fish. It's not just a catch; it's a test of strength and will, and the more deserving one will win.
+    ---
+71. How does Hemingway use the bird to symbolize guidance and hope?\\
+    الطائر هو أول علامة حياة بعد ساعات من الانتظار، وهو دليل من الطبيعة يرشد سانتياغو إلى حيث تكون الأسماك، مما يعيد إشعال الأمل.\\
+    The bird is the first sign of life after hours of waiting, a guide from nature pointing Santiago to where the fish are, reigniting hope.
+72. Why does Santiago speak to the fish as if it were human?\\
+    لأنه يرى فيها خصمًا جديرًا بالاحترام، ولتحويل المعركة من مجرد صيد إلى حوار روحي بين محاربين، مما يحافظ على إنسانيته.\\
+    Because he sees it as a worthy adversary, transforming the battle from a mere catch into a spiritual dialogue between warriors, preserving his own humanity.
+73. What does the steady, deep swimming of the fish suggest about its nature?\\
+    يشير إلى قوتها الهائلة وهدوئها وثقتها. إنها ليست سمكة مذعورة، بل مخلوق قوي وعازم، مما يجعلها خصمًا أكثر نبلاً.\\
+    It suggests its immense power, calmness, and confidence. It is not a panicked fish, but a powerful, determined creature, making it a more noble opponent.
+74. How is Santiago's endurance compared to DiMaggio's?\\
+    كلاهما يتألمان ولكنهما يواصلان. يرمز دي ماجيو للتحمل العام أمام الجمهور، بينما تحمل سانتياغو هو تحمل خاص ووحداني في مواجهة الطبيعة.\\
+    Both endure pain but continue. DiMaggio symbolizes public endurance in sport, while Santiago's is a private, solitary endurance against nature.
+75. Why does Santiago accept pain as part of the struggle?\\
+    لأنه يعلم أن الأشياء العظيمة لا تأتي بسهولة. الألم هو ثمن الكرامة والنصر والشرف في هذه المواجهة المصيرية.\\
+    Because he knows great things do not come easily. Pain is the price of dignity, victory, and honor in this fateful encounter.
+76. What does the endless pull into the sea symbolize about life's challenges?\\
+    ترمز إلى كيف تجذبنا تحديات الحياة (المشاكل، الواجبات، الأحلام) بعيدًا عن مناطق الراحة الخاصة بنا وتجبرنا على مواجهة المجهول وحيدين.\\
+    It symbolizes how life's challenges (problems, duties, dreams) pull us away from our comfort zones and force us to confront the unknown alone.
+77. In what ways does Santiago's solitude make the battle more meaningful?\\
+    العزلة تجعل النصر إنجازًا شخصيًا خالصًا، وتجبره على الاعتماد على قوته الداخلية فقط، مما يحول المعركة إلى اختبار حقيقي للشخصية.\\
+    Solitude makes victory a purely personal achievement, forcing him to rely solely on his inner strength, turning the battle into a true test of character.
+78. How does the sea act as both a friend and an enemy in this chapter?\\
+    هي صديقة لأنها توفر له رزقه ومعناه وبيئته المألوفة. وهي عدو لأنها الوسط الذي يخفي خصمه القوي وتجبره على القتال في أراضيها القاسية.\\
+    It is a friend because it provides his livelihood, purpose, and familiar environment. It is an enemy because it is the medium that hides his powerful opponent and forces him to fight on its harsh terms.
+79. Why does Hemingway describe Santiago as part of the sea and the stars?\\
+    لإظهار اتحاده العميق مع الطبيعة. إنه ليس مجرد إنسان ضد الطبيعة، بل هو جزء لا يتجزأ منها، مما يرفع صراعه إلى مستوى كوني وروحي.\\
+    To show his deep union with nature. He is not just a man against nature, but an integral part of it, elevating his struggle to a cosmic, spiritual level.
+80. Do you think Santiago is fighting the fish, or is he fighting himself? Explain.\\
+    إنه يقاتل كليهما. السمكة هي التحدي الخارجي الملموس. لكن المعركة الحقيقية هي ضد حدود جسده (الألم، التعب، الشيخوخة) وروحه (الشك، اليأس). السمكة هي المرآة التي يرى فيها هذه المعركة الداخلية.\\
+    He is fighting both. The fish is the tangible external challenge. But the real battle is against the limits of his body (pain, fatigue, age) and his spirit (doubt, despair). The fish is the mirror in which he sees this inner battle.
+    ___
+81. What did Santiago feel when he realized he was far from land and other fishermen?
+    1) Fear.\\
+    2) Pride.\\
+       *c) Loneliness.*\\
+    3) Anger.\\
+       ما الذي شعر به سانتياغو عندما أدرك أنه بعيد عن الأرض وعن الصيادين الآخرين؟\\
+       *ج) الوحدة.*
+82. How did Santiago rest his hands during the fight?
+    1) He let go of the line.\\
+    2) He tied it to the mast.\\
+       *c) He shifted the line across his shoulders.*\\
+    3) He asked for help.\\
+       كيف أراح سانتياغو يديه أثناء المعركة؟\\
+       *ج) نقل الخيط عبر كتفيه.*
+83. What food did Santiago eat to keep his strength?
+    1) Bread.\\
+    2) Rice and beans.\\
+       *c) Raw tuna.*\\
+    3) Shark meat.\\
+       أي طعام أكله سانتياغو للحفاظ على قوته؟\\
+       *ج) التونة النيئة.*
+84. Who gave Santiago inspiration to fight through pain?
+    1) Manolin.\\
+    2) The lions of Africa.\\
+       *c) Joe DiMaggio.*\\
+    3) Other fishermen.\\
+       من منح سانتياغو الإلهام للقتال رغم الألم؟\\
+       *ج) جو دي ماجيو.*
+85. What happened when the fish suddenly surged at night?
+    1) Santiago fell into the water.\\
+    2) The boat nearly capsized.\\
+       *c) Santiago almost fell but held on.*\\
+    3) The fish broke the line.\\
+       ماذا حدث عندما اندفعت السمكة فجأة ليلاً؟\\
+       *ج) كاد سانتياغو أن يسقط لكنه تمسك.*
+86. What dream gave Santiago strength during his loneliness?
+    1) His family.\\
+    2) His village.\\
+       *c) The lions of his youth.*\\
+    3) Baseball.\\
+       أي حلم منح سانتياغو القوة خلال وحدته؟\\
+       *ج) أسود شبابه.*
+87. What did Santiago see when the marlin first leapt into the air?
+    1) A small silver fish.\\
+    2) A shark.\\
+       *c) A marlin longer than the boat.*\\
+    3) A whale.\\
+       ماذا رأى سانتياغو عندما قفز المارلين في الهواء لأول مرة؟\\
+       *ج) سمكة مارلين أطول من القارب.*
+88. How did Santiago describe the marlin after seeing it?
+    1) Ugly and dangerous.\\
+       *b) Noble, strong, and full of spirit.*\\
+    2) Weak and tired.\\
+    3) Ordinary and common.\\
+       كيف وصف سانتياغو سمكة المارلين بعد رؤيتها؟\\
+       *ب) نبيلة، قوية، ومليئة بالروح.*
+89. How long did the battle last?
+    1) One night.\\
+       *b) Two days and two nights.*\\
+    2) Three hours.\\
+    3) One week.\\
+       كم استمرت المعركة؟\\
+       *ب) يومين وليلتين.*
+90. What did Santiago whisper at the end of the chapter?
+    1) "The boy will save me."\\
+       *b) "It is you or me. May God help us both."*\\
+    2) "I will let you go."\\
+    3) "The sea will decide."\\
+       ماذا همس سانتياغو في نهاية الفصل؟\\
+       *ب) "إما أنت أو أنا. لعل الله يساعدنا كليهما."*
+       ---
+91. The word "stiff" means ______,
+    1) flexible\\
+       *b) hard and difficult to move*\\
+    2) weak\\
+    3) quick\\
+       كلمة "قاسٍ / متصلب" تعني:\\
+       *ب) صلب ويصعب تحريكه.*
+92. The phrase "bite into his back" means ______,\\
+    *a) the line tore painfully into his skin*
+    2) [@2] a fish attacked him\\
+    3) he slept on hard wood\\
+    4) his shirt was too tight\\
+       عبارة "يعض في ظهره" تعني:\\
+       *أ) الخيط تمزق بشكل مؤلم في جلده.*
+93. The antonym of "endure" is ______,
+    1) continue\\
+    2) surrender\\
+    3) resist\\
+    4) persist\\
+       عكس "يُحتمل / يصمد" هو:\\
+       *ب) يستسلم.* (الخيار الأفضل المعطى).
+94. The word "surged" means ______,\\
+    *a) moved suddenly with force*
+    2) [@2] fell asleep\\
+    3) grew weaker\\
+    4) stopped moving\\
+       كلمة "اندفع" تعني:\\
+       *أ) تحرك فجأة بقوة.*
+95. The word "noble" is closest in meaning to ______,
+    1) evil\\
+       *b) proud and honorable*\\
+    2) small\\
+    3) tired\\
+       كلمة "نبيل" أقرب في المعنى إلى:\\
+       *ب) فخور وشريف.*
+96. Which word collocates with "pain"?
+    1) Fight.\\
+    2) Bear.\\
+    3) ignore.\\
+       *d) All of them.*\\
+       أي كلمة تتوافق مع "الألم"؟\\
+       *د) جميع ما سبق.* (تحمل الألم، محاربة الألم، تجاهل الألم).
+97. The opposite of "companionship" is ______,
+    1) friendship.\\
+       *b) loneliness*\\
+    2) respect\\
+    3) unity\\
+       عكس "الرفقة / الصحبة" هو:\\
+       *ب) الوحدة.*
+98. The word "pitted" means ______,
+    1) admired deeply\\
+       *b) felt sorrow and compassion for*\\
+    2) fought bravely\\
+    3) ignored completely\\
+       كلمة "أشفق على" تعني:\\
+       *ب) شعر بالحزن والتعاطف تجاه.*
+99. "To clench one's teeth" means ______,
+    1) to eat hungrily\\
+       *b) to hold teeth tightly together in pain or effort*\\
+    2) to smile\\
+    3) to whisper\\
+       "يشد على أسنانه" تعني:\\
+       *ب) أن يشد أسنانه معًا بإحكام بسبب الألم أو الجهد.*
+100. In "his will was like iron," the word "will" means ______,
+     1) a document\\
+     2) a promise\\
+        *c) determination / strength of mind*\\
+     3) a command\\
+        في جملة "كانت إرادته كالحديد"، كلمة "إرادة" تعني:\\
+        *ج) العزيمة / قوة العقل.*
+        ___
+101. Santiago's hands were *cut / scarred* from the line, and his back ached.\\
+     كانت يدا سانتياغو مجروحتين من الخيط، وألم ظهره.
+102. He whispered to the fish: "You are my *brother*, but I must kill you."\\
+     همس للسمكة: "أنت أخي، لكن لا بد لي من قتلك."
+103. To rest, he shifted the line across his *shoulders*.\\
+     للراحة، نقل الخيط عبر كتفيه.
+104. Santiago thought of Joe *DiMaggio* to endure pain.\\
+     فكر سانتياغو في جو دي ماجيو لتحمل الألم.
+105. Sweat poured down his face as the fish suddenly *pulled / surged* harder.\\
+     سال العرق على وجهه بينما سحبت السمكة فجأة بقوة أكبر.
+106. At night, Santiago looked up at the *stars* and felt strength.\\
+     في الليل، نظر سانتياغو إلى النجوم وشعر بالقوة.
+107. The marlin leapt high, silver in the *sunlight*.\\
+     قفز المارلين عاليًا، لامعًا بالفضة تحت ضوء الشمس.
+108. Santiago called the marlin the greatest fish he had ever *seen*.\\
+     وصف سانتياغو المارلين بأعظم سمكة رآها على الإطلاق.
+109. For two days and nights, he ate little and drank sparingly from his *water bottle*.\\
+     لمدة يومين وليلتين، أكل القليل وشرب باعتدال من قنينة مائه.
+110. At last, Santiago whispered: "It is you or me. May *God / fate* help us both."\\
+     أخيرًا، همس سانتياغو: "إما أنت أو أنا. لعل الله / القدر يساعدنا كليهما."
+     ---
+111. Why does Santiago feel pride instead of fear when far from land?\\
+     لأنه وصل إلى حيث لا يجرؤ الصيادون الآخرون، وهذا يثبت مهارته وشجاعته ويربطه بالبحارة القدامى العظماء.\\
+     Because he has gone where other fishermen dare not, proving his skill and courage, connecting him to the great seafarers of old.
+112. What does shifting the line across his shoulders show about Santiago's endurance?\\
+     يظهر براعته العملية وإصراره على عدم الاستسلام. إنه يستخدم كل جزء من جسده ويبتكر طرقًا للمواصلة رغم الألم.\\
+     It shows his practical ingenuity and determination not to give up. He uses every part of his body and devises ways to continue despite pain.
+113. How does Santiago balance his need for food and strength during the battle?\\
+     يأكل ويشرب بالقدر الضروري فقط للحفاظ على الوظيفة الجسدية، دون إضاعة الوقت أو الطاقة، مع وضع الأولوية للصراع.\\
+     He eats and drinks only the bare minimum to maintain physical function, without wasting time or energy, prioritizing the struggle.
+114. Why does Santiago compare himself to Joe DiMaggio?\\
+     لأن دي ماجيو يرمز للامتياز والصمود رغم الإصابة، مما يمنح سانتياغو نموذجًا للتحمل النبيل والإرادة التي تتجاوز الجسد.\\
+     Because DiMaggio symbolizes excellence and perseverance despite injury, giving Santiago a model for graceful endurance and willpower that transcends the body.
+115. How does the marlin's leap affect Santiago emotionally?\\
+     يملأه بالدهشة والاحترام العميق والرهبة. إنه يؤكد عظمة خصمه ويثير مشاعر الحب والتقدير التي تعمق الصراع داخليًا.\\
+     It fills him with awe, deep respect, and wonder. It confirms the greatness of his opponent and stirs feelings of love and reverence that deepen the internal conflict.
+116. Why does Santiago admire the marlin even while trying to kill it?\\
+     لأنه يرى فيه روحًا نبيلة وقوة تشبه روحه. قتل خصم أقل شأنًا سيكون انتصارًا فارغًا؛ العظمة الحقيقية تكمن في هزيمة خصم جدير.\\
+     Because he sees in it a noble spirit and strength akin to his own. Killing a lesser opponent would be an empty victory; true greatness lies in defeating a worthy one.
+117. What role do Santiago's memories of the lions play in his struggle?\\
+     إنها ترمز لقوته وشبابه المفقودين، وتوفر له ملاذًا عقليًا من الألم، وتذكرته بماضٍ كان فيه قويًا وسعيدًا وحرًا.\\
+     They symbolize his lost youth and strength, provide a mental refuge from pain, and remind him of a past when he was powerful, happy, and free.
+118. How does Santiago express both love and duty toward the fish?\\
+     يقول إنه يحبه ويحترمه كأخ، لكن واجبه كمصيّاد هو قتله. هذا يعكس التوتر بين الإعجاب الشخصي والمهمة العمليّة.\\
+     He says he loves and respects it as a brother, but his duty as a fisherman is to kill it. This reflects the tension between personal admiration and practical mission.
+119. Why does Hemingway describe Santiago's will as "like iron"?\\
+     للتأكيد على أن قوته الحقيقية ليست في عضلاته المتقدمة في السن، بل في عزمه الذي لا ينحني ولا ينكسر، والذي هو أقوى من المادّة.\\
+     To emphasize that his true strength lies not in his aging muscles, but in his unbending, unbreakable resolve, which is stronger than matter.
+120. What does Santiago mean by "it is you or me"?\\
+     إنه يعترف بالطبيعة الحتمية والمطلقة للصراع. لا يمكن أن ينجو كلاهما. إنها مسألة حياة أو موت، والبقاء هو للأنسب أو الأكثر تصميمًا.\\
+     He acknowledges the inevitable, absolute nature of the struggle. Both cannot survive. It is a matter of life or death, and survival goes to the fittest or most determined.
+     ---
+121. How does the sea serve as both a setting of danger and a stage of glory in this chapter?\\
+     إنها خطرة لأنها معزولة وقاسية ويمكن أن تبتلع الإنسان. لكنها أيضًا مسرح المجد الوحيد حيث يمكن لإنسان عجوز أن يثبت بطولته ضد خصم عظيم.\\
+     It is dangerous because it is isolating, harsh, and can swallow a man. But it is also the sole stage for glory where an old man can prove his heroism against a great foe.
+122. Why does Hemingway show Santiago speaking to the fish as if it were human?\\
+     لرفع الصراع فوق مستوى الصيد البسيط إلى مواجهة وجودية بين كائنين واعيين. هذا يعمق الموضوع ويحافظ على إنسانية سانتياغو في عزلة المحيط.\\
+     To elevate the struggle beyond mere fishing to an existential encounter between two conscious beings. This deepens the theme and preserves Santiago's humanity in oceanic solitude.
+123. In what way does the fish symbolize both an opponent and a partner?\\
+     إنه الخصم الذي يهدد بقاء سانتياغو، ولكنه أيضًا الشريك في الرحلة الذي يربطه بمصير مشترك. كليهما مقيدان ببعضهما في معركة تحدد هويتهما.\\
+     It is the opponent that threatens Santiago's survival, but also the partner in the journey bound to him by a shared fate. Both are tied together in a battle that defines them.
+124. How does Santiago's endurance highlight the theme of human resilience?\\
+     تظهر مقاومته للألم والتعب والعزلة واليأس أن الروح البشرية يمكنها الصمود إلى ما هو أبعد بكثير من حدود الجسد، عندما تكون مدفوعة بالإرادة والغرض.\\
+     His resistance to pain, fatigue, isolation, and despair shows the human spirit can endure far beyond the body's limits when driven by will and purpose.
+125. What does the marlin's leap symbolize in the story?\\
+     يرمز إلى الكشف النهائي عن الجمال والقوة الخالصة. إنها لحظة من الحقيقة والمجد تبرر كل معاناة سانتياغو وتجسد الخصم النبيل الذي يستحقه.\\
+     It symbolizes the ultimate revelation of pure beauty and strength. It is a moment of truth and glory that justifies all of Santiago's suffering and embodies the worthy opponent.
+126. Why is admiration for the fish important in understanding Santiago's character?\\
+     لأنه يظهر أن كرامته وشرفه لا يأتيان من الفوز فحسب، بل من طبيعة الخصم الذي يهزمه. احترامه للسمكة يعكس احترامه لنفسه وللقيم التي يحارب من أجلها.\\
+     Because it shows his dignity and honor come not just from winning, but from the nature of the foe he defeats. His respect for the fish mirrors his self-respect and the values he fights for.
+127. How does the description of stars and dreams connect Santiago to nature?\\
+     تجعله يشعر بأنه جزء من كون أكبر وأبدي. هذا الاتحاد يهدئ وحشته ويعطيه القوة، مما يظهر أن البشر ليسوا أعداء للطبيعة، بل مكون أساسي منها.\\
+     It makes him feel part of a larger, eternal universe. This union soothes his loneliness and gives him strength, showing humans are not enemies of nature, but an integral part of it.
+128. What message does Hemingway send about suffering and greatness through this battle?\\
+     أن المعاناة ليست عقبة أمام العظمة، بل هي الطريق إليها. العظمة الحقيقية تُكتسب من خلال التحمل الشريف في مواجهة التحديات الهائلة، وليس من خلال النصر السهل.\\
+     That suffering is not an obstacle to greatness, but the path to it. True greatness is earned through dignified endurance in the face of immense challenge, not through easy victory.
+129. How does Santiago's loneliness deepen the meaning of the fight?\\
+     لأن النصر أو الهزيمة سيكون ملكه وحده بالكامل. لا توجد جماهير أو مساعدون. هذا يجعل الإنجاز أصيلاً تمامًا واختبارًا نقيًا لشخصيته.\\
+     Because victory or defeat will be entirely his own. There is no audience or helpers. This makes the achievement utterly authentic and a pure test of character.
+130. Do you agree with Santiago that "a man was born to work, to fight, to suffer, and to win"? Why or why not?\\
+     *الإجابة تعتمد على الرأي الشخصي.*\\
+     *نعم:* لأنها تصف الجوهر النضالي للحياة البشرية، حيث المعنى والكرامة يُكتسبان من خلال التحدي والاجتهاد.\\
+     *لا:* لأنها رؤية قاسية جدًا، حيث يمكن أن تأتي السعادة والوفاء أيضًا من السلام والتعاون والاستمتاع ببساطات الحياة.\\
+     *(=> is opinion-based.)*\\
+     *Agree:* Because it captures the struggle-essential to human life, where meaning and dignity are earned through challenge and endeavor.\\
+     *Disagree:* Because it is too harsh a view; happiness and fulfillment can also come from peace, cooperation, and enjoying life's simple pleasures.
+     ___
+131. How long had Santiago been fighting the marlin by this chapter?
+     1) One night.\\
+        *b) Two days.*\\
+     2) Three days and nights.\\
+     3) A week.\\
+        كم من الوقت كان سانتياغو يقاتل سمكة المارلين حتى هذا الفصل؟\\
+        *ب) يومان.*
+132. What did Santiago notice about the marlin's movement?\\
+     *a) It circled slowly, tired but not surrendering.*
+     2) [@2] It jumped wildly near the boat.\\
+     3) It stayed far away in the deep.\\
+     4) It swam toward the shore.\\
+        ماذا لاحظ سانتياغو حول حركة سمكة المارلين؟\\
+        *أ) كانت تدور ببطء، متعبة لكنها لا تستسلم.*
+133. What did Santiago think about pain?
+     1) Pain is an enemy.\\
+     2) Pain is a sign of weakness.\\
+        *c) Pain shows he is alive.*\\
+     3) Pain makes him fall.\\
+        ماذا كان يعتقد سانتياغو بشأن الألم؟\\
+        *ج) الألم يظهر أنه حي.*
+134. How did Santiago describe the marlin when it first rose?
+     1) Ugly and frightening.\\
+        *b) Silver and purple, graceful, a king of the sea.*\\
+     2) Small and ordinary.\\
+     3) Tired and weak.\\
+        كيف وصف سانتياغو سمكة المارلين عندما ارتفعت لأول مرة؟\\
+        *ب) فضية وبنفسجية، رشيقة، ملك البحر.*
+135. What weapon did Santiago use to kill the fish?
+     1) A knife.\\
+     2) A net.\\
+        *c) A harpoon.*\\
+     3) His bare hands.\\
+        ما هو السلاح الذي استخدمه سانتياغو لقتل السمكة؟\\
+        *ج) رمح الصيد (الحراب).*
+136. How did the marlin die?
+     1) It sank without a fight.\\
+        *b) It leapt one last time, then crashed into the sea.*\\
+     2) Sharks attacked it.\\
+     3) Santiago strangled it.\\
+        كيف ماتت سمكة المارلين؟\\
+        *ب) قفزت قفزة أخيرة، ثم ارتطمت بالبحر.*
+137. Why did Santiago cry after killing the marlin?
+     1) He feared sharks would come.\\
+        *b) He felt sorrow for killing such a noble creature.*\\
+     2) He was afraid of the villagers' reaction.\\
+     3) He was weak and hopeless.\\
+        لماذا بكى سانتياغو بعد قتل سمكة المارلين؟\\
+        *ب) شعر بالحزن لقتل مخلوق نبيل كهذا.*
+138. How did Santiago secure the marlin after killing it?
+     1) He dragged it inside the skiff.\\
+        *b) He tied it to the side of the boat.*\\
+     2) He let it float behind freely.\\
+     3) He cut it into pieces.\\
+        كيف ثبت سانتياغو سمكة المارلين بعد قتلها؟\\
+        *ب) ربطها بجانب القارب.*
+139. What did Santiago fear would be attracted by the blood?
+     1) Other fishermen.\\
+     2) Whales.\\
+        *c) Sharks.*\\
+     3) Dolphins.\\
+        ما الذي خشي سانتياغو أن يجذبه الدم؟\\
+        *ج) أسماك القرش.*
+140. What vision gave Santiago strength as he sailed home?
+     1) His family waiting on shore.\\
+        *b) The lions of his youth playing on the beach.*\\
+     2) The boy bringing him food.\\
+     3) Baseball games with Joe DiMaggio.\\
+        ما هي الرؤية التي منحت سانتياغو القوة وهو يبحر عائدًا إلى البيت؟\\
+        *ب) أسود شبابه تلعب على الشاطئ.*
+        ---
+141. The word "weary" means ______.
+     1) rested\\
+        *b) very tired*\\
+     2) angry\\
+     3) strong\\
+        كلمة "مرهق" تعني:\\
+        *ب) متعب جدًا.*
+142. The phrase "braced his feet" means ______.
+     1) slipped on the boards\\
+        *b) stood firmly to prepare for strain*\\
+     2) relaxed in the boat\\
+     3) walked across the deck\\
+        عبارة "ثبت قدميه" تعني:\\
+        *ب) وقف بثبات للاستعداد للضغط.*
+143. The antonym of "forgive" is ______.\\
+     *a) blame*
+     2) [@2] pity\\
+     3) respect\\
+     4) release\\
+        عكس "يغفر" هو:\\
+        *أ) يلوم.*
+144. The word "majestic" is closest in meaning to ______.
+     1) weak and ordinary\\
+        *b) noble and grand*\\
+     2) small and fragile\\
+     3) angry and dangerous\\
+        كلمة "مهيب" أقرب في المعنى إلى:\\
+        *ب) نبيل وعظيم.*
+145. Which word collocates with "harpoon"?
+     1) Throw.\\
+     2) Lift.\\
+     3) Drive.\\
+        *d) All of them.*\\
+        أي كلمة تتوافق مع "رمح الصيد"؟\\
+        *د) جميع ما سبق.* (يمكن رميه، رفعه، وغرسه).
+146. The word "triumph" means ______.\\
+     *a) victory*
+     2) [@2] sorrow\\
+     3) fear\\
+     4) effort\\
+        كلمة "انتصار" تعني:\\
+        *أ) فوز.*
+147. The antonym of "pride" is ______.\\
+     *a) humility*
+     2) [@2] honor\\
+     3) strength\\
+     4) respect\\
+        عكس "فخر" هو:\\
+        *أ) تواضع.*
+148. The word "sorrow" means ______.
+     1) great joy\\
+        *b) deep sadness*\\
+     2) anger\\
+     3) surprise\\
+        كلمة "حزن" تعني:\\
+        *ب) حزن عميق.*
+149. "To be joined forever" means ______.\\
+     *a) to stay connected permanently*
+     2) [@2] to be separated\\
+     3) to meet briefly\\
+     4) to live together\\
+        "أن يكونا متحدين للأبد" تعني:\\
+        *أ) أن يبقيا متصلين بشكل دائم.*
+150. The word "uncertain" in "uncertain dawn" means ______.
+     1) clear\\
+        *b) doubtful and unknown*\\
+     2) happy\\
+     3) peaceful\\
+        كلمة "غير مؤكد" في "فجر غير مؤكد" تعني:\\
+        *ب) مشكوك فيه ومجهول.*
+        ___
+151. Santiago's hands were swollen and *cut / scarred* from holding the line.\\
+     كانت يدا سانتياغو متورمتين ومجروحتين من الإمساك بالخيط.
+152. The marlin circled slowly, preparing for its final *battle / effort*.\\
+     دار المارلين ببطء، مستعدًا لمعركته / محاولته الأخيرة.
+153. Santiago believed that pain was not an *enemy*, but a reminder of life.\\
+     اعتقد سانتياغو أن الألم ليس عدوًا، بل تذكيرًا بالحياة.
+154. The marlin appeared silver and *purple* in the sunlight.\\
+     ظهر المارلين بلون فضي وبنفسجي تحت ضوء الشمس.
+155. Santiago lifted the *harpoon* and drove it into the fish's heart.\\
+     رفع سانتياغو رمح الصيد وغرزه في قلب السمكة.
+156. The marlin leapt one last time, then crashed into the *sea*.\\
+     قفز المارلين قفزة أخيرة، ثم ارتطم بالبحر.
+157. Santiago tied the fish to the *side* of the skiff.\\
+     ربط سانتياغو السمكة بجانب الزورق.
+158. He feared that the smell of *blood* would bring sharks.\\
+     خشي أن تجذب رائحة الدم أسماك القرش.
+159. Santiago placed his hand gently on the fish and whispered: "We are joined *forever*."\\
+     وضع سانتياغو يده برفق على السمكة وهمس: "لقد اتحدنا للأبد."
+160. He saw the *lions* of his youth running freely on the shore.\\
+     رأى أسود شبابه تركض بحرية على الشاطئ.
+     ---
+161. How does Santiago show respect for the marlin even as he kills it?\\
+     بحديثه إليه باحترام، ووصفه بالمخلوق النبيل، والشعور بالحزن بعد قتله، وبالقول بأنهما متحدان للأبد.\\
+     By speaking to it respectfully, describing it as a noble creature, feeling sorrow after killing it, and saying they are joined forever.
+162. Why does Santiago describe pain as something positive?\\
+     لأنه يرى الألم كدليل على الحياة والصمود والنضال. فهو ثمن المجد والتحقيق وعلامة على عدم الاستسلام.\\
+     Because he sees pain as proof of life, endurance, and struggle. It is the price of glory and achievement, a sign of not giving up.
+163. How does the description of the marlin emphasize its greatness?\\
+     من خلال وصف ألوانه (فضي وبنفسجي)، حجمه، قوته، وقفزته الأخيرة المهيبة. تم تقديمه كملك للبحر وكائن رائع.\\
+     Through describing its colors (silver and purple), its size, its strength, and its majestic final leap. It is presented as a king of the sea and a magnificent creature.
+164. Why does Santiago cry after his victory?\\
+     بسبب شعور مختلط: الحزن على قتل مخلوق نبيل، والإرهاق الشديد، وربما الوعي بأن الثمن الروحي للفوز عالٍ جدًا.\\
+     Due to mixed feelings: sorrow for killing a noble creature, extreme exhaustion, and perhaps an awareness that the spiritual cost of victory is very high.
+165. What does tying the marlin to the side of the boat reveal about its size?\\
+     يكشف أن السمكة ضخمة جدًا لدرجة أنه لا يمكن رفعها إلى داخل القارب الصغير. حجمها أكبر من القارب نفسه.\\
+     It reveals the fish is so enormous that it cannot be lifted into the small skiff. Its size is greater than the boat itself.
+166. How does Santiago's vision of the villagers reflect his need for dignity?\\
+     يتخيل كيف سيراهم ينظرون إلى صيده الكبير، مما يظهر رغبته في الاعتراف ببراعته واستعادة مكانته بعد فترة الفشل الطويلة.\\
+     He imagines how they will look at his great catch, showing his desire for recognition of his skill and to restore his status after his long failure.
+167. Why does Santiago fear the sharks?\\
+     لأنه يعلم أن الدم سيجذبهم كقتلة طبيعيين، وسيدمرون جسد السمكة التي كافح من أجلها، مما سيدمر انتصاره.\\
+     Because he knows blood will attract them as natural killers, and they will destroy the fish he struggled for, ruining his victory.
+168. What does Santiago mean by saying, "Your death gives me life, but it costs me my soul"?\\
+     يعني أن قتلها سيوفر له الطعام والمال والاحترام (الحياة المادية)، لكن فعل قتل شيء نبيل ومحبوب يسبب له ألمًا روحيًا عميقًا وخسارة للبراءة.\\
+     It means killing it will provide him food, money, and respect (material life), but the act of killing something noble and beloved causes him deep spiritual pain and a loss of innocence.
+169. How do the lions of his youth continue to support him in this chapter?\\
+     يظلون رمزًا للقوة والنقاء والحرية. رؤياهم تمنحه السلام والقوة الداخلية، وتربطه بزمن كان فيه قويًا وغير منهزم.\\
+     They remain a symbol of strength, purity, and freedom. Visions of them give him peace and inner strength, connecting him to a time when he was strong and undefeated.
+170. How does this chapter mark both victory and tragedy for Santiago?\\
+     إنه انتصار لأنه هزم أخيرًا خصمه العظيم وأثبت مهارته. لكنه مأساوي لأنه قتل كائنه المحترم، ويعرف أن أسماك القرش قادمة، وأنه جسديًا وروحيًا مُنهَك.\\
+     It is victory because he finally defeated his great opponent and proved his skill. But it is tragic because he killed his respected being, knows sharks are coming, and is physically and spiritually exhausted.
+     ---
+171. How does Hemingway blend pride and sorrow in Santiago's victory?\\
+     يمزج الفخر بالنصر المادي وإثبات الذات، مع حزن عميق على فقدان شيء جميل ونبيل. الفوز مرير وليس حلوًا.\\
+     He blends pride in the material victory and self-proving, with deep sorrow over the loss of something beautiful and noble. The win is bitter, not sweet.
+172. Why does Santiago view the marlin as both a brother and an enemy?\\
+     لأنه يرى فيه روحًا مشابهة لروحه (كفاح، كرامة، قوة)، لكن الظروف (كونه صيادًا) تجعل منهما خصمين في معركة مصيرية.\\
+     Because he sees in it a spirit similar to his own (struggle, dignity, strength), but circumstances (him being a fisherman) make them adversaries in a fateful battle.
+173. What does the marlin symbolize in this chapter?\\
+     يرمز إلى الطبيعة في أسمى صورها: القوة، الجمال، النبالة. كما يرمز إلى الحلم أو الإنجاز العظيم الذي يتطلب تضحية كبيرة.\\
+     It symbolizes nature at its highest: strength, beauty, nobility. It also symbolizes the dream or great achievement that requires immense sacrifice.
+174. How does the fight reflect the theme of man versus nature?\\
+     يظهر الإنسان (سانتياغو) يستخدم ذكاءه وإرادته للتغلب على قوة الطبيعة الهائلة (السمكة)، لكنه أيضًا يظهر احترامه للطبيعة واتحاده معها، وليس مجرد هيمنة عليها.\\
+     It shows man (Santiago) using his intelligence and will to overcome nature's immense power (the fish), but it also shows his respect for and union with nature, not mere dominance.
+175. Why does Hemingway describe the marlin as majestic and noble?\\
+     لرفع مستوى الصراع. إذا كان الخصم تافهاً، يكون النصر فارغًا. عظمة الخصم هي التي تعطي قيمة ومعنى لانتصار سانتياغو.\\
+     To elevate the struggle. If the opponent were trivial, the victory would be empty. The greatness of the opponent is what gives Santiago's victory value and meaning.
+176. What does Santiago's statement "They will not believe me" suggest about human achievement?\\
+     يشير إلى أن بعض الإنجازات العظيمة تكون شخصية جدًا ومعزولة لدرجة أنها لا تُفهم تمامًا من قبل الآخرين. القيمة الحقيقية تكمن في التجربة الذاتية، وليس في التقدير العام.\\
+     It suggests some great achievements are so personal and isolated that they are not fully understood by others. The true value lies in the subjective experience, not public recognition.
+177. How does the presence of sharks foreshadow the next conflict?\\
+     يشير إلى أن النصر مؤقت وهش. الطبيعة لديها دائمًا قوة أخرى (القرش) لاستعادة ما أخذ منها، وأن كل مكسب قد يتبعه خسارة.\\
+     It indicates victory is temporary and fragile. Nature always has another force (sharks) to reclaim what was taken, and every gain may be followed by loss.
+178. Why is Santiago's victory incomplete at the end of this chapter?\\
+     لأنه يعرف أن أسماك القرش ستهاجم، وأن السمكة ستفقد قيمتها، وأنه جسديًا مكسور، وأن النصر جاء بتكلفة روحية باهظة.\\
+     Because he knows sharks will attack, the fish will lose its value, he is physically broken, and the victory came at a heavy spiritual cost.
+179. How does this chapter connect the ideas of survival, sacrifice, and honor?\\
+     البقاء (للصياد) يتطلب التضحية (بسمكة نبيلة). الشرف لا يأتي من البقاء وحده، بل من كيفية القيام بالتضحية -- باحترام ونبالة.\\
+     Survival (for the fisherman) requires sacrifice (of a noble fish). Honor comes not from survival alone, but from how the sacrifice is carried out---with respect and nobility.
+180. Do you think Santiago is truly victorious, or has he lost more than he gained? Explain.\\
+     *قابل للنقاش.*\\
+     *نعم منتصر:* هزم تحديًا مستحيلًا، وأثبت إرادته، واستعاد كرامته. المعنويات والقيمة الرمزية لا تقدر بثمن.\\
+     *خاسر أكثر:* خسر طاقته، وصحته، وربما جزءًا من روحه. السمكة (الجائزة) على وشك الدمار. تكلفة النصر فاقت المكاسب المادية.\\
+     *(Debatable)*\\
+     *Victorious:* He defeated an impossible challenge, proved his will, regained his dignity. The morale and symbolic value are priceless.\\
+     *Lost more:* He lost his energy, health, and perhaps part of his soul. The fish (the prize) is about to be destroyed. The cost of victory outweighed the material gains.
+     ___
+181. What did Santiago fear as he sailed with the marlin beside the boat?
+     1) A storm would sink him.\\
+     2) The boy would not find him.\\
+        *c) Sharks would come for the blood.*\\
+     3) The boat would break.\\
+        ماذا كان سانتياغو يخشى وهو يبحر وسمكة المارلين بجانب القارب؟\\
+        *ج) أن تأتي أسماك القرش بسبب الدم.*
+182. What kind of shark attacked first?
+     1) Hammerhead.\\
+        *b) Mako shark.*\\
+     2) Galano shark.\\
+     3) Tiger shark.\\
+        أي نوع من أسماك القرش هاجم أولاً؟\\
+        *ب) قرش الماكو.*
+183. How did Santiago kill the first shark?
+     1) With his knife.\\
+     2) With an oar.\\
+        *c) With his harpoon.*\\
+     3) With his fists.\\
+        كيف قتل سانتياغو أول قرش؟\\
+        *ج) باستخدام رمح الصيد (الحراب).*
+184. What happened to the marlin after the first attack?
+     1) It sank to the bottom.\\
+        *b) It lost a large piece of flesh.*\\
+     2) It escaped.\\
+     3) It grew stronger.\\
+        ماذا حدث لسمكة المارلين بعد الهجوم الأول؟\\
+        *ب) فقدت قطعة كبيرة من لحمها.*
+185. What did Santiago do when his harpoon broke?
+     1) He gave up.\\
+        *b) He tied his knife to an oar and used it as a spear.*\\
+     2) He swam after the sharks.\\
+     3) He asked for help.\\
+        ماذا فعل سانتياغو عندما انكسر رمح الصيد الخاص به؟\\
+        *ب) ربط سكينته بمجداف واستخدمه كرمح.*
+186. What kind of sharks attacked after the mako?
+     1) Whale sharks.\\
+     2) Great whites.\\
+        *c) Galanos (shovel-nosed).*\\
+     3) Dogfish.\\
+        أي نوع من أسماك القرش هاجم بعد الماكو؟\\
+        *ج) قرش الجالانوس (المجرفي الأنف).*
+187. What part of the marlin remained by afternoon?
+     1) Only the tail.\\
+        *b) Only the head and backbone.*\\
+     2) The whole fish but weak.\\
+     3) Just the fins.\\
+        أي جزء من سمكة المارلين بقي بحلول بعد الظهر؟\\
+        *ب) الرأس والعمود الفقري فقط.*
+188. What did Santiago use after the oar-spear broke?\\
+     *a) The tiller and broken wood.*
+     2) [@2] His bare hands.\\
+     3) Nets.\\
+     4) Stones.\\
+        ماذا استخدم سانتياغو بعد أن انكسر الرمح-المجداف؟\\
+        *أ) الدفة والخشب المكسور.*
+189. What was left of the marlin by nightfall?
+     1) A complete fish.\\
+        *b) A bloody skeleton.*\\
+     2) A pile of bones in the boat.\\
+     3) Nothing at all.\\
+        ماذا تبقى من سمكة المارلين بحلول الليل؟\\
+        *ب) هيكل عظمي دموي.*
+190. What did Santiago say the sharks had beaten him, not the fish?\\
+     *a) Because the marlin was noble, but the sharks were destroyers.*
+     2) [@2] Because he gave up.\\
+     3) Because the fish was too weak.\\
+     4) Because the boy was absent.\\
+        لماذا قال سانتياغو إن أسماك القرش هزمته، وليس السمكة؟\\
+        *أ) لأن المارلين كان نبيلاً، لكن أسماك القرش كانت مدمرات.*
+        ---
+191. Santiago felt uneasy because he knew the sea was never ______ without a price.
+     1) cruel\\
+     2) empty\\
+        *c) quiet*\\
+     3) generous\\
+        شعر سانتياغو بعدم الارتياح لأنه علم أن البحر لا يكون هادئًا أبدًا دون ثمن.\\
+        *ج) هادئ.*
+192. The word "predators" refers to ______.\\
+     *a) animals that attack and eat others*
+     2) [@2] waves\\
+     3) small harmless fish\\
+     4) boats\\
+        كلمة "المفترسات" تشير إلى:\\
+        *أ) الحيوانات التي تهاجم وتأكل غيرها.*
+193. The antonym of "victory" is ______.
+     1) triumph\\
+        *b) defeat*\\
+     2) pride\\
+     3) success\\
+        عكس "النصر" هو:\\
+        *ب) هزيمة.*
+194. The word "insistent" means ______.
+     1) giving up easily\\
+        *b) demanding and persistent*\\
+     2) slow but weak\\
+     3) proud and calm\\
+        كلمة "مصر / ملح" تعني:\\
+        *ب) متطلب ومثابر.*
+195. Santiago fought the sharks with a knife tied to an oar, turning it into a ______.
+     1) sail\\
+     2) rope\\
+        *c) spear*\\
+     3) shield\\
+        حارب سانتياغو أسماك القرش بسكين مربوط بمجداف، محولاً إياه إلى:\\
+        *ج) رمح.*
+196. "Weaponless" means ______.\\
+     *a) having no weapon*
+     2) [@2] carrying many weapons\\
+     3) full of courage\\
+     4) safe\\
+        "بدون سلاح" تعني:\\
+        *أ) عدم امتلاك سلاح.*
+197. The opposite of "noble" is ______.
+     1) honorable\\
+     2) weak\\
+        *c) dishonorable*\\
+     3) proud\\
+        عكس "نبيل" هو:\\
+        *ج) غير شريف / دنيء.*
+198. The word "skeleton" means ______.\\
+     *a) bones of a body*
+     2) [@2] full body with flesh\\
+     3) skin and muscle\\
+     4) a type of shark\\
+        كلمة "هيكل عظمي" تعني:\\
+        *أ) عظام جسم ما.*
+199. The word "dignity" is closest in meaning to ______.\\
+     *a) honor and self-respect*
+     2) [@2] weakness\\
+     3) sorrow\\
+     4) anger\\
+        كلمة "كرامة" أقرب في المعنى إلى:\\
+        *أ) الشرف واحترام الذات.*
+200. "To splinter" means ______.\\
+     *a) to break into small sharp pieces*
+     2) [@2] to grow stronger\\
+     3) to tie together\\
+     4) to shine brightly\\
+        "يتشظى / يتكسر" تعني:\\
+        *أ) أن ينكسر إلى قطع صغيرة حادة.*
+        ___
+201. Santiago knew the scent of *blood* would call sharks.\\
+     علم سانتياغو أن رائحة الدم ستدعو أسماك القرش.
+202. The first attacker was a fast and strong *mako* shark.\\
+     كان المهاجم الأول سمكة قرش *ماكو* سريعة وقوية.
+203. Santiago drove the *harpoon* into the shark's head.\\
+     غرز سانتياغو *رمح الصيد* في رأس القرش.
+204. After the battle, a great piece of the marlin's *flesh* was gone.\\
+     بعد المعركة، اختفت قطعة كبيرة من *لحم* المارلين.
+205. When his harpoon broke, Santiago tied his *knife* to an oar.\\
+     عندما انكسر رمحه، ربط سانتياغو *سكينه* بمجداف.
+206. The *galanos / shovel-nosed* sharks tore at the marlin's flesh.\\
+     مزقت أسماك قرش *الغالانوس* / *المجرفية الأنف* لحم المارلين.
+207. By afternoon, only the head and *backbone* of the fish remained.\\
+     بحلول بعد الظهر، بقي فقط رأس و*عمود فقري* السمكة.
+208. Santiago fought with the oar until it *broke / splintered*.\\
+     حارب سانتياغو بالمجداف حتى *انكسر / تشظى*.
+209. The marlin's skeleton glowed white in the *moonlight*.\\
+     توهج هيكل المارلين العظمي بالأبيض تحت *ضوء القمر*.
+210. Santiago told the fish: "They destroyed you, but not my *hope / spirit / pride*."\\
+     قال سانتياغو للسمكة: "لقد دمروك، لكن لم يدمر *أملي / روحي / فخري*."
+     ---
+211. Why does Santiago call the first shark attack "the beginning"?\\
+     لأنه يعرف أنه بمجرد بدء سيل الدم، ستستمر الهجمات دون توقف حتى لا يتبقى شيء. إنها بداية النهاية لحصادته.\\
+     Because he knows once the bloodletting starts, attacks will continue relentlessly until nothing remains. It's the beginning of the end for his prize.
+212. How does Santiago show courage when facing the mako shark?\\
+     بمواجهته دون تردد، واستخدامه السلاح الأول المتاح (الحراب) بدقة، والقتال حتى الموت رغم معرفته أنه قد يخسر.\\
+     By facing it without hesitation, using the first available weapon (harpoon) skillfully, and fighting to the death despite knowing he might lose.
+213. What does the breaking of the harpoon symbolize?\\
+     يرمز إلى فقدان الأداة الرئيسية للقتال والنصر، والانتقال من نصر منظم إلى دفاع يائس باستخدام أي شيء متاح.\\
+     It symbolizes the loss of the primary tool of combat and victory, transitioning from an organized victory to a desperate defense using anything at hand.
+214. Why does Santiago keep fighting even when the marlin is nearly gone?\\
+     لأنه لا يتعلق الأمر فقط بحماية اللحم، بل بحماية كرامته، وإثبات أنه لن يستسلم، ولاحترام السمكة التي ماتت من أجلها.\\
+     Because it's not just about protecting the flesh, but about protecting his dignity, proving he won't surrender, and honoring the fish that died for it.
+215. How do the galanos differ from the mako shark?\\
+     الماكو هو مقاتل قوي ومنفرد، بينما الغالانوس يأتون في أسراب، هم قتلة عديمي الرحمة وغير نبيلين، مدفوعين بالجشع البحت.\\
+     The mako is a strong, solitary fighter, while the galanos come in packs; they are merciless, ignoble killers driven by pure greed.
+216. What does Santiago mean when he says he was beaten by sharks, not the fish?\\
+     يعني أن المارلين كان خصماً نبيلاً تم التغلب عليه بشرف. أما أسماك القرش فهي قوى دنيئة للدمار العشوائي التي تهزم الإنسان ليس من خلال النبل، بل من خلال الخسة والأعداد.\\
+     He means the marlin was a noble opponent overcome with honor. The sharks are base forces of random destruction that defeat man not through nobility, but through meanness and numbers.
+217. Why does Hemingway describe Santiago using even broken pieces of wood to fight?\\
+     لإظهار مدى يأس وتصميم سانتياغو. إنه يستخدم كل ما تبقى له، مهما كان بدائيًا، ليواصل القتال للحفاظ على شرفه.\\
+     To show the depth of Santiago's desperation and determination. He uses everything left to him, no matter how primitive, to keep fighting for his honor.
+218. What role does dignity play in Santiago's battle with the sharks?\\
+     الكرامة هي الدافع الوحيد المتبقي. لقد خسر الجائزة المادية، لذا يصبح القتال من أجل إثبات أنه لم يستسلم هو كل ما تبقى.\\
+     Dignity is the only remaining motive. He has lost the material prize, so fighting to prove he didn't give up is all that's left.
+219. How is the marlin both a victory and a tragedy in this chapter?\\
+     النصر: الإثبات المادي على اصطياده. المأساة: تدمير جسده الجميل والنبيل أمام عينيه، وتحويل انتصاره إلى خسارة مروعة.\\
+     Victory: The physical proof of his catch. Tragedy: The destruction of its beautiful, noble body before his eyes, turning his triumph into a gruesome loss.
+220. How does Santiago's hope in the boy give meaning to his suffering?\\
+     لأنه يعتقد أن معاناته وتضحياته سيكون لها معنى إذا رأى الولد وشهد على ما فعله وكم كافح. الصبي هو الجمهور والوارث لروحه.\\
+     Because he believes his suffering and sacrifice will have meaning if the boy sees and witnesses what he did and how hard he fought. The boy is the audience and heir to his spirit.
+     ---
+221. How do the sharks symbolize destruction in contrast to the nobility of the marlin?\\
+     المارلين يمثل الجمال والهدف والعظمة في الطبيعة. تمثل أسماك القرش القوى العمياء والمدمرة والعشوائية التي تهدم دون سبب أو نبل.\\
+     The marlin represents beauty, purpose, and greatness in nature. The sharks represent the blind, destructive, random forces that tear down without reason or nobility.
+222. Why does Hemingway emphasize the endless nature of Santiago's struggle?\\
+     لإظهار أن التحدي الحقيقي في الحياة غالبًا ما يكون مطولاً وغير عادل. النصر مؤقت، ولكن النضال المستمر هو ما يحدد الشخصية.\\
+     To show that true challenge in life is often prolonged and unfair. Victory is temporary, but the ongoing struggle is what defines character.
+223. What does the skeleton of the marlin symbolize in the story?\\
+     يرمز إلى الجوهر الدائم للإنجاز وراء المظهر المادي. إنه تذكير بالجمال والقوة التي كانت موجودة، ودليل على المعركة التي خاضها، حتى لو فقدت قيمتها السوقية.\\
+     It symbolizes the lasting essence of achievement beyond the physical form. It's a reminder of the beauty and strength that existed, and proof of the battle fought, even if its market value is lost.
+224. How does Santiago's refusal to surrender show the theme of human dignity?\\
+     يظهر أن الكرامة تكمن في الاختيار - اختيار القتال حتى النهاية، حتى عندما يكون الهزيمة مؤكدة. هي السيطرة على كيفية الخسارة.\\
+     It shows dignity lies in choice---the choice to fight to the end, even when defeat is certain. It's control over /how/ one loses.
+225. Why does Hemingway describe the sharks coming "one after another"?\\
+     لإظهار أن المعاناة والتحديات في الحياة لا تنتهي بانتهاء واحدة؛ فهي تأتي على موجات، وتتطلب مقاومة مستمرة.\\
+     To show suffering and challenges in life don't end with one; they come in waves, requiring persistent resistance.
+226. What message does this chapter send about pride and loss?\\
+     أن الفخر الحقيقي لا يعتمد على المكسب المادي، بل على المواقف التي تتخذها في مواجهة الخسارة. يمكن للمرء أن يخسر كل شيء لكنه يظل فخوراً بطريقة خسارته.\\
+     That true pride does not depend on material gain, but on the stance one takes in the face of loss. One can lose everything but remain proud of /how/ they lost it.
+227. In what way is Santiago's battle with sharks different from his battle with the marlin?\\
+     كانت معركة المارلين مواجهة شريفة ومحترمة بين خصمين نبيلين. معركة القرش هي حرب قذرة ضد قوى فوضوية ومدمرة لا تحترم شيئاً.\\
+     The marlin battle was a fair, respectful duel between noble opponents. The shark battle is a dirty war against chaotic, destructive forces that respect nothing.
+228. Why does Santiago still call the marlin his "greatest friend" even after its death?\\
+     لأن السمكة شاركته في الصراع الذي حدد هويتهما. لقد كانا مرتبطين بمصير مشترك. الاحترام والارتباط الناتج أقوى من العداوة.\\
+     Because the fish shared in the struggle that defined them both. They were bound by a shared fate. The resulting respect and bond is stronger than enmity.
+229. How does this chapter deepen the theme of man versus nature?\\
+     يظهر أن الطبيعة ليست عدوًا واحدًا، بل لها جوانب متعددة: الجدير بالاحترام (السمكة) والمدمر بعشوائية (القرش). يجب على الإنسان أن يتعامل مع كليهما.\\
+     It shows nature is not a single foe, but has multiple facets: the respectable (the fish) and the randomly destructive (the shark). Man must contend with both.
+230. Do you think Santiago's fight against the sharks was hopeless or heroic? Why?\\
+     *بطولي.* لأنه لم يكن أبدًا عن الفوز المادي (الذي كان مستحيلاً)، بل عن الدفاع عن مبادئه - الشرف، والكرامة، واحترام خصمه - حتى النهاية المريرة. الفعل نفسه، وليس النتيجة، هو ما يجعله بطوليًا.\\
+     *Heroic.* Because it was never about material victory (which was impossible), but about defending his principles---honor, dignity, respect for his foe---to the bitter end. The /act itself/, not the outcome, makes it heroic.

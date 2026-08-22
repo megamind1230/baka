@@ -1,0 +1,5 @@
+- [ ] [[file:done/00-Note-taking-methods.org][00-Note-taking-methods]]
+- [ ] [[file:The-best-studying-technique-or-trick-by-Justin-Sung.org][The-best-studying-technique-or-trick-by-justin-sung]]
+- [ ] [[file:Best-simple-productivity-system.org][Best-simple-productivity-system]]
+- [ ] [[file:Speed-read-ali-abdaal.org][Speed-read-ali-abdaal]]
+- [ ] [[file:0-why-our-focus-drains-{some-factors}.org][0-why-our-focus-drains-{some-factors}]]

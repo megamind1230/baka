@@ -1,0 +1,24 @@
+#todo
+
+| task                                            | thread                                      |
+|-------------------------------------------------+---------------------------------------------|
+| async                                           |                                             |
+| simple, less resources                          | requires careful management, more resources |
+| high lvl                                        | low lvl                                     |
+| like a func has a return type, scope            | no                                          |
+| can use =async=, =await=                        |                                             |
+| not block resource                              | blocks                                      |
+| can do exception handlingspecially with =await= | not effecient                               |
+|                                                 |                                             |
+
+- [X] [[file:thread-pool.org][thread-pool]]
+
+- [X] [[file:task-and-thread-syntax-and-async-programming.org][task-and-thread-syntax-and-async-programming]]
+
+- [X] physical vs logical thread
+
+- [X] how-it-js-single-threaded-and-csharp-is-multi-threaded
+
+- [X] [[semaphore]]
+
+- [X] [[thread-cancelation-token]]

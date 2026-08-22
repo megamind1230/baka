@@ -1,0 +1,6 @@
+* nvim-simple-snippets-or-replacements
+#+begin_src sh
+# inside the vimrc
+ab old new
+# does text expansions or typo corrections
+#+end_src

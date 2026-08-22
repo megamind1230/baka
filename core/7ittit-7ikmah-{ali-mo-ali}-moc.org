@@ -1,0 +1,5 @@
+- [X] [[file:0-7ittit-7ikmah-{ali-mo-ali}-p1.org][0-7ittit-7ikmah-{ali-mo-ali}-p1]]
+- [X] [[file:7ittit-7ikmah-{ali-mo-ali}-p2.org][7ittit-7ikmah-{ali-mo-ali}-p2]]
+- [X] [[file:0-7ittit-7ikmah-{ali-mo-ali}-p3.org][0-7ittit-7ikmah-{ali-mo-ali}-p3]]
+- [X] [[file:7ittit-7ikmah-{ali-mo-ali}-p4.org][7ittit-7ikmah-{ali-mo-ali}-p4]]
+- [X] [[file:7ittit-7ikmah-{ali-mo-ali}-p5.org][7ittit-7ikmah-{ali-mo-ali}-p5]]

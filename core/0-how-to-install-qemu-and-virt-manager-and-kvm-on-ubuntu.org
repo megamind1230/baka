@@ -1,0 +1,15 @@
+#1
+
+[[https://www.youtube.com/watch?v=ozYKkaVK0_A][ctt]]
+
+#+begin_src C
+sudo apt install qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils libguestfs-tools genisoimage virtinst libosinfo-bin virt-manager
+
+sudo adduser $USER libvirt
+
+sudo adduser $USER libvirt-qemu
+#+end_src
+
+#+begin_quote
+then : file > add connection > user session
+#+end_quote

@@ -1,0 +1,5 @@
+[[0-a-tiny-geometry-trick-while-cutting-in-audacity]]
+[[file:0-speed-vs-tempo-in-audacity.org][0-speed-vs-tempo-in-audacity]]
+[[file:0-how-to-make-any-mic-sound-professional-audacity.org][0-how-to-make-any-mic-sound-professional-audacity]]
+[[file:0-audacity-shortcuts.org][0-audacity-shortcuts]]
+[[file:audacity-plugins.org][audacity-plugins]]

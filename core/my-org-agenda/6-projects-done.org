@@ -1,0 +1,264 @@
+* DONE nextlearn
+** DONE let's try to make this app a bit modal and have some shortcuts triggers
+for example
+- [X] n/p triggers the next/previous buttons
+- [X] q OR d goes to home page {stands for Decks/quit}
+- [X] e to edit SOME local version of this deck on your device
+  - which opens the default text editor { the text editor open the local copied version }
+  - and you continue studying the one you just edited
+- [X] / to triggers search.. ESC OR escape to cancel
+  - if i'm on the study page
+    - searches in the content of the whole deck in a a smaller floating window/menu
+  - if i'm on the home page
+    - searches the normal search { finds by deck name/ category ... not by content }
+
+** DONE fixing some structure
+Fri Mar  6 02:30:13 PM EET 2026
+
+ok let's make this a bit more clear
+
+- [X] the decks displayed on the home page are only the ones the user downloaded from our future to-be-done decks marketplace
+
+- [X] the marketplace has its tab on the home page UI { between Home and flashcards }
+clicking it opens our marketplace website simple website { make it blank for now }
+
+- [X] the first time the user downloads a deck from the marketplace
+it should be always downloaded inside DECKS_DIR which is this directory on linux/mac {~/NextLearn/decks} or {C:\Users\whateverTheUserName\NextLearn\decks} for Windows
+
+- [X] using the { e } trigger on any study page
+    opens the default text editor of the system {let's make it neovim for now}
+    neovim {the text editor} would open the proper deck file that was inside Decks_DIR { so it doesn't create any duplicates }
+  - [X] closing the text editor should not close the whole the app
+    it should resume from where I was
+    you can do whatever changes you want to the deck file .. save .. and voila you have the edited new file ready to study { notice the edited file is still in DECKS_DIR }
+
+- [X] using the {/} triggers search popup
+  - [X] change the search popup color { for example make it cyan for now }
+
+  the popup takes INPUT_TXT.. ESC OR escape to cancel and remove the input .. Enter OR Return to trigger the real search functionality
+
+  - [X]   - if i'm on the home page
+  - searches the normal search { finds by deck name/ category ... not by content }
+  - [X] search on the study page still doesn't work
+  - if i'm on the study page
+  - the popup takes the INPUT_TXT
+  - it opens the text editor again but this time with inserted text in search mode { in neovim would be like /INPUT_TXT }
+
+** DONE issues
+
+- [X] cannot input these 2 letters inside of search { q/d }
+    these letters should only trigger If im only inside of the study page
+    other than that they are normal letters
+
+- [X] make home pages only show downloaded and delete the downloaded tabs
+
+- [X] delete the profile page and functionality for now
+
+- [X] using the { e } trigger on any study page
+    opens the default text editor of the system {let's make it neovim for now}
+    neovim {the text editor} would open the proper deck file that was inside Decks_DIR { so it doesn't create any duplicates }
+  - [X] closing the text editor should not close the whole the app
+    it should resume from where I was
+    you can do whatever changes you want to the deck file .. save .. and voila you have the edited new file ready to study { notice the edited file is still in DECKS_DIR }
+
+- [X] {/} search on the study page still doesn't work
+  it doesn't show the popup
+  - if i'm on the study page
+  - the popup takes the INPUT_TXT
+  - it opens the text editor again but this time with inserted text in search mode { in neovim would be like `nvim fileName +/INPUT_TXT` }
+
+** DONE Fri Mar  6 03:52:25 PM EET 2026
+- [X] {/} search on the study page still doesn't show .. i cann't see the popup
+  - it should opens the text editor but this time with inserted text in search mode { in neovim would be like `nvim fileName +/INPUT_TXT` }
+  - maybe it doesn't show the popup because it's burried below the UI components
+
+- [X] make both search popups {while in study page/ home page } the upper most layer
+    try to make it visible { because it seems to be under some UI components }
+
+- [X] any .md or .org file found in the DECKS_DIR {~/NextLearn/decks} should be recognized by the app in the Home page { as if it's downloaded }
+
+- [X] neovim opens with the file name { listen to this }
+  + it MUST NOT create a copy with named by the file ID
+  + it OPENS the file with it's name
+    + name of file and name of deck are identical things
+  + triggering {e} should open a new window for neovim for this file to edit
+    + neovim cann't block the app
+    + closing neovim doens't close the whole app { be careful with this }
+
+
+** DONE Fri Mar  6 05:36:06 PM EET 2026
+- [X] feature: let left/right arrow trigger previous/next button too
+- [X] feature: you can add you own new deck by creating/adding any .org/.md file inside of {~/NextLearn/decks/} the app should read it in pages { displaying every one on a single study page }
+- [X] ISSUE: search popup is still a lower layer unless I type something {then it would be back on top }
+- [X] ISSUE: read and show deck content as-is
+  you shouldn't capitalize any letters or add any headers
+  just read the file as-is
+- [X] updating or editing the deck/file in {~/NextLearn/decks/}
+  doesn't update the deck in the app
+  they must (sync) changes with each other
+  but if I just `:q` in neovim then the app window wouldn't crash
+- [X] also ig we should comment the seeding part in the project for now and use files here {~/NextLearn/decks/} as decks to show in homepage
+** DONE Sun Mar  8 01:02:02 PM EET 2026
+- [X] make files names found in  {~/NextLearn/decks/} as titles for the decks
+- [X] fixing some UI choices inside of studypage
+  - make deck view/box centered { but content aligned left }
+  - previous button when hovered it disappears { they must have different hover color than the background }
+  - while inside the studypage I only should see:
+    - next button on the bottom right corner { bright and facinating }
+    - previous button on the bottom left corner { dimmed a bit }
+      to indicate that I want the user to always go forewards in learning
+    - exit button to the upper left { with an arrow icon indicating exit }
+    - hamburger button to the top right
+      {which we would later impliment}
+
+
+
+** DONE Sun Mar  8 01:30:44 PM EET 2026
+
+- [X] make files names found in  {~/NextLearn/decks/} as titles for the decks in homepage
+- [X] fixing some UI choices inside of studypage
+  - make deck view/box centered, wide, { but content aligned left }
+  - previous button when hovered it disappears { they must have different hover color than the background }
+  - while inside the studypage I only should see:
+    - next button on the bottom right corner { bright and facinating }
+    - [X] - previous button on the bottom left corner { dimmed a bit }
+      to indicate that I want the user to always go forewards in learning
+    - [X] - exit button to the upper left { with an arrow icon indicating exit }
+    - [X] - hamburger button to the top right
+      {which we would later impliment}
+
+- [X] ISSUE: i dont think you didn't perform the correct changes on this last edit
+  - it seems like exit button and the hamburger menu are overlapping
+    - same for next / previous buttons
+      - it also seems like you didn't change the colors of the buttons when hovered by the mouse
+- [X] we should re-keep the page count but let it be on the bottom left
+
+- [X] ig we should remove the difficulty part in this desktop app
+  it really doens't make sense cuz the decks are already on your pc you know what difficulty they are cuz you downloaded them
+  maybe this feature would suit best the marketplace we gonna make later { cuz we can search by/filter by difficulty level }
+
+** DONE Sun Mar  8 04:38:42 PM EET 2026
+- [X] the page count must be on the bottom left
+  like the one found in the slide show displays of for example MS-power-point
+- [X] scrape files names found in  {~/NextLearn/decks/} as titles for the decks in homepage
+- [X] make text preview area
+  selectable,
+  scrollable,
+  displayed mid the screen between the next/previous buttons
+  and it should be interatively be scaled according to the whole app window/frame size
+  also make this area of teal color background with text being white
+** DONE how can I make a unified way of uploading decks containing images ?
+how can I handle
+    adding images
+    previewing them
+    where to save them?
+** DONE create a hamburger menu that has every navigate, try to make the app look minimal
+** DONE expose the core functions in the app to trigger using the command palette mode which is triggered with : colon
+** DONE create gi as search bar focus
+** DONE create a theme switcher
+light theme / dark theme
+and expose it's functions to the command palette
+** DONE add functionality to create your own decks
+make them created inside the correct path
+make them appear on home page
+** DONE make esc triggers cancel the input in the search bar in home page
+** DONE I still this issue with the editor
+- [ ] ISSUE: still IF I KILL NEOVIM WINDOW.. THAT WOULD ALSO KILL THE APP
+  - idk if just closing would not crash the app .. idk
+  - plus idk if the app is expecting something from neovim other than editing the file { so the app crashes if not satisfied }
+** CANCELLED add a quote api at the home page
+or could be a plugin
+** CANCELLED can you consider switching to Tauri instead of Avalonia?
+** DONE add a pluggins/add-ons/extensions system
+** DONE ensure nextlearn has
+clean code
+and
+scalable architecture
+
+[6/9/26 1:50 AM] Introbird NSB: nextlearn feature
+latex support as a plugin ( modularity is better )
+
+make sure all embeded links are clickable
+even the youtube embeds
+[6/9/26 1:53 AM] Introbird NSB: make sure the app works on Windows
+
+ Introbird NSB: nextlearn feature add favorites/category folders
+ Introbird NSB: nextlearn  shortcut to open decks directory  also adda command palette
+Introbird NSB: llms.txt in nextlearn
+
+  [2026-06-10 Wed 21:00]
+** DONE add mock decks/data
+/mnt/hdd/st/obsi/vault_bank/core/vscode-default-shortcuts.md
+/mnt/hdd/st/obsi/vault_bank/core/0-emacs-default-shortcuts.md
+/mnt/hdd/st/obsi/vault_bank/core/0-discord-shortcuts.md
+
+** DONE the study page { the one appears when I'm inside a deck to study }
+doesn't seem to show anything
+idk if it does show something but the fonts color is white or what
+can you fix that
+
+* DONE TimeBlock aka (clock-blocks)
+simple html/css/js one file
+- [x] عايز اعمل فكرة تطبيق time blocking
+    بحيث تدخل انت اسم المهمة والتوقيت من إلي
+    وبعدين التطبيق بيجمع المهام دي بحيث مجموع توقيتاتهم ميزدش عن 24 ساعة
+    لما تخلص وضع بيانات صالحة
+    بتظهر ليك analog clock
+    وفيه الـ sections
+    دي من المواعيد متلونة
+    كل مهمة بلون معين
+
+```
+i wanna make a pretty small time blocking app
+that uses the time blocking method approved by MIT/ oxford/ Cambridge
+i forgot which one
+i wanna display 2 analog clocks for AM,PM
+user inputs task either on a txt file or from the text box field
+in the format like
+"05am:08am doing warmups"
+the app then colorized this time block on the proper analog clock
+btw the clock syncs with the actual zone time
+```
+* DONE TrackWatch aka (time-trace)
+
+https://github.com/megamind1230/timetrace
+
+*** intro
+- the app works like a stopwatch. But when I create an entry, I have
+  to tag it. Ultimately, it does the total time I spent on that
+  thing. For example, I open an app called Vim and spend 30 minutes on
+  it. And I had already done 20 minutes before that. So the total time
+  in Vim = 50 minutes.
+
+```
+a stop watch app that goes like this:
+enter task tag: vim
+{then it counts till i press s for stop}
+{it saves the duration in a text file in the proper location & showes me in hours how much time have i spent on each task tag stored}
+{it gives me the option to reset the text file}
+```
+*** draft
+make it into a UI app
+where user can see 3 tabs/bottons
+1. stopwatch; user inputs the task > press start > after finishing presses back > the app logs this time into the stats
+2. timer; user inputs the both the name of task{tag} + how much time to for the timer {this tab must be the default view entry of the app}
+3. stats; user see summary of {how many times + total time in hours and minutes spent on the task
+
+* DONE create an on-screen-map clicker for linux
+a hoverover screen of squares each having a number that you can click on by typing that number on keyboard
+** inpirations
+https://mouseless.click/
+https://github.com/jbensmann/mouseless
+** my project
+https://github.com/megamind1230/mouseless-grid
+
+
+* DONE mcq quiz generator
+- maybe later
+  - from textbooks/pdfs
+  - a website
+
+
+a  that create mcq/quizz from input text files (.txt/.org/.md)
+* DONE can google forms take a file to make me an exam? no, but i can create that app
+I already created mine megamind1230/mcq-quiz-generator on github

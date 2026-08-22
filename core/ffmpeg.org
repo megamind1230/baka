@@ -1,0 +1,6 @@
+* not done
+- [ ] [[file:how-to-add-ffmpeg-to-audacity.org][how-to-add-ffmpeg-to-audacity]]
+- [ ] [[https://amiaopensource.github.io/ffmprovisr/][study ffmpeg link with ffmprovisr]]
+
+* done
+- [X] [[file:0-script-to-minize-a-video-with-ffmpeg.org][0-script-to-minize-a-video-with-ffmpeg]]

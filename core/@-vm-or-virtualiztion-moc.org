@@ -1,0 +1,12 @@
+* not done
+- [ ] [[file:how-to-use-virt-manager.org][how-to-use-virt-manager]]
+- [[file:@-things-to-try-on-a-VM-MOC.org][@-things-to-try-on-a-vm-moc]]
+- [[file:distrobox.org][distrobox]]
+- [[file:how-to-use-gnome-boxes.org][how-to-use-gnome-boxes]]
+- [[file:how-to-enable-bi-directional-clipboard-in-virt-manager.org][how-to-enable-bi-directional-clipboard-in-virt-manager]]
+
+* done
+- [[file:0-gnome-boxes-for-virtualization-{ubuntu-based}.org][0-gnome-boxes-for-virtualization-{ubuntu-based}]]
+- [[file:0-how-to-know-if-virtualiztion-is-on.org][0-how-to-know-if-virtualiztion-is-on]]
+- [[file:0-how-to-install-qemu-and-virt-manager-and-kvm-on-ubuntu.org][0-how-to-install-qemu-and-virt-manager-and-kvm-on-ubuntu]]
+- [[file:0-how-to-share-clipboard-on-a-vm-on-virt-manager-or-how-to-enable-bi-directional-clipboard-in-virt-manager.org][0-how-to-share-clipboard-on-a-vm-on-virt-manager-or-how-to-enable-bi-directional-clipboard-in-virt-manager]]

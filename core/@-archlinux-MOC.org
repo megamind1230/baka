@@ -1,0 +1,12 @@
+* done
+- [X] [[file:0-btrfs-vs-ext4-on-linux.org][0-btrfs-vs-ext4-on-linux]]
+- [X] [[file:0-simple-how-to-of-pacman-cmds-arch.org][0-simple-how-to-of-pacman-cmds-arch]]
+- [X] [[file:backup-or-save-ur-pacman-system-packages.org][backup-or-save-ur-pacman-system-packages]]
+- [X] [[file:0-archinstall-connect-to-wifi.org][0-archinstall-connect-to-wifi]]
+  ​# not done
+- [[file:2-mutahar-install-arch.org][2-mutahar-install-arch]]
+- [[file:0-pipewire-vs-pulseaudio-moc.org][0-pipewire-vs-pulseaudio-moc]]
+- [[file:gdm-vs-sddm.org][gdm-vs-sddm]]
+- why-arch-vm-doesnt-enable-uefi
+- [[file:aur-arch-user-repository-with-yay-or-paru.org][aur-arch-user-repository-with-yay-or-paru]]
+- [[file:AUR-with-paru.org][AUR-with-paru]]

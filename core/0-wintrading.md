@@ -1,4 +1,0 @@
-a way of boosting ranks
-> is to make a deal pre-game about who wins this game 
-
-pretty complicated .. watch this vid

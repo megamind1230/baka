@@ -1,0 +1,16 @@
+* done
+- [X] [[file:@-linux-terminal-cmds-or-utilities-MOC.org][@-linux-terminal-cmds-or-utilities-MOC]]
+- [X] [[file:0-@-linux-cli-or-tui-apps-and-terminals-moc.org][0-@-linux-cli-or-tui-apps-and-terminals-moc]]
+- [X] [[file:@-bash-zsh-cmds-aliases-and-shell-scirpts-linux-MOC.org][@-bash-zsh-cmds-aliases-and-shell-scirpts-linux-MOC]]
+- [X] [[file:0-my-linux-slander-the-linux-journey.org][0-my-linux-slander-the-linux-journey]]
+- [X] [[file:@-linux-gui-apps-MOC.org][@-linux-gui-apps-moc]]
+- [X] [[file:0@-TWMs-vs-DEs-MOC.org][0@-TWMs-vs-DEs-MOC]]
+- [X] [[file:0-alternative-foss-or-non-foss-app-linux-moc.org][0-alternative-foss-or-non-foss-app-linux-moc]]
+- [X] [[file:0@-linux-distros-moc.org][0@-linux-distros-moc]]
+- [X] [[file:0-@-linux-issues-and-random-info-MOC.org][0-@-linux-issues-and-random-info-MOC]]
+- [X] [[file:@-linux-journey-roadmap-MOC.org][@-linux-journey-roadmap-moc]]
+- [X] [[file:@-linux-permissions-MOC.org][@-linux-permissions-moc]]
+- [X] [[file:@-qemu-MOC.org][@-qemu-moc]]
+- [X] [[file:scripts-moc.org][scripts-moc]]
+- [X] [[file:wayland-moc.org][wayland-moc]]
+  ​# not done

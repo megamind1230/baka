@@ -1,0 +1,4 @@
+- [ ] 0:53:00
+- [X] =Get-Location= in package manager in visual studio
+- [X] =Set-Location projPath=
+- [ ]

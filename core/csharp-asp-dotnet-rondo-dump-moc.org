@@ -1,0 +1,15 @@
+** not done
+- [ ] [[file:dependency-injection.org][dependency-injection]]
+- [ ] [[file:asp-dotnet-core-dev-roadmap.org][file:asp-dotnet-core-dev-roadmap.org]]
+
+** done
+- [X] [[file:0-mvc-architecture.org][0-mvc-architecture]]
+- [X] [[file:0-pagination-in-c.org][0-pagination-in-c]]
+- [X] [[file:0-what-is-endpoints-in-csharp-apis.org][0-what-is-endpoints-in-csharp-apis]]
+- [X] [[file:0-sql-index.org][0-sql-index]]
+- [X] REST api = REpresentational State Transfer
+- [X] URI = uniform resource id >> ig it's a link
+- [X] TODO transformation in sql and db
+  - data transformatio is the process of preparing data for analysis and reporting by: filtering, joining , aggregating, data type modifying
+- [X] [[file:0-dbcontext-csharp.org][0-dbcontext-csharp]]
+- [X] [[file:0-func-overloading-overriding-overwrite.org][0-func-overloading-overriding-overwrite]]

@@ -1,1 +1,0 @@
-- [x] [[direct-and-indirect]]

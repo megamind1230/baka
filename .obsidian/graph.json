@@ -5,13 +5,13 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file: moc",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 0
       }
     }
   ],

@@ -1,0 +1,26 @@
+* interface
+[[file:0-interface-vs-abstract-class-in-csharp.org][0-interface-vs-abstract-class-in-csharp]]
+
+#+begin_src txt
+
+# ctor chaining #still 
+# ICompareable, IClonable
+#+end_src
+
+01061815731 mo yassir
+
+#+begin_example
+#region
+
+#endregion
+#+end_example
+
+#+begin_example
+public int Id {get; set;}
+#+end_example
+
+#+begin_example
+interpolated string
+#+end_example
+
+[[file:mec-assignment-lec11.org][mec-assignment-lec11]]

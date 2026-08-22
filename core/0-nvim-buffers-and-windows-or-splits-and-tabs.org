@@ -1,0 +1,9 @@
+session > tab > split / window > buff
+
+#+begin_quote
+each tab can have its own splits
+# buffer - [x] =:n name= or =:new name= > new b - [x] =:bn= > next - [x] =:bp= > prev - [x] =:b3= > go to 3 - [x] =:bd= > delete - [x] =:ls= > list buffers
+# tab - [x] =:tab ba=> {tab Buffer All} convert all buffers into tabs - [x] =:tabnew name= > new t - [x] =:tabclose= > close - [x] =:tabonly= > close {from view.. not delete} all tabs except this one - [x] =gt/T= > GoTo next/prev - [x] =:ls=> list also tabs - [x] =ctrl wT= > current window into tab - [x] =:tabdo q= > on all tabs do {quit} cmd
+# split / window - [x] =:sp name= > hori split {*/spare/spilt/*} - [x] =:vs name= > vert split {*/versus/*} - [x] =ctrl ww= or =ctrl w{hjkl}= - [x] =ctrl w{HJKL}= > move split - [x] to be full width or height - [x] =ctrl w</>= > resize slowly - [x] =ctrl w+/-= > resize for hori - [x] =ctrl w== > reset - [x] ctrl wx > swap with next window - [x] ctrl wT > all splits nows are tabs
+# extra - [x] =:qa= > quit all - [ ] =:new %:h press_tab= > allows for fast creating a new file on same folder
+#+end_quote

@@ -1,0 +1,12 @@
+** [[https://www.youtube.com/watch?v=SSo_EIwHSd4][How does a blockchain work - Simply Explained - YouTube]]
+related to linked-lists? 1:03
+
+new changes to blocks = new hash
+
+genesis-block = the very first node/block
+
+proof-of-work-mechanism = more security
+
+consensus-mechanism
+
+p2p = peer to peer network (each one is both a server and a client)

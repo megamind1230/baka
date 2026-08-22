@@ -1,0 +1,10 @@
+* not done
+- [ ] [[file:general-knowledge-draft-for-dota2.org][general-knowledge-draft-for-dota2]]
+  ​# done
+- [X] [[file:0-invoker-dota2.org][0-invoker-dota2]]
+- [X] [[file:0-how-to-micro-by-zquixotix.org][0-how-to-micro-by-zquixotix]]
+- [X] =ctrl { saved camera position hotkey }= > to save a position
+  - [X] ={ saved camera position hotkey }= > to toggle pan camera to it
+- [X] never farm away from team.. unless you have tp {better have boots of travel}
+- [X] [[file:dota-2-combos.org][dota-2-combos]]
+- [X] strafing in dota2: is to fake the direction u go into by abusing fog of war after killing minions

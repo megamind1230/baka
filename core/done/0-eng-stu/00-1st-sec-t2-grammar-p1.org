@@ -1,0 +1,99 @@
+* U7: simple past & perfect past
+*** الماضي البسيط
+- استعمالاته (التصريف 2 للفعل)
+  - حدث حصل وخلص في الماشي .. بس كده
+    - خليك فاكر حالة if 2
+      =if simple past, would + مصدر=
+      > once = ذات مرة
+      > once upon a time = كان ياما كان
+      > the other day = أول امبارح
+- عند النفي لو كان الفعل الرئيس
+  - verb to */be/*
+    - هننفي بيـــــه هو نفسه
+      He */wasn't/* at school yesterday.
+  - أي فعل تاني
+    - يبقى ننفي باستعمال */don't/doesn't/*
+      She */didn't have/* lunch at 2 o'clock.
+      ​### العادات في الماضي والمضارع
+
+#+begin_quote
+*/He used to swim/* in the lake. {He didn't use to swim .. دا النفي}
+= */It was his habit to swim/* in the lake
+معناها إنه كان في الماضي متعود يسبح في البحيرة (إنما دلوقت بح .. معدش)
+#+end_quote
+
+--------------
+
+| am/is/are + used to + */ving/*/n                | متعود دلوقت في المضارع               | She is used to studying on her bed.      |
+|-------------------------------------------------+--------------------------------------+------------------------------------------|
+| was/were/got/became/grew + used to + */ving/*/n | كان متعود زمان في الماضي .. دلوقت لأ | He was used to run fast. Now he doesn't. |
+| used to + */inf/*                               | كان متعود زمان في الماضي             | He used to run fast. Now he doesn't.     |
+
+- They =ate= the mangos. معلوم
+  - The mongos =were eaten= by them مجهول
+
+--------------
+
+*** الماضي التام (الماضي العتيق) perfect past
+=had + pp (3)= - استعمالاته - حاجتين في الماضي .. واحدة حصلت قبل التانية
+
+| أداة الربط                                | جملة                                                   | معنى                                 | تسهيل                                                                |
+|-------------------------------------------+--------------------------------------------------------+--------------------------------------+----------------------------------------------------------------------|
+| */after/*/as soon as + perfect, simple    | after ==he== had arrived, he opened the laptop.        | بعد ما وصلهو فتح اللابتوب            | % قبل ما الجديد يحصلحصل العتيق% after فيها حرف ت.. يبقى بعدها تام    |
+| */before/*/by the time + simple , perfect | before ==she== went to bed, she turned off the lights. | قبل ما تنامهي قفلت الأنوار           | % بعد ما العتيق حصليحصل الجديد% before فيها حرف ب .. يبقى بعدها بسيط |
+| */when/*                                  |                                                        | عندما                                | بعدها أي حاجة                                                        |
+| */Having/* + pp                           | Having arrived home, she slept                         | =بمجرد= وصولها للبيتهي نامت          | الوحيدة اللي بعدهاpp علطول                                           |
+| till/until                                | She didn't hand me the paper until she had finished.   | هي لم تسلمني الورق حتى كانت هي انتهت | قبلها عالشمال جملة منفية                                             |
+| On                                        |                                                        | في لحظة ما                           |                                                                      |
+| before that                               |                                                        | قبل كدا                              | نترجمها بالعربي .. ولوحدك هتعرف بعدها إيه                            |
+| after that                                |                                                        | بعد كدا                              | نترجمها بالعربي .. ولوحدك هتعرف بعدها إيه                            |
+
+#+begin_quote
+لو ==الفاعل== اللي بالأصفر فوق كان */محذوف/* يبقى نحط
+*/ving/n/*
+After seeing/Before watching/On the arrival
+#+end_quote
+
+*** زيادات الوحدة
+| اداة الربط                                              | جمل                                                                                                                                                              | معنى                    |
+|---------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------|
+| hardly/scarcely .. */when/*no sooner ... */than/*       | =She had hardly arrived= home when she called me.= =Hardly had she arrived...=She had no sooner arrived home than she called me.= =No sooner had she arrived...= | بمجرد العتيق حصل الجديد |
+| It was only when .. */that/*It wasn't until .. */that/* | It was only when they had finished work that they went for a break.It wasn't untill they had finished work that they went for a break.                           | بمجرد                   |
+
+--------------
+
+* U8: simple present & simple past
+*** المضارع البسيط
+- استعمالاته
+  - حقائق
+  - عادات/معتادات
+    > الفعل يتعاص s
+    > لما الفاعل يكون he/she/it
+    > غير كده .. هيفضل في المصدر
+
+#+begin_quote
+He */doesn't help/* the poor at all نفي
+The */aren't/* tall (نفي v.to.be)
+#+end_quote
+
+--------------
+
+- Farmers grow plants الفلاحون يزرعون النباتات (معلوم)
+  - Plants =are grown= by farmers. النباتات يتم زراعتها بواسطة الفلاحين (مجهول)
+- I have a car (معلوم)
+  - A car is */had/owned/possessed/* by me. (مجهول)
+    - يســــتحـــسن لو متستعملش الفعل have
+      في المبني للمجهول ﻷنه ناقص التصرف
+
+--------------
+
+#+begin_quote
+once = ذات مرة
+nowadays = هذه الأيام
+#+end_quote
+
+#+begin_quote
+x[v.to.be]x + كلمة التكرار + x[فعل رئيس]x
+He */is never/*
+He */never does/*
+#+end_quote

@@ -1,0 +1,30 @@
+- by */learnlinuxtv/*
+  - [X] =cd= by default go to ~
+  - [X] =ctrl l= > just cleaning the screen
+    - meanwhile =reset= > resetting your shell session
+  - [X] =pushd= , =popd= > stacking any set of dir
+    - =pushd whatever/path= > adds to top of directories stack + moves to it
+      - =pushd= only
+        - swaps the top 2 items on stacks
+    - =popd= > pops top + moves to 2nd
+  - [X] =ctrl z= , =fg= > send something to the background, then to the foreground (good with vim, nano , htop .. etc)
+  - [X] =ctrl a= , =ctrl e= > start & end of command line
+  - [X] =ctrl u= > delete whole line before cursor
+  - [X] =sudo !!= > do last command but with sudo
+  - =ctrl r= > search for a command you wrote (just type some keywords)
+    - spam it to traverse
+    - =ctrl e= break out
+  - [X] =history= > history of commands (numbered)
+    - =!number= ... =!= is bang in linux
+  - [X] =ctrl shift +/-= > terminal zoom in/out
+  - [X] =command1 ; command2= > run both .. no dependency
+    - =command1 && command2= > if 1 fails .. 2 fails also
+  - [X] =tail -f file= > watch tail (updated) in real-time
+    - =ctrl c= break out
+  - [X] =truncate -s 0 filename= > file still exists but empty
+  - [X] =anyCommandThatResultsIn_A_JumbledText | column -t= > better way of display cluttered text in columns
+  - [X] =cd -= */to the previously used dir (not on Windows)/*
+  - [X] can =ls= more than a directory [[file:../attachments/Pasted-image-20221213115008.png]]
+  - [X] =cp whatever .=
+    - [X] =.= means here
+  - [X] =rename 's/\.png/\.gif/' *.png= [[file:@-regex-or-regular-expressions-MOC.org][regex]] on rename

@@ -1,0 +1,5 @@
+* [[https://youtu.be/rXhUeV5Ko7g?si=JdPIGHVgnaogwtsd][diagrams {obsidian mermaid}]]
+[[https://mermaid.js.org/ecosystem/tutorials.html][Tutorials | Mermaid]]
+
+built-in btw - piechart
+=mermaid     pie title BAKA     "hi": 20     "hello": 80=

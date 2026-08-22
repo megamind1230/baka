@@ -1,4 +1,0 @@
-- soiyek
-	- [GitHub - ahrm/sioyek: Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
-	- [sioyek, my favorite pdf reader - YouTube](https://www.youtube.com/watch?v=--H_DPhu1Ug)
-- [[0-zathura-the-vimlike-modal-and-modular-pdf-viewer]]

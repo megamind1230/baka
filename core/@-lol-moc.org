@@ -1,0 +1,14 @@
+* done
+- [X] [[file:0-draven-lol.org][0-draven-lol]]
+- [X] [[file:0-akali-lol.org][0-akali-lol]]
+- [X] [[file:@-lol-roadmap-moc.org][@-lol-roadmap-moc]]
+- [X] [[file:lol/0-aphelios-lol.org][0-aphelios-lol]]
+- [X] [[file:0-yasuo-lol.org][0-yasuo-lol]]
+
+* not done
+- [ ] [[file:akshan-lol.org][akshan-lol]]
+- [ ] [[file:lol/zoe-lol.org][zoe-lol]]
+- [ ] [[file:nidalee-lol.org][nidalee-lol]]
+- [ ] [[file:lol/0-champions-i-hate-or-need-to-counter-lol.org][0-champions-i-hate-or-need-to-counter-lol]]
+- [ ] [[file:katarina-lol.org][katarina-lol]]
+- [ ] [[file:lol/0-my-champion-pool-lol.org][0-my-champion-pool-lol]]

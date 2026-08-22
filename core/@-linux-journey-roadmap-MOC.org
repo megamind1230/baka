@@ -1,0 +1,21 @@
+* not done
+- [ ] [[file:@-linux-challenges-overthewire-bandit-MOC.org][@-linux-challenges-overthewire-bandit-moc]]
+- [ ] [[https://linuxhandbook.com/][Linux Handbook]]
+- [ ] https://roadmap.sh/r?id=652aba6ef43a58c923cc1563
+- [ ] [[file:randoms-on-linux.org][randoms-on-linux]]
+- [ ] [[https://rms-support-letter.github.io/][minimal linux blogs showcase]]
+- [ ] [[https://www.youtube.com/watch?v=Jllnhid7O7w][Massive list of the best Linux resources I know of. - YouTube]]
+- [ ] [[https://tldp.org/][The Linux Documentation Project]]
+- [ ] [[https://www.linuxdoc.org/][Linux Documentation Project]]
+- [ ] [[https://wiki.debian.org/][Debian Wiki]]
+- [ ] [[https://wiki.archlinux.org/title/Main_page][Arch Wiki]]
+- [ ] [[https://wiki.gentoo.org/wiki/Main_Page][Gentoo Wiki]]
+- [ ] [[https://www.rodsbooks.com/gdisk/booting.html][Booting from GPT]]
+- [ ] [[https://www.brendangregg.com/][Brendan Gregg's Homepage]]
+- [ ] [[https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html][Filesystem Hierarchy Standard]]
+- [ ] [[https://overthewire.org/wargames/][OverTheWire: Wargames]]
+- [ ] [[https://github.com/topics/awesome-list][awesome-list · GitHub Topics]]
+
+* done
+- [X] https://linuxjourney.com/
+- [X] https://dev-random.net/linux-directory-structure-explained/

@@ -1,0 +1,3 @@
+- [ ] [[https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF][git elzero]]
+- new branch = new feature
+- [X] [[@-obsidian-one#[[file:https%20//docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax][md]]|markdown]]

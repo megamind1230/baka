@@ -1,0 +1,9 @@
+* not done
+* done
+- [ ] [[file:@-ubuntu-and-kubuntu-MOC.org][@-ubuntu-and-kubuntu-moc]]
+- [ ] [[file:@-fedora-moc.org][@-fedora-moc]]
+- [ ] [[file:@-archlinux-MOC.org][@-archlinux-moc]]
+- [ ] [[file:@-popos-MOC.org][@-popos-moc]]
+- [ ] [[file:0-distro-hopping-scripts.org][0-distro-hopping-scripts]]
+- [ ] [[file:@-nixos-MOC.org][@-nixos-moc]]
+- [ ] [[file:@-arco-linux-MOC.org][@-arco-linux-moc]]

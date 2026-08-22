@@ -1,0 +1,2 @@
+https://docs.kdenlive.org/en/getting_started.html
+[[file:kdenlive-manual-{UI-Elements}.org][kdenlive-manual-{UI-Elements}]]

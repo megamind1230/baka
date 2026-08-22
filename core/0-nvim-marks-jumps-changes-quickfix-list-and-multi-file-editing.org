@@ -1,0 +1,3 @@
+* done
+- [X] [[file:0-diff-between-jumplist-changelist-marks-quickfixlist-in-nvim.org][0-diff-between-jumplist-changelist-marks-quickfixlist-in-nvim]]
+- [X] [[file:0-nvim-buffers-and-windows-or-splits-and-tabs.org][0-nvim-buffers-and-windows-or-splits-and-tabs]]

@@ -1,0 +1,125 @@
+- [[https://chat.deepseek.com/a/chat/s/7341d7a9-9edd-4c4f-ba8b-ac3e2ff08239][HTTP HTTPS QUIC recap - DeepSeek]]
+- [[https://web.dev/articles/why-https-matters][Why HTTPS matters | Articles | web.dev]]
+- [[https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/][What is HTTPS? | Cloudflare]]
+- [[https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/][HTTP/3 From A To Z: Core Concepts --- Smashing Magazine]]
+- [[https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview][Overview of HTTP - HTTP | MDN]]
+- [[https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/][What is HTTP? | Cloudflare]]
+- [[https://web.dev/articles/enable-https][Enable HTTPS on your servers | Articles | web.dev]]
+
+* DONE deepseek recap
+*** *HTTP Basics & Core Concepts*
+- *Definition*: HTTP (Hypertext Transfer Protocol) is the foundation of
+  the World Wide Web, an application-layer protocol used to load
+  webpages and transfer information between a client (like a web
+  browser) and a server. It follows a client-server model where the
+  client initiates requests and the server sends back responses.
+- *Messages*: Communication happens through individual messages:
+  *requests* sent by the client and *responses* sent by the server.
+  - An *HTTP request* includes an HTTP method (e.g., =GET=, =POST=), the
+    path to the resource, the protocol version, headers, and an optional
+    body.
+  - An *HTTP response* includes the protocol version, a status code
+    (e.g., =200 OK=, =404 Not Found=), a status message, headers, and an
+    optional body containing the requested resource.
+- *Key Characteristics*:
+  1. *Simple*: HTTP messages are generally human-readable, making them
+     easier to debug.
+  2. *Extensible*: The use of headers allows the protocol to be easily
+     extended with new features.
+     #baka explain
+  3. *Stateless but not Sessionless*: There is no inherent link between
+     two requests on the same connection. However, *HTTP cookies* are
+     used to create stateful sessions, linking requests together for a
+     coherent user experience (e.g., maintaining a shopping cart).
+     #baka explain
+- *Connections*: HTTP relies on a reliable transport protocol, typically
+  TCP. While HTTP/1.0 opened a new TCP connection for each request,
+  HTTP/1.1 introduced persistent connections and pipelining. *HTTP/2*
+  further improved this by multiplexing multiple requests over a single
+  connection to improve efficiency.
+  #baka tcp stands for?
+*** *HTTPS: The Secure Version*
+- *Definition*: HTTPS (Hypertext transfer protocol secure) is the secure
+  version of HTTP. It uses the TLS/SSL protocol to encrypt all
+  communication between the browser and the server, protecting data from
+  being intercepted and read.
+- *How it Works*: HTTPS uses an asymmetric public key infrastructure. A
+  server has a *private key* (kept secret) and a *public key* (shared
+  with everyone). Data encrypted with the public key can only be
+  decrypted with the private key. An SSL/TLS certificate is used to
+  verify the server's identity.
+  #baka visualize how private/public keys are used
+- *Why It Matters*:
+  1. *Security & Privacy*: It prevents man-in-the-middle attacks,
+     protecting user data like login credentials and personal information
+     from being stolen. It stops ISPs and other third parties from
+     injecting unwanted ads or content into web pages.
+  2. *Integrity*: It ensures that data cannot be tampered with during
+     transit, preventing attackers from modifying resources like scripts
+     or HTML.
+  3. *Performance*: While there is a slight performance overhead, this is
+     often offset by newer features like HTTP/2. Also, using HTTPS is a
+     positive ranking signal for Google.
+  4. *Web Platform Features*: Many powerful new browser features (e.g.,
+     Service Workers, Geolocation API, progressive web apps) /require/
+     HTTPS to function, as they often need explicit user permission.
+     #baka explain
+- *Port*: HTTPS uses port *443*, while HTTP uses port *80*.
+*** *HTTP/3 & QUIC: The Next Evolution*
+- *The Problem with TCP*: TCP, the transport protocol underlying HTTP,
+  was not designed for maximum web efficiency. It suffers from issues
+  like connection setup overhead (requiring a handshake) and
+  *head-of-line (HoL) blocking*, where a lost packet for one file can
+  delay all other files being downloaded over the same connection.
+  #baka explain head-of-line
+- *The Need for QUIC*: It became practically impossible to evolve TCP
+  because updating it requires all devices on the internet (including
+  middleboxes like firewalls and routers) to support new extensions.
+  This is a slow and challenging process.
+- *What is QUIC?*: QUIC is a new transport protocol designed to replace
+  TCP for HTTP. It's a more advanced version of TCP, built from the
+  ground up with performance in mind.
+  #baka visualize how quic differs from tcp
+- *Key Improvements in QUIC/HTTP/3*:
+  - *Built on UDP*: QUIC runs on top of UDP for ease of deployment, as
+    it's already supported by almost all devices. This does /not/ mean
+    it is faster by default; it reimplements TCP's features
+    (reliability, congestion control) but more intelligently.
+  - *Deeply Integrated TLS*: QUIC is always fully encrypted and
+    integrates TLS 1.3 directly. This combines the transport and
+    cryptographic handshake, making connection setup faster (saving a
+    round trip). It also makes it harder for middleboxes to inspect or
+    block, aiding future evolution.
+  - *Solves Head-of-Line Blocking*: Unlike TCP, QUIC is aware that it is
+    multiplexing multiple independent byte streams. Packet loss and
+    recovery are handled per-stream, meaning a lost packet for one
+    resource (e.g., an image) won't hold up other resources (e.g., CSS
+    or JavaScript).
+  - *Connection Migration*: QUIC supports connection migration, allowing
+    connections to stay alive even if a client's IP address changes
+    (e.g., switching from Wi-Fi to mobile data).
+*** *Practical Guide: Enabling HTTPS on Your Server*
+1. *Generate Keys and CSR*: Create a 2048-bit RSA public/private key
+   pair and a =Certificate Signing Request (CSR)= containing your public
+   key and organization details.
+2. *Get a Certificate*: Submit your CSR to a =Certificate Authority (CA)=
+   to receive a final certificate or certificate chain.
+3. *Install and Configure*: Install the final certificate on your
+   server. Use tools like Mozilla's SSL Configuration Generator and test
+   your setup with Qualys' SSL Server Test, aiming for an A or A+
+   rating.
+4. *Update Your Website*: Change all internal links to be
+   *protocol-relative* (e.g., =//example.com/script.js=) or *relative
+   paths* (e.g., =/script.js=). This ensures your site works smoothly on
+   both HTTP and HTTPS and prevents "mixed content" errors (where secure
+   pages load insecure resources).
+5. *Redirect to HTTPS*: Set up 301 (Moved Permanently) redirects on your
+   server to automatically send all HTTP traffic to the HTTPS version.
+6. *Lock it Down*:
+   - *HSTS*: Enable =HTTP Strict Transport Security (HSTS)= to tell
+     browsers to /always/ use HTTPS, even if the user types =http://=.
+     This eliminates the redirect overhead and protects against attacks
+     like SSL stripping.
+   - *Secure Cookies*: Ensure all authentication and session cookies are
+     set with the =Secure= flag, so they are never sent over an
+     unencrypted HTTP connection.

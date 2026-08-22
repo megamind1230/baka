@@ -1,0 +1,8 @@
+#1
+
+#+begin_example
+install `xdotool`
+use
+    xdotool getwindowfocus windowkill
+        `set it to a shortcut`
+#+end_example

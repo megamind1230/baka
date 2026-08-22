@@ -1,0 +1,16 @@
+* review notes
+- make all have #1
+- a query of all non-finished notes
+  - query meaning > list all notes that does start with =0= in its name
+
+  #+begin_src query
+  -(file: /^0/)
+  #+end_src
+
+* MOC files
+#+begin_src dataview
+TABLE
+WHERE contains(file.name, "MOC")
+#+end_src
+
+أ

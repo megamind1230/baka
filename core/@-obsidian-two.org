@@ -1,0 +1,29 @@
+* done
+* note done
+- [ ] [[file:0-obsidian-search-a-deeper-dive.org][0-obsidian-search-a-deeper-dive]]
+- [ ] [[file:@-MOCs-or-maps-of-content-and-how-to-use-it.org][@-mocs-or-maps-of-content-and-how-to-use-it]]
+- [ ] [[file:more-md-formatting.org][more-md-formatting]]
+- [ ] [[file:@-obsidian-plugins-MOC.org][@-obsidian-plugins-MOC]]
+- [ ] [[file:0-zettelkasten or ZK.org][0-zettelkasten or ZK]]
+- [ ] [[file:@-obsidian-issues-MOC.org][@-obsidian-issues-moc]]
+- [ ] [[file:markdownlint.org][markdownlint]]
+- [ ] [[file:obsidian-data-visualiztion.org][obsidian-data-visualiztion]]
+- [ ] [[file:@-MOCs-and-MOCeptions-liking-between-MOCs.org][@-mocs-and-moceptions-liking-between-mocs]]
+- [ ] maximize active pane plugin better focus
+- [ ] cycle through panes .. for better nav
+- [ ] obsidian tabs plugin
+- [ ] path title
+- [ ] outliner vs outline
+- [ ] imgur
+- [ ] find unlinked/dangling files
+- [ ] highlighter
+- [ ] journey
+- [ ] obsidian sandbox vault
+  [[file:diagrams-{obsidian-mermaid}.org][diagrams-{obsidian-mermaid}]]
+
+#+begin_example
+^ hat
+[[^^]]
+#+end_example
+
+[[file:@-obsidian-three.org][@-obsidian-three]]

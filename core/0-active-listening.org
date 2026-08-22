@@ -1,0 +1,5 @@
+- eye contact if possible
+- show emotions and engagement
+- never interrupt
+- make sure you understand him { so what you're saying is ... }
+- ask them for more clarifications

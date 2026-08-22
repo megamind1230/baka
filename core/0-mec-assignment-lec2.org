@@ -1,0 +1,77 @@
+#todo
+
+#+begin_src C
+some notes
+طبعا مكسل ارسم الأسهم .. بس سهلة
+ من الـ FK وحتى الـ PK
+
+PK باللون الأصفر
+
+FK آخر اسمه _F
+
+اي حاجة على صورة
+x{}()
+هي relationship
+واللي مش شرط تكون ديما جدول في الـ schema
+#+end_src
+
+- social medial
+  - [X] user(=userid=, username, datejoined)
+  - [X] post(=postid=, content, dateposted)
+  - [X] like(=likeid=, date)
+  - [X] comment(=commentid=, content, date)
+  - [X] have{post, comment}(postid_f, =commentid_f=)
+  - [X] contain{like, post}(postid_f, =likeid_f=)
+  - [X] create{user, post}(userid_f, =postid_f=)
+  - [X] can{like, user, post}(=userid_f, postid_f, likeid_f=)
+- hotel
+  - [X] guest(=guestid=, name , contactInfo)
+  - [X] res( =resid=, date, checkinDate, checkoutDate)
+  - [X] room( =roomid=, type, rate)
+  - [X] payment( =payid=, method, amount, resid_f)
+  - [X] make{guest, res}(guestid_f, =resid_f=)
+  - [X] contain{res, room}(=roomid_f=, resid_f)
+  - [X] has{res, payment}()
+- hospital
+  - [X] patient(=patid=, patname, dob, consid_f, wardid_f)
+  - [X] consultant( =consid=, consname)
+  - [X] ward(=wardid=, wardname, nursenum_f)
+  - [X] drug(=drugcode=, dosage)
+    - [X] drug-brand(=drugcode_f, brand=)
+  - [X] nurse(=nursenum=, nursename, addr, wardid_f)
+  - [X] examine{cons, pat}(=consid_f, patid_f=)
+  - [X] assigned{cons, pat}()
+  - [X] hosts{ward, pat}()
+  - [X] sup{nurse, ward}()
+  - [X] serve{nurse, ward}()
+  - gives{nurse, pat, drug}(dosage, date, time, =nursenum_f, drugcode_f, patid_f=)
+- musician
+  - [X] mus(=musid=, musid, phnumber, city, street,)
+  - [X] album(=albumid=, title, date, musid_f )
+  - [X] song(=songtitle=, author)
+  - [X] instru(=intruname=, key)
+  - [X] play{mus, instru}(=musid_f ,  instruname_f=)
+  - [X] perf{mus, song}(=songtitle_f ,  musid_f=)
+  - [X] has{album, song}( albumid_f , =songtitle_f= )
+  - [X] prod{mus, album}()
+- sales
+  - [X] salesoffice(=sonumber=, loc, empid_f)
+  - [X] emp(=empid=, empname, sonumber_f )
+  - [X] prop(=propid=, addr, city, state, code, sonumber_f )
+  - [X] owner(=ownerid=, ownername)
+  - [X] own{prop, owner}(=percent,  ownerid_f ,  propid_f=)
+  - [X] listed{so, prop}()
+  - [X] manage{so,emp}()
+  - [X] assign{so, emp}()
+- iti
+  - [X] student(=stid=, age, fname, lname, addr, depid_f)
+  - [X] department(=depid=, depname, instid_f, hiring-date)
+  - [X] inst(=instid=, hrate, salary, addr, bonus, instname, depid_f)
+  - [X] course(=cid=, cname, cduration, cdescr, tid_f)
+  - [X] topic(=tip=, tname)
+  - [X] loc{dep, st}()
+  - [X] take{c, st}(grade, =cid_f, stid_f=)
+  - [X] classify{c, t}()
+  - [X] teach{inst, c}(eval, =instid_f, cid_f=)
+  - [X] manage{inst, dep}()
+  - [X] contain{dep, inst}()

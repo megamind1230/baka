@@ -1,0 +1,11 @@
+#+begin_quote
+i think it's better to learn some [[file:@-git-and-github-moc.org][git]] instead .. =yes=
+#+end_quote
+
+#+begin_quote
+first time
+#+end_quote
+
+#+begin_example
+https://token@github.com/username/repo.git
+#+end_example

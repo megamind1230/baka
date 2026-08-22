@@ -1,0 +1,1 @@
+#todo - [x] [[file:0-anonymous-obj-and-func-vs-dto.org][0-anonymous-obj-and-func-vs-dto]] - [x] postman-and-swagger - [x] cqrs - [x] mvc - [x] [[object-keyword]]

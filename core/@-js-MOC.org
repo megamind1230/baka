@@ -1,0 +1,5 @@
+* not done
+- [ ] [[file:js-fcc-scrimba.org][js-fcc-scrimba]]
+- [ ] [[https://overapi.com/javascript][Javascript Cheat Sheet | OverAPI.com]]
+
+* done

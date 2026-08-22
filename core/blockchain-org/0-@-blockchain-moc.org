@@ -1,0 +1,6 @@
+based on this roadmap ==> [[https://roadmap.sh/blockchain][Blockchain Developer Roadmap: Learn to become a blockchain developer]]
+
+* not done
+
+* done
+- [X] [[file:blockchain-introduction.org][intro]]

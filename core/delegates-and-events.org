@@ -1,0 +1,22 @@
+its like
+=variable = function=
+both have same signature
+
+* delegates
+
+#+begin_quote
+delegate doesnt have =invoke=
+#+end_quote
+
+#+begin_quote
+=func= is a delegate
+#+end_quote
+
+* events
+An event can also be used to trigger delegates
+
+#+begin_src c#
+public event void WeatherChanged(string x);
+    //same as
+    pulic event Action<string> WeatherChanged;
+#+end_src

@@ -1,0 +1,21 @@
+#+begin_example
+,* DONE mvc architecture
+SCHEDULED: <2026-01-11 Sun 09:00>
+| In MVC         | In real life          |
+| -------------- | --------------------- |
+| **Model**      | Kitchen + ingredients |
+| **View**       | The menu + the plate  |
+| **Controller** | The waiter            |
+
+Model
+    Holds data {class}and CRUD operations
+    Holds business logic
+    Talks to database
+View
+    cshtml file {razor format}
+Controller
+    handles user actions/clicks
+    classname followed by {Controller}
+
+TDD > Test Driven Dev
+#+end_example

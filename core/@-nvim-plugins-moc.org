@@ -1,0 +1,36 @@
+* not done
+- [ ] [[nvim-plugin-auto-session]]
+- [ ] [[nvim-plugin-cmp-cmdline]]
+- [ ] [[file:nvim-plugin-gtranslate.org][nvim-plugin-gtranslate]]
+- [ ] [[file:nvim-plugin-vimspector.org][nvim-plugin-vimspector]]
+- [ ] [[nvim-plugin-vimbegood-theprimeagen]]
+- [ ] [[nvim-plugin-lazygit]]
+- [ ] [[file:nvim-plugin-telescope.org][nvim-plugin-telescope]]
+- [ ] [[nvim-plugin-omnisharp]]
+- [ ] [[nvim-plugin-treesitter-textobjects]]
+- [ ] [[nvim-plugin-delimitmate]]
+- [ ] [[nvim-plugin-vim-last-place]]
+- [ ] [[nvim-plugin-goyo]]
+- [ ] [[nvim-plugin-vim-markdown]]
+- [ ] [[nvim-plugin-vim-css-color]]
+- [ ] [[nvim-plugin-nerd-tree]]
+- [ ] [[nvim-plugin-luasnip]]
+- [ ] [[nvim-plugin-ultisnip]]
+- [ ] [[nvim-plugin-vsnip]]
+- [ ] [[nvim-plugin-matchit]]
+- [ ] [[nvim-plugin-syntastic]]
+- [ ] [[nvim-plugin-supertab]]
+- [ ] [[nvim-plugin-zoomwin]]
+- [ ] [[nvim-plugin-vim-sparkup]]
+- [ ] [[nvim-plugin-competest]]
+- [ ] [[nvim-plugin-octo-nvim]]
+- [ ] [[file:nvim-plugin-vim-surround.org][nvim-plugin-vim-surround]]
+
+* done
+- [X] nvim-plugin-vim-startify
+  - ASCII landing page
+  - recently opened files {are assigned a number each }
+- [X] nvim-plugin-oilnvim
+  - [X] nvim-plugin-neotree
+  - or any other file explorer plugin .. can break ur [[file:0-nvim-plugin-netrw-builtin.org][netrw]] and other cmd like =gx=
+  - [X] [[file:0-nvim-plugin-netrw-builtin.org][0-nvim-plugin-netrw-builtin]]

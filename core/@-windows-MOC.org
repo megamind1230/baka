@@ -1,0 +1,10 @@
+* not done
+- [ ] [[file:winget-package-manager.org][winget-package-manager]]
+
+* done
+- [X] [[file:0-DOS-cmds.org][0-DOS-cmds]]
+- [X] [[file:windows-10-issues.org][windows-10-issues]]
+- [X] [[file:0-windows-10-shortcuts.org][0-windows-10-shortcuts]]
+- [X] [[file:0-disable-ctrl-alt-arrow-weird-interaction-in-windows-10.org][0-disable-ctrl-alt-arrow-weird-interaction-in-windows-10]]
+- [X] [[file:0-downloaded-effect-templates-dont-show-in-kdenlive-template-section-on-windows.org][0-downloaded-effect-templates-dont-show-in-kdenlive-template-section-on-windows]]
+- [X] [[file:0-DOS-cmds.org][0-DOS-cmds]]

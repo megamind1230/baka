@@ -1,0 +1,20 @@
+- sleep optimization
+
+- [X] perma hydrated
+
+- [X] stupid simple sets
+
+  - pushups 3x5
+    - normal
+    - wide
+    - diamond
+  - squats 3x5
+  - plank 30sec
+  - lunges 3x5 [[file:../attachments/Pasted image 20250611171127.png]]
+  - glute bridges 3x5
+  - tricep dips 3x5
+  - mountain climber 30sec
+  - burpees 5 [[file:../attachments/Pasted image 20250611171158.png]]
+
+[[file:0-types-of-plastic-containers.org][0-types-of-plastic-containers]]
+[[file:0-how-to-avoid-bad-cholestrol-ldl.org][0-how-to-avoid-bad-cholestrol-ldl]]

@@ -1,0 +1,690 @@
+- ripgrep or rg : word searcher + uses regex
+  ​# intro
+  ​## =Find= cmd find fiLes / dirs (really hard)
+  > the weirdest syntax
+  =find exp1 -o/-a exp2= for OR/AND
+  ig find expressions are evaluated on every file
+- [X] =find . \( -type f -print \) -o \( -path ./.git -prune -print \)=
+  - prints all files ignoring the files inside of .git
+- [X] =find . -mtime -1=
+  - =-mtime -1= > modified in last day
+  - =-mtime -7= > last week
+  - =-mtime +30= > older than 30 days
+  - =-size +100M= > size 100MB or more
+- [X] =find . -name "*.log" -delete= delete by pattern
+- [X] =find . -type d -empty= empty dir
+  ​### =-exec ;=vs =-exec +=
+- [X] =find . -name "*.org" -exec wc -l {} \;= execute on every single file
+- [X] =find . -name "*.org" -exec wc -l {} \+= execute on them batch-wise, gives total too
+
+** =fd= cmd (the modern, easy and better version of =find=)
+
+#+begin_quote
+the simpler =find= cmd modern alternative
+#+end_quote
+
+- [X] =fd -e js -e ts= extesion .js / .ts only
+- [X] =fd somefile /absolute/path/of/dir=
+- [X] =fd -e rs -x wc -l= also can run cmds
+- [X] =fd -H= show hidden
+  ​## =rg= cmd or ripgrep
+  This is the *king of code/content searching*.
+  Search text in project
+
+#+begin_src sh
+rg "TODO"
+#+end_src
+
+Searches all files respecting =.gitignore= btw
+
+Show line numbers
+
+#+begin_src sh
+rg -n "function"
+#+end_src
+
+Search only certain file types
+
+#+begin_src sh
+rg "class" -t ts -t js
+#+end_src
+
+Show only filenames
+
+#+begin_src sh
+rg -l "TODO"
+#+end_src
+
+Count matches
+
+#+begin_src sh
+rg -c "error"
+#+end_src
+
+Replace text (powerful trick)
+
+#+begin_src sh
+rg "foo" -l | xargs sed -i 's/foo/bar/g'
+#+end_src
+
+* combos
+search inside of specific file formats
+
+#+begin_src sh
+fd -e js | xargs rg "useEffect"
+#+end_src
+
+List file names that has content that matches
+
+#+begin_src sh
+rg -l "TODO"
+#+end_src
+
+Interactive search (great workflow)
+Use *fzf*:
+
+#+begin_src sh
+rg --line-number --no-heading "" | fzf
+#+end_src
+
+Find files and open them in editor
+
+#+begin_src sh
+fd -e py | fzf | xargs nvim
+#+end_src
+
+Search only Python files
+
+#+begin_src sh
+rg "import " -t py
+#+end_src
+
+List files containing a match
+
+#+begin_src sh
+rg -l "TODO"
+#+end_src
+
+Count occurrences of a word
+
+#+begin_src sh
+rg -c "error"
+#+end_src
+
+Replace text across project
+
+#+begin_src sh
+rg foo -l | xargs sed -i 's/foo/bar/g'
+#+end_src
+
+Replace only in JS files
+
+#+begin_src sh
+rg foo -t js -l | xargs sed -i 's/foo/bar/g'
+#+end_src
+
+Find unused imports
+
+#+begin_src sh
+rg "^import" | sort | uniq
+#+end_src
+
+Search but ignore node_modules
+
+#+begin_src sh
+rg "error" -g '!node_modules'
+#+end_src
+
+Search inside files found by =fd=
+
+#+begin_src sh
+fd -e js | xargs rg "useEffect"
+#+end_src
+
+Search only files modified recently
+
+#+begin_src sh
+find . -mtime -1 -type f -exec rg "TODO" {} +
+#+end_src
+
+Search text interactively
+
+#+begin_src sh
+rg --line-number --no-heading "" | fzf
+#+end_src
+
+Grep + open result in editor
+
+#+begin_src sh
+rg "TODO" | fzf | cut -d: -f1 | xargs nvim
+#+end_src
+
+Search only specific directories
+
+#+begin_src sh
+rg "UserService" src/ services/
+#+end_src
+
+Search multiple patterns at once
+Find multiple error patterns simultaneously.
+
+#+begin_src sh
+rg -e "panic" -e "fatal" -e "error"
+#+end_src
+
+Show context around matches Very useful for debugging.
+Shows 3 lines before and after the match.
+
+#+begin_src sh
+rg -C 3 "database.connect"
+#+end_src
+
+Variants:
+
+#+begin_src sh
+rg -A 5 "error"   # after
+rg -B 5 "error"   # before
+#+end_src
+
+Search func definitions
+
+#+begin_src sh
+rg "fn\s+\w+" -t rust
+#+end_src
+
+for Python:
+
+#+begin_src sh
+rg "^def "
+#+end_src
+
+Show statistics of matches
+
+#+begin_src sh
+rg --stats "TODO"
+#+end_src
+
+Outputs:
+
+#+begin_example
+20 matches
+10 files searched
+0.003 seconds
+#+end_example
+
+Show only filenames with matches Useful for scripts.
+
+#+begin_src sh
+rg -l "deprecated"
+#+end_src
+
+Opposite:
+
+#+begin_src sh
+rg -L "TODO"
+#+end_src
+
+Shows files *without matches*.
+
+Search inside compressed files
+
+#+begin_src sh
+rg -z "error"
+#+end_src
+
+Output machine-readable JSON Perfect for automation.
+
+#+begin_src sh
+rg --json "TODO"
+#+end_src
+
+Example output:
+
+#+begin_src json
+{
+"type": "match",
+"data": {...}
+}
+#+end_src
+
+Search and jump directly to code Using *fzf*:
+
+#+begin_src sh
+rg --line-number --no-heading "TODO" | fzf
+#+end_src
+
+Or open in editor:
+
+#+begin_src sh
+rg --line-number "TODO" | fzf | cut -d: -f1 | xargs nvim
+#+end_src
+
+#+begin_example
+rg -n      show line numbers
+rg -i      ignore case
+rg -w      match whole word
+rg -g      include/exclude paths
+rg -t      filter by file type
+rg -S      smart case
+#+end_example
+
+Example:
+
+#+begin_src sh
+rg -n -S "userID"
+#+end_src
+
+* deep-dive
+** Find largest files in a project
+find regular files larger than 50 MiB.
+
+#+begin_src sh
+find . -type f -size +50M
+#+end_src
+
+=fd= equivalent
+
+#+begin_src sh
+fd -t f -S +50M
+#+end_src
+
+You can also sort by size:
+
+#+begin_src sh
+fd -t f -S +50M -x du -h 
+# do command on them
+#+end_src
+
+For a useful largest-files list:
+
+#+begin_src sh
+fd -t f -x du -h  | sort -h
+#+end_src
+
+Largest at the top(reversed):
+
+#+begin_src sh
+fd -t f -x du -h  | sort -hr
+#+end_src
+
+** Find empty files
+#+begin_src sh
+find . -type f -empty
+#+end_src
+
+=fd= equivalent
+
+#+begin_src sh
+fd -t f -S 0
+#+end_src
+
+You can also find empty directories:
+
+#+begin_src sh
+fd -t d --empty
+#+end_src
+
+** Live interactive search with =rg= + =fzf=
+Your command:
+
+#+begin_src sh
+rg --line-number --no-heading "" |
+    fzf --bind "change:reload:rg  || true"
+#+end_src
+
+is trying to create a *live grep interface*. The idea is:
+
+#+begin_src text
+                 
+  Type query     
+                 
+         
+         
+      fzf
+         
+         
+  query changes
+         
+         
+  rg searches again
+         
+         
+   new results
+#+end_src
+
+The parts
+
+1. 1. Initial search
+
+   #+begin_src sh
+   rg --line-number --no-heading ""
+   #+end_src
+
+   The empty pattern:
+
+   #+begin_src text
+   ""
+   #+end_src
+
+   matches every line. So initially, =rg= outputs something like:
+
+   #+begin_src text
+   src/main.cs:10:Console.WriteLine("Hello");
+   src/utils.cs:25:return result;
+   README.md:4:This is a project.
+   #+end_src
+
+   =--line-number= adds line numbers:
+
+   #+begin_src text
+   file:line:content
+   #+end_src
+
+   =--no-heading= prevents =rg= from grouping results by filename.
+
+2. 2. Pipe results into =fzf=
+
+   rg | fzf Now =fzf= displays the results interactively.
+
+3. 3. Reload whenever the query changes
+
+   =--bind "change:reload:rg  || true"= change means: When the text
+   inside the fzf search box changes Then: =reload= means: Run this
+   command again and replace the current results. And: =rg= means:
+   Run ripgrep using the current fzf query.
+
+=|| true=
+
+This is important:
+
+#+begin_src sh
+rg  || true
+#+end_src
+
+If =rg= finds no matches, it exits with status =1=. Without =|| true=,
+=fzf= may treat that as a failed reload command. So: =|| true= means:
+Even if =rg= finds nothing, don't treat it as a fatal error.
+
+*** A better version
+I would usually write:
+
+#+begin_src sh
+rg --line-number --no-heading --color=never "" |
+    fzf --bind 'change:reload:rg --line-number --no-heading --color=never  || true'
+#+end_src
+
+The important thing is to use the same formatting during reload.
+
+However, for searching code interactively, I would recommend a more
+complete version with preview:
+
+#+begin_src sh
+rg --line-number --no-heading --color=never "" |
+fzf \
+  --delimiter ':' \
+  --preview 'bat --style=numbers --color=always --highlight-line  ' \
+  --bind 'change:reload:rg --line-number --no-heading --color=never  || true'
+#+end_src
+
+Then you get:
+
+#+begin_src text
+                                            
+  Search: password                          
+                                            
+  src/auth.cs:42: password = ...            
+  src/user.cs:18: PasswordHash ...          
+                                            
+                                            
+               bat preview                  
+       source code around selected line     
+                                            
+#+end_src
+
+This is essentially a tiny interactive code-search tool.
+
+** =rg= and =.gitignore=
+Normally:
+
+#+begin_src sh
+rg "password"
+#+end_src
+
+respects =.gitignore=.
+
+For example, if your =.gitignore= contains:
+
+#+begin_src gitignore
+node_modules/
+bin/
+obj/
+.env
+#+end_src
+
+then:
+
+#+begin_src sh
+rg "password"
+#+end_src
+
+will skip those files. This is usually what you want.
+
+*** =-u=: include hidden files
+#+begin_src sh
+rg -u "password"
+#+end_src
+
+This tells =rg= to search hidden files/directories too. For example:
+
+#+begin_src text
+.git/
+.config/
+.env
+#+end_src
+
+Normally these may be ignored.
+
+So:
+
+#+begin_src sh
+rg -u "password"
+#+end_src
+
+means roughly: Search ignored files, including hidden files.
+
+*** =-uu=: ignore =.gitignore=
+#+begin_src sh
+rg -uu "password"
+#+end_src
+
+This goes further. It searches files that would normally be ignored by
+=.gitignore=. Example:
+
+#+begin_src text
+.gitignore:
+node_modules/
+,*.log
+.env
+#+end_src
+
+Normal:
+
+#+begin_src sh
+rg "password"
+#+end_src
+
+searches:
+
+#+begin_src text
+src/
+README.md
+config/
+#+end_src
+
+But skips:
+
+#+begin_src text
+node_modules/
+logs/
+.env
+#+end_src
+
+With:
+
+#+begin_src sh
+rg -uu "password"
+#+end_src
+
+it searches those ignored files too.
+
+This is useful when debugging things like:
+
+#+begin_src sh
+rg -uu "password"
+rg -uu "TODO"
+rg -uu "connection string"
+#+end_src
+
+*** =-uuu=: search absolutely everything
+#+begin_src sh
+rg -uuu "password"
+#+end_src
+
+The three levels are:
+
+#+begin_src text
+rg pattern
+     
+        normal search
+        respects hidden files and ignore rules
+
+rg -u pattern
+     
+        include hidden files
+
+rg -uu pattern
+     
+        ignore .gitignore rules
+
+rg -uuu pattern
+     
+        search everything, including normally ignored files
+#+end_src
+
+** A good mental model:
+#+begin_src sh
+rg       # normal project search
+rg -u    # include hidden files
+rg -uu   # ignore .gitignore
+rg -uuu  # ignore everything that normally prevents searching
+#+end_src
+
+Practical examples
+
+#+begin_src sh
+# Normal source-code search
+rg "TODO"
+
+# Search configuration files too
+rg -u "database"
+
+# Search ignored build/dependency files
+rg -uu "SomeClass"
+
+# Search literally everything
+rg -uuu "password"
+#+end_src
+
+Be careful with:
+
+#+begin_src sh
+rg -uuu
+#+end_src
+
+inside large projects because it may search:
+
+#+begin_src text
+.git/
+node_modules/
+bin/
+obj/
+target/
+build/
+#+end_src
+
+and become extremely slow.
+
+#+begin_src sh
+rg -uu --glob '!node_modules' "query"
+#+end_src
+
+*Search ignored files, but skip =node_modules=.* And:
+
+#+begin_src sh
+rg -uu --glob '!*.lock' "query"
+#+end_src
+
+*Search ignored files, but skip files whose names end in =.lock=.*
+
+=--glob= lets you include or exclude files using patterns. You can
+exclude multiple directories:
+
+#+begin_src sh
+rg -uu \
+  --glob '!node_modules/**' \
+  --glob '!target/**' \
+  --glob '!bin/**' \
+  "query"
+#+end_src
+
+=--glob= can also be used positively:
+
+#+begin_src sh
+rg "query" --glob '*.cs'
+#+end_src
+
+Search only C# files.
+
+#+begin_src sh
+rg "query" --glob '*.el'
+#+end_src
+
+Search only Emacs Lisp files.
+
+#+begin_src sh
+rg "query" --glob '*.'
+#+end_src
+
+Search C# source and project files.
+
+Suppose you want to search *everything*, including ignored files, but
+don't want dependencies and build output:
+
+#+begin_src sh
+rg -uu \
+  --glob '!node_modules/**' \
+  --glob '!bin/**' \
+  --glob '!obj/**' \
+  --glob '!target/**' \
+  --glob '!*.lock' \
+  "password"
+#+end_src
+
+In plain English:
+
+#+begin_quote
+Search ignored files for =password=, but skip Node dependencies,
+compiled build directories, Rust build output, and lock files.
+#+end_quote
+
+This is a very useful middle ground between:
+
+#+begin_src sh
+rg "query"
+#+end_src
+
+and:
+
+#+begin_src sh
+rg -uuu "query"
+#+end_src

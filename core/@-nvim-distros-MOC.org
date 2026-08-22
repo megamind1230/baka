@@ -1,0 +1,10 @@
+* not done
+- [ ] [[file:lunarvim.org][lunarvim]]
+- [ ] [[file:lazyvim.org][lazyvim]]
+- [ ] [[astrovim]]
+- [ ] [[file:nvim-and-vscode-mixing.org][nvim-and-vscode-mixing]]
+- [ ] [[file:pure-nvim-config-rabbitwhole.org][pure-nvim-config-rabbitwhole]]
+
+* done
+- [X] [[file:0-neovim-kickstart.org][0-neovim-kickstart]]
+- [X] i have my own distro {=doomnvim=} 😂

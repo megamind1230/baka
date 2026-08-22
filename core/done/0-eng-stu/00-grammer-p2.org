@@ -1,0 +1,998 @@
+المحتويات - [x] ملخصات u4,u5,u6 - [x] 180 سؤال برا الكتاب
+انتظروا القصة في السخان
+# U4
+الـ >> ving
+أن >> to + ving
+## أصعبهم
+
+| + ving              | + to inf           | both بدون فرق معنى       | + obj to inf   | + ==to ving==       |
+|---------------------+--------------------+--------------------------+----------------+---------------------|
+| suggest = recommend | plan               | like, love, ,prefer,hate | teach          | owing to = due to   |
+| mind                | manage يتمكن من أن | start, begin             | recommend      | prefer ving to ving |
+| resist, risk        | fail               | continue                 | instruct       | object to           |
+| postpone            | prepare            | intend                   | allow = permit |                     |
+| deny                | prove              |                          |                | راجع صفحة 200       |
+| fancy = imagine     | afford             |                          |                |                     |
+| =dislike=           | seem               |                          |                |                     |
+| go                  | arrange            |                          |                |                     |
+| =admit to ving=     | neglect            |                          |                |                     |
+| feel like           |                    |                          |                |                     |
+| it's no good        |                    |                          |                |                     |
+| (be) busy           |                    |                          |                |                     |
+| (have) fun          |                    |                          |                |                     |
+
+- I suggest { going / that we (should) go }
+- he doen't =allow me to talk=. فيه مفــعول
+  - = he doesn't =allow talking= مفيش
+- مع ظهور ='d / would= هنفضل نستعمل >> =to + inf=
+  - ما عدا ركز مع =rather= مفيش to بس
+    - I'd rather ==have lunch==
+    - I'd rather ==sleep than study== يا كسول يا معفن
+    - I'd rather ==he {studied / had studied}==
+- We didnt see Ali, =we'd like to have seen= him ماضي
+- I saw him
+  - playing جزء عابر/بعضه
+  - play كله
+- how to / where to / what to ..
+- ==It== (makes me study/ forces me to study / causes me to study) مبني للمعلوم
+  - ==I== was forced made to study
+
+* U5
+- countable ==C==
+  (*/a/an/* - ليها مفرد وجمع - الفعل بعدها على حسب)
+  - knife > knives
+  - فيه جموع شاذة 5-6
+- =un=countable ==UN==
+  (دوما على شكل واحد - الفعل بعدها متعاص إس {اللي هو يعامل معاملة الفعل للمفرد})
+  - [[file:../../../photo_2026-01-06_10-19-00.jpg]] والأشياء المعنوية
+    - خد بالك فيه منهم آخره إس .. بس برضو محسوب إنه غير معدود لسه .. راجع 250.1
+
+| a lot +                                    | مفيش |
+|--------------------------------------------+------|
+| a lot of / lots of, any , some +           | both |
+| much, a little , little +                  | UN   |
+| many, a few قليل كافي, few قليل غير كافي + | C    |
+
+- فيه اللي يعامل شوية كـ مفرد وشوية كـ جمع 250.3/6/2
+  - حسب ما تقصد .. هل تقصد المجموعة ككل فتتعامل كمفرد
+  - ولا هل تقصد الأفراد اللي جواها فتتعامل كجمع
+- كلمات بتيجي مع كلمات بعينها
+  - so many - too many - too much - so much - very much - =such a lot of=
+  - وافتكر دي This box is ==too== heavy for me ==to== carry صعب جدا لدرجة مش قادر أشيله
+
+* U6
+- an بعدها صوت متحرك {العبرة بالصوت}
+  - خد بالك
+    - a quarter of an hour ربع من الساعة - half an hour نصف ساعة
+    - 280.4 دي زي ما القاموس بيعرف وبيشرح الكلمات
+    - an MP3, an SMS لأننا بننطق الحروف فــ بيظهر صوت متحرك
+      - a BMW مظهرش
+- THE
+  - الأعلام {الشيء اللي منه نسخة واحدة فقط..الشمس الأرض إلخ}
+  - بنفضل نستخدمها أما يكون في الجملة who / whose / which / that بترجمة اللي
+    - The book I read. == The book (That) I read احيانا بيخفيها ﻷنه صايع
+  - the صفة درجة تانية, the صفة برضو درجة تانية
+  - 282.4/5 284.17 مهمة بالكنافة
+  - 283.7/8 نفس الحاجة تقريبا
+  - المضاف والمضاف إليه {حلة المحشي/حلة محشي}
+    - =the= progress of Tom = Tom's progress
+- NO ARTICLE
+  - غالبا مع بتوع =مخ سمر وغلط= والمعنويات الغير ملموسة
+  - لاحظ
+    - the work الجهد/الشغل - work مكان الشغل
+    - English = the English language
+    - space = the outer space الفضاء الخارجي - the space مساحة/مكان فاضي
+    - room = مساحة فارغة - the/a room = الغرفة /الأوضة
+    - I go to prison أنا المجرم - I go to the prison زيارة بس
+  - الحاجات اللي في معناها إنها معرفة أصلا . فمش هتحتاج the إضافية
+    - Tom - Africa - London
+      ​# mcq
+      *Topic 1: Verbs followed by to-inf / V-ing / Both*\\
+      /(60 MCQs --- Medium to Hard)/
+
+1. She admitted ______ the money.
+   1) to take\\
+   2) taking\\
+   3) take\\
+      *Answer: b*
+2. I hope ______ you at the party tonight.
+   1) to see\\
+   2) seeing\\
+   3) see\\
+      *Answer: a*
+3. We enjoy ______ movies on weekends.
+   1) to watch\\
+   2) watching\\
+   3) watch\\
+      *Answer: b*
+4. He promised ______ early.
+   1) to come\\
+   2) coming\\
+   3) come\\
+      *Answer: a*
+5. They suggested ______ to the beach.
+   1) to go\\
+   2) going\\
+   3) go\\
+      *Answer: b*
+6. She decided ______ a new car.
+   1) to buy\\
+   2) buying\\
+   3) buy\\
+      *Answer: a*
+7. He avoided ______ his ex-girlfriend.
+   1) to meet\\
+   2) meeting\\
+   3) meet\\
+      *Answer: b*
+8. I can't stand ______ in traffic.
+   1) to wait\\
+   2) waiting\\
+   3) wait\\
+      *Answer: b*
+9. She managed ______ the project on time.
+   1) to finish\\
+   2) finishing\\
+   3) finish\\
+      *Answer: a*
+10. He refused ______ any help.
+    1) to accept\\
+    2) accepting\\
+    3) accept\\
+       *Answer: a*
+11. I miss ______ with my old friends.
+    1) to chat\\
+    2) chatting\\
+    3) chat\\
+       *Answer: b*
+12. They plan ______ abroad next year.
+    1) to travel\\
+    2) traveling\\
+    3) travel\\
+       *Answer: a*
+13. She considered ______ her job.
+    1) to quit\\
+    2) quitting\\
+    3) quit\\
+       *Answer: b*
+14. He agreed ______ us with the work.
+    1) to help\\
+    2) helping\\
+    3) help\\
+       *Answer: a*
+15. She finished ______ the report.
+    1) to write\\
+    2) writing\\
+    3) write\\
+       *Answer: b*
+16. We expect ______ the exam.
+    1) to pass\\
+    2) passing\\
+    3) pass\\
+       *Answer: a*
+17. I don't mind ______ for you.
+    1) to wait\\
+    2) waiting\\
+    3) wait\\
+       *Answer: b*
+18. He offered ______ me to the station.
+    1) to drive\\
+    2) driving\\
+    3) drive\\
+       *Answer: a*
+19. They practiced ______ English every day.
+    1) to speak\\
+    2) speaking\\
+    3) speak\\
+       *Answer: b*
+20. She seems ______ happy today.
+    1) to be\\
+    2) being\\
+    3) be\\
+       *Answer: a*
+21. He denied ______ the window.
+    1) to break\\
+    2) breaking\\
+    3) break\\
+       *Answer: b*
+22. I would like ______ a doctor.
+    1) to become\\
+    2) becoming\\
+    3) become\\
+       *Answer: a*
+23. She hates ______ early.
+    1) to wake up\\
+    2) waking up\\
+    3) wake up\\
+       *Answer: a / b* (both possible)
+24. He started ______ when he was five.
+    1) to swim\\
+    2) swimming\\
+    3) swim\\
+       *Answer: a / b* (both possible)
+25. They continued ______ despite the rain.
+    1) to play\\
+    2) playing\\
+    3) play\\
+       *Answer: a / b* (both possible)
+26. I prefer ______ tea to coffee.
+    1) to drink\\
+    2) drinking\\
+    3) drink\\
+       *Answer: a / b* (both possible)
+27. She loves ______ novels.
+    1) to read\\
+    2) reading\\
+    3) read\\
+       *Answer: a / b* (both possible)
+28. He began ______ French last year.
+    1) to learn\\
+    2) learning\\
+    3) learn\\
+       *Answer: a / b* (both possible)
+29. I remember ______ him at the party.
+    1) to see\\
+    2) seeing\\
+    3) see\\
+       *Answer: b* (past memory)
+30. Don't forget ______ the lights before leaving.
+    1) to turn off\\
+    2) turning off\\
+    3) turn off\\
+       *Answer: a* (future action)
+31. She tried ______ the heavy box.
+    1) to lift\\
+    2) lifting\\
+    3) lift\\
+       *Answer: a* (attempt)
+32. Try ______ an aspirin for your headache.
+    1) to take\\
+    2) taking\\
+    3) take\\
+       *Answer: b* (experiment)
+33. I regret ______ you that you've failed.
+    1) to inform\\
+    2) informing\\
+    3) inform\\
+       *Answer: a* (bad news announcement)
+34. He regrets ______ the job offer.
+    1) to refuse\\
+    2) refusing\\
+    3) refuse\\
+       *Answer: b* (past regret)
+35. She stopped ______ at the red light.
+    1) to stop\\
+    2) stopping\\
+    3) stop\\
+       *Answer: b* (ceased moving)
+36. He stopped ______ a coffee on the way.
+    1) to have\\
+    2) having\\
+    3) have\\
+       *Answer: a* (interrupted to do something else)
+37. The teacher made us ______ the exercise again.
+    1) to do\\
+    2) doing\\
+    3) do\\
+       *Answer: c*
+38. She let him ______ her car.
+    1) to use\\
+    2) using\\
+    3) use\\
+       *Answer: c*
+39. I heard him ______ in the shower.
+    1) to sing\\
+    2) singing\\
+    3) sing\\
+       *Answer: b* (in progress)
+40. We saw him ______ the building.
+    1) to leave\\
+    2) leaving\\
+    3) leave\\
+       *Answer: c* (complete action)
+41. He advised me ______ harder.
+    1) to study\\
+    2) studying\\
+    3) study\\
+       *Answer: a*
+42. She encouraged me ______ my dreams.
+    1) to follow\\
+    2) following\\
+    3) follow\\
+       *Answer: a*
+43. They warned us ______ near the edge.
+    1) not to go\\
+    2) not going\\
+    3) not go\\
+       *Answer: a*
+44. He invited her ______ to the wedding.
+    1) to come\\
+    2) coming\\
+    3) come\\
+       *Answer: a*
+45. She reminded him ______ the meeting.
+    1) to attend\\
+    2) attending\\
+    3) attend\\
+       *Answer: a*
+46. He allowed ______ in his office.
+    1) to smoke\\
+    2) smoking\\
+    3) smoke\\
+       *Answer: b* (after "allow" without object = V-ing)
+47. They permitted us ______ photos.
+    1) to take\\
+    2) taking\\
+    3) take\\
+       *Answer: a* (with object = to-inf)
+48. I can't help ______ when I watch comedy shows.
+    1) to laugh\\
+    2) laughing\\
+    3) laugh\\
+       *Answer: b*
+49. It's worth ______ that film.
+    1) to see\\
+    2) seeing\\
+    3) see\\
+       *Answer: b*
+50. She looks forward ______ you soon.
+    1) to see\\
+    2) seeing\\
+    3) to seeing\\
+       *Answer: c*
+51. He's used to ______ early.
+    1) to get up\\
+    2) getting up\\
+    3) get up\\
+       *Answer: b*
+52. She objects to ______ late.
+    1) work\\
+    2) working\\
+    3) to work\\
+       *Answer: b*
+53. I'm busy ______ for my exams.
+    1) to prepare\\
+    2) preparing\\
+    3) prepare\\
+       *Answer: b*
+54. He had difficulty ______ the question.
+    1) to understand\\
+    2) understanding\\
+    3) understand\\
+       *Answer: b*
+55. They succeeded in ______ the match.
+    1) to win\\
+    2) winning\\
+    3) win\\
+       *Answer: b*
+56. He suggested that she ______ early.
+    1) leave\\
+    2) leaves\\
+    3) leaving\\
+       *Answer: a* (subjunctive)
+57. She was the first ______ the finish line.
+    1) crossing\\
+    2) to cross\\
+    3) cross\\
+       *Answer: b*
+58. He made me ______ sorry.
+    1) to feel\\
+    2) feeling\\
+    3) feel\\
+       *Answer: c*
+59. I'd rather ______ at home tonight.
+    1) to stay\\
+    2) staying\\
+    3) stay\\
+       *Answer: c*
+60. I'd prefer ______ coffee to tea.
+    1) to have\\
+    2) having\\
+    3) have\\
+       *Answer: a*
+       ---
+       *Topic 2: Countable & Uncountable Nouns*\\
+       /(60 MCQs --- Medium to Hard)/
+61. I need some ______ to write a letter.
+    1) paper\\
+    2) papers\\
+       *Answer: a*
+62. How many ______ are there in the classroom?
+    1) student\\
+    2) students\\
+       *Answer: b*
+63. She gave me two useful ______.
+    1) advice\\
+    2) pieces of advice\\
+       *Answer: b*
+64. There is too much ______ in this soup.
+    1) salt\\
+    2) salts\\
+       *Answer: a*
+65. We bought three ______ of bread.
+    1) loaf\\
+    2) loaves\\
+       *Answer: b*
+66. He has a lot of ______.
+    1) furniture\\
+    2) furnitures\\
+       *Answer: a*
+67. How much ______ do you drink every day?
+    1) water\\
+    2) waters\\
+       *Answer: a*
+68. She has lovely long ______.
+    1) hair\\
+    2) hairs\\
+       *Answer: a*
+69. There are many ______ in the garden.
+    1) flower\\
+    2) flowers\\
+       *Answer: b*
+70. He doesn't have much ______.
+    1) experience\\
+    2) experiences\\
+       *Answer: a*
+71. I'd like a ______ of tea, please.
+    1) cup\\
+    2) cups\\
+       *Answer: a*
+72. She has two ______.
+    1) child\\
+    2) children\\
+       *Answer: b*
+73. We need more ______ for the project.
+    1) information\\
+    2) informations\\
+       *Answer: a*
+74. He put three ______ of sugar in his coffee.
+    1) spoonful\\
+    2) spoonfuls\\
+       *Answer: b*
+75. There isn't enough ______ for everyone.
+    1) food\\
+    2) foods\\
+       *Answer: a*
+76. How many ______ did you take?
+    1) photo\\
+    2) photos\\
+       *Answer: b*
+77. She has a lot of ______.
+    1) knowledge\\
+    2) knowledges\\
+       *Answer: a*
+78. We bought some new ______ yesterday.
+    1) furniture\\
+    2) furnitures\\
+       *Answer: a*
+79. There are a few ______ on the table.
+    1) book\\
+    2) books\\
+       *Answer: b*
+80. He gave me some good ______.
+    1) advice\\
+    2) advices\\
+       *Answer: a*
+81. There is too much ______ in big cities.
+    1) traffic\\
+    2) traffics\\
+       *Answer: a*
+82. She has three ______.
+    1) sister\\
+    2) sisters\\
+       *Answer: b*
+83. How much ______ do you have?
+    1) luggage\\
+    2) luggages\\
+       *Answer: a*
+84. We need a ______ of milk.
+    1) bottle\\
+    2) bottles\\
+       *Answer: a*
+85. He has very little ______.
+    1) patience\\
+    2) patiences\\
+       *Answer: a*
+86. There are many ______ in the zoo.
+    1) animal\\
+    2) animals\\
+       *Answer: b*
+87. She bought two ______ of chocolate.
+    1) bar\\
+    2) bars\\
+       *Answer: b*
+88. There is a lot of ______ today.
+    1) homework\\
+    2) homeworks\\
+       *Answer: a*
+89. How many ______ do you speak?
+    1) language\\
+    2) languages\\
+       *Answer: b*
+90. He doesn't have much ______.
+    1) money\\
+    2) moneys\\
+       *Answer: a*
+91. There are a few ______ in the fridge.
+    1) egg\\
+    2) eggs\\
+       *Answer: b*
+92. She gave me two ______ of news.
+    1) piece\\
+    2) pieces\\
+       *Answer: b*
+93. We need some ______ to make a cake.
+    1) flour\\
+    2) flours\\
+       *Answer: a*
+94. How much ______ do you want?
+    1) rice\\
+    2) rices\\
+       *Answer: a*
+95. He has a lot of ______.
+    1) work\\
+    2) works\\
+       *Answer: a*
+96. There are many ______ in the sky.
+    1) star\\
+    2) stars\\
+       *Answer: b*
+97. She drank three ______ of water.
+    1) glass\\
+    2) glasses\\
+       *Answer: b*
+98. He has very little ______.
+    1) time\\
+    2) times\\
+       *Answer: a*
+99. There are a few ______ in the box.
+    1) toy\\
+    2) toys\\
+       *Answer: b*
+100. How much ______ did you get?
+     1) sleep\\
+     2) sleeps\\
+        *Answer: a*
+101. I need a new ______ of jeans.
+     1) pair\\
+     2) pairs\\
+        *Answer: a*
+102. She has two ______ of scissors.
+     1) pair\\
+     2) pairs\\
+        *Answer: b*
+103. There is too much ______ in the air.
+     1) pollution\\
+     2) pollutions\\
+        *Answer: a*
+104. He bought three ______ of trousers.
+     1) pair\\
+     2) pairs\\
+        *Answer: b*
+105. How many ______ do you have?
+     1) friend\\
+     2) friends\\
+        *Answer: b*
+106. She has a lot of ______.
+     1) jewelry\\
+     2) jewelries\\
+        *Answer: a*
+107. There are many ______ in the forest.
+     1) tree\\
+     2) trees\\
+        *Answer: b*
+108. He gave me some useful ______.
+     1) equipment\\
+     2) equipments\\
+        *Answer: a*
+109. We need a ______ of bread.
+     1) loaf\\
+     2) loaves\\
+        *Answer: a*
+110. How much ______ do you need?
+     1) help\\
+     2) helps\\
+        *Answer: a*
+111. There are a few ______ on the wall.
+     1) picture\\
+     2) pictures\\
+        *Answer: b*
+112. She has very little ______.
+     1) confidence\\
+     2) confidences\\
+        *Answer: a*
+113. He bought two ______ of soap.
+     1) bar\\
+     2) bars\\
+        *Answer: b*
+114. How many ______ are coming?
+     1) person\\
+     2) people\\
+        *Answer: b*
+115. There is too much ______ in this room.
+     1) noise\\
+     2) noises\\
+        *Answer: a*
+116. She gave me three ______ of advice.
+     1) piece\\
+     2) pieces\\
+        *Answer: b*
+117. We need some ______ for the salad.
+     1) lettuce\\
+     2) lettuces\\
+        *Answer: a*
+118. How much ______ do you have?
+     1) baggage\\
+     2) baggages\\
+        *Answer: a*
+119. There are many ______ in the book.
+     1) page\\
+     2) pages\\
+        *Answer: b*
+120. He has a lot of ______.
+     1) courage\\
+     2) courages\\
+        *Answer: a*
+        ---
+        *Topic 3: a / an / the / no article*\\
+        /(60 MCQs --- Medium to Hard)/
+121. I saw ______ interesting movie yesterday.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+122. ______ sun rises in the east.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: c*
+123. She is ______ honest person.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+124. He plays ______ guitar very well.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+125. They live in ______ old house.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+126. ______ children love playing outside.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+127. I need ______ water, please.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: d*
+128. She is ______ best student in the class.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+129. He is ______ university professor.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: a*
+130. We traveled by ______ plane.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: d*
+131. ______ Nile is the longest river in Egypt.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: c*
+132. I had ______ breakfast at 7 AM.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: d*
+133. She has ______ MBA degree.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+134. ______ love is a beautiful feeling.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+135. He is ______ only child in his family.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+136. We visited ______ United Kingdom last summer.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+137. She speaks ______ French fluently.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: d*
+138. I saw ______ accident this morning.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+139. ______ poor need our help.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: c*
+140. He bought ______ new car yesterday.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: a*
+141. ______ Mount Everest is the highest mountain in the world.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+142. She went to ______ school early.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: d*
+143. He is ______ European citizen.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: a*
+144. ______ knowledge is power.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+145. They are staying at ______ hotel near the beach.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: a*
+146. ______ apples are good for health.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+147. She listens to ______ radio every morning.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+148. He is ______ engineer.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+149. ______ weather is nice today.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: c*
+150. I have ______ headache.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: a*
+151. ______ Pacific Ocean is very large.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: c*
+152. She is ______ one who called you.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+153. We need ______ information about the course.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: d*
+154. He went to ______ bed early.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: d*
+155. ______ cats are independent animals.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+156. She has ______ hour to finish the test.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+157. They live in ______ USA.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+158. He is ______ honest man.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+159. ______ happiness is important in life.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+160. I saw ______ eagle in the sky.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+161. ______ English language is spoken worldwide.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: c*
+162. She works as ______ doctor.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: a*
+163. ______ rich should help the poor.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: c*
+164. He has ______ flu.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+165. ______ life is full of surprises.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+166. She is ______ university student.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: a*
+167. They visited ______ Louvre Museum in Paris.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+168. He is ______ only person who knows the truth.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+169. ______ water is essential for life.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+170. I need ______ advice from you.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: d*
+171. ______ moon is bright tonight.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: c*
+172. She has ______ one-year-old baby.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: a*
+173. ______ history is my favorite subject.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+174. He is ______ best friend I have.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*
+175. ______ computers have changed our lives.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+176. She lives in ______ apartment downtown.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+177. ______ Andes are in South America.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: c*
+178. He is ______ excellent teacher.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: b*
+179. ______ money can't buy happiness.
+     1) A\\
+     2) An\\
+     3) The\\
+     4) no article\\
+        *Answer: d*
+180. She went to ______ hospital to visit her friend.
+     1) a\\
+     2) an\\
+     3) the\\
+     4) no article\\
+        *Answer: c*

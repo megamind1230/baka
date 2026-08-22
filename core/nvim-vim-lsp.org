@@ -1,0 +1,8 @@
+- [ ] [[file:nvim-vim-completion.org][nvim-vim-completion]]
+- [ ] [[file:0-nvim-vim-snippets.org][0-nvim-vim-snippets]]
+- [ ] what are
+  - lsp-zero
+  - nvim-lspconfig
+  - mason
+  - mason-lspconfig
+  - mason-tool-installer

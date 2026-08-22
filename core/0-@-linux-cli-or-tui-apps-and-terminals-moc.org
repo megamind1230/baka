@@ -1,0 +1,20 @@
+* not done
+- [ ] =atuin=
+- [ ] =chezmoi=
+- [ ] =toipe=
+- [ ] =speedtest-cli=
+- [ ] =gdu=
+- [ ] =timetrap=
+- [ ] [[file:0-good-touch-typing-cli-tools-for-linux.org][0-good-touch-typing-cli-tools-for-linux]]
+- [ ] [[https://github.com/jlevy/the-art-of-command-line][jlevy/the-art-of-command-line: Master the command line, in one page]]
+- [ ] [[https://github.com/trimstray/the-book-of-secret-knowledge][trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.]]
+- [ ] [[https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6][CLI tools you won't be able to live without 🔧 - DEV Community]]
+- [ ] [[file:0-cli-tools-for-pulseaudio.org][0-cli-tools-for-pulseaudio]]
+- [ ] [[file:little-comparison-between-some-linux-terminals-or-terminal-emulators.org][little-comparison-between-some-linux-terminals-or-terminal-emulators]]
+
+* done
+- [X] [[file:terminal-file-manager-yazi.org][terminal-file-manager-yazi]]
+- [X] =axel= cli download manager/accelerator
+- [X] [[file:0-kitty-terminal-emulator.org][0-kitty-terminal-emulator]]
+- [X] [[file:alacritty-terminal-emulator.org][alacritty-terminal-emulator]]
+- [X] [[file:how-to-find-minimal-progs-for-linux.org][how-to-find-minimal-progs-for-linux]]

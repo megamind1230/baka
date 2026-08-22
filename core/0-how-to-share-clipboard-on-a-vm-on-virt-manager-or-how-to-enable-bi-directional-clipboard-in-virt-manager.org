@@ -1,0 +1,9 @@
+#1
+
+#+begin_src C
+sudo pacman -S spice-vdagent
+#+end_src
+
+#+begin_quote
+reboot
+#+end_quote

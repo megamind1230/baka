@@ -1,0 +1,101 @@
+* links
+- [ ] [[https://www.youtube.com/watch?v=emhouufDnB4&ab_channel=CybersecurityShandy][Advanced Bash Scripting Tutorial - YouTube]]
+- [ ] [[https://www.youtube.com/watch?v=tK9Oc6AEnR4&ab_channel=freeCodeCamp.org][Bash Scripting Tutorial for Beginners - YouTube]]
+- [ ] [[https://www.youtube.com/playlist?list=PL2qzCKTbjutJRM7K_hhNyvf8sfGCLklXw][Complete Shell Scripting Tutorials - YouTube]]
+- [ ] [[https://www.udemy.com/course/bash-scripting/?couponCode=KEEPLEARNING][Bash Scripting and Shell Programming Course Linux Command Line | Udemy]]
+- [ ] [[https://www.linkedin.com/learning/linux-bash-shell-and-scripts][Linux: Bash Shell and Scripts Online Class | LinkedIn Learning, formerly Lynda.com]]
+  ​# not done
+- [ ] [[pet-a-toml-snippet-manager-in-golang]]
+- [ ] [[imagemagic-cmd]]
+- [ ] [[file:curl-command.org][curl-command]]
+- [ ] [[file:tmate-instant-terminal-sharing.org][tmate-instant-terminal-sharing]]
+- [ ] [[file:manage-your-dotfiles-with-makefile.org][manage-your-dotfiles-with-makefile]]
+- [ ] [[file:0-manage-your-dotfiles-with-gnu-stow.org][0-manage-your-dotfiles-with-gnu-stow]]
+- [ ] [[file:Working-with-file-contents.org][working-with-file-contents]]
+- [ ] [[file:xdotools.org][xdotools]]
+- [ ] [[file:why-zsh-and-not-bash.org][why-zsh-and-not-bash]]
+- [ ] [[file:chown-command.org][chown-command]]
+- [ ] [[file:chmod-command.org][chmod-command]]
+- [ ] [[file:dd-cmd.org][dd-cmd]]
+- [ ] [[file:xargs-command.org][xargs-command]]
+- [ ] [[file:export-command-and-how-to-add-script-to-path.org][export-command-and-how-to-add-script-to-path]]
+- [ ] [[file:visudo-command.org][visudo-command]]
+- [ ] [[file:chroot-command.org][chroot-command]]
+- [ ] [[file:how-to-force-terminal-to-swallow.org][how-to-force-terminal-to-swallow]]
+- [ ] [[file:ffmpeg.org][ffmpeg]]
+- [ ] =convert= by black magick , ascii image converter
+- [ ] [[file:the-linux-commands-bible-pdf.org][the-linux-commands-bible-pdf]]
+- [ ] [[file:0-know-more-about-your-linux-system-some-system-cmds.org][0-know-more-about-your-linux-system-some-system-cmds]]
+  ​# done
+- [X] [[file:0-fd-and-find-and-rg-and-fzf-commads.org][0-fd-and-find-and-rg-and-fzf-commads]]
+- [X] [[file:intro-to-bash-scripting-basics-and-arrays-and-loops.org][intro-to-bash-scripting-basics-and-arrays-and-loops]]
+- [X] wget
+  - [X] [[https://www.commandinline.com/cheat-sheet/wget/][wget Cheat Sheet : Command in Line]]
+  - =wget -i filelist.txt=
+    - All files in filelist.txt are being downloaded
+  - `wget -c URL
+    - continue downloading if it was interrupted
+- [X] alternative screen =tput smcup; some cmd; sleep 3; tput rmcup=
+- [X] =xorg-xkill= package to kill process
+- [X] [[file:0-linux-manpages-moc.org][0-linux-manpages-moc]]
+- [X] [[file:@-nvim-moc.org][@-nvim-moc]]
+- [X] [[file:0-zathura-the-vimlike-modal-and-modular-pdf-viewer.org][0-zathura-the-vimlike-modal-and-modular-pdf-viewer]]
+- [X] [[file:0-sed-command.org][0-sed-command]]
+- [X] [[file:0-nano-shortcuts.org][0-nano-shortcuts]]
+- [X] [[file:0-the-awk-command.org][0-the-awk-command]]
+- [X] [[file:0-use-groff-and-zathura-to-make-ur-minimal-plaine-clean-cv-or-resume.org][0-use-groff-and-zathura-to-make-ur-minimal-plaine-clean-cv-or-resume]]
+- [X] [[file:0-become-a-shell-wizard.org][0-become-a-shell-wizard]]
+- [X] [[file:0-know-more-about-your-linux-system-some-system-cmds.org][0-know-more-about-your-linux-system-some-system-cmds]]
+- [X] [[file:0-50-most-popular-linux-terminal-cmds-freecodecamp-and-more.org][0-50-most-popular-linux-terminal-cmds-freecodecamp-and-more]]
+- [X] [[file:intro-to-bash-scripting-basics-and-arrays-and-loops.org][intro-to-bash-scripting-basics-and-arrays-and-loops]]
+- [X] [[file:0-grep-command.org][0-grep-command]]
+- [X] [[file:0-linux-manpages-moc.org][0-linux-manpages-moc]]
+- [X] [[file:0-user-and-group-management.org][0-user-and-group-management]]
+- [X] [[file:0-diff-command.org][0-diff-command]]
+- [X] [[file:0-sort-cmd.org][0-sort-cmd]]
+- [X] [[file:0-shred-instead-of-rm.org][0-shred-instead-of-rm]]
+- [X] [[file:0-convert-pptx-into-pdf-and-merge-pdfs-faster-linux.org][0-convert-pptx-into-pdf-and-merge-pdfs-faster-linux]]
+- [X] [[file:0-script-to-share-small-local-file-the-linux-way-0x0.org][0-script-to-share-small-local-file-the-linux-way-0x0]]
+- [X] [[file:0-what-is-crontab-or-cronjob-in-bash.org][0-what-is-crontab-or-cronjob-in-bash]]
+- [X] [[file:0-tmux.org][0-tmux]]
+- [X] [[file:0-sxiv-image-viewer-not-editor.org][0-sxiv-image-viewer-not-editor]]
+- [X] [[file:0-commands-that-will-change-the-way-you-use-linux-forever.org][0-commands-that-will-change-the-way-you-use-linux-forever]]
+- [X] [[file:0-fzf-or-fuzzy-finder.org][0-fzf-or-fuzzy-finder]]
+- [X] how-to-cat-a-specific-file-i-chose-with-fzf
+  - =cat $(\ls | grep '.org' | fzf)=
+- [X] =sudo fdisk -l= gpt or mbr
+  - [X] =cfdisk= better than just =fdisk=
+- [X] =bat= better than =cat=
+- [X] =exa= {better than =ls=}
+- [X] =z= zoxide remembers paths {better than =cd= with long paths}
+- [X] =uptime= > how much the machine been opened
+- [X] =free= > free space available in RAM
+- [X] =ip a= > gives ip and mac address
+- [X] =lsblk= > shows the tree of partitions
+  - [X] blkid > also show the uuid
+- [X] =uname -r=
+  - Kernel version
+- [X] =apt list --installed | wc -l= on debian based - list installed
+  - and count them
+  - [X] also =snap list=
+- [X] =sudo chmod +x myscript.sh= > executable
+  we ignore the =.sh= if the shebang inside is correctly representing bash
+- [X] variables set not in bashrc are tied to only that session
+- [X] “” vs ''
+
+#+begin_src sh
+echo "hello $myname_var" #prints name
+echo 'hello $myname_var' #printed as-is
+#+end_src
+
+- [X] =file_var=$(ls)= saves content of ls inside {subcmd}
+- [X] =env= > lists environment variables
+- [X] =touch {a,b,c}= > creates a,b,c files
+- [X] true in bash is =0=
+- [X] how-to-delete-or-remove-into-a-recycle-bin-in-linux-terminal
+  not built-in
+  but can install packages like =trash-cli= to delete them into =~/.local/share/Trash/=
+- [X] =ncdu= , cli app for linux (disk usage/ analyzer)
+  - [X] =dust= - [x] =du= - [x] =df=
+- [X] =tree=
+  - =tree -a -L 3 -I .git= lists all files and dirs, but up to 3 levels, ignoring =.git= folder

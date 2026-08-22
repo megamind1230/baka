@@ -1,0 +1,24 @@
+* text/markdown/code/notes
+- [X] obsidian
+- [X] notepad++ or notepadqq, cpp ide (geany/codeblocks) .. but now i used these instead 06-03-2026
+  - [X] vscode
+  - [X] lazy.vim or i have my own nvim config
+  - [X] emacs
+- [X] ticktick todo and pomodoro app
+  - [X] org mode in emacs instead 06-03-2026
+    ​# content creating
+- [X] kdenlive
+- [X] gimp
+- [X] audacity
+- [X] OBS studio
+  - [X] or just =simplescreenrecorder=
+
+* browser
+- [X] edge browser
+  - [X] now i use brave 06-03-2026
+
+* others
+- [X] (discord with vencord Mod) or vesktop
+  - [X] [[file:0-vencord-the-best-discord-mod-on-windows.org][0-vencord-the-best-discord-mod-on-windows]]
+- [X] oracle virual box
+  - [X] i don't do virtual machines no more 06-03-2026

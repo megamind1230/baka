@@ -1,0 +1,3 @@
+#+begin_quote
+to create a usb installer
+#+end_quote

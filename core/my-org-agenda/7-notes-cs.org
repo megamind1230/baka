@@ -1,0 +1,1816 @@
+* DONE what is helper function in csharp
+A *helper function* is a small function that
+exists to support another function or class internally.
+(a crucial repeative part of some functions)
+
+** Why They're Usually =private=
+Because outside code should not care HOW your class works internally.
+
+Users should do:
+
+#+begin_src csharp
+
+  service.Register(...);
+#+end_src
+NOT:
+#+begin_src csharp
+
+  service.ValidatePassword(...);
+#+end_src
+Validation is an internal detail.
+** Mental Model
+Think of helper functions as:
+little workers behind the scenes helping the main feature work.
+
+- Main method: Checkout()
+- Helpers:
+    ValidateCart()
+    CalculateTotal()
+    ApplyDiscount()
+    SendReceipt()
+
+** when to use?
+If you notice:
+- repeated code
+- huge methods
+- deeply nested logic
+- hard-to-read code
+* DONE acid db meaning
+*ACID* = atomicity, consistency, isolation, durability
+A *transaction* is a group of operations that should be treated as a
+single unit: all or nothing
+
+** Easy way to remember
+| Letter | Meaning     | Simple phrase                   |
+|--------+-------------+---------------------------------|
+| *A*    | Atomicity   | All or nothing                  |
+| *C*    | Consistency | Rules are never broken          |
+| *I*    | Isolation   | Transactions don't interfere    |
+| *D*    | Durability  | Committed data survives crashes |
+*** One-line mnemonic
+*A*ll or nothing, *C*orrect state, *I*ndependent transactions, *D*ata
+lasts forever (after commit).
+** A --- Atomicity
+*All or nothing.*
+Either every step succeeds, or every step is undone.
+** C --- Consistency
+#+begin_quote
+The database always moves from one valid state to another valid state.
+#+end_quote
+Rules (constraints) must always remain true.
+Example:
+Bank rule:
+#+begin_example
+Total money cannot change
+#+end_example
+Before transfer: total = 1600
+#+begin_example
+    Alice = 500
+    Bob   = 300
+    Total = 800
+#+end_example
+After transfer: total = 1600
+#+begin_example
+    Alice = 400
+    Bob   = 400
+    Total = 800
+#+end_example
+Consistent.
+Another example: #baka
+Table:
+#+begin_example
+Students
+Id
+Name
+Age CHECK (Age >= 0)
+#+end_example
+Trying to insert
+#+begin_example
+Age = -5
+#+end_example
+fails because it violates a constraint.
+Consistency means:
+- Foreign keys stay valid.
+- Primary keys remain unique.
+- CHECK constraints hold.
+- Business rules are preserved.
+** I --- Isolation
+#+begin_quote
+Transactions don't interfere with each other.
+#+end_quote
+Imagine two ATMs withdrawing from the same account simultaneously.
+Without isolation:
+#+begin_example
+Balance = 100
+ATM 1 reads 100
+ATM 2 reads 100
+ATM 1 withdraws 80
+ATM 2 withdraws 80
+Final balance = 20
+#+end_example
+But $160 was withdrawn!
+With isolation, transactions behave as if they run one after another (or
+otherwise produce a result equivalent to a valid serial execution,
+depending on the isolation level).
+Possible execution:
+#+begin_example
+Balance = 100
+ATM 1
+withdraw 80
+Balance = 20
+ATM 2
+cannot withdraw 80
+#+end_example
+Isolation prevents problems like:
+- Dirty reads
+- Non-repeatable reads
+- Phantom reads
+Databases provide different *isolation levels* (e.g., Read Committed,
+Repeatable Read, Serializable) that balance correctness and performance.
+** D --- Durability
+Once committed, data is permanent.
+Suppose:
+#+begin_example
+Transfer completed
+COMMIT;
+#+end_example
+Immediately afterward:
+#+begin_example
+Power outage
+#+end_example
+After restarting the database:
+#+begin_example
+Transfer is still there.
+#+end_example
+The database stores committed changes in persistent storage (such as
+transaction logs and disk), so they survive crashes.
+** mega example
+Imagine buying an item online:
+#+begin_example
+1. Deduct money
+2. Reduce stock
+3. Create order
+4. Send confirmation
+#+end_example
+If step 3 fails:
+*Atomicity*
+#+begin_example
+Undo 1 and 2.
+#+end_example
+*Consistency*
+#+begin_example
+Money and inventory remain correct.
+#+end_example
+*Isolation*
+#+begin_example
+Other customers don't see half-completed updates or interfere with your transaction.
+#+end_example
+*Durability*
+#+begin_example
+After the order is committed, it won't disappear even if the server crashes.
+#+end_example
+* DONE logging vs debugging vs unit testing in csharp
+These three are complementary but solve different problems.
+| Tool           | Purpose                            | When Used                         | Finds                              |
+|----------------+------------------------------------+-----------------------------------+------------------------------------|
+| *Logging*      | Record what happened               | During development and production | Runtime events                     |
+| *Debugging*    | Investigate why something is wrong | During development                | Logic bugs                         |
+| *Unit Testing* | Verify code behaves correctly      | Before and after changes          | Regressions and incorrect behavior |
+** DONE 1. Logging
+Logging is writing information about your program while it runs.
+Typical things to log:
+- User logged in
+- HTTP request received
+- Database query failed
+- File uploaded
+- Unexpected exception
+- Execution time
+C# Example
+#+begin_src csharp
+using Microsoft.Extensions.Logging;
+public class UserService
+{
+    private readonly ILogger<UserService> _logger;
+    public UserService(ILogger<UserService> logger)
+    {
+        _logger = logger;
+    }
+    public void Login(string username)
+    {
+        _logger.LogInformation("User {User} logged in.", username);
+    }
+}
+#+end_src
+Output: [Information] User Hassan logged in.
+Common log levels
+    Trace
+    Debug
+    Information
+    Warning
+    Error
+    Critical
+Use logging when asking: "What happened?"
+** DONE 2. Debugging
+Debugging means running the program under
+a debugger so you can inspect it.
+You use:
+- Breakpoints
+- Step Into (F11)
+- Step Over (F10)
+- Call Stack
+- Watch Window
+- Locals
+Use debugging when asking: "Why did this happen?"
+** DONE 3. Unit Testing
+Unit tests automatically verify that code works.
+Suppose you wrote:
+#+begin_src csharp
+public int Add(int a, int b)
+{
+    return a + b;
+}
+#+end_src
+An xUnit test:
+#+begin_src csharp
+using Xunit;
+public class CalculatorTests
+{
+    [Fact]
+    public void Add_ReturnsCorrectSum()
+    {
+        var calc = new Calculator();
+        Assert.Equal(5, calc.Add(2, 3));
+    }
+}
+#+end_src
+Running tests: ✔ Add_ReturnsCorrectSum
+If you accidentally change the method to subtract: return a - b;
+the test fails immediately.
+Use unit tests when asking: "Does my code still work?"
+** DONE Real-world Example
+Imagine you're building an ASP.NET Core Todo API.
+> Logging
+#+begin_src text
+INFO  User 42 requested GET /todos
+INFO  Retrieved 15 todos
+#+end_src
+Later:
+#+begin_src text
+ERROR Database connection timed out
+#+end_src
+Logs help you understand what happened in production.
+
+> Debugging
+While developing, you notice a new todo isn't being saved.
+You:
+- Set a breakpoint in =CreateTodo()=
+- Inspect the request object
+- Step through Entity Framework
+- Find that =Title= is =null=
+Fix the bug.
+
+> Unit Testing
+You write tests like:
+#+begin_src text
+CreateTodo_ShouldStoreTodo()
+DeleteTodo_ShouldRemoveTodo()
+GetTodo_ShouldReturnTodo()
+#+end_src
+Later, after refactoring, all tests still pass, giving you confidence
+you didn't break existing behavior.
+** DONE In Modern C# Development
+A typical workflow is:
+1. Write code.
+2. Write and run unit tests.
+3. Debug if test fails.
+4. logging around important operations.
+5. Deploy.
+6. Use logs to diagnose production issues.
+* DONE what is mcp?
+*Model Context Protocol* = a universal standaridized communication +
+ discoverability protocol
+** Level 2: MCP is like USB for AI
+A useful analogy:
+Before USB Every device needed a different connector:
+#+begin_src text
+Keyboard ── special connector
+Mouse ───── different connector
+Printer ─── another connector
+#+end_src
+
+using USB standardized the connection.
+#+begin_src text
+Computer
+   │
+   └── USB
+       ├── Keyboard
+       ├── Mouse
+       ├── Printer
+       └── Storage
+#+end_src
+
+MCP tries to do something similar for AI:
+#+begin_src text
+AI application
+      │
+      └── MCP
+          ├── Filesystem
+          ├── GitHub
+          ├── Database
+          ├── Calendar
+          └── Custom application
+#+end_src
+Instead of every AI application needing a completely different
+integration for every tool, they can communicate through a common
+protocol.
+
+** Level 6: MCP versus an API
+Suppose you have a weather service.
+Without MCP:
+#+begin_src text
+Your AI
+   │
+   └── custom HTTP code
+        │
+        ▼
+     Weather API
+#+end_src
+You need to manually write integration code.
+
+With MCP:
+#+begin_src text
+AI Application
+      │
+      ▼
+MCP Client
+      │
+      ▼
+Weather MCP Server
+      │
+      ▼
+Weather API
+#+end_src
+The MCP server handles the API details.
+
+The AI sees something like:
+#+begin_src text
+get_weather(city)
+#+end_src
+
+The implementation could internally be:
+#+begin_src text
+HTTP request
+Authentication
+JSON parsing
+Error handling
+Rate limiting
+#+end_src
+The AI doesn't need to know all of that.
+
+** Level 7: MCP is not the AI
+The AI reasons.
+The MCP server provides capabilities.
+** Level 8: Why MCP
+Before standardized protocols, every AI application might implement integrations separately:
+#+begin_src text
+AI App A ── custom GitHub integration
+AI App A ── custom database integration
+AI App B ── different GitHub integration
+AI App B ── different database integration
+AI App C ── another GitHub integration
+#+end_src
+This creates a lot of duplicated work.
+
+MCP aims for:
+#+begin_src text
+                  ┌── MCP GitHub Server
+AI App A ────────┤
+AI App B ────────┤
+AI App C ────────┘
+#+end_src
+One server can potentially be used by multiple MCP-compatible clients.
+
+** Level 10: MCP versus (function calling/ normal api)
+You may already know about *function calling*.
+
+For example, an AI model can be given:
+#+begin_src json
+{
+  "name": "get_weather",
+  "description": "Get weather information",
+  "parameters": {
+    "city": "string"
+  }
+}
+#+end_src
+
+The AI generates:
+#+begin_src json
+{
+  "name": "get_weather",
+  "arguments": {
+    "city": "Cairo"
+  }
+}
+#+end_src
+That's function/tool calling.
+
+MCP provides a *standardized ecosystem around this idea*.
+Roughly:
+#+begin_src text
+  Function calling:
+      AI → specific tool
+
+  MCP:
+      AI application
+         ↓
+      [standardized protocol
+         ↓
+      discoverable server]
+         ↓
+      tools/resources/prompts
+#+end_src
+So MCP is not exactly the same thing as function calling.
+
+A useful analogy:
+Function calling = individual function
+MCP = standardized system for ( discovering ) and using many tools
+** Level 12: The security problem
+This is where things become serious.
+An MCP server may expose powerful capabilities:
+#+begin_src text
+read_file()
+write_file()
+delete_file()
+run_command()
+#+end_src
+
+If an AI has:
+#+begin_src text
+run_command(command)
+#+end_src
+then theoretically it could run:
+#+begin_src sh
+rm -rf ~/important-data
+#+end_src
+
+Therefore: *MCP servers should be treated like programs with permissions.*
+A safer design might expose: read_project_file(path)
+but not: run_any_shell_command(command)
+
+Or restrict paths:
+#+begin_src text
+Allowed:
+~/projects/my-project/
+Denied:
+~/.ssh/
+~/passwords/
+#+end_src
+The security model matters enormously.
+
+
+** For your mental model:
+#+begin_src text
+AI
+ │
+ │ decides what it needs
+ ▼
+MCP
+ │
+ │ standard communication
+ ▼
+Server
+ │
+ │ performs the actual operation
+ ▼
+Files / Database / GitHub / APIs / Apps
+#+end_src
+
+*MCP lets an AI move from merely talking about your tools to
+actually interacting with them---within the permissions you give it.*
+* DONE emacs occur, imenu, ivy, grep : explain each thoroughly
+comparison
+| Tool    | Searches        | Understands structure? | Main purpose                       |
+|---------+-----------------+------------------------+------------------------------------|
+| =occur= | Current buffer  | No                     | Show all matching lines            |
+| =imenu= | Current buffer  | Yes                    | Jump to functions/headings/classes |
+| =grep=  | Many files      | No                     | Search across a project            |
+| =ivy=   | Candidate lists | Depends                | Interactively choose/filter        |
+** DONE 1. =occur= --- show every matching line
+*** The problem
+Suppose your file contains:
+#+begin_src text
+  ,* Emacs
+  Emacs is extensible.
+
+  ,* Linux
+  Linux is powerful.
+
+  ,* Emacs packages
+  Emacs packages are useful.
+
+  ,* C#
+  C# is a programming language.
+
+  ,* More Emacs
+  I use Emacs every day.
+#+end_src
+
+You want to see every line containing: Emacs
+You can maybe use: C-s Emacs
+But that only moves from one match to the next.
+
+=occur= creates a *new buffer containing all matching lines*.
+M-x occur
+Enter: Emacs
+You get something conceptually like:
+#+begin_src text
+Lines matching "Emacs":
+12: * Emacs
+18: * Emacs packages
+25: * More Emacs
+#+end_src
+The important part: =occur= turns scattered matches into (a navigable
+list, showing all matches like a map)
+
+*** =multi-occur=
+=occur= normally searches the current buffer.
+=multi-occur= searches several (already-open) buffers.
+
+Conceptually:
+#+begin_src text
+Buffer A ─┐
+Buffer B ─┼──► multi-occur ──► results
+Buffer C ─┘
+#+end_src
+
+Example: M-x multi-occur
+Then choose buffers and search for: TODO
+This is useful when you have several files open.
+
+*** =occur= with regex
+For example: TODO|FIXME|BUG
+will show lines containing any of them.
+
+Or: ^[*#]+
+to find heading-like lines (.md or .org).
+
+For your Emacs/Org workflow, this can be useful for: M-x occur ^\*+
+to get a list of headings.
+
+*** =occur= in Evil
+Since you use Evil, the basic idea is: M-x occur
+or bind it: (global-set-key (kbd "C-c o") #'occur)
+Then: C-c o search-any-term.
+** DONE 2. =imenu= --- navigate the structure of a file
+
+=occur= searches *text/words*. It's like grep or rg but for (currently open buffers)
+
+=imenu= understands *structure* a TOC (table of content).
+Imagine a C# file:
+#+begin_src csharp
+namespace MyApp;
+public class UserService
+{
+    public User GetUser()
+    {
+    }
+    public void DeleteUser()
+    {
+    }
+    private bool ValidateUser()
+    {
+    }
+}
+#+end_src
+
+Instead of searching for: GetUser
+you can use: M-x imenu
+and get something like:
+#+begin_src text
+UserService
+├── GetUser
+├── DeleteUser
+└── ValidateUser
+#+end_src
+
+Choose one: GetUser
+and Emacs jumps directly there.
+
+*** The keyboard shortcut
+Usually: M-x imenu
+But a very useful setup is: (global-set-key (kbd "C-c i") #'imenu)
+Then: C-c i
+and choose a function, class, heading, etc.
+
+*** =imenu= + =which-function-mode= (breadcrumbs)
+Another useful feature:
+(which-function-mode 1)
+
+This displays the function you're currently inside.
+For example, somewhere inside:
+#+begin_src csharp
+public void DeleteUser()
+{
+    // cursor here
+}
+#+end_src
+the mode line might show: DeleteUser
+This is useful when navigating large files.
+
+*** =imenu-anywhere=
+There is also: M-x imenu-anywhere
+for *all open buffers*.
+
+Conceptually:
+#+begin_src text
+All open files
+       │
+       ▼
+imenu-anywhere
+       │
+       ▼
+Search for:
+DeleteUser
+       │
+       ▼
+Jump directly to it
+#+end_src
+This is extremely useful.
+
+Instead of:
+#+begin_src text
+Open file A
+Search
+Open file B
+Search
+Open file C
+Search
+#+end_src
+you can search the entire structural index.
+
+** DONE 3. =ivy= --- an interactive selection interface
+It is a *classic/old fuzzy completion and selection framework*.
+modern alternative ==> (consult + vertical + marginalia + orderless + embark) modern stack
+
+** 4. =grep= --- search across files
+Now we leave the current buffer.
+Suppose your project looks like:
+#+begin_src text
+TaskManagementApi/
+├── Core/
+│   ├── User.cs
+│   └── Task.cs
+├── Infrastructure/
+│   └── AppDbContext.cs
+└── Api/
+    └── Program.cs
+#+end_src
+
+You want to find: DbContext
+across the entire project.
+You could run: grep -R "DbContext" .
+This searches recursively through files.
+
+The result:
+#+begin_src text
+Infrastructure/AppDbContext.cs:public class AppDbContext : DbContext
+Api/Program.cs:builder.Services.AddDbContext(...)
+#+end_src
+
+This is fundamentally different from =occur=.
+#+begin_src text
+occur:
+  current buffer
+grep:
+  multiple files/directories
+#+end_src
+
+*** =grep= inside Emacs
+You can run: M-x grep
+Then: grep -R "DbContext" .
+Emacs creates a: ,*grep* buffer:
+#+begin_src text
+./Infrastructure/AppDbContext.cs:12:public class AppDbContext : DbContext
+./Api/Program.cs:25:builder.Services.AddDbContext(...)
+#+end_src
+Press: RET on a result and Emacs opens the file at the exact line.
+This is extremely powerful.
+*** =grep= vs =rg=
+You specifically use =ripgrep= (=rg=), which is generally much faster
+and nicer than traditional =grep=.
+Your preferred command:
+#+begin_src sh
+rg -uu --glob '!node_modules' "query"
+#+end_src
+In Emacs, you can use: M-x rg
+
+if you install/configure the Emacs =rg= package.
+A typical workflow: M-x rg
+Then:
+#+begin_src text
+Search pattern: DbContext
+Directory: ~/projects/TaskManagementApi
+#+end_src
+You get a searchable result buffer.
+
+** The four together
+Imagine you are working on a large C# project.
+
+*** Situation 1: Find every TODO in (this file)
+Use: occur
+M-x occur TODO
+#+begin_src text
+Current file
+       ↓
+all TODO lines
+#+end_src
+
+*** Situation 2: Jump to a method/class in this file
+M-x imenu
+#+begin_src text
+Current file
+       ↓
+structural index
+       ↓
+method/class
+#+end_src
+
+*** Situation 4: Find a word across your entire project
+Use:
+#+begin_src text
+grep / rg
+#+end_src
+#+begin_src text
+Entire project
+       ↓
+search all files
+       ↓
+results
+       ↓
+jump to exact locations
+#+end_src
+* DONE regression meaning in csharp
+regression = old functionality breaks because of a new change.
+* DONE python clean code convenstions
+** Core Principles
+- Readability > cleverness.
+- Simplicity > unnecessary abstraction.
+- Explicit > implicit when it improves clarity.
+- Consistency > personal preference.
+- Optimize for maintainability, not just fewer lines.
+- Follow project conventions before generic style rules.
+- PEP 8 is a guideline, not a law.
+
+** Naming
+- Variables/functions: =snake_case=
+- Classes: =PascalCase=
+- Constants: =UPPER_SNAKE_CASE=
+- Modules/packages: lowercase
+- Internal/protected: =_leading_underscore=
+- Use descriptive names: =user_count= > =x=
+- Booleans: =is_active=, =has_permission=, =can_edit=
+- Avoid vague names: =data=, =thing=, =stuff=, =temp=
+- Names should communicate intent.
+
+** Functions
+- One clear responsibility per function.
+- Keep functions small enough to understand quickly.
+- Prefer guard clauses over deep nesting.
+- Avoid functions with too many parameters.
+- Extract complex logic into named functions.
+- Don't abstract until there is real complexity/duplication.
+- Prefer readable code over artificially short code.
+
+** Type Hints
+- Type important/public function parameters.
+- Type return values.
+- Use modern syntax where appropriate:
+#+begin_src python
+def find_user(user_id: int) -> User | None:
+...
+#+end_src
+
+- Use =dataclass=, =TypedDict=, Pydantic, or classes when structure matters.
+- Don't force types where they add no useful information.
+
+** Control Flow
+- Avoid deeply nested =if= statements.
+- Use early returns / guard clauses.
+- Use =enumerate()= instead of manual counters.
+- Use =zip()= for parallel iteration.
+- Use =any()= / =all()= for expressive conditions.
+- Avoid unnecessary boolean comparisons:
+#+begin_src python
+if is_active:
+...
+#+end_src
+
+instead of:
+#+begin_src python
+if is_active == True:
+...
+#+end_src
+
+** Comprehensions
+- Use comprehensions for simple transformations/filtering.
+- Don't use them for complicated logic.
+- If a comprehension requires mental parsing, use a normal loop.
+- Shorter != cleaner.
+
+** Constants / Magic Values
+Avoid unexplained numbers/strings:
+#+begin_src python
+if status == 3:
+...
+#+end_src
+
+** Prefer named constants or enums:
+#+begin_src python
+APPROVED = 3
+#+end_src
+
+- Use enums when a fixed set of meaningful values exists.
+
+** Comments / Documentation
+
+- Prefer self-explanatory code.
+- Comments should explain =why=, not obvious =what=.
+- Explain workarounds, constraints, assumptions, and business rules.
+- Use docstrings for public APIs where useful.
+- Don't write comments that merely repeat the code.
+
+** Exceptions
+
+- Catch specific exceptions.
+- Never silently swallow errors:
+
+#+begin_src python
+try:
+...
+except:
+pass
+#+end_src
+
+- Avoid bare =except= unless there is a deliberate reason.
+- Don't use exceptions when a normal condition is clearer.
+- Don't hide failures.
+
+** PEP 8 Formatting
+
+- Indentation: 4 spaces.
+- Don't use tabs for indentation.
+- Keep line length consistent with project configuration.
+- Separate logical sections with blank lines.
+- Organize imports:
+#+begin_example
+standard library
+third-party
+local/project
+#+end_example
+
+- Use consistent quotes and formatting.
+- Let formatters enforce formatting automatically.
+
+** Pythonic Code: Prefer standard Python idioms:
+- =enumerate()=
+- =zip()=
+- =any()=
+- =all()=
+- comprehensions
+- generators
+- unpacking
+- context managers
+- =pathlib=
+- f-strings
+
+Example:
+#+begin_src python
+from pathlib import Path
+
+config = Path.home() / ".config" / "app"
+#+end_src
+
+- Prefer =pathlib= over manual path-string manipulation.
+
+** DRY / Abstraction
+- Avoid meaningful duplication.
+- Don't eliminate every repeated line.
+- Don't create abstractions prematurely.
+- Two similar pieces of code do not necessarily need a shared abstraction.
+- Abstract when duplication causes maintenance problems.
+
+** Testing
+- Test behavior, not implementation details.
+- Tests should clearly show:
+  - input
+  - expected behavior
+  - expected result
+- Test edge cases and failure cases.
+- Use descriptive test names.
+- Recommended: =pytest=
+
+** Tooling
+Recommended modern baseline:
+- Formatter: =ruff format=
+- Linter: =ruff check=
+- Type checker: =pyright=
+- Tests: =pytest=
+- Environment/project manager: =uv=
+- Git hooks: =pre-commit=
+
+Example:
+#+begin_src sh
+ruff check .
+ruff format .
+pyright
+pytest
+#+end_src
+
+- Automate repetitive quality checks.
+
+** Project Structure / Configuration
+
+- Prefer isolated virtual environments.
+- Keep project configuration in =pyproject.toml= where appropriate.
+- Make style/type/testing rules reproducible.
+- Don't depend on global packages.
+
+** Logging
+
+- Use =print()= for simple scripts/debugging.
+- Use =logging= for applications/services.
+- Use appropriate log levels:
+
+  - =debug=
+  - =info=
+  - =warning=
+  - =error=
+  - =critical=
+
+** Avoid Overengineering: Don't introduce complexity without a reason:
+
+- unnecessary classes
+- excessive design patterns
+- excessive abstraction layers
+- wrappers around simple functions
+- premature optimization
+- excessive configuration
+
+Rule: Solve the current problem simply; refactor when real complexity appears.
+
+** AI-Agent Clean Code Rules
+
+*** When generating/modifying Python:
+
+- Preserve existing project conventions.
+- Inspect surrounding code before introducing patterns.
+- Prefer the simplest correct implementation.
+- Don't introduce dependencies without justification.
+- Don't refactor unrelated code.
+- Keep changes narrowly scoped.
+- Preserve existing behavior unless explicitly asked otherwise.
+- Add/update tests for behavioral changes.
+- Use type hints for new public APIs.
+- Use descriptive names.
+- Avoid magic values.
+- Avoid deep nesting.
+- Avoid unnecessary abstractions.
+- Run formatter/linter/type-checker/tests when available.
+- Never hide exceptions just to make code pass.
+- Explain non-obvious decisions briefly.
+- Prefer standard-library solutions when sufficient.
+- Follow =pyproject.toml= and repository instructions over generic preferences.
+
+*** Quick Checklist
+- [ ] Clear names
+- [ ] Focused functions
+- [ ] Shallow control flow
+- [ ] Useful type hints
+- [ ] No unexplained magic values
+- [ ] No unnecessary duplication
+- [ ] No premature abstraction
+- [ ] Comments explain why
+- [ ] Specific exception handling
+- [ ] Pythonic idioms
+- [ ] PEP 8 / project style
+- [ ] Tests cover behavior
+- [ ] Formatter passes
+- [ ] Linter passes
+- [ ] Type checker passes
+
+- Mental Model
+
+#+begin_example
+Readable
+-> Simple
+-> Explicit
+-> Consistent
+-> Typed where useful
+-> Tested
+-> Automatically checked
+-> Easy to change
+#+end_example
+
+** Sources
+- PEP 8:
+  https://peps.python.org/pep-0008/
+- Clean Code in Python:
+  https://medium.com/the-pythonworld/clean-code-in-python-10-rules-to-follow-in-2025-a256dac3434d
+  #+end_example
+
+
+
+
+
+
+
+* DONE csharp clean code
+** General rules
+1. Follow standard conventions.
+2. Keep it simple stupid. Simpler is always better. Reduce complexity as
+   much as possible.
+3. Boy scout rule. Leave the campground cleaner than you found it.
+4. Always find root cause. Always look for the root cause of a problem.
+
+** Design rules
+1. Keep configurable data at high levels.
+2. Prefer polymorphism to if/else or switch/case.
+3. Separate multi-threading code.
+4. Prevent over-configurability.
+5. Use dependency injection.
+6. Follow Law of Demeter. A class should know only its direct
+   dependencies.
+
+** Understandability tips
+1. Be consistent. If you do something a certain way, do all similar
+   things in the same way.
+2. Use explanatory variables.
+3. Encapsulate boundary conditions. Boundary conditions are hard to keep
+   track of. Put the processing for them in one place.
+4. Prefer dedicated value objects to primitive type.
+5. Avoid logical dependency. Don't write methods which works correctly
+   depending on something else in the same class.
+6. Avoid negative conditionals.
+
+** Names rules
+1. Choose descriptive and unambiguous names.
+2. Make meaningful distinction.
+3. Use pronounceable names.
+4. Use searchable names.
+5. Replace magic numbers with named constants.
+6. Avoid encodings. Don't append prefixes or type information.
+
+** Functions rules
+1. Small.
+2. Do one thing.
+3. Use descriptive names.
+4. Prefer fewer arguments.
+5. Have no side effects.
+6. Don't use flag arguments. Split method into several independent
+   methods that can be called from the client without the flag.
+
+** Comments rules
+1. Always try to explain yourself in code.
+2. Don't be redundant.
+3. Don't add obvious noise.
+4. Don't use closing brace comments.
+5. Don't comment out code. Just remove.
+6. Use as explanation of intent.
+7. Use as clarification of code.
+8. Use as warning of consequences.
+
+** Source code structure
+1. Separate concepts vertically.
+2. Related code should appear vertically dense.
+3. Declare variables close to their usage.
+4. Dependent functions should be close.
+5. Similar functions should be close.
+6. Place functions in the downward direction.
+7. Keep lines short.
+8. Don't use horizontal alignment.
+9. Use white space to associate related things and disassociate weakly
+   related.
+10. Don't break indentation.
+
+** Objects and data structures
+1. Hide internal structure.
+2. Prefer data structures.
+3. Avoid hybrids structures (half object and half data).
+4. Should be small.
+5. Do one thing.
+6. Small number of instance variables.
+7. Base class should know nothing about their derivatives.
+8. Better to have many functions than to pass some code into a function
+   to select a behavior.
+9. Prefer non-static methods to static methods.
+
+** Tests
+1. One assert per test.
+2. Readable.
+3. Fast.
+4. Independent.
+5. Repeatable.
+
+** Code smells
+1. Rigidity. The software is difficult to change. A small change causes
+   a cascade of subsequent changes.
+2. Fragility. The software breaks in many places due to a single change.
+3. Immobility. You cannot reuse parts of the code in other projects
+   because of involved risks and high effort.
+4. Needless Complexity.
+5. Needless Repetition.
+6. Opacity. The code is hard to understand.
+
+** Core Principles
+- Readability > cleverness.
+- Simplicity > unnecessary abstraction.
+- Explicit intent > implicit behavior when clarity improves.
+- Consistency > personal preference.
+- Prefer maintainable code over minimal line count.
+- Follow repository/project conventions before generic conventions.
+- Use modern C# features when they improve clarity.
+- Don't refactor unrelated code.
+- Preserve existing behavior unless explicitly asked otherwise.
+
+** Naming
+- Types/classes/records/enums: =PascalCase=
+- Methods: =PascalCase=
+- Properties: =PascalCase=
+- Public members: =PascalCase=
+- Interfaces: =IPascalCase=
+- Parameters: =camelCase=
+- Local variables: =camelCase=
+- Private/internal instance fields: =_camelCase=
+- Constants: =PascalCase=
+- Static fields: project convention; Microsoft code commonly uses =s_=
+- Type parameters: =T=, =TItem=, =TResult=
+- Async methods: suffix =Async=
+- Exception classes: suffix =Exception=
+- Attribute classes: suffix =Attribute=
+- Avoid unnecessary abbreviations/acronyms.
+- Avoid meaningless names: =data=, =obj=, =thing=, =temp=.
+- Prefer descriptive names over short names.
+- Avoid single-letter names except simple loop variables.
+- Avoid double underscores; they are reserved for compiler-generated identifiers.
+
+** Classes / Types
+- Classes should have one clear responsibility.
+- Prefer composition over inheritance when appropriate.
+- Keep public APIs small.
+- Hide implementation details.
+- Prefer immutable types when practical.
+- Use =record= for data/value-oriented models when appropriate.
+- Use =class= for identity/mutable behavior.
+- Use =struct= only for small value types with appropriate semantics.
+- Use =enum= for a fixed set of related values.
+- Non-flags enums: singular name.
+- =Flags= enums: plural name.
+- Avoid classes that exist only as containers for unrelated methods.
+
+** Interfaces
+- Use interfaces for meaningful contracts/abstractions.
+- Name interfaces with =I= prefix:
+#+begin_src csharp
+public interface IUserRepository {
+Task<User?> FindAsync(int id, CancellationToken cancellationToken);
+}
+#+end_src
+
+- Don't create an interface for every class automatically.
+- Prefer abstractions at architectural boundaries.
+
+** Methods
+- One clear responsibility per method.
+- Keep methods reasonably short.
+- Prefer guard clauses over deep nesting.
+- Avoid excessive parameter counts.
+- Use parameter objects when many parameters form one concept.
+- Avoid methods with surprising side effects.
+- Method names should describe the action/result.
+- =Get= implies retrieval; =Create= implies creation; =Delete= implies deletion.
+- Async methods should end in =Async=.
+- Don't return unnecessary mutable state.
+
+** Properties
+- Prefer properties over public fields.
+- Keep setters private when callers shouldn't mutate state.
+- Prefer init-only properties for immutable initialization:
+#+begin_src csharp
+public string Name { get; init; } = "";
+#+end_src
+
+- Use computed properties when appropriate.
+- Don't put expensive operations behind ordinary properties.
+- Avoid properties with surprising side effects.
+
+** Fields
+- Keep fields private unless exposure is intentional.
+- Prefer =readonly= when a field shouldn't be reassigned.
+- Prefer =const= for compile-time constants.
+- Use =static readonly= for runtime constants.
+- Don't expose mutable collections directly.
+
+** Variables / =var=
+- Use =var= when the type is obvious from the right-hand side:
+#+begin_src csharp
+var user = new User();
+var users = new List<User>();
+#+end_src
+
+- Use explicit types when =var= would obscure important information:
+#+begin_src csharp
+CancellationToken token = GetToken();
+IUserRepository repository = GetRepository();
+#+end_src
+
+- Don't make =var= vs explicit typing a personal battle.
+- Follow the project's `.editorconfig`.
+
+** Nullability
+- Enable nullable reference types:
+#+begin_src xml <Nullable>enable</Nullable>
+#+end_src
+
+- Treat =string= and =string?= as meaningful API contracts.
+- Use =?= when null is a valid state.
+- Don't use =!` (null-forgiving operator) to silence warnings without understanding why.
+- Prefer fixing the null-state rather than suppressing warnings.
+- Initialize non-nullable fields/properties correctly.
+- Use nullable annotations to communicate API intent.
+Example:
+#+begin_src csharp
+public User? FindUser(int id)
+{
+...
+}
+
+public User GetRequiredUser(int id)
+{
+...
+}
+#+end_src
+
+** Collections
+
+- Prefer interfaces for parameters/return types when implementation isn't relevant:
+#+begin_src csharp
+IReadOnlyList<User>
+IEnumerable<User>
+ICollection<User>
+#+end_src
+
+- Don't expose mutable collections unnecessarily.
+- Prefer read-only interfaces for read-only APIs.
+- Use collection expressions when they improve readability:
+#+begin_src csharp
+List<int> numbers = [1, 2, 3];
+#+end_src
+
+- Choose the collection based on semantics, not habit.
+- Avoid unnecessary conversions between collection types.
+
+** LINQ
+- Use LINQ when it makes collection operations clearer.
+- Common operations:
+#+begin_example
+Where     -> filter
+Select    -> transform
+Any       -> existence check
+All       -> every element matches
+First     -> first expected element
+FirstOrDefault -> first or absence
+Single    -> exactly one expected element
+Count     -> number of elements
+OrderBy   -> sorting
+GroupBy   -> grouping
+#+end_example
+
+- Prefer =Any()= over =Count() > 0= for existence checks.
+- Don't use LINQ when a simple loop is clearer.
+- Avoid excessively long LINQ chains.
+- Be aware of deferred execution.
+- With EF Core/IQueryable, understand whether operations execute in the database or in memory.
+- Avoid accidental multiple enumeration.
+- Don't call =ToList()= / =ToArray()= prematurely.
+- Query syntax and method syntax are semantically equivalent; use the style that is clearest.
+
+** Async / Await
+- Use =async/await= for asynchronous I/O.
+- Async methods should normally return =Task=, =Task<T>=, or =ValueTask<T>= when justified.
+- Suffix asynchronous methods with =Async=.
+- Don't block async code with =.Result= or =.Wait()=.
+- Prefer =await= all the way through the call chain.
+- Accept and propagate =CancellationToken= for cancellable operations.
+- Pass the token to underlying async APIs.
+- Don't create unnecessary =Task.Run()= for I/O-bound work.
+- Don't use =async void= except event handlers.
+- Don't ignore returned Tasks.
+- Handle =OperationCanceledException= appropriately.
+- Don't confuse cancellation with failure.
+Example:
+#+begin_src csharp
+public async Task<User?> GetUserAsync(
+int id,
+CancellationToken cancellationToken)
+{
+return await _repository.FindAsync(id, cancellationToken);
+}
+#+end_src
+
+** Exceptions
+- Exceptions represent exceptional/failure conditions, not normal control flow.
+- Catch only exceptions you can meaningfully handle.
+- Catch specific exception types.
+- Don't use:
+#+begin_src csharp
+catch (Exception) {
+}
+#+end_src
+
+- Don't silently swallow exceptions.
+- Don't catch and rethrow using =throw ex;= because it loses the original stack trace.
+- Use =throw;= when rethrowing from a catch block.
+- Prefer predefined exception types.
+- Validate arguments early.
+- Use =ArgumentNullException.ThrowIfNull()= where appropriate.
+- Use =TryParse= / =TryGetValue= patterns for expected failure conditions.
+- Use =using= / =await using= for disposable resources.
+- Don't throw exceptions from ordinary methods such as =ToString()= without strong justification.
+- Custom exceptions should end with =Exception=.
+- Catch =OperationCanceledException= for cancellation when needed.
+
+** Resource Management
+- Dispose =IDisposable= objects deterministically.
+- Use =using= statements/declarations.
+- Use =await using= for =IAsyncDisposable=.
+- Don't manually call =Dispose()= when a using declaration is appropriate.
+- Don't dispose objects whose lifetime is owned elsewhere.
+- Understand ownership before disposing injected dependencies.
+
+** Pattern Matching
+Prefer pattern matching when it improves clarity:
+#+begin_src csharp
+if (user is { IsActive: true })
+{
+...
+}
+#+end_src
+
+- Useful patterns:
+  - =is null=
+  - =is not null=
+  - type patterns
+  - property patterns
+  - relational patterns
+  - switch expressions
+- Avoid clever patterns that make simple logic harder to understand.
+
+** Switch
+- Prefer switch expressions for straightforward value mapping:
+#+begin_src csharp
+var message = status switch
+{
+Status.Active => "Active",
+Status.Disabled => "Disabled",
+_ => "Unknown"
+};
+#+end_src
+
+- Use ordinary =switch= statements when multiple statements or side effects make them clearer.
+
+** Equality
+- Use === null= only when appropriate; prefer =is null= for null checks.
+- Understand value vs reference equality.
+- Implement =Equals()= and =GetHashCode()= consistently when defining value equality.
+- Prefer records when their built-in value semantics fit the model.
+- Don't compare objects by reference when value equality is intended.
+
+** Strings
+- Use interpolation for readable string construction:
+#+begin_src csharp
+var message = $"Hello, {name}";
+#+end_src
+- Use =StringBuilder= only when repeated mutation actually benefits from it.
+- Use appropriate string comparison rules.
+- Never assume default string comparison semantics are correct for security-sensitive or culture-sensitive operations.
+- Avoid unnecessary string allocations.
+- Don't concatenate strings in complex loops without considering performance.
+
+** Formatting
+- Use 2-space indentation.
+- Prefer spaces over tabs unless the repository says otherwise.
+- Use braces consistently.
+- Keep one statement per line.
+- Use blank lines to separate logical sections.
+- Keep lines reasonably short.
+- Follow the repository's formatter configuration.
+- Don't manually fight automated formatting.
+
+** Namespaces / Files
+- Prefer file-scoped namespaces when consistent with the project:
+#+begin_src csharp
+namespace MyApp.Services;
+
+public class UserService {
+}
+#+end_src
+
+- Keep namespace names meaningful.
+- Keep namespaces aligned with project structure.
+- Usually one primary type per file.
+- File name should normally match the primary type.
+- Don't create unnecessary namespace nesting.
+
+** Using Directives
+- Remove unused imports.
+- Keep imports consistent.
+- Prefer global usings for genuinely universal dependencies.
+- Don't add global usings merely to avoid a few lines.
+- Follow the project's ordering/style rules.
+
+** Access Modifiers
+- Explicitly specify access modifiers when project conventions require it.
+- Default to the narrowest visibility necessary.
+- Prefer =private= over exposing implementation details.
+- Public APIs should be intentional.
+- Don't make fields/methods public just for convenience.
+
+** Constants / Magic Values
+Avoid:
+#+begin_src csharp
+if (retryCount > 5) {
+...
+}
+#+end_src
+
+Prefer:
+#+begin_src csharp
+const int MaxRetries = 5;
+
+if (retryCount > MaxRetries) {
+...
+}
+#+end_src
+
+Use enums for meaningful finite states.
+
+** Comments / XML Documentation
+- Prefer expressive code over comments.
+- Comments explain =why=, constraints, or non-obvious behavior.
+- Don't comment obvious code.
+- Update comments when behavior changes.
+- Use XML documentation for public APIs when documentation is required.
+- Don't generate useless XML documentation merely to satisfy a rule.
+
+** Dependency Injection
+- Depend on abstractions when they represent real boundaries.
+- Inject dependencies instead of constructing infrastructure inside business logic.
+- Keep constructors understandable.
+- Avoid service locator patterns.
+- Don't inject dependencies that aren't actually needed.
+- Avoid giant constructors; excessive dependencies often indicate excessive responsibilities.
+- Keep dependency lifetimes correct.
+- Don't inject scoped services into singleton services.
+
+** SOLID — Practical Version
+- Single Responsibility: * One class should have one coherent reason to change.
+- Open/Closed: * Extend behavior without constantly modifying stable code when practical.
+- Liskov Substitution: * Derived types must honor the contracts of their base types.
+- Interface Segregation: * Prefer focused interfaces over giant interfaces.
+- Dependency Inversion: * High-level logic should not depend directly on replaceable infrastructure.
+Don't apply SOLID mechanically. Use it to reduce real coupling and complexity.
+
+** DTOs / Entities / Models
+- Don't use database entities everywhere by default.
+- DTOs represent data crossing boundaries.
+- Entities represent domain/database concepts.
+- API request/response models should represent API contracts.
+- Avoid exposing persistence models directly when it creates coupling.
+- Keep mapping logic explicit and understandable.
+
+** EF Core
+- Prefer async database APIs.
+- Pass =CancellationToken=.
+- Avoid unnecessary tracking for read-only queries:
+#+begin_src csharp
+var users = await db.Users
+.AsNoTracking()
+.ToListAsync(cancellationToken);
+#+end_src
+
+- Avoid =ToList()= before filtering.
+- Let EF translate database operations when appropriate.
+- Avoid accidental N+1 queries.
+- Don't load entire tables unnecessarily.
+- Project only required fields when appropriate.
+- Keep transactions intentional.
+- Don't expose =DbContext= throughout unrelated application layers.
+- Keep database concerns separated from domain/business logic where architecture requires it.
+
+** ASP.NET Core
+- Keep controllers/endpoints thin.
+- Put business logic in application/domain services rather than controllers.
+- Validate input at boundaries.
+- Use dependency injection.
+- Use appropriate HTTP status codes.
+- Don't return entities blindly from public APIs.
+- Use DTOs for API contracts when appropriate.
+- Propagate =CancellationToken=.
+- Don't duplicate validation/business logic across endpoints.
+- Keep middleware focused.
+- Don't put everything into one giant service.
+
+** Validation
+- Validate external input at system boundaries.
+- Fail early for invalid arguments.
+- Keep business invariants inside the domain/application layer where appropriate.
+- Don't rely solely on UI validation.
+- Don't duplicate identical validation across every layer without reason.
+
+** Testing
+- Test behavior, not implementation details.
+- Tests should be deterministic.
+- Test one behavior per test when practical.
+- Use descriptive test names.
+- Follow Arrange / Act / Assert when it improves clarity.
+- Test happy paths and important edge cases.
+- Test failure behavior.
+- Avoid excessive mocking.
+- Prefer real implementations for simple/value-like dependencies.
+- Unit tests should be fast.
+- Integration tests should test real boundaries such as database/API behavior.
+Example:
+#+begin_src csharp
+[Fact]
+public async Task GetUserAsync_ReturnsUser_WhenUserExists() {
+// Arrange
+...
+
+```
+// Act
+var result = await service.GetUserAsync(id);
+
+// Assert
+Assert.Equal(id, result.Id);
+```
+
+}
+#+end_src
+
+** Performance
+- Correctness and clarity come before premature optimization.
+- Measure before optimizing.
+- Avoid unnecessary allocations in hot paths.
+- Avoid repeated enumeration.
+- Avoid unnecessary =ToList()= / =ToArray()=.
+- Understand LINQ allocation/performance implications.
+- Use async I/O instead of blocking threads.
+- Avoid =Task.Run()= for I/O.
+- Use efficient collections for the actual access pattern.
+- Optimize only where measurements justify it.
+
+** Security
+- Never hardcode secrets.
+- Never log passwords, tokens, API keys, or sensitive data.
+- Validate and sanitize external input.
+- Use parameterized database queries / EF Core rather than string-built SQL.
+- Don't disable TLS/certificate validation casually.
+- Don't trust client-provided authorization information.
+- Enforce authorization server-side.
+- Avoid leaking sensitive information through exception messages/API responses.
+- Treat authentication and authorization as separate concerns.
+
+** Architecture
+Prefer clear boundaries:
+#+begin_example
+API / Presentation
+↓
+Application
+↓
+Domain
+↓
+Infrastructure
+#+end_example
+
+- Keep business rules out of controllers.
+- Keep infrastructure concerns out of domain models.
+- Keep domain logic independent of frameworks where practical.
+- Don't create layers merely for ceremony.
+- Dependencies should point toward stable/core abstractions.
+- Avoid circular dependencies.
+
+** Modern C# Features
+Use modern language features when they improve clarity:
+- nullable reference types
+- records
+- init-only setters
+- pattern matching
+- switch expressions
+- expression-bodied members
+- file-scoped namespaces
+- target-typed =new=
+- collection expressions
+- required members
+- primary constructors where appropriate
+- top-level statements for simple applications
+
+Don't use a feature merely because it is newer. Clarity and project consistency win.
+
+** Expression-Bodied Members
+Good for genuinely simple expressions:
+#+begin_src csharp
+public bool IsAdult => Age >= 18;
+#+end_src
+
+Avoid when they make complex logic harder to scan.
+
+** Records
+Use records when value-oriented semantics are appropriate:
+#+begin_src csharp
+public record UserDto(int Id, string Name);
+#+end_src
+
+Don't automatically convert every class into a record.
+
+** Primary Constructors
+Useful for simple dependency injection:
+#+begin_src csharp
+public class UserService(IUserRepository repository) {
+public Task<User?> GetAsync(int id)
+=> repository.FindAsync(id);
+}
+#+end_src
+
+Avoid when constructor logic/state becomes difficult to understand.
+
+** File / Project Organization
+Typical organization:
+#+begin_example
+src/
+MyApp.Api/
+MyApp.Application/
+MyApp.Domain/
+MyApp.Infrastructure/
+
+tests/
+MyApp.UnitTests/
+MyApp.IntegrationTests/
+#+end_example
+
+Prefer organization by feature/responsibility when it improves discoverability.
+
+** Tooling
+Recommended baseline:
+- Formatting: =dotnet format=
+- Compiler/analyzers: .NET SDK analyzers
+- Style configuration: =.editorconfig=
+- Testing: =xUnit= / =NUnit= / =MSTest=
+- Coverage: =coverlet=
+- Static analysis: built-in .NET analyzers
+- CI: =dotnet build= + =dotnet test=
+- Package management: NuGet
+- Documentation: XML docs where appropriate
+
+.NET analyzers include code-style rules and code-quality rules and can be configured/enforced through `.editorconfig` and project settings.
+
+** .editorconfig
+
+Keep repository conventions machine-readable.
+Recommended categories:
+- indentation (i prefer 1tab = 2spaces)
+- newlines
+- naming
+- =var= preferences
+- expression-bodied members
+- namespace style
+- using directives
+- accessibility modifiers
+- nullable warnings
+- analyzer severity
+- formatting
+
+Use `.editorconfig` so conventions apply consistently across editors and CI.
+
+** Build / CI Quality Gate
+A healthy project should aim for:
+#+begin_src sh
+dotnet restore
+dotnet build --no-restore
+dotnet test --no-build
+dotnet format --verify-no-changes
+#+end_src
+
+Depending on the project, also enforce:
+- analyzer warnings
+- nullable warnings
+- code coverage thresholds
+- security scanning
+- package vulnerability checks
+
+** ai-agent rules, when generating or modifying c#:
+- Read =.editorconfig= first.
+- Read =Directory.Build.props= / =Directory.Build.targets= when present.
+- Read existing neighboring classes before creating new patterns.
+- Follow the project's target .NET/C# version.
+- Preserve existing architectural boundaries.
+- Prefer existing abstractions over inventing new ones.
+- Search for existing helpers/services before duplicating functionality.
+- Don't introduce a new NuGet package when the BCL already solves the problem.
+- Don't introduce a design pattern without a concrete reason.
+- Keep changes narrowly scoped.
+- Don't refactor unrelated code.
+- Preserve public API behavior unless explicitly asked to change it.
+- Respect nullable reference type warnings.
+- Propagate =CancellationToken= through async operations.
+- Avoid blocking async code.
+- Use specific exception handling.
+- Don't swallow exceptions.
+- Don't use =!` merely to silence nullable warnings.
+- Don't add unnecessary comments.
+- Don't expose database entities unnecessarily through APIs.
+- Don't put business logic into controllers/endpoints.
+- Don't duplicate validation/business rules.
+- Add/update tests for behavior changes.
+- Run formatter/analyzers/tests after modifications when available.
+- Fix warnings introduced by your changes.
+- Prefer the simplest correct implementation.
+
+** AI-Agent Decision Rules
+- Before adding code:
+  - Is there already a helper/service for this?
+  - Does the project already use a pattern for this?
+  - Does `.editorconfig` specify the style?
+  - Is this abstraction actually needed?
+  - Can the BCL solve this without a dependency?
+  - Is this operation synchronous or asynchronous?
+  - Can this value be null?
+  - Who owns/disposes this resource?
+  - Is this code executing in memory or in the database?
+  - What happens when this operation fails?
+  - Is cancellation supported?
+  - Does this change require a test?
+
+- Before finishing:
+  - [ ] Build succeeds.
+  - [ ] Tests pass.
+  - [ ] No new compiler/analyzer warnings.
+  - [ ] Nullable warnings addressed.
+  - [ ] Formatting passes.
+  - [ ] No unnecessary dependencies.
+  - [ ] No unrelated refactoring.
+  - [ ] Public API changes are intentional.
+  - [ ] Cancellation propagated where appropriate.
+  - [ ] Exceptions are handled intentionally.
+  - [ ] Existing project conventions preserved.
+
+- Quick Checklist
+  - [ ] PascalCase public/type names
+  - [ ] camelCase locals/parameters
+  - [ ] _camelCase private fields
+  - [ ] I-prefixed interfaces
+  - [ ] Async suffix for async methods
+  - [ ] Nullable enabled
+  - [ ] Small focused classes/methods
+  - [ ] Guard clauses
+  - [ ] Specific exceptions
+  - [ ] No swallowed exceptions
+  - [ ] Proper disposal
+  - [ ] CancellationToken propagation
+  - [ ] LINQ used for clarity
+  - [ ] No unnecessary materialization
+  - [ ] DTO/API boundaries intentional
+  - [ ] Business logic outside controllers
+  - [ ] EF Core queries efficient
+  - [ ] No hardcoded secrets
+  - [ ] Tests cover behavior
+  - [ ] `.editorconfig` respected
+  - [ ] Analyzers enabled
+  - [ ] Formatter passes
+  - [ ] Build passes
+  - [ ] Tests pass
+
+** Mental Model
+#+begin_example
+Readable
+-> Explicit
+-> Consistent
+-> Null-safe
+-> Async-aware
+-> Exception-safe
+-> Resource-safe
+-> Testable
+-> Maintainable
+-> Automatically checked
+-> Extensible
+#+end_example
+
+** Sources
+- Microsoft: .NET Coding Conventions https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+- Microsoft: C# Identifier Naming Rules https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names
+- Microsoft: .NET Code Style Rules https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/
+- Microsoft: Configuration Files for Code Analysis https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/configuration-files
+- Microsoft: Nullable Reference Types https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-reference-types
+- Microsoft: Exception Best Practices https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions
+- Microsoft: LINQ https://learn.microsoft.com/en-us/dotnet/csharp/linq/
+- Microsoft: Top-level Statements https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/top-level-statements

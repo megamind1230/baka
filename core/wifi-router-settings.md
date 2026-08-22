@@ -1,4 +1,0 @@
--   for a better wifi settings
-    - ![[Pasted-image-20230113192048.png|250]]
-    -   and the 2 must be closed
-	  - ![[Pasted-image-20230113192112.png|250]]

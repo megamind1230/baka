@@ -1,0 +1,80 @@
+** must have
+- [X] [[file:0-fitness-and-calisthenics-and-health.org][0-fitness-and-calisthenics-and-health]]
+- [X] [[file:studying-methods-moc.org][study and note-taking]]
+- [X] [[file:0-how-to-summarize-or-recap-videos-lectures-lesson-books-the-topics-you-study.org][0-how-to-summarize-or-recap-videos-lectures-lesson-books-the-topics-you-study]]
+- [X] [[file:0-active-listening.org][0-active-listening]]
+- [X] [[file:0-the-falocn-framework.org][0-the-falocn-framework]]
+- [X] [[file:0-how-to-wake-up-properly-from-sleep-and-causes-of-face-puffiness-in-the-morning.org][0-how-to-wake-up-properly-from-sleep-and-causes-of-face-puffiness-in-the-morning]]
+- [X] [[file:0-how-to-link-to-a-specific-part-in-a-youtube-video.org][0-how-to-link-to-a-specific-part-in-a-youtube-video]]
+- [X] [[file:0-google-or-search-engine-tricks-google-dorks.org][0-google-or-search-engine-tricks-google-dorks]]
+- [ ] [[file:prompt-engineering-moc.org][prompt-engineering-moc]]
+- [ ] [[file:books-moc.org][books-moc]]
+- [ ] [[file:time-blocking-app.org][time-blocking-app]]
+- [ ] [[file:0-making-use-of-the-summer-holiday-by-adel-samir.org][0-making-use-of-the-summer-holiday-by-adel-samir]]
+- [X] [[file:0-a-safe-place-to-save-my-booksmarks.org][0-a-safe-place-to-save-my-booksmarks]]
+- [X] =*365#= vodafone code on phone .. for daily offers
+
+** OS
+- [X] [[file:0-windows-10-shortcuts.org][windows]]
+- [X] [[file:0-my-linux-slander-the-linux-journey.org][linux]]
+  ​## fast
+- [X] [[file:0-touch-typing.org][0-touch-typing]]
+- [X] [[file:0-google-or-search-engine-tricks-google-dorks.org][0-google-or-search-engine-tricks-google-dorks]]
+- [X] [[file:0-autohotkey-(AHK)-windows.org][0-autohotkey-(AHK)-windows]]
+- [X] [[file:@-nvim-moc.org][@-nvim-moc]]
+
+** long term mentality
+- [X] [[file:atomic-habits.org][atomic-habits]]
+- [X] supporting the social medial algorithms
+  - not interest
+  - dont recomment channel
+  - report
+  - like, dislike, comment, share, save video
+- [ ] minimalism & anti-consumerism
+
+** connect
+- [X] languages
+  - english
+    - [X] [[file:0-offline-dict-for-linux.org][0-offline-dict-for-linux]]
+    - [X] ZAE
+    - [X] [[https://www.youtube.com/@mindyourlanguage4359/videos][Mind Your Language MYL- YouTube]]
+    - [X] [[file:@-anki-MOC.org][@-anki-moc]]
+    - [X] chat apps
+      - [X] omeTV
+      - [X] discord
+      - [X] language exchange
+- [X] TILs
+  - share knowledge on
+    - [X] reddit [[https://www.reddit.com/r/mnk4/][mnk4]]
+    - [X] github repo
+      ​## IRL
+- [X] [[file:0-how-to-draw-and-types-or-styles-of-drawing-to-try.org][0-how-to-draw-and-types-or-styles-of-drawing-to-try]]
+- [ ] IRL math
+- [ ] simple programming
+- [ ] computer scripting
+- [ ] [[file:communicate-without-whatsapp.org][communicate-without-whatsapp]]
+- [ ] passive income
+  - [ ] content creating
+  - [ ] investing
+- [ ] urban gardening/planting
+- [ ] figma
+
+* medical
+- [ ] wounds
+- [ ] burns
+- [ ] bleeding
+- [ ] faints and comas
+- [ ] herbal knowledge
+- [ ] diet balancing
+- [ ] fasting
+- [ ] [[file:0-why-some-ppl-have-dry-chapped-lips.org][0-why-some-ppl-have-dry-chapped-lips]]
+- [ ] [[file:0-types-of-plastic-containers.org][0-types-of-plastic-containers]]
+
+* kitchen
+- [ ] tea, coffee
+- [ ] rice
+- [ ] salad chopping
+- [ ] making yogurt, cheese
+- [ ] fermentation
+
+* [[file:soft-skills.org][soft-skills]]

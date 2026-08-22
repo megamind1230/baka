@@ -1,0 +1,14 @@
+17-05-2025
+#todo
+> lec 12 in yt videos
+
+- [X] [[file:task-vs-thread-in-csharp.org][task-vs-thread-in-csharp]]
+- [X] [[async-keyword]]
+- [X] [[await-keyword]]
+- [X] [[file:delegates-and-events.org][delegates-and-events]]
+- [X] [[file:observer-pattern-vs-publisher-and-subsciber-pattern-and-what-is-message-broker.org][observer-pattern-vs-publisher-and-subsciber-pattern-and-what-is-message-broker]]
+- [X] [[dependency-inversion]] [[solid-priciples]]
+- [X] [[method injection]]
+- [X] [[file:0-linq-in-csharp.org][0-linq-in-csharp]]
+- [X] [[entity-framwork]]
+- [X] [[string-vs-string-builder]]

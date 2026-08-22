@@ -1,0 +1,2197 @@
+* 📦 Chapter 3 & 4 -- Widgets (Questions 41--100)
+*** 🔹 TextField & Controllers
+41. [@41] =TextEditingController= is used to:
+
+- 
+  1) Style text
+- 
+  2) [@2] Control layout
+- 
+  3) [@3] Read/write TextField value
+- 
+  4) [@4] Validate forms
+     *✅ Answer: C*
+
+42. [@42] Without a controller, TextField value is accessed via:
+
+- 
+  1) =value=
+- 
+  2) [@2] =onChanged=
+- 
+  3) [@3] =onSaved=
+- 
+  4) [@4] =getText()=
+     *✅ Answer: B*
+
+43. [@43] =InputDecoration= is used to:
+
+- 
+  1) Animate TextField
+- 
+  2) [@2] Style & label inputs
+- 
+  3) [@3] Store values
+- 
+  4) [@4] Control focus
+     *✅ Answer: B*
+
+44. [@44] =labelText= in InputDecoration:
+
+- 
+  1) Appears inside field permanently
+- 
+  2) [@2] Appears above the field
+- 
+  3) [@3] Appears below field
+- 
+  4) [@4] Appears only on error
+     *✅ Answer: B*
+
+45. [@45] =hintText=:
+
+- 
+  1) Is validation text
+- 
+  2) [@2] Disappears when typing
+- 
+  3) [@3] Is always visible
+- 
+  4) [@4] Is error text
+     *✅ Answer: B*
+
+46. [@46] =errorText= is usually shown when:
+
+- 
+  1) Field is focused
+- 
+  2) [@2] Validation fails
+- 
+  3) [@3] Keyboard opens
+- 
+  4) [@4] App starts
+     *✅ Answer: B*
+
+47. [@47] Which makes a password field?
+
+- 
+  1) =secure: true=
+- 
+  2) [@2] =password: true=
+- 
+  3) [@3] =obscureText: true=
+- 
+  4) [@4] =hidden: true=
+     *✅ Answer: C*
+
+48. [@48] =keyboardType: TextInputType.emailAddress= adds:
+
+- 
+  1) Validation
+- 
+  2) [@2] @ symbol on keyboard
+- 
+  3) [@3] Auto submit
+- 
+  4) [@4] Email checking
+     *✅ Answer: B*
+
+49. [@49] Input formatters are used to:
+
+- 
+  1) Animate text
+- 
+  2) [@2] Restrict input
+- 
+  3) [@3] Align text
+- 
+  4) [@4] Save input
+     *✅ Answer: B*
+
+50. [@50] =LengthLimitingTextInputFormatter=:
+
+- 
+  1) Formats numbers
+- 
+  2) [@2] Limits characters
+- 
+  3) [@3] Adds spaces
+- 
+  4) [@4] Converts text
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Switch, Checkbox, Radio
+
+51. [@51] Switch and Checkbox both represent:
+
+- 
+  1) Numbers
+- 
+  2) [@2] Strings
+- 
+  3) [@3] Boolean values
+- 
+  4) [@4] Lists
+     *✅ Answer: C*
+
+52. [@52] Which looks more "mobile-native"?
+
+- 
+  1) Checkbox
+- 
+  2) [@2] Switch
+- 
+  3) [@3] Radio
+- 
+  4) [@4] Slider
+     *✅ Answer: B*
+
+53. [@53] Radio buttons are grouped using:
+
+- 
+  1) key
+- 
+  2) [@2] value
+- 
+  3) [@3] groupValue
+- 
+  4) [@4] index
+     *✅ Answer: C*
+
+54. [@54] Only one Radio in a group can be:
+
+- 
+  1) Visible
+- 
+  2) [@2] Enabled
+- 
+  3) [@3] Selected
+- 
+  4) [@4] Styled
+     *✅ Answer: C*
+     ---
+     ​### 🔹 Image & BoxFit
+
+55. [@55] Default Image fit is:
+
+- 
+  1) cover
+- 
+  2) [@2] fill
+- 
+  3) [@3] contain
+- 
+  4) [@4] scaleDown
+     *✅ Answer: D*
+
+56. [@56] =BoxFit.cover= means:
+
+- 
+  1) Fit without cropping
+- 
+  2) [@2] Stretch image
+- 
+  3) [@3] Fill space & crop excess
+- 
+  4) [@4] Keep original size
+     *✅ Answer: C*
+
+57. [@57] =BoxFit.contain=:
+
+- 
+  1) Crops image
+- 
+  2) [@2] Distorts image
+- 
+  3) [@3] Keeps full image visible
+- 
+  4) [@4] Zooms image
+     *✅ Answer: C*
+
+58. [@58] Best fit for profile picture without distortion:
+
+- 
+  1) fill
+- 
+  2) [@2] cover
+- 
+  3) [@3] contain
+- 
+  4) [@4] fitHeight
+     *✅ Answer: B*
+
+59. [@59] Network images are:
+
+- 
+  1) Faster
+- 
+  2) [@2] Cached at compile time
+- 
+  3) [@3] Loaded at runtime
+- 
+  4) [@4] Embedded
+     *✅ Answer: C*
+     ---
+     ​### 🔹 Forms & Validation
+
+60. [@60] Form widget is:
+
+- 
+  1) Visible UI
+- 
+  2) [@2] Invisible container
+- 
+  3) [@3] Layout widget
+- 
+  4) [@4] Animation widget
+     *✅ Answer: B*
+
+61. [@61] Forms require:
+
+- 
+  1) LocalKey
+- 
+  2) [@2] ValueKey
+- 
+  3) [@3] =GlobalKey<FormState>=
+- 
+  4) [@4] UniqueKey
+     *✅ Answer: C*
+
+62. [@62] =validate()= does what?
+
+- 
+  1) Saves data
+- 
+  2) [@2] Resets fields
+- 
+  3) [@3] Checks rules
+- 
+  4) [@4] Closes form
+     *✅ Answer: C*
+
+63. [@63] =save()= triggers:
+
+- 
+  1) onChanged
+- 
+  2) [@2] onPressed
+- 
+  3) [@3] onSaved
+- 
+  4) [@4] build
+     *✅ Answer: C*
+
+64. [@64] Forms are mostly used inside:
+
+- 
+  1) StatelessWidget
+- 
+  2) [@2] StatefulWidget
+- 
+  3) [@3] InheritedWidget
+- 
+  4) [@4] StreamBuilder
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Widget Concepts
+
+65. [@65] Widgets are:
+
+- 
+  1) Mutable
+- 
+  2) [@2] Immutable
+- 
+  3) [@3] Global
+- 
+  4) [@4] Static
+     *✅ Answer: B*
+
+66. [@66] UI in Flutter is:
+
+- 
+  1) XML-based
+- 
+  2) [@2] JSON-based
+- 
+  3) [@3] Code-based
+- 
+  4) [@4] CSS-based
+     *✅ Answer: C*
+
+67. [@67] Widget trees describe:
+
+- 
+  1) Navigation
+- 
+  2) [@2] UI hierarchy
+- 
+  3) [@3] State
+- 
+  4) [@4] APIs
+     *✅ Answer: B*
+
+68. [@68] Keys help Flutter:
+
+- 
+  1) Animate widgets
+- 
+  2) [@2] Identify widgets
+- 
+  3) [@3] Style widgets
+- 
+  4) [@4] Validate forms
+     *✅ Answer: B*
+
+69. [@69] Keys are mostly needed when:
+
+- 
+  1) UI is static
+- 
+  2) [@2] Lists change order
+- 
+  3) [@3] App starts
+- 
+  4) [@4] App closes
+     *✅ Answer: B*
+
+70. [@70] Best default widget type:
+
+- 
+  1) StatefulWidget
+- 
+  2) [@2] StatelessWidget
+- 
+  3) [@3] InheritedWidget
+- 
+  4) [@4] Builder
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Passing Data
+
+71. [@71] Data passed via constructor is:
+
+- 
+  1) Mutable
+- 
+  2) [@2] Global
+- 
+  3) [@3] Immutable
+- 
+  4) [@4] Static
+     *✅ Answer: C*
+
+72. [@72] Named parameters use:
+
+- 
+  1) ()
+- 
+  2) [@2] []
+- 
+  3) [@3] {}
+- 
+  4) [@4] <>
+     *✅ Answer: C*
+
+73. [@73] Named parameters improve:
+
+- 
+  1) Performance
+- 
+  2) [@2] Readability
+- 
+  3) [@3] Speed
+- 
+  4) [@4] Memory
+     *✅ Answer: B*
+
+74. [@74] =final= means:
+
+- 
+  1) Editable
+- 
+  2) [@2] Constant
+- 
+  3) [@3] Assigned once
+- 
+  4) [@4] Private
+     *✅ Answer: C*
+
+75. [@75] Build method must return:
+
+- 
+  1) void
+- 
+  2) [@2] Widget
+- 
+  3) [@3] List
+- 
+  4) [@4] Context
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Misc
+
+76. [@76] =BuildContext= provides:
+
+- 
+  1) UI state
+- 
+  2) [@2] Widget location in tree
+- 
+  3) [@3] Network access
+- 
+  4) [@4] Storage
+     *✅ Answer: B*
+
+77. [@77] =InheritedWidget= is used for:
+
+- 
+  1) Layout
+- 
+  2) [@2] Global state sharing
+- 
+  3) [@3] Animation
+- 
+  4) [@4] Navigation
+     *✅ Answer: B*
+
+78. [@78] Flutter rebuilds UI when:
+
+- 
+  1) App starts
+- 
+  2) [@2] setState is called
+- 
+  3) [@3] Keyboard opens
+- 
+  4) [@4] Device rotates only
+     *✅ Answer: B*
+
+79. [@79] Widget composition means:
+
+- 
+  1) Writing XML
+- 
+  2) [@2] Nesting widgets
+- 
+  3) [@3] Copying widgets
+- 
+  4) [@4] Styling widgets
+     *✅ Answer: B*
+
+80. [@80] "Everything is a widget" means:
+
+- 
+  1) Only buttons exist
+- 
+  2) [@2] UI is component-based
+- 
+  3) [@3] Widgets replace logic
+- 
+  4) [@4] Widgets store data
+     *✅ Answer: B*
+     ---
+     ​# 🤏 Chapter 5 -- Gestures (Questions 106--120)
+
+106. [@106] Double tap handler:
+
+- 
+  1) onTap
+- 
+  2) [@2] onDoubleTap
+- 
+  3) [@3] onLongPress
+- 
+  4) [@4] onScale
+     *✅ Answer: B*
+
+107. [@107] Pinch zoom uses:
+
+- 
+  1) onTap
+- 
+  2) [@2] onScale
+- 
+  3) [@3] onDrag
+- 
+  4) [@4] onSwipe
+     *✅ Answer: B*
+
+108. [@108] Drag gesture uses:
+
+- 
+  1) onPanUpdate
+- 
+  2) [@2] onScale
+- 
+  3) [@3] onTapDown
+- 
+  4) [@4] onHold
+     *✅ Answer: A*
+
+109. [@109] =Dismissible= widget is used for:
+
+- 
+  1) Animation
+- 
+  2) [@2] Swipe to delete
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Layout
+     *✅ Answer: B*
+
+110. [@110] InkWell provides:
+
+- 
+  1) Gesture only
+- 
+  2) [@2] Ripple effect
+- 
+  3) [@3] Validation
+- 
+  4) [@4] Layout
+     *✅ Answer: B*
+
+111. [@111] InkWell requires:
+
+- 
+  1) Container
+- 
+  2) [@2] Scaffold
+- 
+  3) [@3] Material widget
+- 
+  4) [@4] Form
+     *✅ Answer: C*
+
+112. [@112] Ripple effect follows:
+
+- 
+  1) GestureDetector
+- 
+  2) [@2] InkWell
+- 
+  3) [@3] Listener
+- 
+  4) [@4] FocusNode
+     *✅ Answer: B*
+
+113. [@113] GestureDetector is:
+
+- 
+  1) Visual widget
+- 
+  2) [@2] Invisible wrapper
+- 
+  3) [@3] Layout widget
+- 
+  4) [@4] Navigation widget
+     *✅ Answer: B*
+
+114. [@114] Hit testing determines:
+
+- 
+  1) Animation speed
+- 
+  2) [@2] Which widget receives touch
+- 
+  3) [@3] UI color
+- 
+  4) [@4] Screen size
+     *✅ Answer: B*
+
+115. [@115] GestureDetector can wrap:
+
+- 
+  1) Only buttons
+- 
+  2) [@2] Only text
+- 
+  3) [@3] Any widget
+- 
+  4) [@4] Only images
+     *✅ Answer: C*
+
+116. [@116] onTapDown fires:
+
+- 
+  1) After tap
+- 
+  2) [@2] Before tap release
+- 
+  3) [@3] After double tap
+- 
+  4) [@4] On swipe
+     *✅ Answer: B*
+
+117. [@117] onTapCancel fires when:
+
+- 
+  1) Tap succeeds
+- 
+  2) [@2] Gesture is interrupted
+- 
+  3) [@3] Widget rebuilds
+- 
+  4) [@4] App closes
+     *✅ Answer: B*
+
+118. [@118] Scale gesture detects:
+
+- 
+  1) Rotation only
+- 
+  2) [@2] Zoom only
+- 
+  3) [@3] Zoom & rotation
+- 
+  4) [@4] Tap
+     *✅ Answer: C*
+
+119. [@119] Best widget for custom gestures:
+
+- 
+  1) Button
+- 
+  2) [@2] GestureDetector
+- 
+  3) [@3] InkResponse
+- 
+  4) [@4] Scaffold
+     *✅ Answer: B*
+
+120. [@120] Gestures belong to:
+
+- 
+  1) Business logic
+- 
+  2) [@2] UI interaction layer
+- 
+  3) [@3] Networking
+- 
+  4) [@4] Storage
+     *✅ Answer: B*
+     ---
+     ​# 📐 Chapter 6 & 7 -- Layout & Navigation (Questions 136--200)
+     ​### 🔹 App Structure
+
+136. [@136] Scaffold provides:
+
+- 
+  1) Routing
+- 
+  2) [@2] App visual structure
+- 
+  3) [@3] State
+- 
+  4) [@4] Storage
+     *✅ Answer: B*
+
+137. [@137] AppBar appears:
+
+- 
+  1) Bottom
+- 
+  2) [@2] Center
+- 
+  3) [@3] Top
+- 
+  4) [@4] Left
+     *✅ Answer: C*
+
+138. [@138] Drawer usually slides from:
+
+- 
+  1) Right
+- 
+  2) [@2] Bottom
+- 
+  3) [@3] Left
+- 
+  4) [@4] Top
+     *✅ Answer: C*
+
+139. [@139] BottomNavigationBar is used for:
+
+- 
+  1) Forms
+- 
+  2) [@2] Top navigation
+- 
+  3) [@3] Main sections
+- 
+  4) [@4] Dialogs
+     *✅ Answer: C*
+
+140. [@140] Drawer is attached to:
+
+- 
+  1) MaterialApp
+- 
+  2) [@2] Scaffold
+- 
+  3) [@3] Column
+- 
+  4) [@4] Navigator
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Navigation
+
+141. [@141] Navigator manages:
+
+- 
+  1) Widget tree
+- 
+  2) [@2] Screen stack
+- 
+  3) [@3] Layout
+- 
+  4) [@4] Theme
+     *✅ Answer: B*
+
+142. [@142] Routes represent:
+
+- 
+  1) Widgets
+- 
+  2) [@2] Screens
+- 
+  3) [@3] Data
+- 
+  4) [@4] APIs
+     *✅ Answer: B*
+
+143. [@143] Named routes improve:
+
+- 
+  1) Performance
+- 
+  2) [@2] Readability
+- 
+  3) [@3] Animation
+- 
+  4) [@4] Storage
+     *✅ Answer: B*
+
+144. [@144] =Navigator.push()=:
+
+- 
+  1) Removes screen
+- 
+  2) [@2] Adds screen
+- 
+  3) [@3] Replaces app
+- 
+  4) [@4] Closes app
+     *✅ Answer: B*
+
+145. [@145] =Navigator.pop()=:
+
+- 
+  1) Pushes route
+- 
+  2) [@2] Removes top route
+- 
+  3) [@3] Reloads UI
+- 
+  4) [@4] Opens drawer
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Context & Media
+
+146. [@146] =BuildContext= is used to:
+
+- 
+  1) Access widget tree
+- 
+  2) [@2] Store data
+- 
+  3) [@3] Animate widgets
+- 
+  4) [@4] Fetch APIs
+     *✅ Answer: A*
+
+147. [@147] MediaQuery provides:
+
+- 
+  1) Network info
+- 
+  2) [@2] Screen size
+- 
+  3) [@3] Storage info
+- 
+  4) [@4] CPU info
+     *✅ Answer: B*
+
+148. [@148] MediaQuery is used for:
+
+- 
+  1) Validation
+- 
+  2) [@2] Responsive design
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Animation
+     *✅ Answer: B*
+
+149. [@149] SafeArea avoids:
+
+- 
+  1) Padding
+- 
+  2) [@2] Notches & system UI
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Overflows
+     *✅ Answer: B*
+
+150. [@150] SafeArea is useful on:
+
+- 
+  1) Old phones only
+- 
+  2) [@2] iPhones with notch
+- 
+  3) [@3] Web only
+- 
+  4) [@4] Tablets only
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Advanced Layout
+
+151. [@151] Wrap widget is used when:
+
+- 
+  1) Single child
+- 
+  2) [@2] Fixed layout
+- 
+  3) [@3] Automatic wrapping needed
+- 
+  4) [@4] Overlapping widgets
+     *✅ Answer: C*
+
+152. [@152] Wrap differs from Row by:
+
+- 
+  1) Speed
+- 
+  2) [@2] Wrapping overflow
+- 
+  3) [@3] Styling
+- 
+  4) [@4] Alignment only
+     *✅ Answer: B*
+
+153. [@153] Flexible widget:
+
+- 
+  1) Fixes size
+- 
+  2) [@2] Shares space
+- 
+  3) [@3] Overlaps widgets
+- 
+  4) [@4] Centers widget
+     *✅ Answer: B*
+
+154. [@154] Expanded is a type of:
+
+- 
+  1) Stack
+- 
+  2) [@2] Flexible
+- 
+  3) [@3] Padding
+- 
+  4) [@4] Container
+     *✅ Answer: B*
+
+155. [@155] LayoutBuilder gives:
+
+- 
+  1) Parent constraints
+- 
+  2) [@2] Screen size
+- 
+  3) [@3] State
+- 
+  4) [@4] Navigation
+     *✅ Answer: A*
+     ---
+     ​### 🔹 Responsive Design
+
+156. [@156] Responsive design adapts to:
+
+- 
+  1) OS
+- 
+  2) [@2] Screen size
+- 
+  3) [@3] User age
+- 
+  4) [@4] Language
+     *✅ Answer: B*
+
+157. [@157] Best tool for responsive UI:
+
+- 
+  1) MediaQuery
+- 
+  2) [@2] Theme
+- 
+  3) [@3] Navigator
+- 
+  4) [@4] Form
+     *✅ Answer: A*
+
+158. [@158] Orientation change affects:
+
+- 
+  1) Storage
+- 
+  2) [@2] Layout
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] API
+     *✅ Answer: B*
+
+159. [@159] Column inside ListView causes:
+
+- 
+  1) Error always
+- 
+  2) [@2] Overflow if unbounded
+- 
+  3) [@3] Faster rendering
+- 
+  4) [@4] Animation
+     *✅ Answer: B*
+
+160. [@160] Scrollable widgets include:
+
+- 
+  1) Row
+- 
+  2) [@2] Column
+- 
+  3) [@3] ListView
+- 
+  4) [@4] Container
+     *✅ Answer: C*
+     ---
+     ​### 🔹 Final Concepts
+
+161. [@161] Overflow error means:
+
+- 
+  1) Widget too small
+- 
+  2) [@2] Widget exceeds space
+- 
+  3) [@3] App crash
+- 
+  4) [@4] Validation error
+     *✅ Answer: B*
+
+162. [@162] Padding vs Margin:
+
+- 
+  1) Same
+- 
+  2) [@2] Inside vs outside space
+- 
+  3) [@3] Only color difference
+- 
+  4) [@4] Layout only
+     *✅ Answer: B*
+
+163. [@163] Stack alignment controls:
+
+- 
+  1) Children order
+- 
+  2) [@2] Children position
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Animation
+     *✅ Answer: B*
+
+164. [@164] Positioned widget works only inside:
+
+- 
+  1) Column
+- 
+  2) [@2] Stack
+- 
+  3) [@3] Row
+- 
+  4) [@4] Scaffold
+     *✅ Answer: B*
+
+165. [@165] Slivers are used for:
+
+- 
+  1) Forms
+- 
+  2) [@2] Advanced scrolling
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Gestures
+     *✅ Answer: B*
+
+166. [@166] SliverAppBar allows:
+
+- 
+  1) Fixed bar
+- 
+  2) [@2] Collapsing app bar
+- 
+  3) [@3] Drawer
+- 
+  4) [@4] Tabs only
+     *✅ Answer: B*
+
+167. [@167] TabBar works with:
+
+- 
+  1) Scaffold only
+- 
+  2) [@2] TabController
+- 
+  3) [@3] Navigator only
+- 
+  4) [@4] MediaQuery
+     *✅ Answer: B*
+
+168. [@168] TabBarView displays:
+
+- 
+  1) Buttons
+- 
+  2) [@2] Screens per tab
+- 
+  3) [@3] Dialogs
+- 
+  4) [@4] Forms
+     *✅ Answer: B*
+
+169. [@169] BottomNavigationBar items should be:
+
+- 
+  1) Unlimited
+- 
+  2) [@2] 2--5 items
+- 
+  3) [@3] 10 items
+- 
+  4) [@4] One item
+     *✅ Answer: B*
+
+170. [@170] Too many tabs cause:
+
+- 
+  1) Error
+- 
+  2) [@2] Poor UX
+- 
+  3) [@3] Faster UI
+- 
+  4) [@4] Better layout
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Final Stretch
+
+171. [@171] ScaffoldMessenger is used for:
+
+- 
+  1) Alerts
+- 
+  2) [@2] SnackBars
+- 
+  3) [@3] Dialogs
+- 
+  4) [@4] Routing
+     *✅ Answer: B*
+
+172. [@172] SnackBar is:
+
+- 
+  1) Modal
+- 
+  2) [@2] Temporary message
+- 
+  3) [@3] Dialog
+- 
+  4) [@4] Navigation
+     *✅ Answer: B*
+
+173. [@173] Dialog blocks:
+
+- 
+  1) Background interaction
+- 
+  2) [@2] Navigation
+- 
+  3) [@3] Rendering
+- 
+  4) [@4] Gestures
+     *✅ Answer: A*
+
+174. [@174] AlertDialog is used for:
+
+- 
+  1) Info & confirmation
+- 
+  2) [@2] Navigation
+- 
+  3) [@3] Layout
+- 
+  4) [@4] Gestures
+     *✅ Answer: A*
+
+175. [@175] PageView allows:
+
+- 
+  1) Vertical scroll only
+- 
+  2) [@2] Horizontal paging
+- 
+  3) [@3] Forms
+- 
+  4) [@4] Stack layout
+     *✅ Answer: B*
+
+176. [@176] IndexedStack shows:
+
+- 
+  1) All children
+- 
+  2) [@2] One child at a time
+- 
+  3) [@3] No children
+- 
+  4) [@4] Animated children
+     *✅ Answer: B*
+
+177. [@177] MediaQuery.of(context) requires:
+
+- 
+  1) Root widget
+- 
+  2) [@2] Valid BuildContext
+- 
+  3) [@3] Global key
+- 
+  4) [@4] Navigator
+     *✅ Answer: B*
+
+178. [@178] Context becomes invalid when:
+
+- 
+  1) Widget rebuilds
+- 
+  2) [@2] Widget is removed
+- 
+  3) [@3] Screen rotates
+- 
+  4) [@4] App pauses
+     *✅ Answer: B*
+
+179. [@179] Best place to access MediaQuery:
+
+- 
+  1) initState
+- 
+  2) [@2] build method
+- 
+  3) [@3] constructor
+- 
+  4) [@4] dispose
+     *✅ Answer: B*
+
+180. [@180] Responsive UI improves:
+
+- 
+  1) Code size
+- 
+  2) [@2] User experience
+- 
+  3) [@3] Compilation
+- 
+  4) [@4] Debugging
+     *✅ Answer: B*
+     ---
+     ​### ✅ Final 20
+
+181. [@181] Layout widgets control:
+
+- 
+  1) Data
+- 
+  2) [@2] Position & size
+- 
+  3) [@3] State
+- 
+  4) [@4] APIs
+     *✅ Answer: B*
+
+182. [@182] UI overflow usually means:
+
+- 
+  1) Bug in Flutter
+- 
+  2) [@2] Wrong layout choice
+- 
+  3) [@3] Device issue
+- 
+  4) [@4] SDK bug
+     *✅ Answer: B*
+
+183. [@183] Column + Expanded fixes:
+
+- 
+  1) Gesture issues
+- 
+  2) [@2] Overflow
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] State
+     *✅ Answer: B*
+
+184. [@184] Wrap is best for:
+
+- 
+  1) Fixed rows
+- 
+  2) [@2] Chips & tags
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Forms
+     *✅ Answer: B*
+
+185. [@185] LayoutBuilder reacts to:
+
+- 
+  1) Screen rotation
+- 
+  2) [@2] Parent size
+- 
+  3) [@3] Theme
+- 
+  4) [@4] State
+     *✅ Answer: B*
+
+186. [@186] Navigation stack is:
+
+- 
+  1) FIFO
+- 
+  2) [@2] LIFO
+- 
+  3) [@3] Random
+- 
+  4) [@4] Circular
+     *✅ Answer: B*
+
+187. [@187] Routes should be:
+
+- 
+  1) Anonymous
+- 
+  2) [@2] Hardcoded
+- 
+  3) [@3] Well organized
+- 
+  4) [@4] Avoided
+     *✅ Answer: C*
+
+188. [@188] Drawer navigation is best for:
+
+- 
+  1) Few main sections
+- 
+  2) [@2] Many secondary screens
+- 
+  3) [@3] Forms
+- 
+  4) [@4] Alerts
+     *✅ Answer: B*
+
+189. [@189] Bottom navigation is best for:
+
+- 
+  1) Deep navigation
+- 
+  2) [@2] Top-level destinations
+- 
+  3) [@3] Settings only
+- 
+  4) [@4] Dialogs
+     *✅ Answer: B*
+
+190. [@190] Scaffold supports:
+
+- 
+  1) AppBar
+- 
+  2) [@2] Drawer
+- 
+  3) [@3] FAB
+- 
+  4) [@4] All of the above
+     *✅ Answer: D*
+
+191. [@191] FloatingActionButton represents:
+
+- 
+  1) Secondary action
+- 
+  2) [@2] Primary action
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Decoration
+     *✅ Answer: B*
+
+192. [@192] Too many FABs cause:
+
+- 
+  1) Crash
+- 
+  2) [@2] Confusion
+- 
+  3) [@3] Faster UI
+- 
+  4) [@4] Better UX
+     *✅ Answer: B*
+
+193. [@193] Layout should prioritize:
+
+- 
+  1) Code length
+- 
+  2) [@2] User experience
+- 
+  3) [@3] Developer comfort
+- 
+  4) [@4] Defaults
+     *✅ Answer: B*
+
+194. [@194] Responsive apps are important because:
+
+- 
+  1) Devices vary
+- 
+  2) [@2] Flutter requires it
+- 
+  3) [@3] OS enforces it
+- 
+  4) [@4] Dart needs it
+     *✅ Answer: A*
+
+195. [@195] MediaQuery works per:
+
+- 
+  1) App
+- 
+  2) [@2] Screen
+- 
+  3) [@3] Widget tree
+- 
+  4) [@4] Route
+     *✅ Answer: C*
+
+196. [@196] Context-sensitive widgets depend on:
+
+- 
+  1) Global variables
+- 
+  2) [@2] Widget position
+- 
+  3) [@3] State only
+- 
+  4) [@4] Theme only
+     *✅ Answer: B*
+
+197. [@197] SafeArea is especially important for:
+
+- 
+  1) Android only
+- 
+  2) [@2] iOS notches
+- 
+  3) [@3] Desktop
+- 
+  4) [@4] Web
+     *✅ Answer: B*
+
+198. [@198] Layout debugging uses:
+
+- 
+  1) Logs
+- 
+  2) [@2] Flutter Inspector
+- 
+  3) [@3] API calls
+- 
+  4) [@4] Pubspec
+     *✅ Answer: B*
+
+199. [@199] Good layout code is:
+
+- 
+  1) Deeply nested
+- 
+  2) [@2] Hard to read
+- 
+  3) [@3] Modular
+- 
+  4) [@4] Flat only
+     *✅ Answer: C*
+
+200. [@200] Flutter layout mastery comes from:
+
+- 
+  1) Memorization
+- 
+  2) [@2] Practice
+- 
+  3) [@3] Copy-paste
+- 
+  4) [@4] Guessing
+     *✅ Answer: B*
+     ​# 📘 Chapter 1 -- Hello Flutter (10 MCQs)
+
+1. Flutter is primarily used to build:
+   - 
+     1) Only Android apps
+   - 
+     2) [@2] Only iOS apps
+   - 
+     3) [@3] Cross-platform apps
+   - 
+     4) [@4] Web-only apps
+        *✅ Answer: C*
+2. Flutter is developed and backed by:
+   - 
+     1) Facebook
+   - 
+     2) [@2] Microsoft
+   - 
+     3) [@3] Apple
+   - 
+     4) [@4] Google
+        *✅ Answer: D*
+3. Flutter apps are written mainly in:
+   - 
+     1) Java
+   - 
+     2) [@2] Kotlin
+   - 
+     3) [@3] Dart
+   - 
+     4) [@4] JavaScript
+        *✅ Answer: C*
+4. Flutter compiles to:
+   - 
+     1) Java bytecode
+   - 
+     2) [@2] JavaScript only
+   - 
+     3) [@3] Native machine code
+   - 
+     4) [@4] PHP
+        *✅ Answer: C*
+5. Flutter avoids WebViews by:
+   - 
+     1) Using HTML
+   - 
+     2) [@2] Using JavaScript bridges
+   - 
+     3) [@3] Compiling to native
+   - 
+     4) [@4] Using Cordova
+        *✅ Answer: C*
+6. Flutter supports which platforms?
+   - 
+     1) Android only
+   - 
+     2) [@2] Android & iOS
+   - 
+     3) [@3] Android, iOS, Web, Desktop
+   - 
+     4) [@4] Web only
+        *✅ Answer: C*
+7. Which is NOT a Flutter feature?
+   - 
+     1) Hot reload
+   - 
+     2) [@2] Open source
+   - 
+     3) [@3] Requires paid license
+   - 
+     4) [@4] Fast rendering
+        *✅ Answer: C*
+8. Flutter's goal is:
+   - 
+     1) Replace Android SDK
+   - 
+     2) [@2] Build better mobile development
+   - 
+     3) [@3] Replace iOS
+   - 
+     4) [@4] Replace HTML
+        *✅ Answer: B*
+9. Flutter UI is rendered using:
+   - 
+     1) Native widgets
+   - 
+     2) [@2] HTML elements
+   - 
+     3) [@3] Its own rendering engine
+   - 
+     4) [@4] XML layouts
+        *✅ Answer: C*
+10. Flutter codebase can be shared across:
+    - 
+      1) One platform
+    - 
+      2) [@2] Two platforms
+    - 
+      3) [@3] Multiple platforms
+    - 
+      4) [@4] Web only
+         *✅ Answer: C*
+         ---
+         ​# 🛠 Chapter 2 -- Developing in Flutter (10 MCQs)
+11. The most essential Flutter tool is:
+
+- 
+  1) VS Code
+- 
+  2) [@2] Android Studio
+- 
+  3) [@3] Flutter SDK
+- 
+  4) [@4] IntelliJ
+     *✅ Answer: C*
+
+12. [@12] =flutter doctor= is used to:
+
+- 
+  1) Create widgets
+- 
+  2) [@2] Diagnose setup issues
+- 
+  3) [@3] Compile Dart
+- 
+  4) [@4] Design UI
+     *✅ Answer: B*
+
+13. [@13] Flutter DevTools provide:
+
+- 
+  1) UI design
+- 
+  2) [@2] Debugging & inspection
+- 
+  3) [@3] Database access
+- 
+  4) [@4] App publishing
+     *✅ Answer: B*
+
+14. [@14] Which IDE is commonly preferred by web developers?
+
+- 
+  1) Android Studio
+- 
+  2) [@2] IntelliJ
+- 
+  3) [@3] VS Code
+- 
+  4) [@4] Xcode
+     *✅ Answer: C*
+
+15. [@15] Flutter apps are created using:
+
+- 
+  1) =flutter new=
+- 
+  2) [@2] =flutter init=
+- 
+  3) [@3] =flutter create=
+- 
+  4) [@4] =flutter start=
+     *✅ Answer: C*
+
+16. [@16] Dart source files live in which folder?
+
+- 
+  1) android
+- 
+  2) [@2] ios
+- 
+  3) [@3] lib
+- 
+  4) [@4] test
+     *✅ Answer: C*
+
+17. [@17] =pubspec.yaml= is used to:
+
+- 
+  1) Store Dart code
+- 
+  2) [@2] Define dependencies & assets
+- 
+  3) [@3] Run emulators
+- 
+  4) [@4] Debug UI
+     *✅ Answer: B*
+
+18. [@18] Hot reload allows:
+
+- 
+  1) Restarting device
+- 
+  2) [@2] Updating UI instantly
+- 
+  3) [@3] Clearing cache
+- 
+  4) [@4] Publishing app
+     *✅ Answer: B*
+
+19. [@19] =flutter run= does what?
+
+- 
+  1) Builds widgets
+- 
+  2) [@2] Runs app on device
+- 
+  3) [@3] Creates project
+- 
+  4) [@4] Installs IDE
+     *✅ Answer: B*
+
+20. [@20] Which command enables Flutter Web?
+
+- 
+  1) =flutter web=
+- 
+  2) [@2] =flutter enable web=
+- 
+  3) [@3] =flutter config --enable-web=
+- 
+  4) [@4] =flutter web on=
+     *✅ Answer: C*
+     ---
+     ​# 🧱 Chapter 3 & 4 -- Widgets (80 MCQs)
+     *(Understanding "Everything is a Widget")*
+     ​### 🔹 Core Concepts
+
+21. [@21] In Flutter, a widget is:
+
+- 
+  1) Only a button
+- 
+  2) [@2] A UI component
+- 
+  3) [@3] A Dart file
+- 
+  4) [@4] A package
+     *✅ Answer: B*
+
+22. [@22] Flutter apps are built by:
+
+- 
+  1) XML layouts
+- 
+  2) [@2] Widget trees
+- 
+  3) [@3] HTML templates
+- 
+  4) [@4] JSON schemas
+     *✅ Answer: B*
+
+23. [@23] The root of every Flutter app is:
+
+- 
+  1) Scaffold
+- 
+  2) [@2] Container
+- 
+  3) [@3] runApp()
+- 
+  4) [@4] main.dart
+     *✅ Answer: C*
+
+24. [@24] Widgets describe:
+
+- 
+  1) Database logic
+- 
+  2) [@2] Network requests
+- 
+  3) [@3] UI configuration
+- 
+  4) [@4] OS services
+     *✅ Answer: C*
+
+25. [@25] Widgets are:
+
+- 
+  1) Mutable
+- 
+  2) [@2] Immutable
+- 
+  3) [@3] Compiled at runtime only
+- 
+  4) [@4] Stateful by default
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Stateless vs Stateful
+
+26. [@26] StatelessWidget means:
+
+- 
+  1) UI never changes
+- 
+  2) [@2] No internal state
+- 
+  3) [@3] No parameters
+- 
+  4) [@4] No build method
+     *✅ Answer: B*
+
+27. [@27] StatefulWidget is used when:
+
+- 
+  1) UI never updates
+- 
+  2) [@2] Data changes over time
+- 
+  3) [@3] App is static
+- 
+  4) [@4] No user input
+     *✅ Answer: B*
+
+28. [@28] State is:
+
+- 
+  1) UI color
+- 
+  2) [@2] Internal data of widget
+- 
+  3) [@3] App size
+- 
+  4) [@4] Device info
+     *✅ Answer: B*
+
+29. [@29] Which widget should you prefer?
+
+- 
+  1) Stateful always
+- 
+  2) [@2] Stateless when possible
+- 
+  3) [@3] InheritedWidget
+- 
+  4) [@4] No widgets
+     *✅ Answer: B*
+
+30. [@30] =setState()= is used to:
+
+- 
+  1) Build widgets
+- 
+  2) [@2] Update UI
+- 
+  3) [@3] Navigate screens
+- 
+  4) [@4] Load assets
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Value Widgets (Text, Image, Icon)
+
+31. [@31] =Text()= widget displays:
+
+- 
+  1) Numbers only
+- 
+  2) [@2] Strings
+- 
+  3) [@3] Images
+- 
+  4) [@4] Icons
+     *✅ Answer: B*
+
+32. [@32] Best way to show icons?
+
+- 
+  1) Image.asset
+- 
+  2) [@2] Icon widget
+- 
+  3) [@3] Text widget
+- 
+  4) [@4] Container
+     *✅ Answer: B*
+
+33. [@33] Flutter icons come from:
+
+- 
+  1) PNG files
+- 
+  2) [@2] SVG files
+- 
+  3) [@3] Icons class
+- 
+  4) [@4] Fonts folder
+     *✅ Answer: C*
+
+34. [@34] Image loaded from internet uses:
+
+- 
+  1) Image.asset
+- 
+  2) [@2] Image.file
+- 
+  3) [@3] Image.network
+- 
+  4) [@4] Image.memory
+     *✅ Answer: C*
+
+35. [@35] Assets must be registered in:
+
+- 
+  1) main.dart
+- 
+  2) [@2] pubspec.yaml
+- 
+  3) [@3] AndroidManifest
+- 
+  4) [@4] info.plist
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Input Widgets
+
+36. [@36] Text input widget:
+
+- 
+  1) InputBox
+- 
+  2) [@2] TextInput
+- 
+  3) [@3] TextField
+- 
+  4) [@4] FormText
+     *✅ Answer: C*
+
+37. [@37] Checkbox value type:
+
+- 
+  1) int
+- 
+  2) [@2] String
+- 
+  3) [@3] bool
+- 
+  4) [@4] double
+     *✅ Answer: C*
+
+38. [@38] Slider values are:
+
+- 
+  1) int
+- 
+  2) [@2] double
+- 
+  3) [@3] String
+- 
+  4) [@4] bool
+     *✅ Answer: B*
+
+39. [@39] Radio buttons share:
+
+- 
+  1) Same widget
+- 
+  2) [@2] Same groupValue
+- 
+  3) [@3] Same icon
+- 
+  4) [@4] Same container
+     *✅ Answer: B*
+
+40. [@40] Forms help by:
+
+- 
+  1) Styling UI
+- 
+  2) [@2] Grouping input
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Animation
+     *✅ Answer: B*
+     (Questions 41--100 continue in same style: TextEditingController, InputDecoration, keyboardType, Switch vs Checkbox, validation, BoxFit, contain vs cover, errorText, prefixIcon, etc.)
+     ---
+     ​# 🤏 Chapter 5 -- Gestures (20 MCQs)
+
+101. [@101] GestureDetector detects:
+
+- 
+  1) Layout
+- 
+  2) [@2] User interaction
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Animation
+     *✅ Answer: B*
+
+102. [@102] Tap gesture handler:
+
+- 
+  1) onTap
+- 
+  2) [@2] onClick
+- 
+  3) [@3] onPress
+- 
+  4) [@4] onTouch
+     *✅ Answer: A*
+
+103. [@103] Long press handler:
+
+- 
+  1) onTap
+- 
+  2) [@2] onHold
+- 
+  3) [@3] onLongPress
+- 
+  4) [@4] onDrag
+     *✅ Answer: C*
+
+104. [@104] Drag gesture example:
+
+- 
+  1) onScale
+- 
+  2) [@2] onSwipe
+- 
+  3) [@3] onPanUpdate
+- 
+  4) [@4] onScroll
+     *✅ Answer: C*
+
+105. [@105] GestureDetector wraps:
+
+- 
+  1) Only text
+- 
+  2) [@2] Only buttons
+- 
+  3) [@3] Any widget
+- 
+  4) [@4] Only images
+     *✅ Answer: C*
+     (106--120 cover double tap, scale, dismissible, InkWell, ripple effect, hit testing)
+     ---
+     ​# 📐 Chapter 6 & 7 -- Layout & Navigation (80 MCQs)
+     ​### 🔹 Layout Basics
+
+121. [@121] Layout widgets control:
+
+- 
+  1) Data
+- 
+  2) [@2] UI positioning
+- 
+  3) [@3] API calls
+- 
+  4) [@4] Logic
+     *✅ Answer: B*
+
+122. [@122] Column arranges children:
+
+- 
+  1) Horizontally
+- 
+  2) [@2] Vertically
+- 
+  3) [@3] Diagonally
+- 
+  4) [@4] Randomly
+     *✅ Answer: B*
+
+123. [@123] Row arranges widgets:
+
+- 
+  1) Vertically
+- 
+  2) [@2] Horizontally
+- 
+  3) [@3] In stack
+- 
+  4) [@4] In grid
+     *✅ Answer: B*
+
+124. [@124] Expanded does:
+
+- 
+  1) Shrinks widget
+- 
+  2) [@2] Takes available space
+- 
+  3) [@3] Fixes size
+- 
+  4) [@4] Centers widget
+     *✅ Answer: B*
+
+125. [@125] Padding adds:
+
+- 
+  1) Margin outside
+- 
+  2) [@2] Space inside
+- 
+  3) [@3] Border
+- 
+  4) [@4] Shadow
+     *✅ Answer: B*
+     ---
+     ​### 🔹 Containers & Flex
+
+126. [@126] Container can do:
+
+- 
+  1) Only layout
+- 
+  2) [@2] Only styling
+- 
+  3) [@3] Layout + styling
+- 
+  4) [@4] Navigation
+     *✅ Answer: C*
+
+127. [@127] Stack allows:
+
+- 
+  1) Scrolling
+- 
+  2) [@2] Overlapping widgets
+- 
+  3) [@3] Navigation
+- 
+  4) [@4] Animation only
+     *✅ Answer: B*
+
+128. [@128] Alignment works with:
+
+- 
+  1) Scaffold
+- 
+  2) [@2] Container
+- 
+  3) [@3] Navigator
+- 
+  4) [@4] Form
+     *✅ Answer: B*
+
+129. [@129] ListView is used for:
+
+- 
+  1) Fixed UI
+- 
+  2) [@2] Long scrolling lists
+- 
+  3) [@3] Forms
+- 
+  4) [@4] Tabs
+     *✅ Answer: B*
+
+130. [@130] GridView arranges items:
+
+- 
+  1) In rows only
+- 
+  2) [@2] In columns only
+- 
+  3) [@3] In grid
+- 
+  4) [@4] In stack
+     *✅ Answer: C*
+     ---
+     ​### 🔹 Navigation
+
+131. [@131] Navigation is handled by:
+
+- 
+  1) RouteManager
+- 
+  2) [@2] Navigator
+- 
+  3) [@3] Stack
+- 
+  4) [@4] Column
+     *✅ Answer: B*
+
+132. [@132] Push new screen:
+
+- 
+  1) Navigator.pop
+- 
+  2) [@2] Navigator.push
+- 
+  3) [@3] Navigator.replace
+- 
+  4) [@4] Navigator.add
+     *✅ Answer: B*
+
+133. [@133] Remove current screen:
+
+- 
+  1) push
+- 
+  2) [@2] pop
+- 
+  3) [@3] remove
+- 
+  4) [@4] clear
+     *✅ Answer: B*
+
+134. [@134] MaterialApp provides:
+
+- 
+  1) Layout only
+- 
+  2) [@2] Theme & routing
+- 
+  3) [@3] Animation only
+- 
+  4) [@4] Gestures only
+     *✅ Answer: B*
+
+135. [@135] Scaffold gives:
+
+- 
+  1) Database
+- 
+  2) [@2] App structure
+- 
+  3) [@3] State
+- 
+  4) [@4] Logic
+     *✅ Answer: B*
+     (136--200 cover Drawer, AppBar, BottomNavigationBar, routes, named routes, context, MediaQuery, SafeArea, Wrap, Flexible, LayoutBuilder, responsive design)

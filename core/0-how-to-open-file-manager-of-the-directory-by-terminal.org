@@ -1,0 +1,6 @@
+#+begin_src sh
+xdg-open . # opens default file manager
+whatever_file_manager . # opens {the whatever file manager}
+#+end_src
+
+=.= is for the current file .. or could be the file path itself

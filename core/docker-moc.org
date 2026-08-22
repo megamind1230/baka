@@ -1,0 +1,62 @@
+1. [[https://www.tatvasoft.com/blog/asp-net-core-and-docker/][ASP.NET Core and Docker - TatvaSoft Blog]]
+2. [[https://learn.microsoft.com/en-us/dotnet/core/docker/introduction][Introduction to Docker - .NET | Microsoft Learn]]
+3. [[https://learn.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=linux&pivots=dotnet-10-0][Containerize an app with Docker tutorial - .NET | Microsoft Learn]]
+
+* DONE deepseek recap
+
+*** 2. Introduction to Docker - .NET (Microsoft Learn)
+Official Images: Microsoft provides official .NET container
+images (for both runtime and SDK) on Linux and Windows, updated
+regularly with patches.
+
+"Chiseled" Images: Special Ubuntu-based images
+are ~100 MB smaller and have a smaller security footprint (no shell,
+package manager) and come with a non-root user enabled by default.
+
+Simplified Building: With .NET 8+ SDK, you can publish an app as a
+container using the =dotnet publish -t:PublishContainer= command,
+without needing a Dockerfile.
+
+Port Configuration: ASP.NET Core containers listen on port =8080= by
+default in .NET 8+ (compared to port =80= in .NET 6/7).
+
+Azure Deployment: Containerized .NET apps can be deployed to various Azure
+services including =Azure Kubernetes Service (AKS)=, Azure App Service,
+and Azure Container Apps.
+
+*** 3. Containerize an app with Docker tutorial - .NET (Microsoft Learn)
+1. Create a .NET App: Create a simple console app that runs
+   indefinitely.
+
+2. Publish the App: Compile the app using =dotnet publish -c Release=.
+
+3. Create a Dockerfile: Use a multi-stage build for efficiency (one
+   stage to build/publish, another for the final runtime). It uses the
+   =mcr.microsoft.com/dotnet/aspnet= base image and copies the
+   published output into it. It sets the =ENTRYPOINT= to run the
+   application DLL using =dotnet=.
+
+4. Build and Run: Build the image with =docker build -t counter-image
+   -f Dockerfile .= Run the container interactively with =docker run
+   -it --rm counter-image [arguments]= (the =--rm= flag automatically
+   deletes the container when it stops).
+
+5. Essential Commands: The tutorial covers commands for (=docker
+   create=, =docker start=, =docker stop=, =docker attach=, =docker rm=).
+
+
+so Overview: Create a .NET app → Publish it (=dotnet publish -c Release=)
+→ Create a Dockerfile → Build image (=docker build=) → Run container (=docker run=).
+
+Dockerfile Best Practices:
+- Use multi-stage builds to keep final image size small (build stage + runtime stage).
+- Use =mcr.microsoft.com/dotnet/aspnet= as the base runtime image.
+- Set =ENTRYPOINT ["dotnet", "YourApp.dll"]= to run the app.
+- Specify image digests (SHA hashes) for security and reproducibility.
+- Key Commands:
+  =docker build -t my-image .= -- Build an image.
+  =docker run -it --rm my-image= -- Create, run, and auto-delete a container.
+  =docker start/stop container-name= -- Start/stop an existing container.
+  =docker attach container-name= -- Connect to a running container's output.
+  =docker rm container-name= -- Delete a stopped container.
+- Passing Arguments: Append arguments to =docker run= to pass them to your app (e.g., =docker run my-image 5=).

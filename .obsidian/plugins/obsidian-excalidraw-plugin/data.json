@@ -133,7 +133,7 @@
   "scriptEngineSettings": {},
   "previousRelease": "2.25.0",
   "showReleaseNotes": true,
-  "excalidrawMasteryPromoCollapsed": false,
+  "excalidrawMasteryPromoCollapsed": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -1008,7 +1008,7 @@
         "rules": [
           {
             "shift": false,
-            "ctrl_cmd": false,
+            "ctrl_cmd": true,
             "alt_opt": false,
             "meta_ctrl": false,
             "result": "active-pane"

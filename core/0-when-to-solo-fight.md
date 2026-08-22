@@ -1,7 +1,0 @@
-- advantage
-	- item
-	- lvl
-	- number
-	- sums
-	- freezing the wave
-- if sure no one is nearby & enemy is low

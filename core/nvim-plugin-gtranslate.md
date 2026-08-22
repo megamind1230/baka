@@ -1,2 +1,0 @@
-
-[link](https://github.com/kraftwerk28/gtranslate.nvim) 

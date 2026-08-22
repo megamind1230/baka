@@ -1,1 +1,0 @@
-my gui system clipboard for [[@-archlinux-moc]]

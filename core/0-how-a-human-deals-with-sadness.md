@@ -1,6 +1,0 @@
-- 5 steps
-	- denial : this doesnt happen.
-	- anger : how this is happening to me?
-	- bargaining : how to make use of this?
-	- depression : really this happened to me ?
-	- acceptance : it is what it is

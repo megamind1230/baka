@@ -1,0 +1,17 @@
+* not done
+- [ ] [[file:0-how-to-link-to-a-specific-part-in-a-youtube-video.org][0-how-to-link-to-a-specific-part-in-a-youtube-video]]
+- [ ] [[file:how-to-use-youtube-as-a-beginner.org][how-to-use-youtube-as-a-beginner]]
+- [ ] [[file:youshare-browser-extension-for-better-youtube-recommendation.org][youshare-browser-extension-for-better-youtube-recommendation]]
+- [ ] [[file:youtube-advices.org][youtube-advices]]
+- [ ] [[file:0-video-speed-controller-video-manager-extension.org][0-video-speed-controller-video-manager-extension]]
+- [ ] [[file:how-to-loop-using-enhancer-for-youtube-extension.org][how-to-loop-using-enhancer-for-youtube-extension]]
+- [ ] [[file:things-I-must-know-on-youtube.org][things-I-must-know-on-youtube]]
+- [ ] [[file:youbtube-creators-channel.org][youbtube-creators-channel]]
+- [ ] [[file:youtube-session-start.org][youtube-session-start]]
+- [ ] [[0-youtube-doesn't-allow-480p-or-240p]]
+- [ ] [[file:0-how-to-use-youtube-as-a-beginner-and-become-a-power-user-map.org][0-how-to-use-youtube-as-a-beginner-and-become-a-power-user-map]]
+- [ ] [[file:0-21-youtube-settings-that-fuck-small-channels.org][0-21-youtube-settings-that-fuck-small-channels]]
+- [ ] [[file:0-apps-for-youtubers.org][0-apps-for-youtubers]]
+
+* done
+- [X] youtube-thumbnail-resolution: thumbnails 1280x720 16:9 or 1920x1080.. better to be =jpg= for size issues with =png=

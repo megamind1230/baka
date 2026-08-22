@@ -1,0 +1,6 @@
+* not done
+- [ ] [[file:Algos-for-interviews.org][Algos-for-interviews]]
+- [ ] [[file:ANYONE-can-Crack-Coding-Interviews-by-Doing-THIS.org][ANYONE-can-Crack-Coding-Interviews-by-Doing-THIS]]
+- [ ] [[file:solved-mcq-websites.org][solved-mcq-websites]]
+
+* done

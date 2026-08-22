@@ -1,0 +1,30 @@
+#+begin_quote
+approx file name searcher
+fzf > interactive picker list
+# not done
+#+end_quote
+
+* done
+- [X] fzf > files inside your pwd
+- [X] up/down
+  - arrows - ctrl j/k - ctrl n/p
+- [X] can enable multi-select =-m= {tab/shift tab}
+- [X] [[https://www.youtube.com/watch?v=F8dgIPYjvH8][Intro to fzf - YouTube]]
+- [X] [[file:0-fzf-rg-fd.org][0-fzf-rg-fd]]
+- [X] [[https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/][Why you should be using fzf, the command line fuzzy finder]]
+- [X] way too much [[https://thevaluable.dev/practical-guide-fzf-example/][A Practical Guide to fzf: Building a File Explorer]]
+  - [X] [[file:0-advanced-fzf-as-file-manager-in-one-cmd.org][0-advanced-fzf-as-file-manager-in-one-cmd]]
+- =eval "$(fzf --bash)"= in .bashrc > to setup fzf for bash
+  - ctrl t OR ** tab > trigger
+  - alt c > trigger with =cd=
+  - ctrl r > history
+    > fuzzel is the best app launcher on wayland { maybe everywhere too }
+
+#+begin_quote
+btw rofi now works on wayland, no issues almost
+#+end_quote
+
+- [X] [[https://www.youtube.com/watch?v=Ab6cWN9ZrXo][The Amazing Interactive Command Line Fuzzy Finder (fzf) - YouTube]]
+  - =command ls | dmenu= > wow i can just use =command= to properly pipe ls into dmenu
+- [X] [[https://www.youtube.com/watch?v=MvLQor1Ck3M][FZF Will CHANGE How You Work - YouTube]]
+- [X] [[https://github.com/junegunn/fzf/wiki/examples][Examples � junegunn/fzf Wiki � GitHub]]
